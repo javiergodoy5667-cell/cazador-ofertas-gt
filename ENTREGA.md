@@ -220,4 +220,50 @@ verificarla); los 3 runs *schedule* se comprueban solos mañana.
    22:28 UTC), así que GitHub sí está disparando el horario. Respaldo con cron-job.org
    documentado abajo (no hace falta si el schedule sigue).
 
+---
+
+## 10. Cuarta + quinta auditoría — comparación entre tiendas (2026-10-27)
+
+**Problema:** el "precio antes" de la tienda está inflado; ya NO se usa como referencia.
+
+**Cambios:**
+1. **EAN + comparación entre tiendas.** `motor/mercado.py` empareja por EAN
+   (`items[].ean` en VTEX; `gtin13/gtin12/gtin` en ld+json) y, si no hay, por
+   marca + modelo exacto. `precio_mercado` = mediana de los precios ACTUALES de las
+   otras tiendas (excluye la propia y agotados). `antes_inflado` si el "antes" supera
+   en >15 % al precio más alto de las otras tiendas (esos se descartan).
+2. **Nueva referencia:** historial ≥3 días > `precio_mercado` > nada (no es oferta).
+   Niveles con mercado: 🚨 <45 % del mercado, 🔥 ≥40 %, ⚡ 25–39 %, ✅ 15–24 %.
+3. **Colecciones VTEX.** `productClusters` marca `seccion_oferta` y se recorren hasta
+   3 colecciones de oferta por tienda con `fq=productClusterIds:<id>`. Estar en una
+   colección NO convierte en oferta (solo sube un nivel si ya está verificada).
+4. **Web:** pestaña "🔎 Verificadas"; tarjeta con "Q2,499 aquí · Q3,899 en Elektra · …"
+   y "✅ Verificada vs N tiendas"; etiqueta roja "⚠️ 'Antes' inflado" (esos no salen en
+   ofertas). `ofertas-resumen.json` ligero (claves cortas) + `precios.json` **perezoso**
+   (solo al tocar un producto y solo con ≥2 observaciones).
+5. **Telegram:** solo verificadas + línea "💸 Más barato que: Elektra Q3,899 · …".
+6. **Pruebas:** `Ran 23 tests ... OK` (antes inflado descartado, EAN 3 tiendas → loca,
+   sin coincidencia → no oferta, agotados fuera de la mediana, cluster sin verificar → no oferta).
+
+**Resultados de la corrida `40599197311` (4m42s, 25,716 productos):**
+- **% con EAN:** Walmart 6,040 · La Torre 5,663 · Simán 2,563 · Cemaco 2,559 · Elektra 744
+  (17,569 en total, 68 %). La Curacao e Intelaf: 0 (su ld+json no publica gtin).
+- **Coincidencias en 2+ tiendas:** **2,693** productos.
+- **"Antes" inflados detectados:** **423** (5 ejemplos reales):
+  - Elektra: Ventilador Navia M018P — antes Q599, precio Q499, otro Q500 →
+    https://www.elektra.com.gt/ventilador-de-pared-navia-m018p-12003124/p
+  - Elektra: 3 Sartenes Picca Gravina — antes Q499, precio Q339, otro Q310 →
+    https://www.elektra.com.gt/juego-de-sarten-picca-de-3-piezas-pi003ssmu-c-10004534/p
+  - La Torre: Garbanzos Killios — antes Q14, precio Q14, otro Q12 →
+    https://www.latorre.com.gt/garbanzos-killios-lata-116708/p
+  - La Torre: Maíz Dulce Killios — antes Q9, precio Q9, otro Q8 →
+    https://www.latorre.com.gt/maiz-dulce-grano-killios-39192/p
+  - La Torre: Salsa Verde Herdez — antes Q21, precio Q21, otro Q18 →
+    https://www.latorre.com.gt/salsa-verde-herdez-8166/p
+- **Ofertas verificadas:** **159** (todas por comparación; el historial aún tiene 1 día).
+- **Peso web:** resumen 74.4 KB + estado 2.3 KB + app ≈ **110 KB en la primera carga**
+  (<400 KB meta). `precios.json` se carga solo al tocar un producto y se redujo a los
+  que tienen ≥2 observaciones (antes 3.1 MB).
+
+
 
