@@ -1,13 +1,17 @@
 {
-  "ultima_corrida": "2026-10-27T14:39:15-06:00",
-  "duracion_seg": 43.2,
-  "productos_leidos": 880,
+  "ultima_corrida": "2026-10-27T14:52:06-06:00",
+  "duracion_seg": 41.7,
+  "productos_leidos": 840,
   "ofertas_por_nivel": {
-    "muy_buena": 70,
+    "muy_buena": 71,
     "buena": 148,
     "agotado": 2
   },
   "fuentes": {
+    "recolectores.pacifiko": {
+      "productos": 0,
+      "estado": "ROTA"
+    },
     "recolectores.cemaco": {
       "productos": 200,
       "estado": "OK"
@@ -22,10 +26,6 @@
     },
     "recolectores.elektra": {
       "productos": 200,
-      "estado": "OK"
-    },
-    "recolectores.pacifiko": {
-      "productos": 40,
       "estado": "OK"
     },
     "recolectores.intelaf": {
