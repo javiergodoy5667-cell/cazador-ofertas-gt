@@ -29,7 +29,7 @@ function desdeResumen(r) {
     id: r.i, nombre: r.n, precio_actual: r.p, descuento_real: r.d,
     nivel: r.lv, tienda: r.t, categoria: r.c, imagen: r.img, url: r.u,
     mercado: r.m || [], fuente_referencia: r.f, antes_inflado: r.ai,
-    precio_referencia: r.dr
+    revisar: r.rev, precio_referencia: r.dr
   };
 }
 
@@ -141,14 +141,11 @@ function renderizar() {
   $("barra_categorias").hidden = state.tab !== "ofertas";
 
   const lista = ordenar(filtradas());
-  if (state.tab === "verificadas") {
-    renderPaginado(lista);
-    return;
-  }
   if (state.categoria !== "") {
     renderPaginado(lista.filter((o) => (o.categoria || "📦 Otros") === state.categoria));
   } else {
-    renderAgrupada(lista);
+    // Vista "Todas": lista paginada (24 por pagina), ordenada por puntaje.
+    renderPaginado(lista);
   }
 }
 
@@ -295,12 +292,15 @@ function tarjeta(o) {
 
   const inflado = o.antes_inflado
     ? `<div class="inflado">⚠️ "Antes" inflado por la tienda</div>` : "";
+  const revisar = o.revisar
+    ? `<div class="inflado">🔍 Revisar: precio muy bajo vs mercado</div>` : "";
 
   art.innerHTML = `
     ${img}
     <div class="badge">${esc(o.nivel_emoji || "")} ${esc(o.nivel_label || "")} · -${desc}%</div>
     <div class="contenido">
       ${inflado}
+      ${revisar}
       <div class="nombre">${esc(o.nombre)}</div>
       <div class="precio">Q${formato(o.precio_actual)}</div>
       <div class="antes">referencia ~Q${formato(o.precio_referencia)}</div>

@@ -160,6 +160,23 @@ class TestMercado(unittest.TestCase):
         info = mercado.calcular(prods)
         self.assertAlmostEqual(info["a"]["precio_mercado"], 100.0)
 
+    def test_tamano_distinto_no_empareja(self):
+        # Mismo marca+modelo pero distinto tamano -> NO se comparan.
+        prods = [
+            {"id": "a", "tienda": "A", "ean": "", "marca": "Borges", "modelo": "AceiteOliva", "precio_actual": 30.0, "disponible": True, "nombre": "Aceite de oliva Borges 1L"},
+            {"id": "b", "tienda": "B", "ean": "", "marca": "Borges", "modelo": "AceiteOliva", "precio_actual": 60.0, "disponible": True, "nombre": "Aceite de oliva Borges 2L"},
+        ]
+        info = mercado.calcular(prods)
+        self.assertNotIn("a", info)
+
+    def test_error_solo_con_ean_o_2_tiendas(self):
+        # >55% bajo mercado pero sin EAN y 1 tienda -> loca (no error).
+        merc = {"precio_mercado": 100.0,
+                "mercado": [{"tienda": "Otra", "precio": 100.0, "url": ""}],
+                "antes_inflado": False, "por_ean": False, "tiendas": 1}
+        o = puntaje.evaluar(prod(precio_actual=40.0), [], hoy=HOY, mercado=merc)
+        self.assertEqual(o["nivel"], "loca")
+
 
 class TestHistorial(unittest.TestCase):
 

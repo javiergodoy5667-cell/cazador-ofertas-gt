@@ -154,6 +154,7 @@ def ejecutar(productos=None):
             "m": [{"t": m["tienda"], "p": m["precio"], "u": m["url"]}
                   for m in o.get("mercado", [])],
             "f": o.get("fuente_referencia"), "ai": bool(o.get("antes_inflado")),
+            "rev": bool(o.get("revisar")),
             "dr": o.get("precio_referencia"),
         })
     (WEB / "ofertas-resumen.json").write_text(

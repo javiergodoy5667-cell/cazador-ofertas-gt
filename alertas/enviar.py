@@ -43,8 +43,9 @@ def main():
     alertados = _cargar(DATA / "alertados.json", {})
     pages = os.environ.get("PAGES_URL", "")
 
-    # --- Inmediatas ---
-    inmediatas = [o for o in ofertas if o.get("alerta_nueva") and (
+    # --- Inmediatas (nunca las marcadas "revisar") ---
+    inmediatas = [o for o in ofertas if o.get("alerta_nueva")
+                  and not o.get("revisar") and (
         o.get("nivel") == "error" or
         (o.get("nivel") == "loca" and o.get("categoria") in alerta_cats))]
     enviadas = 0

@@ -120,6 +120,9 @@ def evaluar(prod, obs, hoy=None, alertados=None, mercado=None):
 
     relampago = _relampago(prod)
     ahorro = max(0.0, ref - comparar)
+    # Precio sospechosamente bajo vs mercado (<20%): marcar "revisar", sin Telegram.
+    revisar = bool(mercado and mercado.get("precio_mercado")
+                   and actual < 0.20 * mercado["precio_mercado"])
 
     if actual < PRECIO_BASURA and descuento < 0.55:
         return None
@@ -137,7 +140,11 @@ def evaluar(prod, obs, hoy=None, alertados=None, mercado=None):
             return None
     else:  # mercado
         if descuento > 0.55:
-            nivel = "error"
+            # 🚨 solo con EAN o con 2+ tiendas que lo confirmen.
+            if (mercado or {}).get("por_ean") or (mercado or {}).get("tiendas", 0) >= 2:
+                nivel = "error"
+            else:
+                nivel = "loca"
         elif descuento >= 0.40:
             nivel = "loca"
         elif descuento >= 0.25:
@@ -175,6 +182,7 @@ def evaluar(prod, obs, hoy=None, alertados=None, mercado=None):
         "fuente_referencia": fuente,
         "mercado": (mercado or {}).get("mercado", []),
         "antes_inflado": bool((mercado or {}).get("antes_inflado")),
+        "revisar": revisar,
         "relampago": relampago,
         "nivel": nivel,
         "nivel_emoji": NIVELES[nivel]["emoji"],

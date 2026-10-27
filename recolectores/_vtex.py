@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Recolector generico para tiendas VTEX con cobertura amplia.
 1. Descarga el arbol de categorias (/api/catalog_system/pub/category/tree/3).
@@ -61,7 +61,7 @@ def _ordenar_por_prioridad(raices, prioridad):
     return primeras + resto
 
 
-def _producto(p, slug, tienda, host, prefijo):
+def _producto(p, slug, tienda, host, prefijo, dominio_link=None):
     try:
         pid = p.get("productId")
         item = p["items"][0]
@@ -74,10 +74,11 @@ def _producto(p, slug, tienda, host, prefijo):
         link_text = p.get("linkText", "")
         img = item["images"][0]["imageUrl"] if item.get("images") else None
         categoria = (p.get("categories") or [""])[0]
+        enlace = dominio_link or host
         return pid, _base.nuevo_producto(
             id_=f"{slug}-{pid}", tienda=tienda, nombre=p.get("productName", ""),
             precio=precio, antes=antes,
-            url=f"https://{host}{prefijo}/{link_text}/p", imagen=img,
+            url=f"https://{enlace}{prefijo}/{link_text}/p", imagen=img,
             categoria=categoria, disponible=bool(offer.get("IsAvailable")),
             fin_oferta=offer.get("PriceValidUntil"),
             ean=item.get("ean", ""),
@@ -88,7 +89,7 @@ def _producto(p, slug, tienda, host, prefijo):
 
 
 def recolectar_vtex(slug, tienda, host, prefijo="", max_productos=6000,
-                    tiempo_limite=420, prioridad=None):
+                    tiempo_limite=420, prioridad=None, dominio_link=None):
     inicio = time.monotonic()
     vistos = {}
     if prioridad is None:
@@ -132,7 +133,7 @@ def recolectar_vtex(slug, tienda, host, prefijo="", max_productos=6000,
                 for ccid, cnombre in (p.get("productClusters") or {}).items():
                     if _seccion_de(cnombre):
                         clusters_oferta[ccid] = cnombre
-                pid, prod = _producto(p, slug, tienda, host, prefijo)
+                pid, prod = _producto(p, slug, tienda, host, prefijo, dominio_link)
                 if pid is not None and pid not in vistos:
                     sec = seccion or _seccion_cluster(p)
                     if sec:
@@ -157,7 +158,7 @@ def recolectar_vtex(slug, tienda, host, prefijo="", max_productos=6000,
         if not isinstance(data3, list):
             continue
         for p in data3:
-            pid, prod = _producto(p, slug, tienda, host, prefijo)
+            pid, prod = _producto(p, slug, tienda, host, prefijo, dominio_link)
             if pid is not None and pid not in vistos:
                 prod["seccion_oferta"] = cnombre
                 vistos[pid] = prod
