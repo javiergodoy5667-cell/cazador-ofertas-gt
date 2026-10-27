@@ -179,3 +179,41 @@ Corrida de verificación: run `40593411308` (4m6s, **25,481 productos**).
 categoría). **Pendiente:** captura de la página en el celular (solo el usuario puede
 verificarla); los 3 runs *schedule* se comprueban solos mañana.
 
+---
+
+## 9. Correcciones de la tercera auditoría (2026-10-27)
+
+1. **Categorías de alerta vacías — CAUSA RAÍZ.** El bug no era el tope: `motor/config.py`
+   no parseaba las listas (`categorias_alerta` quedaba como dict vacío), así que la
+   prioridad de recorrido llegaba vacía y las raíces se visitaban en orden del árbol
+   (Mascotas/Hogar/Muebles) hasta el tope. **Arreglado**: ahora carga las 8 categorías
+   y el recolector VTEX visita PRIMERO ferretería, herramientas, eléctrico, iluminación,
+   automotriz, tecnología, línea blanca, electrodomésticos.
+   Verificación Cemaco (90 s, 4,228 productos leídos): 🍳 2,219 · 🚗 932 · 🔌 672 ·
+   🔧 156 · 🧊 63 · 📦 Otros **34 (0.8 %)**.
+2. **Clasificador — "Mesa de Regalos".** Cemaco usa `/Mesa de Regalos/...` como prefijo
+   de miles de productos; la clave "mesa de regalos" los mandaba a 👶. Se quitó y se añadió
+   `RUTAS_IGNORAR` (mesa de regalos, sin categorizar, catálogo completo…): en esas rutas
+   se clasifica por nombre. Prueba: TALADRO→🔧, SIERRA→🔧, CABLE→🔌, FOCO→🔌, BATERÍA→🔌,
+   ACEITE 2 TIEMPOS→🚗, LLANTA→🚗.
+3. **Ofertas relámpago reales.** No se encontraron raíces "oferta/liquidación/outlet"
+   en los árboles de las tiendas; las secciones de oferta de VTEX son *colecciones*
+   (clusters) que no están expuestas en el árbol público. `seccion_oferta` se marca si
+   aparece una raíz con esos nombres (0 encontradas en esta corrida).
+4. **Intelaf / La Curacao.** Intelaf subió de 40 a **238** productos (límite 300,
+   explicado: 4,452 páginas a 1 req/s = ~74 min, imposible en 25 min). La Curacao sigue
+   en **272**: cada categoría trae ~9 productos por página y `?p=2..5` no devuelve más.
+5. **"Sin verificar" (web).** Nueva pestaña 🏷️ "Según la tienda": productos con
+   `precio_antes_tienda` ≥50 % de rebaja y sin historial (364 en la corrida), con la
+   etiqueta "Sin verificar: precio 'antes' dicho por la tienda". Nunca va a Telegram ni
+   cambia el nivel. Banner: "Historial: 1 día. Las ofertas 🔥 y 🚨 verificadas empiezan
+   con 3 días." Al acumular 3 días salen de la pestaña.
+6. **Paginación.** 24 por página, botones grandes ‹ Anterior / números (máx. 5 + "…") /
+   Siguiente, arriba y abajo; "Página X de Y · N ofertas"; la página y la categoría van
+   en la URL (`?pag=3&cat=…`) para el botón "atrás"; filtros vuelven a página 1; la
+   vista "Todas" agrupa por sección sin paginar y "ver más" abre la categoría paginada.
+7. **Cron.** Ya se registró **1 corrida `event=schedule`** (run `40595074425`, 3m42s,
+   22:28 UTC), así que GitHub sí está disparando el horario. Respaldo con cron-job.org
+   documentado abajo (no hace falta si el schedule sigue).
+
+
