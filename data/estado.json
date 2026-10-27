@@ -1,7 +1,8 @@
 {
-  "ultima_corrida": "2026-10-27T16:31:47-06:00",
-  "duracion_seg": 197.8,
-  "productos_leidos": 25482,
+  "ultima_corrida": "2026-10-27T16:37:31-06:00",
+  "duracion_seg": 242.7,
+  "productos_leidos": 25680,
+  "dias_historial": 1,
   "ofertas_por_nivel": {
     "buena": 2068,
     "agotado": 59
@@ -9,10 +10,6 @@
   "fuentes": {
     "recolectores.elektra": {
       "productos": 1071,
-      "estado": "OK"
-    },
-    "recolectores.intelaf": {
-      "productos": 40,
       "estado": "OK"
     },
     "recolectores.lacuracao": {
@@ -27,12 +24,16 @@
       "productos": 6015,
       "estado": "OK"
     },
+    "recolectores.siman": {
+      "productos": 6029,
+      "estado": "OK"
+    },
     "recolectores.walmart": {
       "productos": 6028,
       "estado": "OK"
     },
-    "recolectores.siman": {
-      "productos": 6029,
+    "recolectores.intelaf": {
+      "productos": 238,
       "estado": "OK"
     }
   },
