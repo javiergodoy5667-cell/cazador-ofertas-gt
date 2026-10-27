@@ -39,11 +39,11 @@ def obs(dias_atras, precio, **kw):
 class TestPuntaje(unittest.TestCase):
 
     def test_descuento_falso_inflado(self):
-        # Sin historial: el "antes" inflado de la tienda no puede dar LOCA.
+        # Sin historial: el "antes" inflado de la tienda no puede dar alerta.
         p = prod(precio_actual=100.0, precio_antes_tienda=1000.0)
         o = puntaje.evaluar(p, [], hoy=HOY)
         self.assertIsNotNone(o)
-        self.assertEqual(o["nivel"], "muy_buena")
+        self.assertEqual(o["nivel"], "buena")
         self.assertTrue(o["sin_historial"])
 
     def test_error_de_precio(self):
@@ -53,12 +53,14 @@ class TestPuntaje(unittest.TestCase):
         self.assertFalse(o["sin_historial"])
         self.assertAlmostEqual(o["descuento_real"], 0.70, places=2)
 
-    def test_sin_historial_cap_loca(self):
-        # 60% de "descuento" contra el antes, pero sin historial -> MUY BUENA.
+    def test_sin_historial_max_buena(self):
+        # 60% de "descuento" contra el antes, pero sin historial -> maximo BUENA.
         o = puntaje.evaluar(prod(precio_actual=40.0, precio_antes_tienda=100.0),
                             [], hoy=HOY)
-        self.assertEqual(o["nivel"], "muy_buena")
+        self.assertEqual(o["nivel"], "buena")
         self.assertTrue(o["sin_historial"])
+        # Nunca nivel de aviso por Telegram (error/loca/muy_buena).
+        self.assertNotIn(o["nivel"], ("error", "loca", "muy_buena"))
 
     def test_agotado_no_alerta(self):
         o = puntaje.evaluar(prod(precio_actual=40.0, precio_antes_tienda=100.0,

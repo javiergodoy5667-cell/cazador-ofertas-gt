@@ -46,17 +46,24 @@ def _ldjson_producto(body):
 
 def recolectar_html_ldjson(slug, tienda, sitemap_url, filtro, host,
                            max_productos=40):
+    import sys
     status, _fu, body = _base.get(sitemap_url, host=host)
     if status != 200 or not body:
+        print(f"[{slug}] sitemap inaccesible: status={status}", file=sys.stderr)
         return []
     locs = re.findall(r"<loc>\s*(.*?)\s*</loc>", body)
     urls = [u.replace("&amp;", "&") for u in locs if filtro in u]
     out = []
+    fallos = 0
     for u in urls:
         if len(out) >= max_productos:
             break
         st, fu, html = _base.get(u, host=host)
         if st != 200 or not html:
+            fallos += 1
+            if fallos == 1:
+                print(f"[{slug}] pagina de producto inaccesible: status={st} "
+                      f"url={u[:90]}", file=sys.stderr)
             continue
         d = _ldjson_producto(html)
         if not d:

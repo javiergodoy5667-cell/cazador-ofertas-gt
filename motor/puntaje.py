@@ -138,8 +138,9 @@ def evaluar(prod, obs, hoy=None, alertados=None):
     else:
         return None
 
-    if sin_hist and nivel in ("error", "loca"):
-        nivel = "muy_buena"
+    # Sin historial: nunca se avisa por Telegram; maximo nivel "buena" (web).
+    if sin_hist and nivel in ("error", "loca", "muy_buena"):
+        nivel = "buena"
     if relampago:
         nivel = _subir(nivel)
     if not disponible:

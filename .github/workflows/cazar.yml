@@ -4,10 +4,8 @@ name: Cazar ofertas
 
 on:
   schedule:
-    # Cada hora de 6:00 a 23:59 hora GT  (12:00-23:59 y 00:00-05:59 UTC)
-    - cron: "0 12-23,0-5 * * *"
-    # Madrugada: 00:00 y 03:00 hora GT (cada 3 h)
-    - cron: "0 6,9 * * *"
+    # TEMPORAL (auditoria): cada 10 min para obtener 3 corridas "schedule".
+    - cron: "*/10 * * * *"
   workflow_dispatch: {}   # para correrlo a mano desde la pestaña Actions
 
 permissions:
