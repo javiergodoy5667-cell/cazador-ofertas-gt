@@ -143,16 +143,24 @@ def ejecutar(productos=None):
     for o in ofertas:
         por_nivel[o["nivel"]] = por_nivel.get(o["nivel"], 0) + 1
 
+    # Dias de historial acumulado (distintas fechas de inicio observadas).
+    dias = {o.get("fecha_inicio") for lista in idx.values() for o in lista
+            if o.get("fecha_inicio")}
+    dias_historial = len(dias)
+
     estado = {
         "ultima_corrida": dt.datetime.now(dt.timezone(dt.timedelta(hours=-6)))
                           .isoformat(timespec="seconds"),
         "duracion_seg": round(time.monotonic() - inicio, 1),
         "productos_leidos": len(productos),
+        "dias_historial": dias_historial,
         "ofertas_por_nivel": por_nivel,
         "fuentes": fuentes,
         "fallos": [{"fuente": n, "error": e} for n, e in fallos],
     }
     (DATA / "estado.json").write_text(
+        json.dumps(estado, ensure_ascii=False, indent=2), encoding="utf-8")
+    (WEB / "estado.json").write_text(
         json.dumps(estado, ensure_ascii=False, indent=2), encoding="utf-8")
 
     return ofertas

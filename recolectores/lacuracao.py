@@ -85,10 +85,10 @@ def recolectar():
     inicio = time.monotonic()
     vistos = {}
     for slug in _descubrir_categorias():
-        if time.monotonic() - inicio > 180:
+        if time.monotonic() - inicio > 300:
             break
-        for p in (1, 2, 3):
-            if time.monotonic() - inicio > 180:
+        for p in (1, 2, 3, 4, 5):
+            if time.monotonic() - inicio > 300:
                 break
             url = f"{BASE}/c/{slug}" if p == 1 else f"{BASE}/c/{slug}?p={p}"
             st, _fu, html = _base.get(url, host=HOST)

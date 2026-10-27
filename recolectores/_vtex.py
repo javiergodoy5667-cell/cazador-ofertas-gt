@@ -15,13 +15,33 @@ from . import _base
 MAX_FROM = 2500   # _from maximo que permite la API publica de VTEX
 PASO = 50
 
+# Nombres de categoria que indican seccion de ofertas/liquidacion.
+SECCIONES_OFERTA = ("oferta", "ofertas", "liquidacion", "liquidación", "outlet",
+                    "precios bajos", "descuento", "hot sale", "promocion",
+                    "promoción", "rebaja", "cyber")
+
 
 def _raices(tree):
     out = []
     for n in tree:
         if isinstance(n, dict) and n.get("id") is not None:
-            out.append(n["id"])
+            out.append((n["id"], n.get("name", "")))
     return out
+
+
+def _ordenar_por_prioridad(raices, prioridad):
+    """Pone primero las raices cuya categoria unificada esta en `prioridad`
+    (categorias de alerta), para que el tope no corte antes de visitarlas."""
+    if not prioridad:
+        return raices
+    try:
+        from motor.categorias import clasificar
+    except Exception:
+        return raices
+    prio = set(prioridad)
+    primeras = [r for r in raices if clasificar("", r[1]) in prio]
+    resto = [r for r in raices if r not in primeras]
+    return primeras + resto
 
 
 def _producto(p, slug, tienda, host, prefijo):
@@ -48,9 +68,15 @@ def _producto(p, slug, tienda, host, prefijo):
 
 
 def recolectar_vtex(slug, tienda, host, prefijo="", max_productos=6000,
-                    tiempo_limite=420):
+                    tiempo_limite=420, prioridad=None):
     inicio = time.monotonic()
     vistos = {}
+    if prioridad is None:
+        try:
+            from motor.config import cargar
+            prioridad = cargar().get("categorias_alerta", [])
+        except Exception:
+            prioridad = []
 
     st, _fu, body = _base.get(
         f"https://{host}/api/catalog_system/pub/category/tree/3", host=host)
@@ -60,10 +86,13 @@ def recolectar_vtex(slug, tienda, host, prefijo="", max_productos=6000,
             raices = _raices(json.loads(body))
         except Exception:
             raices = []
+    raices = _ordenar_por_prioridad(raices, prioridad)
 
-    for cid in raices:
+    for cid, _nombre in raices:
         if time.monotonic() - inicio > tiempo_limite or len(vistos) >= max_productos:
             break
+        nombre_root = (_nombre or "").lower()
+        seccion = _nombre if any(k in nombre_root for k in SECCIONES_OFERTA) else None
         for _from in range(0, MAX_FROM, PASO):
             if time.monotonic() - inicio > tiempo_limite or len(vistos) >= max_productos:
                 break
@@ -81,6 +110,8 @@ def recolectar_vtex(slug, tienda, host, prefijo="", max_productos=6000,
             for p in data:
                 pid, prod = _producto(p, slug, tienda, host, prefijo)
                 if pid is not None and pid not in vistos:
+                    if seccion:
+                        prod["seccion_oferta"] = seccion
                     vistos[pid] = prod
             if len(data) < PASO:
                 break  # ultima pagina de esta categoria

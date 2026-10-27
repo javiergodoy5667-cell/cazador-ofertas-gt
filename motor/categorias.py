@@ -14,6 +14,11 @@ OTROS = "📦 Otros"
 
 _cache = None
 
+# Rutas que NO describen el producto (mesa de regalos, sin categorizar, etc.):
+# si la ruta las contiene, se clasifica solo por el nombre.
+RUTAS_IGNORAR = ("mesa de regalos", "sin categorizar", "catalogo completo",
+                 "institucional", "servicios", "nivel sin categorizar")
+
 
 def _normalizar(s):
     s = unicodedata.normalize("NFKD", s or "")
@@ -54,7 +59,9 @@ def clasificar(ruta_tienda, nombre):
                     mejor, mejor_len = cat, len(c)
         return mejor
 
-    r = mejor_en(ruta)          # 1. por ruta (prioridad)
+    r = mejor_en(ruta)          # 1. por ruta (prioridad), salvo rutas genericas
+    if any(x in ruta for x in RUTAS_IGNORAR):
+        r = None
     if r:
         return r
     return mejor_en(nom) or OTROS   # 2. por nombre

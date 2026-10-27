@@ -45,8 +45,10 @@ def _ldjson_producto(body):
 
 
 def recolectar_html_ldjson(slug, tienda, sitemap_url, filtro, host,
-                           max_productos=40):
+                           max_productos=40, tiempo_limite=240):
     import sys
+    import time
+    inicio = time.monotonic()
     status, _fu, body = _base.get(sitemap_url, host=host)
     if status != 200 or not body:
         print(f"[{slug}] sitemap inaccesible: status={status}", file=sys.stderr)
@@ -56,7 +58,7 @@ def recolectar_html_ldjson(slug, tienda, sitemap_url, filtro, host,
     out = []
     fallos = 0
     for u in urls:
-        if len(out) >= max_productos:
+        if len(out) >= max_productos or time.monotonic() - inicio > tiempo_limite:
             break
         st, fu, html = _base.get(u, host=host)
         if st != 200 or not html:
