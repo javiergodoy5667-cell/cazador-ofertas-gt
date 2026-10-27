@@ -55,17 +55,26 @@ async function cargar() {
   try {
     const [o, p, e] = await Promise.all([
       fetch("ofertas-resumen.json").then((r) => r.json()),
-      fetch("precios.json").then((r) => r.json()).catch(() => ({})),
       fetch("estado.json").then((r) => r.json()).catch(() => ({}))
     ]);
     state.ofertas = Array.isArray(o) ? o.map(desdeResumen) : [];
-    state.precios = p || {};
     state.estado = e || {};
+    state.precios = null;   // el historial se carga solo al tocar un producto
   } catch (err) {
     state.ofertas = [];
   }
   poblarFiltros();
   renderizar();
+}
+
+async function cargarPrecios() {
+  if (state.precios) return state.precios;
+  try {
+    state.precios = await fetch("precios.json").then((r) => r.json());
+  } catch (e) {
+    state.precios = {};
+  }
+  return state.precios;
 }
 
 function contarPorCategoria() {
@@ -312,8 +321,10 @@ function abrirModal(o) {
   $("modal").hidden = false;
 }
 
-function dibujarGrafica(id) {
+async function dibujarGrafica(id) {
   const cont = $("modal_grafica");
+  cont.innerHTML = "<p class='sinhist'>Cargando historial…</p>";
+  await cargarPrecios();
   const serie = (state.precios[id] || []).slice(-30);
   if (serie.length < 2) {
     cont.innerHTML = "<p class='sinhist'>Aún no hay historial de este producto (se construye día a día).</p>";

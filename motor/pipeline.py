@@ -124,8 +124,12 @@ def ejecutar(productos=None):
         json.dumps(ofertas, ensure_ascii=False, indent=2), encoding="utf-8")
 
     # precios.json: id -> serie cronologica [{fecha, precio}] para la grafica.
+    # Solo productos con >=2 observaciones (los de 1 no tienen grafica) para
+    # que el archivo pese poco; la web lo carga de forma perezosa.
     precios = {}
     for pid, lista in idx.items():
+        if len(lista) < 2:
+            continue
         lista = sorted(lista, key=lambda o: o.get("fecha_inicio", ""))
         precios[pid] = [{"fecha": o.get("fecha_inicio"), "precio": o["precio"]}
                         for o in lista]
