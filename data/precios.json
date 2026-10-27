@@ -1,244 +1,4 @@
 {
-  "intelaf-0": [
-    {
-      "fecha": null,
-      "precio": 14.0
-    }
-  ],
-  "intelaf-1": [
-    {
-      "fecha": null,
-      "precio": 14.0
-    }
-  ],
-  "intelaf-2": [
-    {
-      "fecha": null,
-      "precio": 24.0
-    }
-  ],
-  "intelaf-3": [
-    {
-      "fecha": null,
-      "precio": 1486.0
-    }
-  ],
-  "intelaf-4": [
-    {
-      "fecha": null,
-      "precio": 75.0
-    }
-  ],
-  "intelaf-5": [
-    {
-      "fecha": null,
-      "precio": 116.0
-    }
-  ],
-  "intelaf-6": [
-    {
-      "fecha": null,
-      "precio": 72.0
-    }
-  ],
-  "intelaf-7": [
-    {
-      "fecha": null,
-      "precio": 56.0
-    }
-  ],
-  "intelaf-8": [
-    {
-      "fecha": null,
-      "precio": 326.0
-    }
-  ],
-  "intelaf-9": [
-    {
-      "fecha": null,
-      "precio": 23.0
-    }
-  ],
-  "intelaf-10": [
-    {
-      "fecha": null,
-      "precio": 23.0
-    }
-  ],
-  "intelaf-11": [
-    {
-      "fecha": null,
-      "precio": 124.0
-    }
-  ],
-  "intelaf-12": [
-    {
-      "fecha": null,
-      "precio": 705.0
-    }
-  ],
-  "intelaf-13": [
-    {
-      "fecha": null,
-      "precio": 60.0
-    }
-  ],
-  "intelaf-14": [
-    {
-      "fecha": null,
-      "precio": 134.0
-    }
-  ],
-  "intelaf-15": [
-    {
-      "fecha": null,
-      "precio": 110.0
-    }
-  ],
-  "intelaf-16": [
-    {
-      "fecha": null,
-      "precio": 131.0
-    }
-  ],
-  "intelaf-17": [
-    {
-      "fecha": null,
-      "precio": 240.0
-    }
-  ],
-  "intelaf-18": [
-    {
-      "fecha": null,
-      "precio": 18.0
-    }
-  ],
-  "intelaf-19": [
-    {
-      "fecha": null,
-      "precio": 260.0
-    }
-  ],
-  "intelaf-20": [
-    {
-      "fecha": null,
-      "precio": 97.0
-    }
-  ],
-  "intelaf-21": [
-    {
-      "fecha": null,
-      "precio": 3245.0
-    }
-  ],
-  "intelaf-22": [
-    {
-      "fecha": null,
-      "precio": 156.0
-    }
-  ],
-  "intelaf-23": [
-    {
-      "fecha": null,
-      "precio": 67.0
-    }
-  ],
-  "intelaf-24": [
-    {
-      "fecha": null,
-      "precio": 170.0
-    }
-  ],
-  "intelaf-25": [
-    {
-      "fecha": null,
-      "precio": 71.0
-    }
-  ],
-  "intelaf-26": [
-    {
-      "fecha": null,
-      "precio": 375.0
-    }
-  ],
-  "intelaf-27": [
-    {
-      "fecha": null,
-      "precio": 525.0
-    }
-  ],
-  "intelaf-28": [
-    {
-      "fecha": null,
-      "precio": 301.0
-    }
-  ],
-  "intelaf-29": [
-    {
-      "fecha": null,
-      "precio": 282.0
-    }
-  ],
-  "intelaf-30": [
-    {
-      "fecha": null,
-      "precio": 382.0
-    }
-  ],
-  "intelaf-31": [
-    {
-      "fecha": null,
-      "precio": 337.0
-    }
-  ],
-  "intelaf-32": [
-    {
-      "fecha": null,
-      "precio": 210.0
-    }
-  ],
-  "intelaf-33": [
-    {
-      "fecha": null,
-      "precio": 281.0
-    }
-  ],
-  "intelaf-34": [
-    {
-      "fecha": null,
-      "precio": 13.0
-    }
-  ],
-  "intelaf-35": [
-    {
-      "fecha": null,
-      "precio": 1720.0
-    }
-  ],
-  "intelaf-36": [
-    {
-      "fecha": null,
-      "precio": 1283.0
-    }
-  ],
-  "intelaf-37": [
-    {
-      "fecha": null,
-      "precio": 830.0
-    }
-  ],
-  "intelaf-38": [
-    {
-      "fecha": null,
-      "precio": 140.0
-    }
-  ],
-  "intelaf-39": [
-    {
-      "fecha": null,
-      "precio": 136.0
-    }
-  ],
   "elektra-gt-1012567": [
     {
       "fecha": null,
@@ -6663,6 +6423,252 @@
       "precio": 549.0
     }
   ],
+  "elektra-gt-31062641": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 4499.0
+    }
+  ],
+  "intelaf-0": [
+    {
+      "fecha": null,
+      "precio": 14.0
+    }
+  ],
+  "intelaf-1": [
+    {
+      "fecha": null,
+      "precio": 14.0
+    }
+  ],
+  "intelaf-2": [
+    {
+      "fecha": null,
+      "precio": 24.0
+    }
+  ],
+  "intelaf-3": [
+    {
+      "fecha": null,
+      "precio": 1486.0
+    }
+  ],
+  "intelaf-4": [
+    {
+      "fecha": null,
+      "precio": 75.0
+    }
+  ],
+  "intelaf-5": [
+    {
+      "fecha": null,
+      "precio": 116.0
+    }
+  ],
+  "intelaf-6": [
+    {
+      "fecha": null,
+      "precio": 72.0
+    }
+  ],
+  "intelaf-7": [
+    {
+      "fecha": null,
+      "precio": 56.0
+    }
+  ],
+  "intelaf-8": [
+    {
+      "fecha": null,
+      "precio": 326.0
+    }
+  ],
+  "intelaf-9": [
+    {
+      "fecha": null,
+      "precio": 23.0
+    }
+  ],
+  "intelaf-10": [
+    {
+      "fecha": null,
+      "precio": 23.0
+    }
+  ],
+  "intelaf-11": [
+    {
+      "fecha": null,
+      "precio": 124.0
+    }
+  ],
+  "intelaf-12": [
+    {
+      "fecha": null,
+      "precio": 705.0
+    }
+  ],
+  "intelaf-13": [
+    {
+      "fecha": null,
+      "precio": 60.0
+    }
+  ],
+  "intelaf-14": [
+    {
+      "fecha": null,
+      "precio": 134.0
+    }
+  ],
+  "intelaf-15": [
+    {
+      "fecha": null,
+      "precio": 110.0
+    }
+  ],
+  "intelaf-16": [
+    {
+      "fecha": null,
+      "precio": 131.0
+    }
+  ],
+  "intelaf-17": [
+    {
+      "fecha": null,
+      "precio": 240.0
+    }
+  ],
+  "intelaf-18": [
+    {
+      "fecha": null,
+      "precio": 18.0
+    }
+  ],
+  "intelaf-19": [
+    {
+      "fecha": null,
+      "precio": 260.0
+    }
+  ],
+  "intelaf-20": [
+    {
+      "fecha": null,
+      "precio": 97.0
+    }
+  ],
+  "intelaf-21": [
+    {
+      "fecha": null,
+      "precio": 3245.0
+    }
+  ],
+  "intelaf-22": [
+    {
+      "fecha": null,
+      "precio": 156.0
+    }
+  ],
+  "intelaf-23": [
+    {
+      "fecha": null,
+      "precio": 67.0
+    }
+  ],
+  "intelaf-24": [
+    {
+      "fecha": null,
+      "precio": 170.0
+    }
+  ],
+  "intelaf-25": [
+    {
+      "fecha": null,
+      "precio": 71.0
+    }
+  ],
+  "intelaf-26": [
+    {
+      "fecha": null,
+      "precio": 375.0
+    }
+  ],
+  "intelaf-27": [
+    {
+      "fecha": null,
+      "precio": 525.0
+    }
+  ],
+  "intelaf-28": [
+    {
+      "fecha": null,
+      "precio": 301.0
+    }
+  ],
+  "intelaf-29": [
+    {
+      "fecha": null,
+      "precio": 282.0
+    }
+  ],
+  "intelaf-30": [
+    {
+      "fecha": null,
+      "precio": 382.0
+    }
+  ],
+  "intelaf-31": [
+    {
+      "fecha": null,
+      "precio": 337.0
+    }
+  ],
+  "intelaf-32": [
+    {
+      "fecha": null,
+      "precio": 210.0
+    }
+  ],
+  "intelaf-33": [
+    {
+      "fecha": null,
+      "precio": 281.0
+    }
+  ],
+  "intelaf-34": [
+    {
+      "fecha": null,
+      "precio": 13.0
+    }
+  ],
+  "intelaf-35": [
+    {
+      "fecha": null,
+      "precio": 1720.0
+    }
+  ],
+  "intelaf-36": [
+    {
+      "fecha": null,
+      "precio": 1283.0
+    }
+  ],
+  "intelaf-37": [
+    {
+      "fecha": null,
+      "precio": 830.0
+    }
+  ],
+  "intelaf-38": [
+    {
+      "fecha": null,
+      "precio": 140.0
+    }
+  ],
+  "intelaf-39": [
+    {
+      "fecha": null,
+      "precio": 136.0
+    }
+  ],
   "lacuracao-470938700011": [
     {
       "fecha": null,
@@ -8349,6 +8355,60 @@
       "precio": 50.0
     }
   ],
+  "lacuracao-2772345157346984561": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 3798.0
+    }
+  ],
+  "lacuracao-7929961960487534608": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 2998.0
+    }
+  ],
+  "lacuracao-131649405243763043": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 9999.0
+    }
+  ],
+  "lacuracao-2458975705898511890": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 1500.0
+    }
+  ],
+  "lacuracao-8354107362534524374": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 1000.0
+    }
+  ],
+  "lacuracao-4513567936702621168": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 500.0
+    }
+  ],
+  "lacuracao-2447206112109175714": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 350.0
+    }
+  ],
+  "lacuracao-9099900159408847233": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 100.0
+    }
+  ],
+  "lacuracao-9174237217462369842": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 50.0
+    }
+  ],
   "latorre-2555": [
     {
       "fecha": null,
@@ -8753,6 +8813,10 @@
     {
       "fecha": "2026-10-27",
       "precio": 2.6
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 2.95
     }
   ],
   "latorre-3565": [
@@ -12139,6 +12203,10 @@
     {
       "fecha": null,
       "precio": 93.85
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 87.45
     }
   ],
   "latorre-4708": [
@@ -12241,6 +12309,10 @@
     {
       "fecha": null,
       "precio": 41.5
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 43.95
     }
   ],
   "latorre-3794": [
@@ -13217,6 +13289,10 @@
     {
       "fecha": null,
       "precio": 21.8
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 20.45
     }
   ],
   "latorre-17465": [
@@ -18605,6 +18681,10 @@
     {
       "fecha": null,
       "precio": 5.65
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 6.55
     }
   ],
   "latorre-14847": [
@@ -24065,6 +24145,10 @@
     {
       "fecha": "2026-10-27",
       "precio": 137.3
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 149.2
     }
   ],
   "latorre-19520": [
@@ -24921,6 +25005,10 @@
     {
       "fecha": "2026-10-27",
       "precio": 17.25
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 16.7
     }
   ],
   "latorre-23297": [
@@ -25511,6 +25599,10 @@
     {
       "fecha": "2026-10-27",
       "precio": 186.3
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 176.95
     }
   ],
   "latorre-9107": [
@@ -42583,6 +42675,10 @@
     {
       "fecha": "2026-10-27",
       "precio": 7.95
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 8.0
     }
   ],
   "latorre-10567": [
@@ -44587,6 +44683,18 @@
     {
       "fecha": "2026-10-27",
       "precio": 66.85
+    }
+  ],
+  "latorre-11728": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 43.6
+    }
+  ],
+  "latorre-1139": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 6.15
     }
   ],
   "cemaco-103526854": [
@@ -119217,6 +119325,12 @@
       "precio": 50.0
     }
   ],
+  "walmart-gt-27028": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 15.0
+    }
+  ],
   "siman-4968422": [
     {
       "fecha": null,
@@ -156715,6 +156829,12 @@
     {
       "fecha": "2026-10-27",
       "precio": 4.99
+    }
+  ],
+  "siman-8552550": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 18.99
     }
   ]
 }
