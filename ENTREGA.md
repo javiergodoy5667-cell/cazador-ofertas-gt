@@ -191,6 +191,10 @@ verificarla); los 3 runs *schedule* se comprueban solos mañana.
    automotriz, tecnología, línea blanca, electrodomésticos.
    Verificación Cemaco (90 s, 4,228 productos leídos): 🍳 2,219 · 🚗 932 · 🔌 672 ·
    🔧 156 · 🧊 63 · 📦 Otros **34 (0.8 %)**.
+   **Corrida final (run `40596980469`, 4m33s, 1,858 ofertas):** 🔧 Ferretería **41** ·
+   🔌 Eléctrico **151** · 🚗 Automotriz **75** · 📱 Celulares 113 · 📺 TV 91 ·
+   💻 Computación 260 · 🧊 Línea blanca 230 · 🍳 Cocina 311 · 📦 Otros **39 (2.1 %)**.
+   (Antes del fix: Ferretería 7, Eléctrico 8, Automotriz 0.)
 2. **Clasificador — "Mesa de Regalos".** Cemaco usa `/Mesa de Regalos/...` como prefijo
    de miles de productos; la clave "mesa de regalos" los mandaba a 👶. Se quitó y se añadió
    `RUTAS_IGNORAR` (mesa de regalos, sin categorizar, catálogo completo…): en esas rutas
@@ -204,10 +208,10 @@ verificarla); los 3 runs *schedule* se comprueban solos mañana.
    explicado: 4,452 páginas a 1 req/s = ~74 min, imposible en 25 min). La Curacao sigue
    en **272**: cada categoría trae ~9 productos por página y `?p=2..5` no devuelve más.
 5. **"Sin verificar" (web).** Nueva pestaña 🏷️ "Según la tienda": productos con
-   `precio_antes_tienda` ≥50 % de rebaja y sin historial (364 en la corrida), con la
-   etiqueta "Sin verificar: precio 'antes' dicho por la tienda". Nunca va a Telegram ni
-   cambia el nivel. Banner: "Historial: 1 día. Las ofertas 🔥 y 🚨 verificadas empiezan
-   con 3 días." Al acumular 3 días salen de la pestaña.
+   `precio_antes_tienda` ≥50 % de rebaja y sin historial (**165** en la corrida final),
+   con la etiqueta "Sin verificar: precio 'antes' dicho por la tienda". Nunca va a
+   Telegram ni cambia el nivel. Banner: "Historial: 1 día. Las ofertas 🔥 y 🚨 verificadas
+   empiezan con 3 días." Al acumular 3 días salen de la pestaña.
 6. **Paginación.** 24 por página, botones grandes ‹ Anterior / números (máx. 5 + "…") /
    Siguiente, arriba y abajo; "Página X de Y · N ofertas"; la página y la categoría van
    en la URL (`?pag=3&cat=…`) para el botón "atrás"; filtros vuelven a página 1; la
