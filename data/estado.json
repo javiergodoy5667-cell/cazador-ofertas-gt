@@ -1,6 +1,6 @@
 {
-  "ultima_corrida": "2026-10-27T14:52:06-06:00",
-  "duracion_seg": 41.7,
+  "ultima_corrida": "2026-10-27T14:55:37-06:00",
+  "duracion_seg": 41.2,
   "productos_leidos": 840,
   "ofertas_por_nivel": {
     "muy_buena": 71,
@@ -16,11 +16,11 @@
       "productos": 200,
       "estado": "OK"
     },
-    "recolectores.walmart": {
+    "recolectores.siman": {
       "productos": 200,
       "estado": "OK"
     },
-    "recolectores.siman": {
+    "recolectores.walmart": {
       "productos": 200,
       "estado": "OK"
     },
