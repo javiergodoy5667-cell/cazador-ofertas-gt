@@ -53,7 +53,7 @@ function escribirURL(push) {
 async function cargar() {
   leerURL();
   try {
-    const [o, p, e] = await Promise.all([
+    const [o, e] = await Promise.all([
       fetch("ofertas-resumen.json").then((r) => r.json()),
       fetch("estado.json").then((r) => r.json()).catch(() => ({}))
     ]);

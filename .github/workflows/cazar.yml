@@ -8,6 +8,10 @@ on:
     - cron: "0 12-23,0-5 * * *"
     # Madrugada: 00:00 y 03:00 hora GT (cada 3 h)
     - cron: "0 6,9 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "web/**"   # publicar arreglos de la web al momento
   workflow_dispatch: {}   # para correrlo a mano desde la pestaña Actions
 
 permissions:

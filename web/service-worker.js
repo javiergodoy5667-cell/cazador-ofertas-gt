@@ -1,6 +1,7 @@
 /* Cazador GT — service worker.
-   Guarda la app y la ultima lista de ofertas para verla SIN internet. */
-const CACHE = "cazador-gt-v1";
+   App (index.html, app.js, style.css) con RED PRIMERO y cache como respaldo
+   sin internet. JSON con red primero. Iconos con cache. */
+const CACHE = "cazador-gt-v2";
 const CORE = [
   "./",
   "./index.html",
@@ -28,26 +29,32 @@ self.addEventListener("activate", (e) => {
   );
 });
 
+function redPrimero(e) {
+  return fetch(e.request)
+    .then((resp) => {
+      const copia = resp.clone();
+      caches.open(CACHE).then((c) => c.put(e.request, copia));
+      return resp;
+    })
+    .catch(() => caches.match(e.request));
+}
+
 self.addEventListener("fetch", (e) => {
   if (e.request.method !== "GET") return;
   const url = new URL(e.request.url);
 
-  // Datos: primero red (frescos) y, si no hay internet, la copia en cache.
-  if (/\.json$/.test(url.pathname)) {
-    e.respondWith(
-      fetch(e.request)
-        .then((resp) => {
-          const copia = resp.clone();
-          caches.open(CACHE).then((c) => c.put(e.request, copia));
-          return resp;
-        })
-        .catch(() => caches.match(e.request))
-    );
+  // App (HTML/JS/CSS) y raiz: RED primero, cache si no hay internet.
+  if (/\.(html|js|css)$/.test(url.pathname) || url.pathname.endsWith("/")) {
+    e.respondWith(redPrimero(e));
     return;
   }
 
-  // App (HTML/CSS/JS/iconos): cache primero, red como respaldo.
-  e.respondWith(
-    caches.match(e.request).then((hit) => hit || fetch(e.request))
-  );
+  // Datos JSON: red primero (frescos), cache de respaldo.
+  if (/\.json$/.test(url.pathname)) {
+    e.respondWith(redPrimero(e));
+    return;
+  }
+
+  // Iconos y demas: cache primero.
+  e.respondWith(caches.match(e.request).then((hit) => hit || fetch(e.request)));
 });
