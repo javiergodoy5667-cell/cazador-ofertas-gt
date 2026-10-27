@@ -41,16 +41,18 @@
 
 | Tienda | Método | Productos (última corrida) | Estado |
 |---|---|---|---|
-| Walmart GT | API (VTEX) | 200 | ✅ activa |
-| Elektra GT | API (VTEX) | 200 | ✅ activa |
-| Cemaco | API (VTEX) | 200 | ✅ activa |
-| Simán | API (VTEX) | 200 | ✅ activa |
+| Walmart GT | API (VTEX, catálogo por categorías) | *(pendiente corrida)* | ✅ activa |
+| Elektra GT | API (VTEX, catálogo por categorías) | *(pendiente)* | ✅ activa |
+| Cemaco | API (VTEX, catálogo por categorías) | *(pendiente)* | ✅ activa |
+| Simán | API (VTEX, catálogo por categorías) | *(pendiente)* | ✅ activa |
 | Intelaf | HTML (ld+json) | 40 | ✅ activa |
-| Pacifiko | HTML (ld+json) | 40 | ✅ activa |
+| Pacifiko | HTML (ld+json) | 0 en Actions | 🟡 bloquea IP de nube (diagnóstico abajo) |
+| La Curacao | HTML (Magento, ld+json por categoría) | 161 (smoke local) | ✅ activa |
+| La Torre | API (VTEX) | *(pendiente en Actions)* | 🟡 prueba desde la nube |
 
-> Última corrida de recolectores (Fase 1): **880 productos** totales, 427 con
-> "antes > actual" (descuento real), 0 precios inválidos. Comando:
-> `python -m pruebas.probar_recolectores` → "OK: todas las fuentes trajeron productos".
+> Cobertura VTEX ampliada (auditoría): árbol de categorías `/api/catalog_system/pub/category/tree/3`
+> + paginación `fq=C:/{id}/` de 50 en 50 hasta `_from=2500`. Smoke local: **Cemaco 1,486
+> productos en 40 s** (antes 200). La cifra final por tienda se llena con las corridas *schedule*.
 
 ---
 
@@ -115,6 +117,24 @@
 → **220 ofertas** (218 ⚡ + 2 agotadas), 6 fuentes OK, 0 fallos, 62.8 s,
 historial con 880 observaciones en `data/historial/*.jsonl`.
 
-> Nota de diseño: la primera corrida solo produce nivel ⚡ (aún sin historial), que es
-> exactamente la regla "sin historial → máximo ⚡". Las 🔥/🚨 aparecerán cuando haya
-> ≥3 días de observaciones.
+> Nota de diseño (actualizada por auditoría): sin historial, el máximo nivel es ✅
+> (buena, solo en la web; NUNCA se avisa por Telegram). Las 🔥/🚨 requieren ≥3 días
+> de observaciones reales.
+
+---
+
+## 7. Correcciones de la auditoría (2026-10-27)
+
+1. **Cobertura VTEX.** ✅ Cambiado: árbol de categorías + paginación `fq=C:/{id}/`
+   de 50 en 50 hasta `_from=2500`, límite 7 min por tienda. Smoke local Cemaco:
+   **1,486 productos en 40 s** (antes 200). Cifras finales por tienda abajo.
+2. **Pacifiko.** 🟡 En Actions dio 0 (ROTA). *(se llena con el log de la corrida
+   manual de abajo)*.
+3. **Alertas sin historial.** ✅ Regla cambiada: `sin_historial=true` → máximo nivel
+   `buena` (web), nunca Telegram. Prueba unitaria `test_sin_historial_max_buena` OK.
+4. **Cron schedule.** ⏳ Pendiente (no bloquea): cron restaurado a
+   `0 12-23,0-5 * * *` + `0 6,9 * * *`. La evidencia de 3 corridas *schedule* se
+   comprueba sola mañana (GitHub puede atrasar los schedules horas; no se espera).
+5. **Más fuentes.** ✅ La Curacao (Magento HTML, 161 productos en smoke local) y
+   La Torre (VTEX, se prueba desde Actions).
+
