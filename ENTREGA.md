@@ -141,3 +141,41 @@ historial con 880 observaciones en `data/historial/*.jsonl`.
 5. **Más fuentes.** ✅ La Curacao (Magento HTML): **272 productos** en Actions. La Torre
    (VTEX): **6,022 productos** desde Actions (en local daba timeout; en la nube funciona).
 
+---
+
+## 8. Correcciones de la segunda auditoría (2026-10-27)
+
+Corrida de verificación: run `40593411308` (4m6s, **25,481 productos**).
+
+1. **Bug regla (tope al final).** ✅ `sin_historial` ahora se aplica DESPUÉS de
+   relámpago. Pruebas: `test_sin_historial_fin_oferta_no_relampago` y
+   `test_sin_historial_relampago_cap_final` OK. Los 5 cascos ya no suben de ✅.
+2. **Relámpago falso.** ✅ Verificado: `fin_oferta` de VTEX es `PriceValidUntil`, una
+   fecha por defecto (~1 año vista: la mayoría "2027-10-27"); **no es relámpago**. Se
+   eliminó del cálculo. **Relámpagos reales (etiqueta explícita): 0.** `fin_oferta` se
+   conserva solo como dato informativo.
+3. **Pacifiko.** ❌ Marcada en `fuentes/REPORTE_FUENTES.md` y **retirada de la corrida**
+   (`recolectores/__init__.py`). Motivo: bloquea IP de datacenter de GitHub Actions.
+4. **Historial compacto.** ✅ Ahora guarda una línea solo cuando **cambia el precio**,
+   con `fecha_inicio` + `visto_hasta`. Tras la corrida: **4,457 KB / 26,166 líneas**
+   (1 por producto). Antes crecía ~3.7 MB/día; ahora se mantiene y solo crece con
+   cambios de precio. La mediana de 30 días expande días activos: prueba
+   `test_mediana_con_visto_hasta` OK.
+5. **Categorías unificadas.** ✅ `config/categorias.yml` (16 categorías + `📦 Otros`),
+   `motor/categorias.py` (ruta primero, luego nombre, gana la clave más larga). Prueba
+   de 15 ejemplos reales OK (`casco→⚽`, `vino→🍷`, `colchón→🛏️`, `refrigeradora→🧊`,
+   `planta eléctrica→🔌`, `breaker→🔌`, `llanta→🚗`, …). **% en Otros: 1.8%** (meta <5%).
+   Web: barra deslizable con emoji+conteo, vista "Todas" con top 5 por categoría +
+   "ver más", recuerda la última categoría (localStorage). Telegram: solo alerta las
+   categorías de `config.categorias_alerta` (🚨 error avisa siempre), emoji de categoría
+   al inicio y resumen diario 7:00 agrupado.
+
+**Ofertas por categoría (corrida de verificación):**
+🛏️ Hogar 480 · 👶 Bebés 280 · 🍳 Cocina 259 · 👟 Moda 168 · 🛒 Súper 159 · 🍷 Licores 127 ·
+🧊 Línea blanca 120 · 📱 Celulares 112 · ⚽ Deportes 92 · 📺 TV y audio 91 · 💻 Computación 76 ·
+💄 Belleza 71 · 🐶 Mascotas 46 · 📦 Otros 39 · 🔌 Eléctrico 7.
+
+**Pruebas:** `Ran 19 tests ... OK` (incluye regla, relámpago, historial y 15 ejemplos de
+categoría). **Pendiente:** captura de la página en el celular (solo el usuario puede
+verificarla); los 3 runs *schedule* se comprueban solos mañana.
+
