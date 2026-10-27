@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#ff6a00">
+  <meta name="description" content="Ofertas locas de tiendas de Guatemala, detectadas por historial de precios.">
+  <title>Cazador GT — Ofertas</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/svg+xml" href="icon.svg">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🛒 Cazador GT</h1>
+    <p class="sub">Ofertas locas de tiendas de Guatemala</p>
+  </header>
+
+  <section class="controles">
+    <input id="busqueda" type="search" placeholder="Buscar producto…" aria-label="Buscar">
+    <div class="fila">
+      <select id="nivel" aria-label="Nivel mínimo"></select>
+      <select id="tienda" aria-label="Tienda"></select>
+      <select id="orden" aria-label="Orden"></select>
+    </div>
+    <div class="fila">
+      <label class="check"><input type="checkbox" id="online"> Solo pagar en línea</label>
+      <label class="check"><input type="checkbox" id="tienda_fisica"> Solo ir a tienda</label>
+    </div>
+    <div class="fila rango">
+      <input id="precio_min" type="number" inputmode="numeric" placeholder="Q mín">
+      <input id="precio_max" type="number" inputmode="numeric" placeholder="Q máx">
+      <select id="categoria" aria-label="Categoría"></select>
+    </div>
+  </section>
+
+  <main id="grid" class="grid"></main>
+  <div id="vacio" class="vacio" hidden>No hay ofertas que coincidan con los filtros.</div>
+
+  <section class="marketplace">
+    <h2>Buscar en Marketplace</h2>
+    <p>Ofertas de particulares cerca de ti (se abre Facebook Marketplace en Guatemala).</p>
+    <div class="fila">
+      <input id="mp_busqueda" type="search" placeholder="Ej. playstation 5">
+      <button id="mp_boton">Buscar</button>
+    </div>
+  </section>
+
+  <footer id="pie">Cargando…</footer>
+
+  <div id="modal" class="modal" hidden>
+    <div class="modal-card">
+      <button id="modal_cerrar" class="cerrar" aria-label="Cerrar">✕</button>
+      <h3 id="modal_nombre"></h3>
+      <p id="modal_precio" class="modal-precio"></p>
+      <div id="modal_grafica"></div>
+      <a id="modal_link" class="boton" target="_blank" rel="noopener">Ver producto →</a>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

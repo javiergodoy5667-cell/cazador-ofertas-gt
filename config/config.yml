@@ -1,0 +1,40 @@
+# ============================================================
+# Cazador de Ofertas GT — configuración editable sin tocar código
+# Los recolectores (Fase 1) usan valores por defecto; el motor de
+# puntaje (Fase 2) leerá de aquí. Se puede editar a mano.
+# ============================================================
+
+zona_horaria: America/Guatemala
+moneda: GTQ
+
+# Límites de recolección
+max_productos_por_tienda: 200      # productos máximo por tienda y corrida
+max_paginas_html: 40               # páginas de producto (tiendas HTML) por corrida
+
+# Categorías a ignorar (texto libre; coincide con el nombre de categoría)
+categorias_ignorar: []
+
+# Niveles del motor de puntaje (fracción de descuento real)
+niveles:
+  error_precio: 0.65   # precio < 35% de la referencia -> POSIBLE ERROR
+  loca: 0.50           # descuento >= 50% -> LOCA
+  muy_buena: 0.35      # 35%..49% -> MUY BUENA
+  buena: 0.20          # 20%..34% -> BUENA
+  minimo_historico_extra: 0.20     # mínimo histórico exige >= 20% para subir
+
+# Reglas
+precio_basura_min: 15  # ignorar productos finales por debajo de Q15
+historial_dias: 30     # ventana de la mediana de referencia
+historial_max_dias: 90 # borrar observaciones más viejas que esto
+
+# Frecuencia (en minutos) — Fase 5
+frecuencia_dia: 60
+frecuencia_madrugada: 180
+hora_inicio: 6
+hora_fin: 23
+
+# Lista de deseos (Fase 6)
+deseos: []
+
+# Palabras para "Buscar en Marketplace" (Fase 4)
+marketplace_terminos: []
