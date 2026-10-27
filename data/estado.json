@@ -1,35 +1,43 @@
 {
-  "ultima_corrida": "2026-10-27T14:55:37-06:00",
-  "duracion_seg": 41.2,
-  "productos_leidos": 840,
+  "ultima_corrida": "2026-10-27T15:54:03-06:00",
+  "duracion_seg": 435.6,
+  "productos_leidos": 25435,
   "ofertas_por_nivel": {
-    "muy_buena": 71,
-    "buena": 148,
-    "agotado": 2
+    "buena": 2055,
+    "muy_buena": 5,
+    "agotado": 61
   },
   "fuentes": {
     "recolectores.pacifiko": {
       "productos": 0,
       "estado": "ROTA"
     },
-    "recolectores.cemaco": {
-      "productos": 200,
-      "estado": "OK"
-    },
-    "recolectores.siman": {
-      "productos": 200,
-      "estado": "OK"
-    },
-    "recolectores.walmart": {
-      "productos": 200,
-      "estado": "OK"
-    },
     "recolectores.elektra": {
-      "productos": 200,
+      "productos": 1070,
       "estado": "OK"
     },
     "recolectores.intelaf": {
       "productos": 40,
+      "estado": "OK"
+    },
+    "recolectores.lacuracao": {
+      "productos": 272,
+      "estado": "OK"
+    },
+    "recolectores.la_torre": {
+      "productos": 6022,
+      "estado": "OK"
+    },
+    "recolectores.cemaco": {
+      "productos": 6008,
+      "estado": "OK"
+    },
+    "recolectores.walmart": {
+      "productos": 6020,
+      "estado": "OK"
+    },
+    "recolectores.siman": {
+      "productos": 6003,
       "estado": "OK"
     }
   },
