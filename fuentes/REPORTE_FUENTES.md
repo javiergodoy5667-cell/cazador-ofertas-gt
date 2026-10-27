@@ -76,14 +76,15 @@ enlace verificado) en la carpeta `muestras/`:
 - **Modo de compra:** en línea (tienen página de pagos y envíos).
 - **Veredicto:** ✅ usar (HTML + ld+json).
 
-### 6. Pacifiko — ✅
-- **Responde:** sí (`https://www.pacifiko.com`, HTTP 200). Precios visibles sin login.
-- **Plataforma:** propia. El `sitemap.xml` es un índice de `pids-1.xml … pids-N.xml`
-  (más de **8,500 URLs** de producto bajo `/compras-en-linea/...`); cada página lleva
-  microdatos `Product` con precio en GTQ. El enlace requiere el parámetro `pid`.
-- **robots.txt:** solo bloquea `/index.php`. Se respeta.
-- **Modo de compra:** en línea.
-- **Veredicto:** ✅ usar (HTML + ld+json).
+### 6. Pacifiko — ❌ descartada (auditoría 2026-10-27)
+- **Responde local:** sí (`https://www.pacifiko.com`, HTTP 200, precios sin login).
+- **Plataforma:** propia (sitemap `pids-N.xml` + microdatos `ld+json`).
+- **Problema:** funciona desde IP residencial (40 productos) pero devuelve **0 productos
+  desde los servidores de GitHub Actions** (`estado: ROTA`). Bloquea las IP de datacenter
+  (anti-bot).
+- **Motivo de descarte:** no se puede corregir sin un proxy, y el proyecto prohíbe
+  servicios para saltar bloqueos/captchas.
+- **Veredicto:** ❌ descartar (bloquea IP de datacenter). Retirada de la corrida.
 
 ---
 

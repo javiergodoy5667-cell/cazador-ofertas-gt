@@ -6,8 +6,13 @@ const esc = (s) => String(s ?? "").replace(/[&<>"']/g,
   (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
 const ORDEN_NIVEL = { error: 0, loca: 1, muy_buena: 2, buena: 3, agotado: 9 };
+const TOP_POR_CATEGORIA = 5;
 
-const state = { ofertas: [], precios: {} };
+const state = {
+  ofertas: [],
+  precios: {},
+  categoria: localStorage.getItem("cazador_cat") || ""
+};
 
 function formato(n) {
   if (n == null || isNaN(n)) return "0";
@@ -30,20 +35,35 @@ async function cargar() {
   actualizarPie();
 }
 
+function contarPorCategoria() {
+  const m = {};
+  for (const o of state.ofertas) {
+    const c = o.categoria || "📦 Otros";
+    m[c] = (m[c] || 0) + 1;
+  }
+  return m;
+}
+
 function poblarFiltros() {
   const tiendas = [...new Set(state.ofertas.map((o) => o.tienda).filter(Boolean))].sort();
-  const cats = [...new Set(state.ofertas.map((o) => o.categoria).filter(Boolean))].sort();
   $("tienda").innerHTML = '<option value="">Todas las tiendas</option>' +
     tiendas.map((t) => `<option>${esc(t)}</option>`).join("");
-  $("categoria").innerHTML = '<option value="">Toda categoría</option>' +
-    cats.map((c) => `<option>${esc(c)}</option>`).join("");
+
+  const conteo = contarPorCategoria();
+  const cats = Object.keys(conteo).sort((a, b) => conteo[b] - conteo[a]);
+  let html = `<button class="cat ${state.categoria === "" ? "activa" : ""}" data-cat="">Todas</button>`;
+  for (const c of cats) {
+    const emoji = c.split(" ")[0];
+    const nombre = c.split(" ").slice(1).join(" ");
+    html += `<button class="cat ${state.categoria === c ? "activa" : ""}" data-cat="${esc(c)}">${esc(emoji)} ${esc(nombre)} <span class="n">${conteo[c]}</span></button>`;
+  }
+  $("barra_categorias").innerHTML = html;
 }
 
 function filtradas() {
   const q = $("busqueda").value.trim().toLowerCase();
   const nivel = $("nivel").value;
   const tienda = $("tienda").value;
-  const cat = $("categoria").value;
   const online = $("online").checked;
   const fisica = $("tienda_fisica").checked;
   const pmin = parseFloat($("precio_min").value);
@@ -52,7 +72,6 @@ function filtradas() {
   return state.ofertas.filter((o) => {
     if (nivel && (ORDEN_NIVEL[o.nivel] ?? 9) > (ORDEN_NIVEL[nivel] ?? 9)) return false;
     if (tienda && o.tienda !== tienda) return false;
-    if (cat && o.categoria !== cat) return false;
     if (online && o.modo_compra !== "en_linea") return false;
     if (fisica && o.modo_compra === "en_linea") return false;
     if (!isNaN(pmin) && o.precio_actual < pmin) return false;
@@ -72,23 +91,70 @@ function ordenar(lista) {
 
 function renderizar() {
   const lista = ordenar(filtradas());
+  if (state.categoria !== "") {
+    const solo = lista.filter((o) => (o.categoria || "📦 Otros") === state.categoria);
+    renderPlana(solo);
+  } else {
+    renderAgrupada(lista);
+  }
+}
+
+function renderPlana(lista) {
   const grid = $("grid");
   grid.innerHTML = "";
   $("vacio").hidden = lista.length > 0;
   for (const o of lista) grid.appendChild(tarjeta(o));
 }
 
+function renderAgrupada(lista) {
+  const grid = $("grid");
+  grid.innerHTML = "";
+  $("vacio").hidden = lista.length > 0;
+  const por = {};
+  for (const o of lista) {
+    const c = o.categoria || "📦 Otros";
+    (por[c] = por[c] || []).push(o);
+  }
+  const orden = Object.keys(por).sort((a, b) => por[b].length - por[a].length);
+  for (const c of orden) {
+    const seccion = document.createElement("section");
+    seccion.className = "seccion";
+    const emoji = c.split(" ")[0];
+    const nombre = c.split(" ").slice(1).join(" ");
+    seccion.innerHTML = `<h2 class="sec-titulo">${esc(emoji)} ${esc(nombre)}
+      <span class="sec-n">${por[c].length}</span></h2>`;
+    const cont = document.createElement("div");
+    cont.className = "grid";
+    for (const o of por[c].slice(0, TOP_POR_CATEGORIA)) cont.appendChild(tarjeta(o));
+    seccion.appendChild(cont);
+    if (por[c].length > TOP_POR_CATEGORIA) {
+      const ver = document.createElement("button");
+      ver.className = "ver-mas";
+      ver.textContent = `Ver todos los de ${nombre} (${por[c].length})`;
+      ver.addEventListener("click", () => { setCategoria(c); });
+      seccion.appendChild(ver);
+    }
+    grid.appendChild(seccion);
+  }
+}
+
+function setCategoria(c) {
+  state.categoria = c;
+  localStorage.setItem("cazador_cat", c);
+  poblarFiltros();
+  renderizar();
+  $("barra_categorias").scrollLeft = 0;
+}
+
 function tarjeta(o) {
   const art = document.createElement("article");
   art.className = "tarjeta nivel-" + (o.nivel || "buena");
   art.addEventListener("click", () => abrirModal(o));
-
   const img = o.imagen
     ? `<img loading="lazy" src="${esc(o.imagen)}" alt="" onerror="this.style.display='none'">`
     : "";
   const desc = Math.round((o.descuento_real || 0) * 100);
   const modo = o.modo_compra === "en_linea" ? "🛒 en línea" : "🏪 en tienda";
-
   art.innerHTML = `
     ${img}
     <div class="badge">${esc(o.nivel_emoji || "")} ${esc(o.nivel_label || "")} · -${desc}%</div>
@@ -100,8 +166,7 @@ function tarjeta(o) {
       <div class="meta">🏬 ${esc(o.tienda)} · ${modo}</div>
       <a class="boton" href="${esc(o.url)}" target="_blank" rel="noopener"
          onclick="event.stopPropagation()">Ver / Comprar</a>
-    </div>
-  `;
+    </div>`;
   return art;
 }
 
@@ -167,10 +232,15 @@ document.addEventListener("DOMContentLoaded", () => {
     '<option value="ahorro">Mayor ahorro</option>' +
     '<option value="reciente">Más reciente</option>';
 
-  ["busqueda", "nivel", "tienda", "categoria", "orden", "online", "tienda_fisica",
+  ["busqueda", "nivel", "tienda", "orden", "online", "tienda_fisica",
    "precio_min", "precio_max"].forEach((id) => {
     $(id).addEventListener("input", renderizar);
     $(id).addEventListener("change", renderizar);
+  });
+
+  $("barra_categorias").addEventListener("click", (e) => {
+    const b = e.target.closest(".cat");
+    if (b) setCategoria(b.dataset.cat || "");
   });
 
   const abrirMp = () => {

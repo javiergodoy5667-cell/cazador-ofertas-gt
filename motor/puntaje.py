@@ -33,49 +33,52 @@ def _subir(nivel):
 
 
 def _relampago(prod, ahora=None):
-    """Una oferta es relampago si la tienda muestra fin proximo o etiqueta."""
+    """Relampago SOLO si hay una etiqueta explicita de la tienda.
+    Nota (auditoria): el campo `fin_oferta` de VTEX es `PriceValidUntil`, una
+    fecha por defecto (~1 anio vista) que NO indica oferta relampago; se ignora."""
     nombre = (prod.get("nombre") or "").lower()
-    if any(t in nombre for t in ("flash", "relampago", "relámpago", "hoy")):
-        return True
-    fin = prod.get("fin_oferta")
-    if not fin:
-        return False
+    marcas = ("flash", "relampago", "relámpago", "oferta del dia",
+              "oferta del día", "solo hoy", "oferta de hoy", "deal del dia",
+              "deal del día", "hot sale", "liquidacion relampago")
+    return any(m in nombre for m in marcas)
+
+
+def _dias_activos(o, hoy, ventana=VENTANA_DIAS):
+    """Dias (ISO) en los ultimos `ventana` dias en que la observacion estuvo vigente."""
     try:
-        d = dt.datetime.fromisoformat(fin.replace("Z", "+00:00"))
-        if d.tzinfo is None:
-            d = d.replace(tzinfo=dt.timezone.utc)
-        ahora = ahora or dt.datetime.now(dt.timezone.utc)
-        return (d - ahora) <= dt.timedelta(hours=48)
-    except (ValueError, TypeError):
-        return False
+        inicio = dt.date.fromisoformat(o.get("fecha_inicio") or o.get("fecha"))
+        fin = dt.date.fromisoformat(o.get("visto_hasta")
+                                    or o.get("fecha_inicio") or o.get("fecha"))
+    except (KeyError, ValueError, TypeError):
+        return []
+    a = max(inicio, hoy - dt.timedelta(days=ventana))
+    b = min(fin, hoy)
+    if a > b:
+        return []
+    return [(a + dt.timedelta(days=i)).isoformat() for i in range((b - a).days + 1)]
 
 
 def precio_referencia(obs, hoy, prod=None):
     """Devuelve (referencia, sin_historial, usa_unidad).
-    referencia = mediana de precios (o precio por unidad) de los ultimos
-    30 dias, exigiendo >=3 observaciones en dias distintos.
-    Si no alcanza, devuelve (None, True, ...).
+    referencia = mediana de precios (o precio por unidad) expandiendo cada
+    observacion a sus dias activos dentro de los ultimos 30 dias.
+    Exige >=3 dias distintos; si no alcanza devuelve (None, True, ...).
     """
-    ventana = hoy - dt.timedelta(days=VENTANA_DIAS)
-    relevantes = []
+    expandido = []  # (fecha, observacion)
     for o in obs:
-        try:
-            d = dt.date.fromisoformat(o["fecha"])
-        except (KeyError, ValueError):
-            continue
-        if d >= ventana:
-            relevantes.append(o)
+        for d in _dias_activos(o, hoy):
+            expandido.append((d, o))
     # comparacion por unidad (evita falsos descuentos por cambio de tamano)
     if prod and prod.get("precio_unidad") is not None and prod.get("unidad"):
-        vals = [o for o in relevantes
-                if o.get("unidad") == prod["unidad"]
-                and o.get("precio_unidad") is not None]
-        if len({o["fecha"] for o in vals}) >= MIN_OBS_DIAS:
-            return (statistics.median([o["precio_unidad"] for o in vals]),
+        pares = [(d, o) for d, o in expandido
+                 if o.get("unidad") == prod["unidad"]
+                 and o.get("precio_unidad") is not None]
+        if len({d for d, _ in pares}) >= MIN_OBS_DIAS:
+            return (statistics.median([o["precio_unidad"] for _, o in pares]),
                     False, True)
         return None, True, True
-    if len({o["fecha"] for o in relevantes}) >= MIN_OBS_DIAS:
-        return statistics.median([o["precio"] for o in relevantes]), False, False
+    if len({d for d, _ in expandido}) >= MIN_OBS_DIAS:
+        return statistics.median([o["precio"] for _, o in expandido]), False, False
     return None, True, False
 
 
@@ -113,10 +116,12 @@ def evaluar(prod, obs, hoy=None, alertados=None):
     hoy_iso = hoy.isoformat()
     if usa_unidad:
         previos = [o["precio_unidad"] for o in obs
-                   if o.get("fecha") != hoy_iso and o.get("precio_unidad") is not None]
+                   if (o.get("fecha_inicio") or o.get("fecha", "")) < hoy_iso
+                   and o.get("precio_unidad") is not None]
         minimo = bool(previos) and comparar <= min(previos)
     else:
-        previos = [o["precio"] for o in obs if o.get("fecha") != hoy_iso]
+        previos = [o["precio"] for o in obs
+                   if (o.get("fecha_inicio") or o.get("fecha", "")) < hoy_iso]
         minimo = bool(previos) and comparar <= min(previos)
 
     relampago = _relampago(prod)
@@ -138,11 +143,12 @@ def evaluar(prod, obs, hoy=None, alertados=None):
     else:
         return None
 
-    # Sin historial: nunca se avisa por Telegram; maximo nivel "buena" (web).
-    if sin_hist and nivel in ("error", "loca", "muy_buena"):
-        nivel = "buena"
+    # Oferta relampago sube un nivel.
     if relampago:
         nivel = _subir(nivel)
+    # Sin historial: tope AL FINAL (tras todos los bonos), nunca Telegram.
+    if sin_hist and nivel in ("error", "loca", "muy_buena"):
+        nivel = "buena"
     if not disponible:
         nivel = "agotado"
 

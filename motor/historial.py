@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Historial de precios en archivos JSONL (una linea por observacion).
-data/historial/<tienda>.jsonl
-Reglas:
-  - maximo 1 observacion por producto por dia.
-  - se borran observaciones con mas de 90 dias.
+Historial de precios en JSONL. Una linea SOLO cuando el precio CAMBIA
+(no cada dia), con `fecha_inicio` y `visto_hasta` para saber cuanto estuvo
+vigente. Asi el archivo crece poco (auditoria: antes ~3.7 MB/dia).
 """
 import datetime as dt
 import json
@@ -14,6 +12,7 @@ BASE = Path(__file__).resolve().parent.parent
 HISTORIAL_DIR = BASE / "data" / "historial"
 
 TZ = dt.timezone(dt.timedelta(hours=-6))  # America/Guatemala
+TOLERANCIA = 0.005  # para comparar precios float
 
 
 def hoy_gt():
@@ -25,7 +24,7 @@ def ruta(tienda):
 
 
 def cargar(tienda):
-    """Devuelve lista de observaciones ({id, fecha, precio, ...})."""
+    """Devuelve lista de observaciones ({id, fecha_inicio, precio, visto_hasta})."""
     p = ruta(tienda)
     if not p.exists():
         return []
@@ -41,48 +40,68 @@ def cargar(tienda):
     return out
 
 
-def registrar(tienda, producto, fecha=None):
-    """Añade una observacion si no existe ya una para (id, fecha) hoy.
-    Devuelve True si se escribio algo nuevo."""
-    fecha = (fecha or hoy_gt()).isoformat()
+def _escribir(p, obs):
+    p.write_text("".join(json.dumps(o, ensure_ascii=False) + "\n" for o in obs),
+                 encoding="utf-8")
+
+
+def registrar_lote(tienda, productos, fecha=None):
+    """Registra un lote de productos. Solo se anade linea si el precio cambia.
+    Devuelve cuantas lineas nuevas se escribieron."""
+    fecha = fecha or hoy_gt()
+    fecha_s = fecha.isoformat()
+    ayer = (fecha - dt.timedelta(days=1)).isoformat()
     HISTORIAL_DIR.mkdir(parents=True, exist_ok=True)
-    p = ruta(tienda)
     obs = cargar(tienda)
-    for o in obs:
-        if o.get("id") == producto["id"] and o.get("fecha") == fecha:
-            return False
-    linea = {
-        "id": producto["id"],
-        "fecha": fecha,
-        "precio": producto["precio_actual"],
-        "precio_unidad": producto.get("precio_unidad"),
-        "unidad": producto.get("unidad"),
-        "visto_en": producto.get("visto_en"),
-    }
-    with p.open("a", encoding="utf-8") as f:
-        f.write(json.dumps(linea, ensure_ascii=False) + "\n")
-    return True
+    ultimo = {}
+    for i, o in enumerate(obs):
+        ultimo[o["id"]] = i
+    nuevos = 0
+    for prod in productos:
+        pid = prod["id"]
+        precio = prod["precio_actual"]
+        i = ultimo.get(pid)
+        if i is not None and abs(obs[i].get("precio", -1) - precio) < TOLERANCIA:
+            obs[i]["visto_hasta"] = fecha_s  # mismo precio: solo extender vigencia
+        else:
+            if i is not None:
+                obs[i]["visto_hasta"] = ayer  # cerrar la linea anterior
+            obs.append({
+                "id": pid,
+                "fecha_inicio": fecha_s,
+                "precio": precio,
+                "visto_hasta": fecha_s,
+                "precio_unidad": prod.get("precio_unidad"),
+                "unidad": prod.get("unidad"),
+            })
+            ultimo[pid] = len(obs) - 1
+            nuevos += 1
+    _escribir(ruta(tienda), obs)
+    return nuevos
+
+
+def registrar(tienda, producto, fecha=None):
+    """Conveniencia para pruebas: registra un solo producto."""
+    return registrar_lote(tienda, [producto], fecha)
 
 
 def podar(tienda, dias=90, fecha=None):
-    """Borra observaciones mas viejas que `dias`. Devuelve cuantas quito."""
+    """Borra lineas cuya vigencia (visto_hasta) termino hace mas de `dias`."""
     fecha = fecha or hoy_gt()
     limite = fecha - dt.timedelta(days=dias)
     obs = cargar(tienda)
-    quedan = []
-    quitados = 0
+    quedan, quitados = [], 0
     for o in obs:
         try:
-            d = dt.date.fromisoformat(o["fecha"])
+            vh = dt.date.fromisoformat(o.get("visto_hasta")
+                                       or o.get("fecha_inicio")
+                                       or o.get("fecha"))
         except (KeyError, ValueError):
             quitados += 1
             continue
-        if d < limite:
+        if vh < limite:
             quitados += 1
         else:
             quedan.append(o)
-    p = ruta(tienda)
-    if p.exists():
-        p.write_text("".join(json.dumps(o, ensure_ascii=False) + "\n"
-                             for o in quedan), encoding="utf-8")
+    _escribir(ruta(tienda), quedan)
     return quitados

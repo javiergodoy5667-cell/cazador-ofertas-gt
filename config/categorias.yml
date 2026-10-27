@@ -1,0 +1,21 @@
+# Categorías unificadas (editables sin tocar código).
+# Formato: "- <emoji> <Nombre>: clave1, clave2, ..."
+# Las claves se buscan primero en la RUTA de categoría de la tienda y luego en el
+# NOMBRE del producto (sin acentos, minúsculas).
+
+- 📱 Celulares y tablets: celular, celulares, smartphone, tablet, iphone, ipad, telefonia, telefonía, movil, móvil
+- 📺 TV y audio: televisor, televisores, smart tv, tv, audio, sonido, bocina, bocinas, barra de sonido, home theater, altavoz, parlante, soundbar, audifono, audifonos, audífono, audífonos
+- 💻 Computación y videojuegos: computo, cómputo, computacion, computación, laptop, computadora, pc, notebook, impresora, monitor, teclado, mouse, videojuego, videojuegos, consola, playstation, xbox, nintendo, gamer, memoria, disco duro, ssd, ram, procesador, tarjeta de video, gpu, gaming
+- 🧊 Línea blanca: refrigerador, refrigeradora, nevera, lavadora, secadora, lavavajillas, congelador, linea blanca, línea blanca, lavadora-secadora
+- 🍳 Electrodomésticos de cocina: cocina, estufa, horno, microondas, licuadora, batidora, cafetera, freidora, olla, sarten, sartén, tostadora, extractor, campana, coccion, cocción, electrodomestico, electrodoméstico, ollas, sartenes
+- 🔧 Ferretería y herramientas: ferreteria, ferretería, herramienta, herramientas, taladro, martillo, destornillador, sierra, llave, alicate, soldadura, tornillo, clavo, escalera, pintura, brocha, rodillo, cerradura, candado, madera, construccion, construcción, manguera, jardin, jardín, podadora
+- 🔌 Eléctrico: electrico, eléctrico, cable, cables, breaker, tomacorriente, iluminacion, iluminación, lampara, lámpara, foco, bombilla, planta electrica, planta eléctrica, generador, bateria, batería, inversor, panel solar, extension, extensión, regulador, ups, no break, transformador, enchufe, interruptor, tablero electrico, tablero eléctrico
+- 🚗 Automotriz: automotriz, auto, carro, vehiculo, vehículo, repuesto, repuestos, llanta, llantas, neumatico, neumático, bateria de carro, aceite de motor, aceites, herramienta de taller, audio para carro
+- 🛏️ Hogar y muebles: hogar, mueble, muebles, cama, colchon, colchón, sofa, sofá, silla, sillas, mesa, mesas, comedor, sala, dormitorio, closet, armario, ropero, cortina, alfombra, decoracion, decoración, organizador, textil, blanco, blancos
+- 🛒 Supermercado: supermercado, despensa, alimento, alimentos, comida, bebida, abarrotes, galleta, galletas, cereal, arroz, azucar, azúcar, aceite de cocina, pasta, enlatado, lacteo, lácteo, carniceria, carnicería, fruta, verdura, pan, huevo, leche, refresco, snack, despensas
+- 🍷 Licores: licor, licores, vino, vinos, cerveza, cervezas, whisky, ron, vodka, tequila, champagne, champaña, aguardiente, alcohol, licorería
+- 👶 Bebés y juguetes: bebe, bebé, bebes, bebés, juguete, juguetes, pañal, pañales, biberon, biberón, cuna, coche de bebe, muñeca, muñeco, lego, peluche, didactico, didáctico, infantil, mesa de regalos
+- 👟 Moda y zapatos: moda, zapato, zapatos, tenis, ropa, camisa, pantalon, pantalón, vestido, falda, chaqueta, abrigo, calzado, sandalia, bota, bolso, cartera, camiseta, reloj, lentes, joyería, joyeria
+- ⚽ Deportes, bicis y motos: deporte, deportes, bicicleta, bicicletas, bici, motocicleta, motos, casco, casco, balon, balón, pesas, gimnasio, yoga, futbol, fútbol, tenis, natacion, natación, patineta, scooter, rodadera, patines
+- 💄 Belleza y cuidado personal: belleza, cosmetico, cosmético, maquillaje, crema, shampoo, champu, champú, acondicionador, perfume, cuidado personal, secador, rasuradora, afeitadora, higiene, jabon, jabón, loción, locion
+- 🐶 Mascotas: mascota, mascotas, perro, perros, gato, gatos, alimento para perro, alimento para gato, acuario, pecera, jaula, correa, collar, veterinaria, arena para gato, perrera

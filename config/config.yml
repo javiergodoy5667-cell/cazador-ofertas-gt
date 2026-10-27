@@ -38,3 +38,15 @@ deseos: []
 
 # Palabras para "Buscar en Marketplace" (Fase 4)
 marketplace_terminos: []
+
+# Categorías para alertas de Telegram (las demás solo van a la página).
+# Excepción: 🚨 POSIBLE ERROR DE PRECIO avisa SIEMPRE, de cualquier categoría.
+categorias_alerta:
+  - 🔧 Ferretería y herramientas
+  - 🔌 Eléctrico
+  - 📱 Celulares y tablets
+  - 📺 TV y audio
+  - 💻 Computación y videojuegos
+  - 🧊 Línea blanca
+  - 🍳 Electrodomésticos de cocina
+  - 🚗 Automotriz

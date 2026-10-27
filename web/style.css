@@ -99,6 +99,26 @@ button:hover { filter: brightness(1.08); }
 
 footer { text-align: center; color: var(--gris); font-size: 0.8rem; margin-top: 18px; }
 
+/* Barra de categorías deslizable */
+.barra-categorias {
+  display: flex; gap: 8px; overflow-x: auto; white-space: nowrap;
+  padding: 6px 0 10px; -webkit-overflow-scrolling: touch;
+  scrollbar-width: none; margin-top: -4px;
+}
+.barra-categorias::-webkit-scrollbar { display: none; }
+.cat {
+  flex: 0 0 auto; background: #2a2a44; border: 1px solid #3a3a56;
+  border-radius: 999px; padding: 7px 12px; font-size: 0.82rem;
+  color: var(--texto); cursor: pointer; white-space: nowrap;
+}
+.cat.activa { background: var(--naranja); border-color: var(--naranja); color: #fff; font-weight: 700; }
+.cat .n { opacity: 0.7; font-size: 0.72rem; margin-left: 3px; }
+
+.seccion { margin-bottom: 22px; }
+.sec-titulo { font-size: 1.05rem; margin: 4px 0 10px; }
+.sec-n { color: var(--gris); font-size: 0.8rem; font-weight: 400; margin-left: 6px; }
+.ver-mas { display: block; width: 100%; margin-top: 8px; background: #2a2a44; color: var(--naranja); }
+
 .modal {
   position: fixed; inset: 0; background: rgba(0,0,0,0.6);
   display: flex; align-items: flex-end; justify-content: center; z-index: 50;

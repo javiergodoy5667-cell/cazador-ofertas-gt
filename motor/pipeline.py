@@ -14,7 +14,7 @@ import time
 from pathlib import Path
 
 from recolectores import RECOLECTORES
-from . import config, historial, puntaje
+from . import categorias, config, historial, puntaje
 
 BASE = Path(__file__).resolve().parent.parent
 DATA = BASE / "data"
@@ -70,16 +70,25 @@ def ejecutar(productos=None):
             fuentes.setdefault(p["tienda"], {"productos": 0, "estado": "OK"})
             fuentes[p["tienda"]]["productos"] += 1
 
-    # Registrar en historial (una observacion por producto/dia)
+    # Clasificar categoria unificada (se conserva la original de la tienda)
     for p in productos:
+        p["categoria_tienda"] = p.get("categoria", "")
+        p["categoria"] = categorias.clasificar(p.get("categoria_tienda", ""),
+                                               p.get("nombre", ""))
+
+    # Registrar en historial por lotes (solo se anade linea si el precio cambia)
+    por_tienda = {}
+    for p in productos:
+        por_tienda.setdefault(p["tienda"], []).append(p)
+    for tienda, lista in por_tienda.items():
         try:
-            historial.registrar(p["tienda"], p)
+            historial.registrar_lote(tienda, lista)
         except Exception:
             continue
 
     # Podar historial viejo (>90 dias)
     max_dias = cfg.get("historial_max_dias", 90)
-    for tienda in {p["tienda"] for p in productos}:
+    for tienda in por_tienda:
         try:
             historial.podar(tienda, dias=max_dias)
         except Exception:
@@ -87,7 +96,7 @@ def ejecutar(productos=None):
 
     # Indexar historial por id de producto
     idx = {}
-    for tienda in {p["tienda"] for p in productos}:
+    for tienda in por_tienda:
         for o in historial.cargar(tienda):
             idx.setdefault(o["id"], []).append(o)
 
@@ -113,8 +122,8 @@ def ejecutar(productos=None):
     # precios.json: id -> serie cronologica [{fecha, precio}] para la grafica.
     precios = {}
     for pid, lista in idx.items():
-        lista = sorted(lista, key=lambda o: o.get("fecha", ""))
-        precios[pid] = [{"fecha": o["fecha"], "precio": o["precio"]}
+        lista = sorted(lista, key=lambda o: o.get("fecha_inicio", ""))
+        precios[pid] = [{"fecha": o.get("fecha_inicio"), "precio": o["precio"]}
                         for o in lista]
     (DATA / "precios.json").write_text(
         json.dumps(precios, ensure_ascii=False, indent=2), encoding="utf-8")

@@ -42,10 +42,12 @@ def horas_restantes(fin_oferta):
 
 
 def formatear_oferta(o):
-    """Arma el texto de una oferta con el formato del proyecto."""
+    """Arma el texto de una oferta. Empieza con el emoji de su categoria."""
     desc = round(o.get("descuento_real", 0) * 100)
+    cat = o.get("categoria") or ""
+    emoji = cat.split(" ")[0] if cat else ""
     lineas = [
-        f"{o.get('nivel_emoji','')} {o.get('nivel_label','')} · -{desc}% real",
+        f"{emoji} {o.get('nivel_emoji','')} {o.get('nivel_label','')} · -{desc}% real",
         o.get("nombre", ""),
     ]
     precio = o.get("precio_actual", 0)
