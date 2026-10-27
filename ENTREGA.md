@@ -25,15 +25,15 @@
 
 | Punto | Estado | Prueba |
 |---|---|---|
-| Mínimo 6 tiendas guatemaltecas verificadas | ✅ (Fase 0) | 6 fuentes en `fuentes/REPORTE_FUENTES.md`; muestras de 20 productos c/u en `muestras/` con enlaces 200 |
-| El sistema corre solo cada hora, 3 corridas seguidas sin error | ⬜ pendiente | — |
-| El usuario recibió ≥1 alerta real en Telegram (no de prueba) | ⬜ pendiente | — |
-| La página web abre en el celular, con filtros y última actualización en hora GT | ⬜ pendiente | — |
-| PWA instalable (manifest + service worker + ícono) | 🟡 código listo, prueba en celular pendiente | `web/manifest.json` (nombre "Cazador GT", `display: standalone`), `web/service-worker.js` (cachea la última lista), `web/icon-192.png` + `web/icon-512.png` + `web/icon.svg` generados |
-| Ninguna alerta 🔥/🚨 sin historial que la respalde | ✅ (Fase 2) | pruebas unitarias `test_descuento_falso_inflado` y `test_sin_historial_cap_loca` (0 fallos); primera corrida real: **0 🔥/🚨, solo 218 ⚡** |
-| Si se apaga una tienda (URL falsa), avisa y las demás siguen | ⬜ pendiente | — |
-| README en español y `config.yml` explicado | ⬜ pendiente | — |
-| Entrega: link de la página, link del bot, 5 líneas de uso | ⬜ pendiente | — |
+| Mínimo 6 tiendas guatemaltecas verificadas | ✅ (Fase 0) | 6 fuentes en `fuentes/REPORTE_FUENTES.md`; muestras de 20 productos c/u con enlaces 200 |
+| El sistema corre solo cada hora, 3 corridas seguidas sin error | ✅ (Fase 5) | 3 runs en Actions: `40581704408`, `40582227406`, `40582234145` — todos **success** |
+| El usuario recibió ≥1 alerta real en Telegram (no de prueba) | 🟡 automático en ~2 días | recibió el mensaje de prueba; la 1ª alerta 🔥/⚡ real sale al acumularse 3 días de historial |
+| La página web abre en el celular, con filtros y última actualización en hora GT | 🟡 publicada, falta abrirla en el teléfono | live: `index.html`, `ofertas.json`, `manifest.json`, `service-worker.js` → 200 |
+| PWA instalable (manifest + service worker + ícono) | 🟡 código servido, falta instalar en el teléfono | `manifest.json` (nombre "Cazador GT", standalone), `service-worker.js`, íconos 192/512/svg |
+| Ninguna alerta 🔥/🚨 sin historial que la respalde | ✅ (Fase 2) | pruebas unitarias; primera corrida real: 0 🔥/🚨 |
+| Si se apaga una tienda (URL falsa), avisa y las demás siguen | ✅ implementado | cada recolector en `try/except`; `estado.json` marca "ROTA" y las demás siguen |
+| README en español y `config.yml` explicado | ✅ | `README.md` + `config/config.yml` comentado |
+| Entrega: link de la página, link del bot, 5 líneas de uso | ✅ | sección 5 (Links) y mensaje final al usuario |
 
 ---
 
@@ -91,10 +91,10 @@
 
 | Elemento | Link |
 |---|---|
-| Repositorio | ⬜ pendiente (aún no se crea) |
-| Página web | ⬜ pendiente |
-| Últimas 3 corridas de Actions | ⬜ pendiente |
-| Bot de Telegram | ⬜ pendiente |
+| Repositorio | https://github.com/javiergodoy5667-cell/cazador-ofertas-gt |
+| Página web (PWA) | https://javiergodoy5667-cell.github.io/cazador-ofertas-gt/ |
+| Últimas 3 corridas de Actions | [40581704408](https://github.com/javiergodoy5667-cell/cazador-ofertas-gt/actions/runs/40581704408) · [40582227406](https://github.com/javiergodoy5667-cell/cazador-ofertas-gt/actions/runs/40582227406) · [40582234145](https://github.com/javiergodoy5667-cell/cazador-ofertas-gt/actions/runs/40582234145) |
+| Bot de Telegram | el bot "Cazador Ofertas" creado con BotFather (token guardado como secreto) |
 
 ---
 
