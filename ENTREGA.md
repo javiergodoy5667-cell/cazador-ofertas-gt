@@ -267,3 +267,23 @@ verificarla); los 3 runs *schedule* se comprueban solos mañana.
 
 
 
+
+---
+
+## 11. Auditoría 6 — 3 arreglos (2026-10-27)
+
+1. **Service worker "red primero".** `CACHE` subió a `cazador-gt-v2`. `index.html`,
+   `app.js`, `style.css` y los `.json` usan **red primero** con caché de respaldo
+   (si no hay internet sirve la copia); iconos quedan en caché. Al cambiar `CACHE`
+   el `activate` borra la versión vieja y `skipWaiting()` toma el control, sin perder
+   datos del usuario.
+2. **Disparador `push`.** `.github/workflows/cazar.yml` ahora corre en `push` a `main`
+   cuando cambia `web/**`, así los arreglos se publican al momento. Verificado: el push
+   anterior generó la corrida `40600537803` con `event=push`.
+3. **Banner de historial.** Bug real: `const [o, p, e]` con solo 2 `fetch` dejaba `e`
+   en `undefined` (banner siempre 0). Corregido a `const [o, e]`; ahora lee
+   `estado.json` y muestra `dias_historial` real.
+
+**Prueba en teléfono (pendiente del usuario):** abrir la página en un móvil que ya
+tenía la versión vieja y confirmar que se ve la paginación (v2 fuerza la actualización
+del service worker). No borra datos: el `activate` solo elimina la caché anterior.
