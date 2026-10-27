@@ -287,3 +287,36 @@ verificarla); los 3 runs *schedule* se comprueban solos mañana.
 **Prueba en teléfono (pendiente del usuario):** abrir la página en un móvil que ya
 tenía la versión vieja y confirmar que se ve la paginación (v2 fuerza la actualización
 del service worker). No borra datos: el `activate` solo elimina la caché anterior.
+
+---
+
+## 12. Auditoría 7 — Simán en dólares, comparaciones falsas, paginación (2026-10-27)
+
+1. **Simán en dólares (GRAVE).** `www.siman.com` es El Salvador (USD). Corregido:
+   API en `simanguatemala.vtexcommercestable.com.br` (quetzales) y links a
+   `gt.siman.com`. Historial de Simán borrado. Verificado local: Q219, Q39, Q119 con
+   links `gt.siman.com/.../p`. En la corrida limpia `40603262216`: **0 ofertas de Simán
+   con `www.siman.com`** (las falsas de -90% desaparecieron).
+2. **Comparaciones falsas.** Sin EAN se exige ahora marca + modelo + **tamaño/peso**
+   (`_tamano` en `mercado.py`). 🚨 solo con EAN o 2+ tiendas. Si el precio es <20% del
+   mercado se marca `revisar` y **no va a Telegram** (1 en la corrida).
+3. **Cemaco y Elektra sin ofertas:** no es un error. Tienen EAN (2,856 y 744) pero
+   **no coinciden con otra tienda** (catálogos distintos) y el historial tiene 1 día
+   (se necesitan 3). Cuando haya coincidencias o historial, aparecerán.
+4. **Página infinita.** La vista "Todas" ya es una lista paginada de 24 por página
+   (ordenada por puntaje) con "Página X de Y" arriba y abajo; la barra de categorías
+   sigue arriba para filtrar.
+5. **Top 10 por descuento** (corrida `40603262216`, 143 ofertas Walmart/La Torre):
+   1. Lechuga Mantequilla Mix Express (La Torre) Q18.1 vs Walmart Q145 — ⚠️ revisar
+   2. Aceite Borges Oliva 1L (Walmart) Q25 vs La Torre Q47.7
+   3. Jamón York Sant Dalmai (La Torre) Q29.2 vs Walmart Q55
+   4. Pan Europa hotdog 840g (Walmart) Q16.2 vs La Torre Q24.4
+   5. Queso Mozzarella Dos Pinos (La Torre) Q19.9 vs Walmart Q30
+   6. Vino Gato Negro rosé 750ml (Walmart) Q29.9 vs La Torre Q43.3
+   7. Cereal Gran Día Choco Chiwi 690g (Walmart) Q20 vs La Torre Q28.6
+   8. Mezcla pastel Gold Medal choc. (Walmart) Q21 vs La Torre Q29.6
+   9. Incaparina 300g (Walmart) Q17.2 vs La Torre Q24.2
+   10. Premezcla pastel Gold Medal vainilla (Walmart) Q21 vs La Torre Q29.3
+
+**Pruebas:** `Ran 25 tests ... OK` (incluye tamaño distinto → no empareja, 🚨 solo con
+EAN/2 tiendas).
