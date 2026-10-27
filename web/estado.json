@@ -1,11 +1,65 @@
 {
-  "ultima_corrida": "2026-10-27T16:47:47-06:00",
-  "duracion_seg": 242.3,
-  "productos_leidos": 25689,
+  "ultima_corrida": "2026-10-27T17:06:02-06:00",
+  "duracion_seg": 242.5,
+  "productos_leidos": 25716,
   "dias_historial": 1,
+  "con_ean": {
+    "Elektra GT": 744,
+    "La Torre": 5663,
+    "Cemaco": 2559,
+    "Simán": 2563,
+    "Walmart GT": 6040
+  },
+  "coincidencias": 2693,
+  "antes_inflado": 423,
+  "inflado_ejemplos": [
+    {
+      "nombre": "Ventilador de Pared Navia M018P",
+      "tienda": "Elektra GT",
+      "antes": 599.0,
+      "precio": 499.0,
+      "max_otro": 499.99,
+      "url": "https://www.elektra.com.gt/ventilador-de-pared-navia-m018p-12003124/p"
+    },
+    {
+      "nombre": "Set de 3 Sartenes Picca Gravina con Recubrimiento de Mármol ",
+      "tienda": "Elektra GT",
+      "antes": 499.0,
+      "precio": 339.0,
+      "max_otro": 309.99,
+      "url": "https://www.elektra.com.gt/juego-de-sarten-picca-de-3-piezas-pi003ssmu-c-10004534/p"
+    },
+    {
+      "nombre": "Garbanzos Killios Lata",
+      "tienda": "La Torre",
+      "antes": 13.65,
+      "precio": 13.65,
+      "max_otro": 11.65,
+      "url": "https://www.latorre.com.gt/garbanzos-killios-lata-116708/p"
+    },
+    {
+      "nombre": "Maíz Dulce Grano Killios",
+      "tienda": "La Torre",
+      "antes": 9.3,
+      "precio": 9.3,
+      "max_otro": 7.5,
+      "url": "https://www.latorre.com.gt/maiz-dulce-grano-killios-39192/p"
+    },
+    {
+      "nombre": "Salsa Verde Herdez",
+      "tienda": "La Torre",
+      "antes": 21.0,
+      "precio": 21.0,
+      "max_otro": 17.5,
+      "url": "https://www.latorre.com.gt/salsa-verde-herdez-8166/p"
+    }
+  ],
   "ofertas_por_nivel": {
-    "buena": 1793,
-    "agotado": 65
+    "error": 17,
+    "loca": 1,
+    "muy_buena": 24,
+    "buena": 109,
+    "agotado": 8
   },
   "fuentes": {
     "recolectores.elektra": {
@@ -17,23 +71,23 @@
       "estado": "OK"
     },
     "recolectores.la_torre": {
-      "productos": 6028,
+      "productos": 6027,
       "estado": "OK"
     },
     "recolectores.cemaco": {
-      "productos": 6026,
+      "productos": 6041,
       "estado": "OK"
     },
     "recolectores.siman": {
-      "productos": 6018,
+      "productos": 6033,
       "estado": "OK"
     },
     "recolectores.walmart": {
-      "productos": 6039,
+      "productos": 6040,
       "estado": "OK"
     },
     "recolectores.intelaf": {
-      "productos": 235,
+      "productos": 232,
       "estado": "OK"
     }
   },
