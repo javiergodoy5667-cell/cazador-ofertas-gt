@@ -14,7 +14,7 @@ import time
 from pathlib import Path
 
 from recolectores import RECOLECTORES
-from . import categorias, config, historial, puntaje
+from . import categorias, config, historial, mercado, puntaje
 
 BASE = Path(__file__).resolve().parent.parent
 DATA = BASE / "data"
@@ -76,6 +76,9 @@ def ejecutar(productos=None):
         p["categoria"] = categorias.clasificar(p.get("categoria_tienda", ""),
                                                p.get("nombre", ""))
 
+    # Comparacion entre tiendas (EAN / marca+modelo) -> precio de mercado
+    info_mercado = mercado.calcular(productos)
+
     # Registrar en historial por lotes (solo se anade linea si el precio cambia)
     por_tienda = {}
     for p in productos:
@@ -104,7 +107,8 @@ def ejecutar(productos=None):
     ofertas = []
     for p in productos:
         try:
-            o = puntaje.evaluar(p, idx.get(p["id"], []), alertados=alertados)
+            o = puntaje.evaluar(p, idx.get(p["id"], []), alertados=alertados,
+                                mercado=info_mercado.get(p["id"]))
         except Exception:
             o = None
         if o:
@@ -136,6 +140,22 @@ def ejecutar(productos=None):
     (WEB / "precios.json").write_text(
         json.dumps(precios, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # Resumen LIGERO para las tarjetas (claves cortas) -> primera carga rapida.
+    resumen = []
+    for o in ofertas:
+        resumen.append({
+            "i": o["id"], "n": (o["nombre"] or "")[:80], "p": o["precio_actual"],
+            "d": o["descuento_real"], "lv": o["nivel"], "t": o["tienda"],
+            "c": o["categoria"], "img": o.get("imagen"), "u": o["url"],
+            "m": [{"t": m["tienda"], "p": m["precio"], "u": m["url"]}
+                  for m in o.get("mercado", [])],
+            "f": o.get("fuente_referencia"), "ai": bool(o.get("antes_inflado")),
+            "dr": o.get("precio_referencia"),
+        })
+    (WEB / "ofertas-resumen.json").write_text(
+        json.dumps(resumen, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8")
+
     # Nota: el marcado de "alertados" (antispam) lo hace alertas/enviar.py
     # solo para lo que realmente se envio por Telegram.
 
@@ -148,12 +168,34 @@ def ejecutar(productos=None):
             if o.get("fecha_inicio")}
     dias_historial = len(dias)
 
+    con_ean = {}
+    for p in productos:
+        if p.get("ean"):
+            con_ean[p["tienda"]] = con_ean.get(p["tienda"], 0) + 1
+
+    inflado_ejemplos = []
+    for p in productos:
+        info = info_mercado.get(p["id"])
+        if info and info["antes_inflado"] and len(inflado_ejemplos) < 5:
+            inflado_ejemplos.append({
+                "nombre": (p.get("nombre") or "")[:60],
+                "tienda": p.get("tienda"),
+                "antes": p.get("precio_antes_tienda"),
+                "precio": p.get("precio_actual"),
+                "max_otro": max(x["precio"] for x in info["mercado"]),
+                "url": p.get("url"),
+            })
+
     estado = {
         "ultima_corrida": dt.datetime.now(dt.timezone(dt.timedelta(hours=-6)))
                           .isoformat(timespec="seconds"),
         "duracion_seg": round(time.monotonic() - inicio, 1),
         "productos_leidos": len(productos),
         "dias_historial": dias_historial,
+        "con_ean": con_ean,
+        "coincidencias": len(info_mercado),
+        "antes_inflado": sum(1 for v in info_mercado.values() if v["antes_inflado"]),
+        "inflado_ejemplos": inflado_ejemplos,
         "ofertas_por_nivel": por_nivel,
         "fuentes": fuentes,
         "fallos": [{"fuente": n, "error": e} for n, e in fallos],

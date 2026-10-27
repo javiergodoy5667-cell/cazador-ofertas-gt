@@ -56,6 +56,10 @@ def formatear_oferta(o):
     lineas.append(f"Q{precio:,.0f} (antes ~Q{ref:,.0f}{sufijo})")
     modo = "🛒 Pagar en línea" if o.get("modo_compra") == "en_linea" else "🏪 Ir a la tienda"
     lineas.append(f"🏬 {o.get('tienda','')} · {modo}")
+    m = o.get("mercado") or []
+    if m:
+        partes = [f"{x['tienda']} Q{x['precio']:,.0f}" for x in m[:3]]
+        lineas.append("💸 Más barato que: " + " · ".join(partes))
     h = horas_restantes(o.get("fin_oferta"))
     if h is not None:
         lineas.append(f"⏰ Termina en {h} h")

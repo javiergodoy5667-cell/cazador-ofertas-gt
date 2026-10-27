@@ -36,11 +36,15 @@ def _ldjson_producto(body):
                 img = img[0] if img else None
             disp = "InStock" in str(offers.get("availability", ""))
             categoria = o.get("category", "")
+            ean = o.get("gtin13") or o.get("gtin12") or o.get("gtin") or ""
+            marca = o.get("brand")
+            marca = marca.get("name", "") if isinstance(marca, dict) else (marca or "")
+            modelo = o.get("mpn") or o.get("sku") or ""
             return _base.nuevo_producto(
                 id_="", tienda="", nombre=o.get("name", ""),
                 precio=precio, antes=None,
                 url=offers.get("url", ""), imagen=img, categoria=categoria,
-                disponible=disp)
+                disponible=disp, ean=ean, marca=marca, modelo=modelo)
     return None
 
 

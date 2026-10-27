@@ -144,9 +144,12 @@ footer { text-align: center; color: var(--gris); font-size: 0.8rem; margin-top: 
 .pag-puntos { padding: 0 4px; color: var(--gris); }
 .pag-info { color: var(--gris); font-size: 0.8rem; margin-top: 6px; }
 
-/* Etiqueta "Sin verificar" */
-.sin-verif {
-  background: #4a3200; color: #ffd27a; font-size: 0.72rem;
+/* Etiquetas de comparación entre tiendas */
+.compara { color: #9fe0b0; font-size: 0.8rem; margin-top: 6px; line-height: 1.4; }
+.compara a { color: #9fe0b0; text-decoration: underline; }
+.verif { color: #7ee0a0; font-size: 0.75rem; margin-top: 3px; font-weight: 600; }
+.inflado {
+  background: #5a1a1a; color: #ffb0b0; font-size: 0.72rem;
   padding: 4px 8px; border-radius: 6px; margin-bottom: 6px; line-height: 1.3;
 }
 

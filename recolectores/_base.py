@@ -90,9 +90,18 @@ def ahora_gt():
     return dt.datetime.now(utc).isoformat(timespec="seconds")
 
 
+def normalizar_ean(v):
+    """Deja solo digitos del codigo de barras. '' si no valido (>=8 digitos)."""
+    import re
+    if v is None:
+        return ""
+    d = re.sub(r"\D", "", str(v))
+    return d if len(d) >= 8 else ""
+
+
 def nuevo_producto(id_, tienda, nombre, precio, antes, url, imagen,
                    categoria="", disponible=True, modo_compra="en_linea",
-                   fin_oferta=None):
+                   fin_oferta=None, ean="", marca="", modelo=""):
     """Construye el dict estandar de producto."""
     return {
         "id": id_,
@@ -107,5 +116,8 @@ def nuevo_producto(id_, tienda, nombre, precio, antes, url, imagen,
         "disponible": bool(disponible),
         "modo_compra": modo_compra,
         "fin_oferta": fin_oferta,
+        "ean": normalizar_ean(ean),
+        "marca": (marca or "").strip(),
+        "modelo": (modelo or "").strip(),
         "visto_en": ahora_gt(),
     }

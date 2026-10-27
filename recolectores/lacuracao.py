@@ -64,11 +64,16 @@ def _extraer_productos(html):
                 continue
             url = off.get("url") or o.get("url") or ""
             disp = "InStock" in str(off.get("availability", ""))
+            ean = o.get("gtin13") or o.get("gtin12") or o.get("gtin") or ""
+            marca = o.get("brand")
+            marca = marca.get("name", "") if isinstance(marca, dict) else (marca or "")
+            modelo = o.get("mpn") or o.get("sku") or ""
             out.append(_base.nuevo_producto(
                 id_=_id_estable(url), tienda=TIENDA, nombre=o.get("name", ""),
                 precio=precio, antes=None, url=url,
                 imagen=_imagen(o.get("image")), categoria="",
-                disponible=disp, modo_compra="en_linea"))
+                disponible=disp, modo_compra="en_linea",
+                ean=ean, marca=marca, modelo=modelo))
     return out
 
 

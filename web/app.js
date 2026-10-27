@@ -13,22 +13,31 @@ const state = {
   ofertas: [],
   precios: {},
   estado: {},
-  tab: "ofertas",       // "ofertas" | "sinverificar"
+  tab: "ofertas",       // "ofertas" | "verificadas"
   categoria: "",
   pag: 1
 };
 
-/* ---------- utilidades ---------- */
 function formato(n) {
   if (n == null || isNaN(n)) return "0";
   return Number(n).toLocaleString("es-GT", { maximumFractionDigits: 0 });
+}
+
+/* Convierte el resumen ligero (claves cortas) al formato interno. */
+function desdeResumen(r) {
+  return {
+    id: r.i, nombre: r.n, precio_actual: r.p, descuento_real: r.d,
+    nivel: r.lv, tienda: r.t, categoria: r.c, imagen: r.img, url: r.u,
+    mercado: r.m || [], fuente_referencia: r.f, antes_inflado: r.ai,
+    precio_referencia: r.dr
+  };
 }
 
 function leerURL() {
   const p = new URLSearchParams(location.search);
   state.pag = Math.max(1, parseInt(p.get("pag")) || 1);
   state.categoria = p.get("cat") || localStorage.getItem("cazador_cat") || "";
-  state.tab = p.get("tab") === "sinverificar" ? "sinverificar" : "ofertas";
+  state.tab = p.get("tab") === "verificadas" ? "verificadas" : "ofertas";
 }
 
 function escribirURL(push) {
@@ -41,16 +50,15 @@ function escribirURL(push) {
   history[push ? "pushState" : "replaceState"]({}, "", url);
 }
 
-/* ---------- carga ---------- */
 async function cargar() {
   leerURL();
   try {
     const [o, p, e] = await Promise.all([
-      fetch("ofertas.json").then((r) => r.json()),
+      fetch("ofertas-resumen.json").then((r) => r.json()),
       fetch("precios.json").then((r) => r.json()).catch(() => ({})),
       fetch("estado.json").then((r) => r.json()).catch(() => ({}))
     ]);
-    state.ofertas = Array.isArray(o) ? o : [];
+    state.ofertas = Array.isArray(o) ? o.map(desdeResumen) : [];
     state.precios = p || {};
     state.estado = e || {};
   } catch (err) {
@@ -85,7 +93,6 @@ function poblarFiltros() {
   $("barra_categorias").innerHTML = html;
 }
 
-/* ---------- filtros ---------- */
 function filtradas() {
   const q = $("busqueda").value.trim().toLowerCase();
   const nivel = $("nivel").value;
@@ -115,32 +122,22 @@ function ordenar(lista) {
   return [...lista].sort((a, b) => (b.puntaje || 0) - (a.puntaje || 0));
 }
 
-function sinVerificar() {
-  return state.ofertas.filter((o) => {
-    const antes = o.precio_antes_tienda;
-    if (!antes || antes <= 0 || !o.sin_historial) return false;
-    return (antes - o.precio_actual) / antes >= 0.5;
-  }).sort((a, b) =>
-    ((b.precio_antes_tienda - b.precio_actual) / b.precio_antes_tienda) -
-    ((a.precio_antes_tienda - a.precio_actual) / a.precio_antes_tienda));
-}
-
-/* ---------- render ---------- */
 function renderizar() {
   const dias = state.estado.dias_historial || 0;
-  $("banner").textContent = `Historial: ${dias} día${dias === 1 ? "" : "s"}. Las ofertas 🔥 y 🚨 verificadas empiezan con 3 días.`;
+  const coinci = state.estado.coincidencias || 0;
+  $("banner").textContent = `Historial: ${dias} día${dias === 1 ? "" : "s"} · ` +
+    `Comparadas con otras tiendas: ${coinci}. Las ofertas 🔥 y 🚨 se verifican con 3 días o comparación.`;
   $("tab_ofertas").classList.toggle("activa", state.tab === "ofertas");
-  $("tab_sinverif").classList.toggle("activa", state.tab === "sinverificar");
+  $("tab_verif").classList.toggle("activa", state.tab === "verificadas");
   $("barra_categorias").hidden = state.tab !== "ofertas";
 
-  if (state.tab === "sinverificar") {
-    renderPaginado(sinVerificar(), true);
+  const lista = ordenar(filtradas());
+  if (state.tab === "verificadas") {
+    renderPaginado(lista);
     return;
   }
-  const lista = ordenar(filtradas());
   if (state.categoria !== "") {
-    const solo = lista.filter((o) => (o.categoria || "📦 Otros") === state.categoria);
-    renderPaginado(solo, false);
+    renderPaginado(lista.filter((o) => (o.categoria || "📦 Otros") === state.categoria));
   } else {
     renderAgrupada(lista);
   }
@@ -180,7 +177,7 @@ function renderAgrupada(lista) {
   }
 }
 
-function renderPaginado(lista, esSinVerif) {
+function renderPaginado(lista) {
   const total = lista.length;
   const totalPag = Math.max(1, Math.ceil(total / POR_PAGINA));
   if (state.pag > totalPag) state.pag = totalPag;
@@ -190,7 +187,7 @@ function renderPaginado(lista, esSinVerif) {
   const grid = $("grid");
   grid.innerHTML = "";
   $("vacio").hidden = pagina.length > 0;
-  for (const o of pagina) grid.appendChild(tarjeta(o, esSinVerif));
+  for (const o of pagina) grid.appendChild(tarjeta(o));
 
   const info = `Página ${state.pag} de ${totalPag} · ${total} ofertas`;
   renderControles($("paginacion_top"), totalPag, info);
@@ -265,8 +262,8 @@ function setTab(t) {
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
-/* ---------- tarjeta ---------- */
-function tarjeta(o, sinVerif) {
+/* ---------- tarjeta con comparación entre tiendas ---------- */
+function tarjeta(o) {
   const art = document.createElement("article");
   art.className = "tarjeta nivel-" + (o.nivel || "buena");
   art.addEventListener("click", () => abrirModal(o));
@@ -275,29 +272,41 @@ function tarjeta(o, sinVerif) {
     : "";
   const desc = Math.round((o.descuento_real || 0) * 100);
   const modo = o.modo_compra === "en_linea" ? "🛒 en línea" : "🏪 en tienda";
-  const etiqueta = sinVerif
-    ? `<div class="sin-verif">Sin verificar: precio "antes" dicho por la tienda</div>` : "";
+
+  let compara = "";
+  const m = o.mercado || [];
+  if (m.length) {
+    const partes = m.slice(0, 3).map((x) =>
+      `<a href="${esc(x.u)}" target="_blank" rel="noopener">Q${formato(x.p)} en ${esc(x.t)}</a>`);
+    compara = `<div class="compara">Q${formato(o.precio_actual)} aquí · ${partes.join(" · ")}</div>`;
+    compara += `<div class="verif">✅ Verificada vs ${m.length} tienda${m.length === 1 ? "" : "s"}</div>`;
+  } else if (o.fuente_referencia === "historial") {
+    compara = `<div class="verif">✅ Verificada por historial</div>`;
+  }
+
+  const inflado = o.antes_inflado
+    ? `<div class="inflado">⚠️ "Antes" inflado por la tienda</div>` : "";
+
   art.innerHTML = `
     ${img}
     <div class="badge">${esc(o.nivel_emoji || "")} ${esc(o.nivel_label || "")} · -${desc}%</div>
     <div class="contenido">
-      ${etiqueta}
+      ${inflado}
       <div class="nombre">${esc(o.nombre)}</div>
       <div class="precio">Q${formato(o.precio_actual)}</div>
-      <div class="antes">antes ~Q${formato(o.precio_referencia)}</div>
-      <div class="ahorro">Ahorras Q${formato(o.ahorro_q)}</div>
+      <div class="antes">referencia ~Q${formato(o.precio_referencia)}</div>
       <div class="meta">🏬 ${esc(o.tienda)} · ${modo}</div>
+      ${compara}
       <a class="boton" href="${esc(o.url)}" target="_blank" rel="noopener"
          onclick="event.stopPropagation()">Ver / Comprar</a>
     </div>`;
   return art;
 }
 
-/* ---------- modal ---------- */
 function abrirModal(o) {
   $("modal_nombre").textContent = o.nombre;
   $("modal_precio").textContent =
-    `Q${formato(o.precio_actual)} · −${Math.round((o.descuento_real || 0) * 100)}%`;
+    `Q${formato(o.precio_actual)} · −${Math.round((o.descuento_real || 0) * 100)}% vs referencia`;
   $("modal_link").href = o.url || "#";
   dibujarGrafica(o.id);
   $("modal").hidden = false;
@@ -307,7 +316,7 @@ function dibujarGrafica(id) {
   const cont = $("modal_grafica");
   const serie = (state.precios[id] || []).slice(-30);
   if (serie.length < 2) {
-    cont.innerHTML = "<p class='sinhist'>Aún no hay historial (se construye día a día).</p>";
+    cont.innerHTML = "<p class='sinhist'>Aún no hay historial de este producto (se construye día a día).</p>";
     return;
   }
   const w = 320, h = 140, pad = 8;
@@ -330,7 +339,7 @@ function dibujarGrafica(id) {
 }
 
 function actualizarPie() {
-  const ts = state.ofertas.map((o) => o.visto_en).filter(Boolean).sort().pop();
+  const ts = state.estado.ultima_corrida;
   if (ts) {
     const hora = String(ts).split("T")[1] ? String(ts).split("T")[1].slice(0, 5) : "";
     $("pie").textContent = `Última actualización: ${hora} (hora Guatemala)`;
@@ -344,7 +353,6 @@ function mpLink(termino) {
     encodeURIComponent(termino);
 }
 
-/* ---------- eventos ---------- */
 document.addEventListener("DOMContentLoaded", () => {
   $("nivel").innerHTML =
     '<option value="">Cualquier nivel</option>' +
@@ -369,13 +377,9 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   $("tab_ofertas").addEventListener("click", () => setTab("ofertas"));
-  $("tab_sinverif").addEventListener("click", () => setTab("sinverificar"));
+  $("tab_verif").addEventListener("click", () => setTab("verificadas"));
 
-  window.addEventListener("popstate", () => {
-    leerURL();
-    poblarFiltros();
-    renderizar();
-  });
+  window.addEventListener("popstate", () => { leerURL(); poblarFiltros(); renderizar(); });
 
   const abrirMp = () => {
     const t = $("mp_busqueda").value.trim();

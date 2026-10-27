@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Motor de puntaje. Mide el descuento real contra el historial propio
-(no contra el "precio antes" que la tienda puede inflar).
-
-Entrada: un producto (dict) y las observaciones de su historial.
-Salida: dict de oferta con nivel y puntaje, o None si se ignora.
+Motor de puntaje. La referencia (en orden de confianza) es:
+  1) historial propio >= 3 dias (mediana)
+  2) precio de mercado en otras tiendas (comparacion por EAN / marca+modelo)
+  3) nada -> el producto NO es oferta.
+El "precio antes" de la tienda NUNCA se usa para calcular niveles.
 """
 import datetime as dt
 import statistics
@@ -23,7 +23,6 @@ PRECIO_BASURA = 15.0
 
 
 def _subir(nivel):
-    """Sube un nivel de urgencia (buena -> muy_buena -> loca -> error)."""
     orden = NIVELES[nivel]["orden"]
     nuevo = max(0, orden - 1)
     for k, v in NIVELES.items():
@@ -32,10 +31,8 @@ def _subir(nivel):
     return nivel
 
 
-def _relampago(prod, ahora=None):
-    """Relampago SOLO si hay una etiqueta explicita de la tienda.
-    Nota (auditoria): el campo `fin_oferta` de VTEX es `PriceValidUntil`, una
-    fecha por defecto (~1 anio vista) que NO indica oferta relampago; se ignora."""
+def _relampago(prod):
+    """Relampago SOLO con etiqueta explicita (fin_oferta de VTEX es un default)."""
     nombre = (prod.get("nombre") or "").lower()
     marcas = ("flash", "relampago", "relámpago", "oferta del dia",
               "oferta del día", "solo hoy", "oferta de hoy", "deal del dia",
@@ -44,7 +41,6 @@ def _relampago(prod, ahora=None):
 
 
 def _dias_activos(o, hoy, ventana=VENTANA_DIAS):
-    """Dias (ISO) en los ultimos `ventana` dias en que la observacion estuvo vigente."""
     try:
         inicio = dt.date.fromisoformat(o.get("fecha_inicio") or o.get("fecha"))
         fin = dt.date.fromisoformat(o.get("visto_hasta")
@@ -59,16 +55,12 @@ def _dias_activos(o, hoy, ventana=VENTANA_DIAS):
 
 
 def precio_referencia(obs, hoy, prod=None):
-    """Devuelve (referencia, sin_historial, usa_unidad).
-    referencia = mediana de precios (o precio por unidad) expandiendo cada
-    observacion a sus dias activos dentro de los ultimos 30 dias.
-    Exige >=3 dias distintos; si no alcanza devuelve (None, True, ...).
-    """
-    expandido = []  # (fecha, observacion)
+    """Mediana de los ultimos 30 dias expandiendo dias activos.
+    Devuelve (referencia, sin_historial, usa_unidad)."""
+    expandido = []
     for o in obs:
         for d in _dias_activos(o, hoy):
             expandido.append((d, o))
-    # comparacion por unidad (evita falsos descuentos por cambio de tamano)
     if prod and prod.get("precio_unidad") is not None and prod.get("unidad"):
         pares = [(d, o) for d, o in expandido
                  if o.get("unidad") == prod["unidad"]
@@ -82,17 +74,15 @@ def precio_referencia(obs, hoy, prod=None):
     return None, True, False
 
 
-def evaluar(prod, obs, hoy=None, alertados=None):
-    """Evalua un producto contra su historial. Devuelve oferta o None."""
+def evaluar(prod, obs, hoy=None, alertados=None, mercado=None):
+    """Evalua un producto. Devuelve oferta o None (sin referencia = no oferta)."""
     hoy = hoy or dt.date.today()
     actual = prod.get("precio_actual")
     if actual is None or actual <= 0:
         return None
     disponible = bool(prod.get("disponible", True))
 
-    ref, sin_hist, usa_unidad = precio_referencia(obs, hoy, prod)
-
-    # Precio que se compara (por unidad si aplica, si no el total).
+    ref_hist, sin_hist, usa_unidad = precio_referencia(obs, hoy, prod)
     if usa_unidad:
         comparar = prod.get("precio_unidad")
         if comparar is None or comparar <= 0:
@@ -100,63 +90,72 @@ def evaluar(prod, obs, hoy=None, alertados=None):
     else:
         comparar = actual
 
-    if sin_hist:
-        antes = prod.get("precio_antes_tienda")
-        if antes is None or antes <= 0:
-            ref = comparar
-        else:
-            ref = antes
+    # Referencia: historial > mercado > nada.
+    if not sin_hist:
+        ref, fuente = ref_hist, "historial"
+    elif mercado and mercado.get("precio_mercado"):
+        ref, fuente = mercado["precio_mercado"], "mercado"
+    else:
+        return None
     if ref <= 0:
-        ref = comparar
+        return None
 
-    descuento = (ref - comparar) / ref if ref > 0 else 0.0
+    # "antes" inflado: se descarta (no se promociona).
+    if mercado and mercado.get("antes_inflado"):
+        return None
 
-    # Minimo historico: se compara contra dias ANTERIORES (no contra hoy,
-    # para no marcar "minimo" el primer dia que aparece el producto).
+    descuento = (ref - comparar) / ref
+
+    # Minimo historico (solo con historial real).
     hoy_iso = hoy.isoformat()
     if usa_unidad:
         previos = [o["precio_unidad"] for o in obs
                    if (o.get("fecha_inicio") or o.get("fecha", "")) < hoy_iso
                    and o.get("precio_unidad") is not None]
-        minimo = bool(previos) and comparar <= min(previos)
+        minimo = fuente == "historial" and bool(previos) and comparar <= min(previos)
     else:
         previos = [o["precio"] for o in obs
                    if (o.get("fecha_inicio") or o.get("fecha", "")) < hoy_iso]
-        minimo = bool(previos) and comparar <= min(previos)
+        minimo = fuente == "historial" and bool(previos) and comparar <= min(previos)
 
     relampago = _relampago(prod)
     ahorro = max(0.0, ref - comparar)
 
-    # Productos basura: ignorar precio final < Q15, salvo error de precio.
-    if actual < PRECIO_BASURA and not (descuento > 0.65 and not sin_hist):
+    if actual < PRECIO_BASURA and descuento < 0.55:
         return None
 
-    # Nivel base
-    if descuento > 0.65 and not sin_hist:
-        nivel = "error"
-    elif descuento >= 0.50:
-        nivel = "loca"
-    elif descuento >= 0.35 or (minimo and descuento >= 0.20):
-        nivel = "muy_buena"
-    elif descuento >= 0.20:
-        nivel = "buena"
-    else:
-        return None
+    if fuente == "historial":
+        if descuento > 0.65:
+            nivel = "error"
+        elif descuento >= 0.50:
+            nivel = "loca"
+        elif descuento >= 0.35 or (minimo and descuento >= 0.20):
+            nivel = "muy_buena"
+        elif descuento >= 0.20:
+            nivel = "buena"
+        else:
+            return None
+    else:  # mercado
+        if descuento > 0.55:
+            nivel = "error"
+        elif descuento >= 0.40:
+            nivel = "loca"
+        elif descuento >= 0.25:
+            nivel = "muy_buena"
+        elif descuento >= 0.15:
+            nivel = "buena"
+        else:
+            return None
 
-    # Oferta relampago sube un nivel.
     if relampago:
         nivel = _subir(nivel)
-    # Sin historial: tope AL FINAL (tras todos los bonos), nunca Telegram.
-    if sin_hist and nivel in ("error", "loca", "muy_buena"):
-        nivel = "buena"
     if not disponible:
         nivel = "agotado"
 
     puntaje = (descuento * 100
                + min(ahorro / 50.0, 30.0)
                + (15 if relampago else 0)
-               + (10 if minimo else 0)
-               - (20 if sin_hist else 0))
+               + (10 if minimo else 0))
 
     oferta = {
         "id": prod.get("id"),
@@ -173,6 +172,9 @@ def evaluar(prod, obs, hoy=None, alertados=None):
         "ahorro_q": round(ahorro, 2),
         "minimo_historico": minimo,
         "sin_historial": sin_hist,
+        "fuente_referencia": fuente,
+        "mercado": (mercado or {}).get("mercado", []),
+        "antes_inflado": bool((mercado or {}).get("antes_inflado")),
         "relampago": relampago,
         "nivel": nivel,
         "nivel_emoji": NIVELES[nivel]["emoji"],
@@ -183,13 +185,11 @@ def evaluar(prod, obs, hoy=None, alertados=None):
         "fin_oferta": prod.get("fin_oferta"),
         "visto_en": prod.get("visto_en"),
     }
-
     oferta["alerta_nueva"] = debe_alertar(prod["id"], actual, alertados or {})
     return oferta
 
 
 def debe_alertar(pid, precio, alertados):
-    """True si el producto debe alertarse: nunca alertado, o precio cayo >=5%."""
     ultimo = alertados.get(pid)
     if ultimo is None:
         return True
