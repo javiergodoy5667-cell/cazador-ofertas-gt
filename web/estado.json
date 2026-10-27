@@ -1,17 +1,17 @@
 {
-  "ultima_corrida": "2026-10-27T17:16:54-06:00",
-  "duracion_seg": 241.6,
-  "productos_leidos": 25718,
+  "ultima_corrida": "2026-10-27T17:28:01-06:00",
+  "duracion_seg": 241.9,
+  "productos_leidos": 25704,
   "dias_historial": 1,
   "con_ean": {
     "Elektra GT": 744,
-    "La Torre": 5663,
-    "Cemaco": 2559,
-    "Walmart GT": 6038,
-    "Simán": 2563
+    "Cemaco": 2855,
+    "La Torre": 5668,
+    "Walmart GT": 6039,
+    "Simán": 2564
   },
-  "coincidencias": 2693,
-  "antes_inflado": 423,
+  "coincidencias": 2691,
+  "antes_inflado": 421,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -30,28 +30,28 @@
       "url": "https://www.elektra.com.gt/juego-de-sarten-picca-de-3-piezas-pi003ssmu-c-10004534/p"
     },
     {
-      "nombre": "Garbanzos Killios Lata",
-      "tienda": "La Torre",
-      "antes": 13.65,
-      "precio": 13.65,
-      "max_otro": 11.65,
-      "url": "https://www.latorre.com.gt/garbanzos-killios-lata-116708/p"
+      "nombre": "Microondas de 1.1 Pie³ Food Expert Color Plateado",
+      "tienda": "Cemaco",
+      "antes": 899.99,
+      "precio": 899.99,
+      "max_otro": 109.0,
+      "url": "https://www.cemaco.com/microondas-11-pies-gris-whirlpool-1018357/p"
     },
     {
-      "nombre": "Maíz Dulce Grano Killios",
-      "tienda": "La Torre",
-      "antes": 9.3,
-      "precio": 9.3,
-      "max_otro": 7.5,
-      "url": "https://www.latorre.com.gt/maiz-dulce-grano-killios-39192/p"
+      "nombre": "Centro de Lavado Eléctrico de 20 Kg con Sistema HE, Agitador",
+      "tienda": "Cemaco",
+      "antes": 10399.0,
+      "precio": 8899.0,
+      "max_otro": 1179.0,
+      "url": "https://www.cemaco.com/centro-de-lavado-electrico-20-kg-whirlpool-1057402/p"
     },
     {
-      "nombre": "Salsa Verde Herdez",
-      "tienda": "La Torre",
-      "antes": 21.0,
-      "precio": 21.0,
-      "max_otro": 17.5,
-      "url": "https://www.latorre.com.gt/salsa-verde-herdez-8166/p"
+      "nombre": "Estufa de Piso a Gas 30 plg 6 Hornillas con Encendido Eléctr",
+      "tienda": "Cemaco",
+      "antes": 4059.0,
+      "precio": 3599.0,
+      "max_otro": 429.0,
+      "url": "https://www.cemaco.com/estufa-a-gas-de-6-hornillas-con-encendido-electrico-30-plg-whirlpool-1028074/p"
     }
   ],
   "ofertas_por_nivel": {
@@ -70,16 +70,16 @@
       "productos": 272,
       "estado": "OK"
     },
-    "recolectores.la_torre": {
-      "productos": 6027,
+    "recolectores.cemaco": {
+      "productos": 6025,
       "estado": "OK"
     },
-    "recolectores.cemaco": {
-      "productos": 6041,
+    "recolectores.la_torre": {
+      "productos": 6032,
       "estado": "OK"
     },
     "recolectores.walmart": {
-      "productos": 6038,
+      "productos": 6039,
       "estado": "OK"
     },
     "recolectores.siman": {
@@ -87,7 +87,7 @@
       "estado": "OK"
     },
     "recolectores.intelaf": {
-      "productos": 236,
+      "productos": 232,
       "estado": "OK"
     }
   },
