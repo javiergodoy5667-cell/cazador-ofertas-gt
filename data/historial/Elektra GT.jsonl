@@ -864,7 +864,7 @@
 {"id": "elektra-gt-31063511", "fecha": "2026-10-27", "precio": 5799.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:11-06:00", "visto_hasta": "2026-10-27"}
 {"id": "elektra-gt-31063503", "fecha": "2026-10-27", "precio": 1599.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:11-06:00", "visto_hasta": "2026-10-27"}
 {"id": "elektra-gt-31063431", "fecha": "2026-10-27", "precio": 1519.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:11-06:00", "visto_hasta": "2026-10-27"}
-{"id": "elektra-gt-31062158", "fecha": "2026-10-27", "precio": 1385.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:11-06:00", "visto_hasta": "2026-10-27"}
+{"id": "elektra-gt-31062158", "fecha": "2026-10-27", "precio": 1385.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:11-06:00", "visto_hasta": "2026-10-26"}
 {"id": "elektra-gt-31062138", "fecha": "2026-10-27", "precio": 1345.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:11-06:00", "visto_hasta": "2026-10-27"}
 {"id": "elektra-gt-31062101", "fecha": "2026-10-27", "precio": 1184.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:11-06:00", "visto_hasta": "2026-10-27"}
 {"id": "elektra-gt-31061728", "fecha": "2026-10-27", "precio": 657.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:11-06:00", "visto_hasta": "2026-10-27"}
@@ -1077,3 +1077,4 @@
 {"id": "elektra-gt-99003287", "fecha_inicio": "2026-10-27", "precio": 3899.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-31062689", "fecha_inicio": "2026-10-27", "precio": 1599.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-99002658", "fecha_inicio": "2026-10-27", "precio": 899.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
+{"id": "elektra-gt-31062158", "fecha_inicio": "2026-10-27", "precio": 899.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
