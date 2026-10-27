@@ -1,565 +1,5 @@
 [
   {
-    "id": "siman-4038110",
-    "tienda": "Simán",
-    "nombre": "Microondas Panasonic 62 L (2.2 PCU) inverter NN-ST965SRPH",
-    "categoria": "🍳 Electrodomésticos de cocina",
-    "url": "https://www.siman.com/producto/microondas-1200w-inverter-2-2-pcu-100491053/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5902154/100491053_100.jpg?v=638551251623430000",
-    "moneda": "GTQ",
-    "precio_actual": 209.0,
-    "precio_referencia": 1999.0,
-    "precio_antes_tienda": 229.0,
-    "descuento_real": 0.8954,
-    "ahorro_q": 1790.0,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 1999.0,
-        "url": "https://www.cemaco.com/microondas-inverter-panasonic-varios-tamanos-771999/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 119.5,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:19Z",
-    "visto_en": "2026-10-27T17:25:19-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-3606119",
-    "tienda": "Simán",
-    "nombre": "Microondas Panasonic flatbed 27 L (1.0 PCU) NN-SF564MRPH",
-    "categoria": "🍳 Electrodomésticos de cocina",
-    "url": "https://www.siman.com/producto/microondas-flatbed-panasonic-100067681/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/827537/100067681_1.jpg?v=637356961921530000",
-    "moneda": "GTQ",
-    "precio_actual": 159.0,
-    "precio_referencia": 1599.0,
-    "precio_antes_tienda": 199.0,
-    "descuento_real": 0.9006,
-    "ahorro_q": 1440.0,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 1599.0,
-        "url": "https://www.cemaco.com/microondas-gris-panasonic-1045228/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 118.9,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:19Z",
-    "visto_en": "2026-10-27T17:25:19-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-5687769",
-    "tienda": "Simán",
-    "nombre": "Cocina empotrable 5 quemadores a gas 86 cm (36\") WP3550S Whirlpool",
-    "categoria": "🧊 Línea blanca",
-    "url": "https://www.siman.com/producto/plantillas-a-gas-36-102411529/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8266185/102411529_1.jpg?v=639179351097830000",
-    "moneda": "GTQ",
-    "precio_actual": 319.0,
-    "precio_referencia": 2699.0,
-    "precio_antes_tienda": 379.0,
-    "descuento_real": 0.8818,
-    "ahorro_q": 2380.0,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 2699.0,
-        "url": "https://www.cemaco.com/parrilla-a-gas-de-acero-inoxidable-5-hornillas-de-34-plg-whirlpool-1078380/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 118.2,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:24:59Z",
-    "visto_en": "2026-10-27T17:25:00-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-5232997",
-    "tienda": "Simán",
-    "nombre": "Cocina 6 quemadores con horno a gas 76 cm (30\") LWFR3400D Whirlpool",
-    "categoria": "🧊 Línea blanca",
-    "url": "https://www.siman.com/producto/cocina-a-gas-30-whirlpool-acero-inoxidable-101724132/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6578769/101724132_ACTUALIZACI-C3-93N.jpg?v=638749757292430000",
-    "moneda": "GTQ",
-    "precio_actual": 429.0,
-    "precio_referencia": 3599.0,
-    "precio_antes_tienda": 499.0,
-    "descuento_real": 0.8808,
-    "ahorro_q": 3170.0,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 3599.0,
-        "url": "https://www.cemaco.com/estufa-a-gas-de-6-hornillas-con-encendido-electrico-30-plg-whirlpool-1028074/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 118.1,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:24:59Z",
-    "visto_en": "2026-10-27T17:25:00-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-4994812",
-    "tienda": "Simán",
-    "nombre": "Centro de lavado eléctrico carga doble 20 kg 7MWET4027HW Whirlpool",
-    "categoria": "🧊 Línea blanca",
-    "url": "https://www.siman.com/producto/centro-de-lavado-electrico-carga-doble-20-kg-7mwet4027hw-whirlpool-101454624/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5327317/101454624_50.jpg?v=638467223586730000",
-    "moneda": "GTQ",
-    "precio_actual": 1179.0,
-    "precio_referencia": 8899.0,
-    "precio_antes_tienda": 1349.0,
-    "descuento_real": 0.8675,
-    "ahorro_q": 7720.0,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 8899.0,
-        "url": "https://www.cemaco.com/centro-de-lavado-electrico-20-kg-whirlpool-1057402/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 116.8,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:24:54Z",
-    "visto_en": "2026-10-27T17:24:54-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-3603160",
-    "tienda": "Simán",
-    "nombre": "Tetera eléctrica Kitchen Aid 5 tazas",
-    "categoria": "🍳 Electrodomésticos de cocina",
-    "url": "https://www.siman.com/producto/tetera-electrica-1-25-litros-100064820/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/872471/100064820.jpg?v=637378518971800000",
-    "moneda": "GTQ",
-    "precio_actual": 209.9,
-    "precio_referencia": 1389.0,
-    "precio_antes_tienda": 209.9,
-    "descuento_real": 0.8489,
-    "ahorro_q": 1179.1,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 1389.0,
-        "url": "https://www.cemaco.com/tetera-electrica-125-lt-red-kitchenaid-907857/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 108.5,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:24Z",
-    "visto_en": "2026-10-27T17:25:25-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-5622759",
-    "tienda": "Simán",
-    "nombre": "Horno tostador y freidora",
-    "categoria": "🍳 Electrodomésticos de cocina",
-    "url": "https://www.siman.com/producto/horno-tostador-y-freidora-102290978/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5902243/102290978_100.jpg?v=638551251854600000",
-    "moneda": "GTQ",
-    "precio_actual": 187.9,
-    "precio_referencia": 1199.0,
-    "precio_antes_tienda": 187.9,
-    "descuento_real": 0.8433,
-    "ahorro_q": 1011.1,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 1199.0,
-        "url": "https://www.cemaco.com/horno-freidor-de-7-funciones-1500-w-black-decker-1059839/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 104.6,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:20Z",
-    "visto_en": "2026-10-27T17:25:20-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-5662137",
-    "tienda": "Simán",
-    "nombre": "Microondas whirlpool 30 L (1.1 PCU) WM1211D",
-    "categoria": "🍳 Electrodomésticos de cocina",
-    "url": "https://www.siman.com/producto/microondas-whirpool-1-1-pcu-102363479/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5902245/102363479_100.jpg?v=638551251859770000",
-    "moneda": "GTQ",
-    "precio_actual": 109.0,
-    "precio_referencia": 899.99,
-    "precio_antes_tienda": 119.0,
-    "descuento_real": 0.8789,
-    "ahorro_q": 790.99,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 899.99,
-        "url": "https://www.cemaco.com/microondas-11-pies-gris-whirlpool-1018357/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 103.7,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:18Z",
-    "visto_en": "2026-10-27T17:25:18-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-2221713",
-    "tienda": "Simán",
-    "nombre": "Molino de Café, 12 tazas KitchenAid BCG111OB, Negro",
-    "categoria": "🍳 Electrodomésticos de cocina",
-    "url": "https://www.siman.com/producto/molinillo-de-cafe-12-tazas-160-watts-onix-black-849061/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5942526/484906100000_100.jpg?v=638563375346800000",
-    "moneda": "GTQ",
-    "precio_actual": 68.9,
-    "precio_referencia": 639.99,
-    "precio_antes_tienda": 68.9,
-    "descuento_real": 0.8923,
-    "ahorro_q": 571.09,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 639.99,
-        "url": "https://www.cemaco.com/molino-para-cafe-12-tz-kitchenaid-838537/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 100.7,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:24Z",
-    "visto_en": "2026-10-27T17:25:25-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-4337691",
-    "tienda": "Simán",
-    "nombre": "Procesador de Alimentos KitchenAid KFC3516ER, 3.5 Tazas Rojo",
-    "categoria": "🍳 Electrodomésticos de cocina",
-    "url": "https://www.siman.com/producto/mini-shopper-3-5-tazas-100775509/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7721975/100775509-1.jpg?v=639044581619370000",
-    "moneda": "GTQ",
-    "precio_actual": 99.9,
-    "precio_referencia": 739.99,
-    "precio_antes_tienda": 99.9,
-    "descuento_real": 0.865,
-    "ahorro_q": 640.09,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 739.99,
-        "url": "https://www.cemaco.com/mini-procesador-35-tz-rojo-imperio-kitchenaid-845589/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 99.3,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:24Z",
-    "visto_en": "2026-10-27T17:25:25-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-2501489",
-    "tienda": "Simán",
-    "nombre": "Batidora de Mano KitchenAid KHM512ER Rojo, 5 velocidades",
-    "categoria": "🍳 Electrodomésticos de cocina",
-    "url": "https://www.siman.com/producto/batidora-de-mano-5-veloci-dades-773232/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5907584/477323200002_200.jpg?v=638554585500300000",
-    "moneda": "GTQ",
-    "precio_actual": 109.9,
-    "precio_referencia": 749.99,
-    "precio_antes_tienda": 109.9,
-    "descuento_real": 0.8535,
-    "ahorro_q": 640.09,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 749.99,
-        "url": "https://www.cemaco.com/batidora-de-mano-5-velocidades-roja-120w-kitchenaid-1075360/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 98.1,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:24Z",
-    "visto_en": "2026-10-27T17:25:25-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-4367583",
-    "tienda": "Simán",
-    "nombre": "Procesador de Alimentos KitchenAid KFC3516OB, 3.5 Tazas, Negro",
-    "categoria": "🍳 Electrodomésticos de cocina",
-    "url": "https://www.siman.com/producto/mini-procesador-de-alimentos-3-5-tazas-100797739/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7706254/100797739_102.jpg?v=639039348854200000",
-    "moneda": "GTQ",
-    "precio_actual": 109.9,
-    "precio_referencia": 739.99,
-    "precio_antes_tienda": 109.9,
-    "descuento_real": 0.8515,
-    "ahorro_q": 630.09,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 739.99,
-        "url": "https://www.cemaco.com/mini-procesador-de-alimentos-35-tazas-240w-kitchenaid-1075365/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 97.8,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:24Z",
-    "visto_en": "2026-10-27T17:25:25-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-4337698",
-    "tienda": "Simán",
-    "nombre": "Mini chopper refresh 3.5 tazas",
-    "categoria": "🍳 Electrodomésticos de cocina",
-    "url": "https://www.siman.com/producto/mini-chopper-refresh-3-5-tazas-100775515/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5939740/100775515_100.jpg?v=638563032696070000",
-    "moneda": "GTQ",
-    "precio_actual": 109.9,
-    "precio_referencia": 739.99,
-    "precio_antes_tienda": 109.9,
-    "descuento_real": 0.8515,
-    "ahorro_q": 630.09,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 739.99,
-        "url": "https://www.cemaco.com/miniprocesador-35-tazas-kitchenaid-942950/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 97.8,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:24Z",
-    "visto_en": "2026-10-27T17:25:25-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-6159732",
-    "tienda": "Simán",
-    "nombre": "Ventilador de pedestal 45 cm (18\") navia P180",
-    "categoria": "🧊 Línea blanca",
-    "url": "https://www.siman.com/producto/ventilador-de-pedestal-18-navia-103068173/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/963543/103068173.jpg?v=637409021574470000",
-    "moneda": "GTQ",
-    "precio_actual": 69.0,
-    "precio_referencia": 539.99,
-    "precio_antes_tienda": 85.9,
-    "descuento_real": 0.8722,
-    "ahorro_q": 470.99,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 539.99,
-        "url": "https://www.cemaco.com/ventilador-de-pedestal-18-navia-navia-1035767/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 96.6,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:04Z",
-    "visto_en": "2026-10-27T17:25:05-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-6163597",
-    "tienda": "Simán",
-    "nombre": "Filtro azul de polvo",
-    "categoria": "🍳 Electrodomésticos de cocina",
-    "url": "https://www.siman.com/producto/filtro-azul-de-polvo-103071262/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5924044/103071262_100.jpg?v=638557112640770000",
-    "moneda": "GTQ",
-    "precio_actual": 5.85,
-    "precio_referencia": 98.99,
-    "precio_antes_tienda": 6.5,
-    "descuento_real": 0.9409,
-    "ahorro_q": 93.14,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 98.99,
-        "url": "https://www.cemaco.com/filtro-aspirado-seco-azul-karcher-wd-1-979174/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 96.0,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:23Z",
-    "visto_en": "2026-10-27T17:25:24-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "siman-5839217",
-    "tienda": "Simán",
-    "nombre": "Ventilador de aire turbo 51 cm (20\") CFN-2020",
-    "categoria": "🧊 Línea blanca",
-    "url": "https://www.siman.com/producto/ventilador-de-aire-turbo-20-102700780/p",
-    "imagen": "https://siman.vteximg.com.br/arquivos/ids/368324/102700780.jpg?v=637250960829270000",
-    "moneda": "GTQ",
-    "precio_actual": 69.0,
-    "precio_referencia": 499.99,
-    "precio_antes_tienda": 79.9,
-    "descuento_real": 0.862,
-    "ahorro_q": 430.99,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Cemaco",
-        "precio": 499.99,
-        "url": "https://www.cemaco.com/ventilador-turbo-2-en-1-piso-y-pared-de-20-plg-navia-1011025/p"
-      }
-    ],
-    "antes_inflado": false,
-    "relampago": false,
-    "nivel": "error",
-    "nivel_emoji": "🚨",
-    "nivel_label": "POSIBLE ERROR DE PRECIO",
-    "puntaje": 94.8,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:04Z",
-    "visto_en": "2026-10-27T17:25:05-06:00",
-    "alerta_nueva": false
-  },
-  {
     "id": "latorre-8335",
     "tienda": "La Torre",
     "nombre": "Lechuga Mantequilla Mix Express",
@@ -583,6 +23,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": true,
     "relampago": false,
     "nivel": "error",
     "nivel_emoji": "🚨",
@@ -591,7 +32,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:33-06:00",
+    "visto_en": "2026-10-27T17:38:11-06:00",
     "alerta_nueva": false
   },
   {
@@ -618,6 +59,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "loca",
     "nivel_emoji": "🔥",
@@ -626,7 +68,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:10-06:00",
+    "visto_en": "2026-10-27T17:36:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -653,6 +95,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -660,8 +103,8 @@
     "puntaje": 33.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:11Z",
-    "visto_en": "2026-10-27T17:25:11-06:00",
+    "fin_oferta": "2027-10-27T23:34:58Z",
+    "visto_en": "2026-10-27T17:37:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -688,6 +131,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -696,7 +140,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:47-06:00",
+    "visto_en": "2026-10-27T17:38:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -723,6 +167,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -730,8 +175,8 @@
     "puntaje": 31.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:15Z",
-    "visto_en": "2026-10-27T17:25:15-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-27T17:37:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -758,6 +203,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -766,7 +212,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:28-06:00",
+    "visto_en": "2026-10-27T17:37:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -793,6 +239,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -800,8 +247,8 @@
     "puntaje": 29.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:16:07Z",
-    "visto_en": "2026-10-27T17:24:28-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:37:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -828,6 +275,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -835,8 +283,8 @@
     "puntaje": 29.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:23:26Z",
-    "visto_en": "2026-10-27T17:25:32-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-27T17:38:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -863,6 +311,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -871,7 +320,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:09-06:00",
+    "visto_en": "2026-10-27T17:36:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -898,6 +347,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -906,7 +356,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:39-06:00",
+    "visto_en": "2026-10-27T17:37:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -933,6 +383,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -940,8 +391,8 @@
     "puntaje": 28.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:51-06:00",
+    "fin_oferta": "2027-10-27T23:37:29Z",
+    "visto_en": "2026-10-27T17:37:30-06:00",
     "alerta_nueva": true
   },
   {
@@ -968,6 +419,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -975,8 +427,8 @@
     "puntaje": 28.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:26:20Z",
-    "visto_en": "2026-10-27T17:26:20-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:39:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -1003,6 +455,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -1011,7 +464,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:11-06:00",
+    "visto_en": "2026-10-27T17:36:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -1038,6 +491,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -1046,7 +500,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:26:05-06:00",
+    "visto_en": "2026-10-27T17:38:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -1073,6 +527,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -1081,7 +536,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:26:07-06:00",
+    "visto_en": "2026-10-27T17:38:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -1108,6 +563,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -1115,8 +571,8 @@
     "puntaje": 27.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:39-06:00",
+    "fin_oferta": "2027-10-27T23:37:15Z",
+    "visto_en": "2026-10-27T17:37:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -1143,6 +599,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -1151,7 +608,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:51-06:00",
+    "visto_en": "2026-10-27T17:37:30-06:00",
     "alerta_nueva": true
   },
   {
@@ -1178,6 +635,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -1186,7 +644,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-18T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:29-06:00",
+    "visto_en": "2026-10-27T17:37:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -1213,6 +671,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -1220,8 +679,8 @@
     "puntaje": 26.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:22:18Z",
-    "visto_en": "2026-10-27T17:26:19-06:00",
+    "fin_oferta": "2027-10-27T23:38:58Z",
+    "visto_en": "2026-10-27T17:38:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -1248,6 +707,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -1256,7 +716,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:13-06:00",
+    "visto_en": "2026-10-27T17:37:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -1283,6 +743,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -1291,7 +752,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:51-06:00",
+    "visto_en": "2026-10-27T17:37:30-06:00",
     "alerta_nueva": true
   },
   {
@@ -1318,6 +779,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -1325,8 +787,8 @@
     "puntaje": 26.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:37-06:00",
+    "fin_oferta": "2027-10-27T23:37:13Z",
+    "visto_en": "2026-10-27T17:37:13-06:00",
     "alerta_nueva": true
   },
   {
@@ -1353,6 +815,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -1361,7 +824,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:35-06:00",
+    "visto_en": "2026-10-27T17:37:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -1388,6 +851,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -1395,8 +859,8 @@
     "puntaje": 26.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:26:03-06:00",
+    "fin_oferta": "2027-10-27T23:38:42Z",
+    "visto_en": "2026-10-27T17:38:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -1423,6 +887,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -1431,7 +896,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:14-06:00",
+    "visto_en": "2026-10-27T17:36:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -1458,6 +923,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
@@ -1466,7 +932,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:11-06:00",
+    "visto_en": "2026-10-27T17:36:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -1493,6 +959,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1501,7 +968,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:14-06:00",
+    "visto_en": "2026-10-27T17:36:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -1528,6 +995,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1536,7 +1004,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:24-06:00",
+    "visto_en": "2026-10-27T17:38:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -1563,6 +1031,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1571,7 +1040,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:25-06:00",
+    "visto_en": "2026-10-27T17:38:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -1598,6 +1067,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1606,7 +1076,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:29-06:00",
+    "visto_en": "2026-10-27T17:37:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -1633,6 +1103,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1640,8 +1111,8 @@
     "puntaje": 24.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:13-06:00",
+    "fin_oferta": "2027-10-27T23:36:37Z",
+    "visto_en": "2026-10-27T17:37:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -1668,6 +1139,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1675,8 +1147,8 @@
     "puntaje": 24.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:23:38Z",
-    "visto_en": "2026-10-27T17:24:59-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:37:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -1703,6 +1175,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1711,7 +1184,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:17-06:00",
+    "visto_en": "2026-10-27T17:36:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -1738,6 +1211,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1745,8 +1219,8 @@
     "puntaje": 23.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:06-06:00",
+    "fin_oferta": "2027-10-27T23:37:46Z",
+    "visto_en": "2026-10-27T17:37:46-06:00",
     "alerta_nueva": true
   },
   {
@@ -1773,6 +1247,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1780,8 +1255,8 @@
     "puntaje": 23.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:26:19-06:00",
+    "fin_oferta": "2027-10-27T23:38:58Z",
+    "visto_en": "2026-10-27T17:38:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -1808,6 +1283,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1816,7 +1292,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:37-06:00",
+    "visto_en": "2026-10-27T17:37:13-06:00",
     "alerta_nueva": true
   },
   {
@@ -1843,6 +1319,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1851,7 +1328,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:48-06:00",
+    "visto_en": "2026-10-27T17:37:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -1878,6 +1355,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1886,7 +1364,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-22T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:52-06:00",
+    "visto_en": "2026-10-27T17:37:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -1913,6 +1391,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1920,8 +1399,8 @@
     "puntaje": 23.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:15-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:36:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -1948,6 +1427,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1956,7 +1436,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:47-06:00",
+    "visto_en": "2026-10-27T17:38:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -1983,6 +1463,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -1990,8 +1471,8 @@
     "puntaje": 22.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:25:11Z",
-    "visto_en": "2026-10-27T17:25:11-06:00",
+    "fin_oferta": "2027-10-27T23:37:49Z",
+    "visto_en": "2026-10-27T17:37:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -2018,6 +1499,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2025,8 +1507,8 @@
     "puntaje": 22.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:22:19Z",
-    "visto_en": "2026-10-27T17:25:11-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:37:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -2053,6 +1535,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2060,8 +1543,8 @@
     "puntaje": 22.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:26:06-06:00",
+    "fin_oferta": "2027-10-27T23:38:43Z",
+    "visto_en": "2026-10-27T17:38:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -2088,6 +1571,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2096,7 +1580,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:55-06:00",
+    "visto_en": "2026-10-27T17:37:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -2123,6 +1607,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2131,7 +1616,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:15-06:00",
+    "visto_en": "2026-10-27T17:36:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -2158,6 +1643,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2166,7 +1652,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:31-06:00",
+    "visto_en": "2026-10-27T17:37:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -2193,6 +1679,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2201,7 +1688,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:58-06:00",
+    "visto_en": "2026-10-27T17:38:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -2228,6 +1715,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2236,7 +1724,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:39-06:00",
+    "visto_en": "2026-10-27T17:37:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -2263,6 +1751,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2270,8 +1759,8 @@
     "puntaje": 20.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:02-06:00",
+    "fin_oferta": "2027-10-27T23:37:42Z",
+    "visto_en": "2026-10-27T17:37:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -2298,6 +1787,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2305,8 +1795,8 @@
     "puntaje": 20.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:47-06:00",
+    "fin_oferta": "2027-10-27T23:38:27Z",
+    "visto_en": "2026-10-27T17:38:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -2333,6 +1823,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2341,7 +1832,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:26-06:00",
+    "visto_en": "2026-10-27T17:37:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -2368,6 +1859,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2375,8 +1867,8 @@
     "puntaje": 20.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:41-06:00",
+    "fin_oferta": "2027-10-27T23:37:18Z",
+    "visto_en": "2026-10-27T17:37:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -2403,6 +1895,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2411,7 +1904,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T17:26:08-06:00",
+    "visto_en": "2026-10-27T17:38:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -2438,6 +1931,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2446,7 +1940,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:13-06:00",
+    "visto_en": "2026-10-27T17:37:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -2473,6 +1967,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2481,7 +1976,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:20-06:00",
+    "visto_en": "2026-10-27T17:36:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -2508,6 +2003,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2516,7 +2012,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:02-06:00",
+    "visto_en": "2026-10-27T17:37:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -2543,6 +2039,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2551,7 +2048,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:48-06:00",
+    "visto_en": "2026-10-27T17:37:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -2578,6 +2075,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2586,7 +2084,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:54-06:00",
+    "visto_en": "2026-10-27T17:37:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -2613,6 +2111,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2621,7 +2120,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:25-06:00",
+    "visto_en": "2026-10-27T17:37:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -2648,6 +2147,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2656,7 +2156,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:54-06:00",
+    "visto_en": "2026-10-27T17:37:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -2683,6 +2183,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2690,8 +2191,8 @@
     "puntaje": 20.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:22:21Z",
-    "visto_en": "2026-10-27T17:26:00-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:38:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -2718,6 +2219,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2726,7 +2228,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:50-06:00",
+    "visto_en": "2026-10-27T17:37:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -2753,6 +2255,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2761,7 +2264,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:14-06:00",
+    "visto_en": "2026-10-27T17:37:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -2788,6 +2291,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2795,8 +2299,8 @@
     "puntaje": 19.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:23:40Z",
-    "visto_en": "2026-10-27T17:26:18-06:00",
+    "fin_oferta": "2027-10-27T23:38:45Z",
+    "visto_en": "2026-10-27T17:38:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -2823,6 +2327,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2831,7 +2336,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:52-06:00",
+    "visto_en": "2026-10-27T17:37:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -2858,6 +2363,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2866,7 +2372,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:19-06:00",
+    "visto_en": "2026-10-27T17:37:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2893,6 +2399,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2901,7 +2408,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:58-06:00",
+    "visto_en": "2026-10-27T17:38:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -2928,6 +2435,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2936,7 +2444,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:47-06:00",
+    "visto_en": "2026-10-27T17:38:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -2963,6 +2471,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2971,7 +2480,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:02-06:00",
+    "visto_en": "2026-10-27T17:37:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -2998,6 +2507,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3006,7 +2516,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-19T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:49-06:00",
+    "visto_en": "2026-10-27T17:37:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -3033,6 +2543,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3041,7 +2552,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:19-06:00",
+    "visto_en": "2026-10-27T17:36:54-06:00",
     "alerta_nueva": true
   },
   {
@@ -3068,6 +2579,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3076,7 +2588,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:13-06:00",
+    "visto_en": "2026-10-27T17:37:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -3103,6 +2615,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3110,8 +2623,8 @@
     "puntaje": 18.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:20-06:00",
+    "fin_oferta": "2027-10-27T23:37:09Z",
+    "visto_en": "2026-10-27T17:38:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -3138,6 +2651,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3145,8 +2659,8 @@
     "puntaje": 18.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:26:18Z",
-    "visto_en": "2026-10-27T17:26:19-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:38:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -3173,6 +2687,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3180,8 +2695,8 @@
     "puntaje": 18.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:41-06:00",
+    "fin_oferta": "2027-10-27T23:37:18Z",
+    "visto_en": "2026-10-27T17:37:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -3208,6 +2723,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3216,7 +2732,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:29-06:00",
+    "visto_en": "2026-10-27T17:37:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -3243,6 +2759,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3251,7 +2768,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:39-06:00",
+    "visto_en": "2026-10-27T17:37:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -3278,6 +2795,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3286,7 +2804,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-18T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:24-06:00",
+    "visto_en": "2026-10-27T17:36:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -3313,6 +2831,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3321,7 +2840,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:24-06:00",
+    "visto_en": "2026-10-27T17:36:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -3348,6 +2867,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3356,7 +2876,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:26:17-06:00",
+    "visto_en": "2026-10-27T17:38:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -3383,6 +2903,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3391,7 +2912,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:54-06:00",
+    "visto_en": "2026-10-27T17:37:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -3418,6 +2939,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3426,7 +2948,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:14-06:00",
+    "visto_en": "2026-10-27T17:37:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -3453,6 +2975,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3460,8 +2983,8 @@
     "puntaje": 17.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:24:13Z",
-    "visto_en": "2026-10-27T17:24:19-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-27T17:36:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -3488,6 +3011,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3496,7 +3020,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:39-06:00",
+    "visto_en": "2026-10-27T17:37:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -3523,6 +3047,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3531,7 +3056,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:39-06:00",
+    "visto_en": "2026-10-27T17:37:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -3558,6 +3083,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3565,8 +3091,8 @@
     "puntaje": 17.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:49-06:00",
+    "fin_oferta": "2027-10-27T23:37:27Z",
+    "visto_en": "2026-10-27T17:37:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -3593,6 +3119,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3600,8 +3127,8 @@
     "puntaje": 17.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:19:41Z",
-    "visto_en": "2026-10-27T17:24:37-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:37:13-06:00",
     "alerta_nueva": true
   },
   {
@@ -3628,6 +3155,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3636,7 +3164,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-19T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:14-06:00",
+    "visto_en": "2026-10-27T17:37:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -3663,6 +3191,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3671,7 +3200,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:25-06:00",
+    "visto_en": "2026-10-27T17:37:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -3698,6 +3227,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3705,8 +3235,8 @@
     "puntaje": 17.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:25-06:00",
+    "fin_oferta": "2027-10-27T23:36:59Z",
+    "visto_en": "2026-10-27T17:37:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -3733,6 +3263,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3740,8 +3271,8 @@
     "puntaje": 17.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:37-06:00",
+    "fin_oferta": "2027-10-27T23:37:13Z",
+    "visto_en": "2026-10-27T17:37:13-06:00",
     "alerta_nueva": true
   },
   {
@@ -3768,6 +3299,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3775,8 +3307,8 @@
     "puntaje": 17.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:24:24Z",
-    "visto_en": "2026-10-27T17:26:09-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-27T17:38:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -3803,6 +3335,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3811,7 +3344,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:54-06:00",
+    "visto_en": "2026-10-27T17:37:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -3838,6 +3371,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3846,7 +3380,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:24-06:00",
+    "visto_en": "2026-10-27T17:36:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -3873,6 +3407,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3881,7 +3416,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:29-06:00",
+    "visto_en": "2026-10-27T17:37:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -3908,6 +3443,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3915,8 +3451,8 @@
     "puntaje": 17.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:24:22Z",
-    "visto_en": "2026-10-27T17:24:57-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:37:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -3943,6 +3479,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3951,7 +3488,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-11T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:19-06:00",
+    "visto_en": "2026-10-27T17:37:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -3978,6 +3515,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -3986,7 +3524,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:26:19-06:00",
+    "visto_en": "2026-10-27T17:38:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -4013,6 +3551,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4021,7 +3560,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:26-06:00",
+    "visto_en": "2026-10-27T17:37:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -4048,6 +3587,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4055,8 +3595,8 @@
     "puntaje": 16.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:16:52Z",
-    "visto_en": "2026-10-27T17:24:12-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:36:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -4083,6 +3623,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4091,7 +3632,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:19-06:00",
+    "visto_en": "2026-10-27T17:36:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -4118,6 +3659,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4125,8 +3667,8 @@
     "puntaje": 16.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:23:51Z",
-    "visto_en": "2026-10-27T17:24:20-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:36:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -4153,6 +3695,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4160,8 +3703,8 @@
     "puntaje": 16.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:24:10Z",
-    "visto_en": "2026-10-27T17:24:41-06:00",
+    "fin_oferta": "2027-10-23T00:00:00Z",
+    "visto_en": "2026-10-27T17:37:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -4188,6 +3731,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4196,7 +3740,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:26:05-06:00",
+    "visto_en": "2026-10-27T17:38:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -4223,6 +3767,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4230,8 +3775,8 @@
     "puntaje": 16.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:26:04Z",
-    "visto_en": "2026-10-27T17:26:04-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:38:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -4258,6 +3803,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4266,7 +3812,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:19-06:00",
+    "visto_en": "2026-10-27T17:36:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -4293,6 +3839,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4301,7 +3848,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:26:00-06:00",
+    "visto_en": "2026-10-27T17:38:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -4328,6 +3875,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4335,8 +3883,8 @@
     "puntaje": 16.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:20:41Z",
-    "visto_en": "2026-10-27T17:24:15-06:00",
+    "fin_oferta": "2027-10-27T23:36:50Z",
+    "visto_en": "2026-10-27T17:36:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -4363,6 +3911,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4371,7 +3920,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:06-06:00",
+    "visto_en": "2026-10-27T17:36:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -4398,6 +3947,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4406,7 +3956,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:05-06:00",
+    "visto_en": "2026-10-27T17:37:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -4433,6 +3983,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4441,7 +3992,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:18-06:00",
+    "visto_en": "2026-10-27T17:37:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -4468,6 +4019,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4476,7 +4028,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:29-06:00",
+    "visto_en": "2026-10-27T17:37:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -4503,6 +4055,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4511,7 +4064,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:42-06:00",
+    "visto_en": "2026-10-27T17:37:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -4538,6 +4091,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4546,7 +4100,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:18-06:00",
+    "visto_en": "2026-10-27T17:37:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -4573,6 +4127,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4581,7 +4136,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:10-06:00",
+    "visto_en": "2026-10-27T17:36:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -4608,6 +4163,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4616,7 +4172,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:17-06:00",
+    "visto_en": "2026-10-27T17:36:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -4643,6 +4199,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4650,8 +4207,8 @@
     "puntaje": 16.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:17-06:00",
+    "fin_oferta": "2027-10-27T23:36:51Z",
+    "visto_en": "2026-10-27T17:36:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -4678,6 +4235,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4686,7 +4244,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:19-06:00",
+    "visto_en": "2026-10-27T17:36:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -4713,6 +4271,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4721,7 +4280,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:19-06:00",
+    "visto_en": "2026-10-27T17:36:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -4748,6 +4307,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4756,7 +4316,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:28-06:00",
+    "visto_en": "2026-10-27T17:37:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -4783,6 +4343,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4791,7 +4352,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:41-06:00",
+    "visto_en": "2026-10-27T17:37:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -4818,6 +4379,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4826,7 +4388,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T17:26:08-06:00",
+    "visto_en": "2026-10-27T17:38:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -4853,6 +4415,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4861,7 +4424,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:48-06:00",
+    "visto_en": "2026-10-27T17:38:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -4888,6 +4451,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4896,7 +4460,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:51-06:00",
+    "visto_en": "2026-10-27T17:38:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -4923,6 +4487,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4930,8 +4495,8 @@
     "puntaje": 15.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:15:47Z",
-    "visto_en": "2026-10-27T17:24:11-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:36:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -4958,6 +4523,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -4966,7 +4532,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-16T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:49-06:00",
+    "visto_en": "2026-10-27T17:37:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -4993,6 +4559,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -5001,7 +4568,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:26:05-06:00",
+    "visto_en": "2026-10-27T17:38:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -5028,6 +4595,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -5036,7 +4604,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:19-06:00",
+    "visto_en": "2026-10-27T17:36:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -5063,6 +4631,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -5070,8 +4639,8 @@
     "puntaje": 15.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:56-06:00",
+    "fin_oferta": "2027-10-27T23:32:45Z",
+    "visto_en": "2026-10-27T17:37:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -5098,6 +4667,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -5106,7 +4676,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:26:18-06:00",
+    "visto_en": "2026-10-27T17:38:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -5133,6 +4703,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -5140,8 +4711,8 @@
     "puntaje": 15.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:22:18Z",
-    "visto_en": "2026-10-27T17:26:19-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:38:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -5168,6 +4739,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -5176,7 +4748,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:08-06:00",
+    "visto_en": "2026-10-27T17:36:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -5203,6 +4775,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -5210,8 +4783,8 @@
     "puntaje": 15.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:15-06:00",
+    "fin_oferta": "2027-10-27T23:36:48Z",
+    "visto_en": "2026-10-27T17:36:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -5238,6 +4811,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -5246,7 +4820,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:11-06:00",
+    "visto_en": "2026-10-27T17:36:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -5273,6 +4847,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -5281,7 +4856,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T17:24:28-06:00",
+    "visto_en": "2026-10-27T17:37:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -5308,6 +4883,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "agotado",
     "nivel_emoji": "·",
@@ -5316,7 +4892,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:07-06:00",
+    "visto_en": "2026-10-27T17:37:46-06:00",
     "alerta_nueva": true
   },
   {
@@ -5343,6 +4919,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "agotado",
     "nivel_emoji": "·",
@@ -5351,7 +4928,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-15T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:09-06:00",
+    "visto_en": "2026-10-27T17:37:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -5378,6 +4955,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "agotado",
     "nivel_emoji": "·",
@@ -5386,7 +4964,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:20-06:00",
+    "visto_en": "2026-10-27T17:37:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -5413,6 +4991,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "agotado",
     "nivel_emoji": "·",
@@ -5420,8 +4999,8 @@
     "puntaje": 20.9,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T23:21:49Z",
-    "visto_en": "2026-10-27T17:25:22-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T17:37:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -5448,6 +5027,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "agotado",
     "nivel_emoji": "·",
@@ -5456,7 +5036,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:22-06:00",
+    "visto_en": "2026-10-27T17:37:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -5483,6 +5063,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "agotado",
     "nivel_emoji": "·",
@@ -5491,7 +5072,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:22-06:00",
+    "visto_en": "2026-10-27T17:37:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -5518,6 +5099,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "agotado",
     "nivel_emoji": "·",
@@ -5526,7 +5108,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-09-22T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:22-06:00",
+    "visto_en": "2026-10-27T17:37:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -5553,6 +5135,7 @@
       }
     ],
     "antes_inflado": false,
+    "revisar": false,
     "relampago": false,
     "nivel": "agotado",
     "nivel_emoji": "·",
@@ -5561,7 +5144,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T17:25:23-06:00",
+    "visto_en": "2026-10-27T17:38:02-06:00",
     "alerta_nueva": true
   }
 ]
