@@ -38,7 +38,9 @@ def cargar(ruta=None):
         indent = len(sin_com) - len(sin_com.lstrip(" "))
         contenido = sin_com.strip()
         if contenido.startswith("- "):
-            if seccion and isinstance(data.get(seccion), list):
+            if seccion is not None:
+                if not isinstance(data.get(seccion), list):
+                    data[seccion] = []   # convertir el placeholder dict en lista
                 data[seccion].append(_valor(contenido[2:]))
             continue
         if ":" not in contenido:
