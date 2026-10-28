@@ -280,70 +280,6 @@
     "url": "https://www.cemaco.com/qmazo-de-12-lbs-663516b/p"
   },
   {
-    "tienda": "Simán",
-    "nombre": "Celular Samsung Galaxy S25 Ultra SM-S938BZTKGTO 12GB RAM 256GB SSD Pantalla 6.9\" (17.53 cm) Snapdragon 8 Elite Cámara avanzada Cámara Posterior 200 MP",
-    "precio": 2999.0,
-    "antes": 11999.0,
-    "descuento": 0.75,
-    "url": "https://gt.siman.com/celular-samsung-galaxy-s25-ultra-sm-s938bztkgto-12gb-ram-256gb-ssd-pantalla-6-9---17-53-cm--snapdragon-8-elite-camara-avanzada-camara-posterior-200-mp/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Carrete de nylon",
-    "precio": 9.0,
-    "antes": 39.0,
-    "descuento": 0.769,
-    "url": "https://gt.siman.com/carrete-de-nylon-104027474/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Inflador inalámbrico multiproposito 20v",
-    "precio": 79.0,
-    "antes": 819.0,
-    "descuento": 0.904,
-    "url": "https://gt.siman.com/inflador-inalambrico-multiproposito-20v-104027465/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Cortador de uñas de mascotas surtido",
-    "precio": 9.0,
-    "antes": 59.0,
-    "descuento": 0.847,
-    "url": "https://gt.siman.com/cortador-de-uas-de-mascotas-surtido-103677411/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Jaula para mascotas 70*60*50cm azul",
-    "precio": 99.0,
-    "antes": 539.0,
-    "descuento": 0.816,
-    "url": "https://gt.siman.com/jaula-para-mascotas-70-60-50cm-azul-103677497/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Caja de arena para gatos verde",
-    "precio": 29.0,
-    "antes": 159.0,
-    "descuento": 0.818,
-    "url": "https://gt.siman.com/caja-de-arena-para-gatos-verde-103677461/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Cama de perro con huesito grande",
-    "precio": 59.0,
-    "antes": 259.0,
-    "descuento": 0.772,
-    "url": "https://gt.siman.com/cama-de-perro-con-huesito-gde-large-103061203/p"
-  },
-  {
     "tienda": "EPA",
     "nombre": "Zapato de seguridad dieléctrico varias tallas con puntera y plantilla de composite gargas",
     "precio": 149.0,
@@ -1886,6 +1822,46 @@
     "antes": 59.95,
     "descuento": 0.708,
     "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Celular Samsung Galaxy S25 Ultra SM-S938BZTKGTO 12GB RAM 256GB SSD Pantalla 6.9\" (17.53 cm) Snapdragon 8 Elite Cámara avanzada Cámara Posterior 200 MP",
+    "precio": 2999.0,
+    "antes": 11999.0,
+    "descuento": 0.75,
+    "url": "https://gt.siman.com/celular-samsung-galaxy-s25-ultra-sm-s938bztkgto-12gb-ram-256gb-ssd-pantalla-6-9---17-53-cm--snapdragon-8-elite-camara-avanzada-camara-posterior-200-mp/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Carrete de nylon",
+    "precio": 9.0,
+    "antes": 39.0,
+    "descuento": 0.769,
+    "url": "https://gt.siman.com/carrete-de-nylon-104027474/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Cortador de uñas de mascotas surtido",
+    "precio": 9.0,
+    "antes": 59.0,
+    "descuento": 0.847,
+    "url": "https://gt.siman.com/cortador-de-uas-de-mascotas-surtido-103677411/p"
+  },
+  {
+    "tienda": "Max",
+    "nombre": "Silla de comedor moderna de Polipropileno",
+    "precio": 150.0,
+    "antes": 550.0,
+    "descuento": 0.727,
+    "url": "https://www.max.com.gt/silla-de-comedor-moderna-7d366bf0"
   },
   {
     "tienda": "Tecnofácil",
