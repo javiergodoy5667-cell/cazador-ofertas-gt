@@ -1,16 +1,16 @@
 {
-  "ultima_corrida": "2026-10-28T01:20:49-06:00",
-  "duracion_seg": 455.1,
-  "productos_leidos": 45290,
+  "ultima_corrida": "2026-10-28T03:43:11-06:00",
+  "duracion_seg": 455.7,
+  "productos_leidos": 45508,
   "dias_historial": 2,
   "con_ean": {
     "Elektra GT": 676,
-    "La Torre": 5626,
     "Cemaco": 2792,
-    "Walmart GT": 5937,
+    "La Torre": 5626,
+    "Walmart GT": 5974,
     "Simán": 2356,
-    "Max": 1092,
-    "Tecnofácil": 942
+    "Max": 1053,
+    "Tecnofácil": 926
   },
   "reporte_tiendas": {
     "Click": {
@@ -24,18 +24,23 @@
       "dias_historial": 2
     },
     "Office Depot": {
-      "productos": 3427,
+      "productos": 3410,
       "con_ean": 0,
       "dias_historial": 1
     },
     "La Curacao": {
-      "productos": 256,
+      "productos": 211,
       "con_ean": 0,
       "dias_historial": 2
     },
-    "La Torre": {
-      "productos": 5994,
-      "con_ean": 5626,
+    "PriceSmart": {
+      "productos": 364,
+      "con_ean": 0,
+      "dias_historial": 1
+    },
+    "El Gallo más Gallo": {
+      "productos": 53,
+      "con_ean": 0,
       "dias_historial": 1
     },
     "Cemaco": {
@@ -43,23 +48,23 @@
       "con_ean": 2792,
       "dias_historial": 2
     },
-    "El Gallo más Gallo": {
-      "productos": 53,
+    "La Torre": {
+      "productos": 5994,
+      "con_ean": 5626,
+      "dias_historial": 2
+    },
+    "EPA": {
+      "productos": 9423,
       "con_ean": 0,
       "dias_historial": 1
     },
     "Walmart GT": {
-      "productos": 5937,
-      "con_ean": 5937,
+      "productos": 5974,
+      "con_ean": 5974,
       "dias_historial": 2
     },
-    "EPA": {
-      "productos": 9425,
-      "con_ean": 0,
-      "dias_historial": 1
-    },
-    "PriceSmart": {
-      "productos": 357,
+    "Intelaf": {
+      "productos": 173,
       "con_ean": 0,
       "dias_historial": 1
     },
@@ -68,29 +73,24 @@
       "con_ean": 2356,
       "dias_historial": 2
     },
-    "Intelaf": {
-      "productos": 27,
-      "con_ean": 0,
-      "dias_historial": 1
-    },
     "Max": {
-      "productos": 3070,
-      "con_ean": 1092,
+      "productos": 3024,
+      "con_ean": 1053,
       "dias_historial": 1
     },
     "Tecnofácil": {
-      "productos": 2467,
-      "con_ean": 942,
+      "productos": 2549,
+      "con_ean": 926,
       "dias_historial": 1
     },
     "Novex": {
-      "productos": 90,
+      "productos": 146,
       "con_ean": 0,
       "dias_historial": 1
     }
   },
-  "coincidencias": 3855,
-  "antes_inflado": 1151,
+  "coincidencias": 3857,
+  "antes_inflado": 1171,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -113,7 +113,7 @@
       "tienda": "Elektra GT",
       "antes": 399.0,
       "precio": 269.0,
-      "max_otro": 196.0,
+      "max_otro": 289.0,
       "url": "https://www.elektra.com.gt/cafetera-black-and-decker-de-12-tazas-cm0916b-10005782/p"
     },
     {
@@ -134,8 +134,8 @@
     }
   ],
   "ofertas_por_nivel": {
-    "buena": 177,
-    "agotado": 6
+    "buena": 220,
+    "agotado": 7
   },
   "fuentes": {
     "recolectores.click": {
@@ -147,55 +147,55 @@
       "estado": "OK"
     },
     "recolectores.officedepot": {
-      "productos": 3651,
+      "productos": 3639,
       "estado": "OK"
     },
     "recolectores.lacuracao": {
-      "productos": 271,
+      "productos": 224,
       "estado": "OK"
     },
-    "recolectores.la_torre": {
-      "productos": 6006,
-      "estado": "OK"
-    },
-    "recolectores.cemaco": {
-      "productos": 6030,
+    "recolectores.pricesmart": {
+      "productos": 381,
       "estado": "OK"
     },
     "recolectores.elgallo": {
       "productos": 59,
       "estado": "OK"
     },
-    "recolectores.walmart": {
-      "productos": 6004,
+    "recolectores.cemaco": {
+      "productos": 6030,
+      "estado": "OK"
+    },
+    "recolectores.la_torre": {
+      "productos": 6006,
       "estado": "OK"
     },
     "recolectores.epa": {
-      "productos": 9727,
+      "productos": 9725,
       "estado": "OK"
     },
-    "recolectores.pricesmart": {
-      "productos": 375,
+    "recolectores.walmart": {
+      "productos": 6042,
+      "estado": "OK"
+    },
+    "recolectores.intelaf": {
+      "productos": 237,
       "estado": "OK"
     },
     "recolectores.siman": {
       "productos": 6025,
       "estado": "OK"
     },
-    "recolectores.intelaf": {
-      "productos": 37,
-      "estado": "OK"
-    },
     "recolectores.max_gt": {
-      "productos": 3252,
+      "productos": 3205,
       "estado": "OK"
     },
     "recolectores.tecnofacil": {
-      "productos": 2613,
+      "productos": 2716,
       "estado": "OK"
     },
     "recolectores.novex": {
-      "productos": 90,
+      "productos": 147,
       "estado": "OK"
     }
   },

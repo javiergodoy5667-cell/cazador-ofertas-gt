@@ -36,7 +36,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:16:18-06:00",
+    "visto_en": "2026-10-28T03:38:41-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-1788488CM",
+    "tienda": "Max",
+    "nombre": "Cama Imperial Serta Smart Comfort",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.max.com.gt/cama-imperial-serta-smart-comfort-serta-1788488cm",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/l/a/lateral.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 4196.0,
+    "precio_referencia": 7695.0,
+    "precio_antes_tienda": 7695.0,
+    "descuento_real": 0.4547,
+    "ahorro_q": 3499.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 7695.0,
+        "url": "https://www.tecnofacil.com.gt/cama-imperial-serta-smart-comfort-serta-1788488cm"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 7695.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 75.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T03:42:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -76,7 +116,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:16:21-06:00",
+    "visto_en": "2026-10-28T03:38:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -116,16 +156,16 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:16:01-06:00",
+    "visto_en": "2026-10-28T03:38:23-06:00",
     "alerta_nueva": true
   },
   {
     "id": "max-gt-SAFO001LA",
     "tienda": "Max",
-    "nombre": "Horno Tostador con freidora de aire y tecnología 360, 22 L, PowerXL",
+    "nombre": "Horno Tostador con freidora de aire y  tecnología 360, 22 L, PowerXL",
     "categoria": "🍳 Electrodomésticos de cocina",
     "url": "https://www.max.com.gt/horno-tostador-con-freidora-de-aire-y-tecnologia-360-22-l-powerxl-power-xl-safo001la",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/S/A/SAFO001LA_1_10032025152426.jpg",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/S/A/SAFO001LA_1_10032025152426.jpg?optimize=high&fit=bounds&height=&width=",
     "moneda": "GTQ",
     "precio_actual": 796.0,
     "precio_referencia": 1599.0,
@@ -156,7 +196,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:15:36-06:00",
+    "visto_en": "2026-10-28T03:37:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -196,7 +236,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:14:29-06:00",
+    "visto_en": "2026-10-28T03:36:54-06:00",
     "alerta_nueva": true
   },
   {
@@ -236,7 +276,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:14:09-06:00",
+    "visto_en": "2026-10-28T03:36:29-06:00",
     "alerta_nueva": true
   },
   {
@@ -275,8 +315,8 @@
     "puntaje": 61.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-28T01:14:35-06:00",
+    "fin_oferta": "2027-01-01T00:00:00Z",
+    "visto_en": "2026-10-28T03:37:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -316,7 +356,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:15:45-06:00",
+    "visto_en": "2026-10-28T03:38:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -356,7 +396,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:15:28-06:00",
+    "visto_en": "2026-10-28T03:37:55-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-LMA74215WBAB1",
+    "tienda": "Max",
+    "nombre": "Lavadora de ropa HE de 52 libras tapa de vidrio, blanca",
+    "categoria": "🧊 Línea blanca",
+    "url": "https://www.max.com.gt/lavadora-de-ropa-he-de-52-libras-tapa-de-vidrio-blanca-mabe-lma74215wbab1",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/L/M/LMA74215WBAB1_1_13052025093038.png",
+    "moneda": "GTQ",
+    "precio_actual": 4396.0,
+    "precio_referencia": 5995.0,
+    "precio_antes_tienda": 5995.0,
+    "descuento_real": 0.2667,
+    "ahorro_q": 1599.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 5995.0,
+        "url": "https://www.tecnofacil.com.gt/lavadora-de-ropa-he-de-52-libras-tapa-de-vidrio-blanca-mabe-lma74215wbab1"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 5995.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 56.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T03:37:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -396,7 +476,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:15:45-06:00",
+    "visto_en": "2026-10-28T03:38:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -436,7 +516,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:14:20-06:00",
+    "visto_en": "2026-10-28T03:36:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -476,7 +556,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:13:23-06:00",
+    "visto_en": "2026-10-28T03:35:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -516,7 +596,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:15:30-06:00",
+    "visto_en": "2026-10-28T03:37:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -556,7 +636,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:14:40-06:00",
+    "visto_en": "2026-10-28T03:37:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -596,7 +676,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:14:02-06:00",
+    "visto_en": "2026-10-28T03:36:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -636,7 +716,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:15:30-06:00",
+    "visto_en": "2026-10-28T03:37:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -676,7 +756,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:16:14-06:00",
+    "visto_en": "2026-10-28T03:38:41-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-5168569",
+    "tienda": "Simán",
+    "nombre": "Licuadora Black + Decker Fusion Blade 1.4 litros",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://gt.siman.com/licuadora-black-decker-fusion-blade-101643675/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7936507/101643675_100.jpg?v=639099667459030000",
+    "moneda": "GTQ",
+    "precio_actual": 299.0,
+    "precio_referencia": 529.0,
+    "precio_antes_tienda": 499.0,
+    "descuento_real": 0.4348,
+    "ahorro_q": 230.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 529.0,
+        "url": "https://www.tecnofacil.com.gt/licuadora-fusion-blade-black-decker-bl1120sg-12-velocidades"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 529.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 48.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T09:27:49Z",
+    "visto_en": "2026-10-28T03:36:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -716,7 +836,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:26-06:00",
+    "visto_en": "2026-10-28T03:35:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -756,7 +876,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:14:20-06:00",
+    "visto_en": "2026-10-28T03:35:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -796,7 +916,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:15:30-06:00",
+    "visto_en": "2026-10-28T03:37:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -836,7 +956,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:16:00-06:00",
+    "visto_en": "2026-10-28T03:38:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -845,7 +965,7 @@
     "nombre": "Sistema de cocción portátil de vidrio 4 en 1, Ninja Crispi, Ninja",
     "categoria": "🍳 Electrodomésticos de cocina",
     "url": "https://www.max.com.gt/sistema-de-coccion-portatil-de-vidrio-4-en-1-ninja-crispi-ninja-ninja-fn101gy",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/F/N/FN101GY_1_1.jpg",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/F/N/FN101GY_1_1.jpg?optimize=high&fit=bounds&height=&width=",
     "moneda": "GTQ",
     "precio_actual": 1196.0,
     "precio_referencia": 1795.0,
@@ -876,7 +996,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:15:34-06:00",
+    "visto_en": "2026-10-28T03:37:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -916,7 +1036,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:31-06:00",
+    "visto_en": "2026-10-28T03:35:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -956,7 +1076,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:15:20-06:00",
+    "visto_en": "2026-10-28T03:37:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -1000,8 +1120,8 @@
     "puntaje": 39.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:04:37Z",
-    "visto_en": "2026-10-28T01:13:20-06:00",
+    "fin_oferta": "2027-10-28T09:35:45Z",
+    "visto_en": "2026-10-28T03:35:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -1041,7 +1161,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:15:41-06:00",
+    "visto_en": "2026-10-28T03:38:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -1053,10 +1173,10 @@
     "imagen": "https://siman.vteximg.com.br/arquivos/ids/1833710/437606900005.jpg?v=637709523120930000",
     "moneda": "GTQ",
     "precio_actual": 199.0,
-    "precio_referencia": 299.5,
+    "precio_referencia": 299.99,
     "precio_antes_tienda": 299.0,
-    "descuento_real": 0.3356,
-    "ahorro_q": 100.5,
+    "descuento_real": 0.3366,
+    "ahorro_q": 100.99,
     "minimo_historico": false,
     "sin_historial": true,
     "fuente_referencia": "mercado",
@@ -1065,28 +1185,63 @@
         "tienda": "Cemaco",
         "precio": 299.99,
         "url": "https://www.cemaco.com/exprimidor-de-citricos-acero-inoxidable-40w-black-decker-1067906/p"
-      },
-      {
-        "tienda": "Max",
-        "precio": 299.0,
-        "url": "https://www.max.com.gt/black-decker-cj4000s-exprimidor-de-citricos-de-40-watts"
       }
     ],
     "antes_inflado": false,
     "mas_barato_que": {
-      "tienda": "Max",
-      "precio": 299.0
+      "tienda": "Cemaco",
+      "precio": 299.99
     },
-    "etiqueta": "Más barato que Max",
+    "etiqueta": "Más barato que Cemaco",
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
     "nivel_label": "BUENA",
-    "puntaje": 35.6,
+    "puntaje": 35.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:05:55Z",
-    "visto_en": "2026-10-28T01:13:46-06:00",
+    "fin_oferta": "2027-10-28T09:35:14Z",
+    "visto_en": "2026-10-28T03:36:10-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-61516",
+    "tienda": "Walmart GT",
+    "nombre": "Pan Europa para hotdog 12 Uds - 840 g",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.walmart.com.gt/pan-hotdog-europa-12-und-840-gr/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/455000/Pan-Hotdog-Europa-12-Und-840-Gr-1-65454.jpg?v=638416439075530000",
+    "moneda": "GTQ",
+    "precio_actual": 16.2,
+    "precio_referencia": 25.0,
+    "precio_antes_tienda": 23.5,
+    "descuento_real": 0.352,
+    "ahorro_q": 8.8,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 25.0,
+        "url": "https://www.latorre.com.gt/pan-super-hot-dog-europa-2055827/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 25.0
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 35.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -1126,87 +1281,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:16:16-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "max-gt-PK0758",
-    "tienda": "Max",
-    "nombre": "Audífonos OTL Alámbricos Pokémon (ROJO)",
-    "categoria": "📺 TV y audio",
-    "url": "https://www.max.com.gt/audifonos-otl-alambricos-pokemon-rojo-wit-pk0758",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/P/K/PK0758_1.jpg",
-    "moneda": "GTQ",
-    "precio_actual": 199.0,
-    "precio_referencia": 295.0,
-    "precio_antes_tienda": 295.0,
-    "descuento_real": 0.3254,
-    "ahorro_q": 96.0,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Tecnofácil",
-        "precio": 295.0,
-        "url": "https://www.tecnofacil.com.gt/audifonos-otl-alambricos-pokemon-rojo-wit-pk0758"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Tecnofácil",
-      "precio": 295.0
-    },
-    "etiqueta": "Más barato que Tecnofácil",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 34.5,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-10-28T01:16:16-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "cemaco-103443102",
-    "tienda": "Cemaco",
-    "nombre": "Cafetera con Jarra de Vidrio para 12 Tazas Color Negro",
-    "categoria": "🍳 Electrodomésticos de cocina",
-    "url": "https://www.cemaco.com/cafetera-de-12-tazas-con-jarra-de-vidrio-black-decker-1059833/p",
-    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/459234/1059833_1.jpg?v=639090946864170000",
-    "moneda": "GTQ",
-    "precio_actual": 194.99,
-    "precio_referencia": 289.0,
-    "precio_antes_tienda": 269.99,
-    "descuento_real": 0.3253,
-    "ahorro_q": 94.01,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Tecnofácil",
-        "precio": 289.0,
-        "url": "https://www.tecnofacil.com.gt/black-decker-cm0916b-cafetera-de-12-tazas-filtro-permanente-color-negro"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Tecnofácil",
-      "precio": 289.0
-    },
-    "etiqueta": "Más barato que Tecnofácil",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 34.4,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T01:13:15-06:00",
+    "visto_en": "2026-10-28T03:38:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -1215,7 +1290,7 @@
     "nombre": "Plancha de Cabello con Placas Anchas con Extracto de Aguacate y Macadamia",
     "categoria": "🛒 Supermercado",
     "url": "https://www.max.com.gt/plancha-de-cabello-con-placas-anchas-con-extracto-de-aguacate-y-macadamia-remington-s9980",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/s/9/s9980_5.jpg",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/s/9/s9980_5.jpg?optimize=high&fit=bounds&height=&width=",
     "moneda": "GTQ",
     "precio_actual": 546.0,
     "precio_referencia": 775.0,
@@ -1246,7 +1321,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:18:04-06:00",
+    "visto_en": "2026-10-28T03:40:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -1285,48 +1360,8 @@
     "puntaje": 33.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:12:09Z",
-    "visto_en": "2026-10-28T01:14:29-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "walmart-gt-61516",
-    "tienda": "Walmart GT",
-    "nombre": "Pan Europa para hotdog 12 Uds - 840 g",
-    "categoria": "🛏️ Hogar y muebles",
-    "url": "https://www.walmart.com.gt/pan-hotdog-europa-12-und-840-gr/p",
-    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/455000/Pan-Hotdog-Europa-12-Und-840-Gr-1-65454.jpg?v=638416439075530000",
-    "moneda": "GTQ",
-    "precio_actual": 16.2,
-    "precio_referencia": 24.45,
-    "precio_antes_tienda": 23.5,
-    "descuento_real": 0.3374,
-    "ahorro_q": 8.25,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "La Torre",
-        "precio": 24.45,
-        "url": "https://www.latorre.com.gt/pan-super-hot-dog-europa-2055827/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "La Torre",
-      "precio": 24.45
-    },
-    "etiqueta": "Más barato que La Torre",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 33.9,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:15:07Z",
-    "visto_en": "2026-10-28T01:15:07-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:37:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -1335,7 +1370,7 @@
     "nombre": "Impresora HP 530 Multifuncional WiFi Smart Tank Todo en Uno",
     "categoria": "💻 Computación y videojuegos",
     "url": "https://www.max.com.gt/impresora-hp-530-multifuncional-wifi-smart-tank-todo-en-uno-hp-hp530",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/4/s/4sb24a_02imagenprincipalsintexto_b_.jpg",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/4/s/4sb24a_02imagenprincipalsintexto_b_.jpg?optimize=high&fit=bounds&height=&width=",
     "moneda": "GTQ",
     "precio_actual": 2199.0,
     "precio_referencia": 2795.0,
@@ -1366,7 +1401,87 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:14:22-06:00",
+    "visto_en": "2026-10-28T03:36:42-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-AS8821",
+    "tienda": "Max",
+    "nombre": "Cepillo de Aire Remington con Terapia de Keratina Avanzada",
+    "categoria": "📦 Otros",
+    "url": "https://www.max.com.gt/cepillo-de-aire-remington-con-terapia-de-keratina-avanzada-remington-as8821",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/a/s/as8821_02.jpg?optimize=high&fit=bounds&height=&width=",
+    "moneda": "GTQ",
+    "precio_actual": 496.0,
+    "precio_referencia": 699.0,
+    "precio_antes_tienda": 795.0,
+    "descuento_real": 0.2904,
+    "ahorro_q": 203.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 699.0,
+        "url": "https://www.tecnofacil.com.gt/cepillo-de-aire-remington-con-terapia-de-keratina-avanzada-remington-as8821"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 699.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 33.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T03:35:44-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-40540",
+    "tienda": "Walmart GT",
+    "nombre": "Vino Blanco Casillero del Diablo Reserve Sauvignon Blanc - 750 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/vino-casillero-del-diablo-sauvig-blanco-750ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/788728/40534_01.jpg?v=638796882015370000",
+    "moneda": "GTQ",
+    "precio_actual": 70.0,
+    "precio_referencia": 101.4,
+    "precio_antes_tienda": 96.0,
+    "descuento_real": 0.3097,
+    "ahorro_q": 31.4,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 101.4,
+        "url": "https://www.latorre.com.gt/vino-sauvignon-blanco-casillero-del-diablo-16681/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 101.4
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 31.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T09:37:27Z",
+    "visto_en": "2026-10-28T03:37:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -1406,7 +1521,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:32-06:00",
+    "visto_en": "2026-10-28T03:37:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -1450,8 +1565,48 @@
     "puntaje": 30.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:03:04Z",
-    "visto_en": "2026-10-28T01:13:24-06:00",
+    "fin_oferta": "2027-10-28T09:29:34Z",
+    "visto_en": "2026-10-28T03:35:51-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "tecnofacil-FB54",
+    "tienda": "Tecnofácil",
+    "nombre": "Spa para pies Homedics Color Blanco y Rosa",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.tecnofacil.com.gt/spa-para-pies-homedics-color-blanco-y-rosa-homedics-fb54",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/F/B/FB54_1_1.jpg?optimize=high&fit=bounds&height=&width=",
+    "moneda": "GTQ",
+    "precio_actual": 269.0,
+    "precio_referencia": 375.0,
+    "precio_antes_tienda": 375.0,
+    "descuento_real": 0.2827,
+    "ahorro_q": 106.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 375.0,
+        "url": "https://www.max.com.gt/spa-para-pies-homedics-color-blanco-y-rosa-homedics-fb54"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 375.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 30.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T03:42:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -1490,8 +1645,8 @@
     "puntaje": 30.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-22T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:27-06:00",
+    "fin_oferta": "2027-10-28T09:38:25Z",
+    "visto_en": "2026-10-28T03:38:26-06:00",
     "alerta_nueva": true
   },
   {
@@ -1531,7 +1686,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:46-06:00",
+    "visto_en": "2026-10-28T03:36:14-06:00",
     "alerta_nueva": true
   },
   {
@@ -1570,8 +1725,8 @@
     "puntaje": 29.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:13:45Z",
-    "visto_en": "2026-10-28T01:13:46-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:14-06:00",
     "alerta_nueva": true
   },
   {
@@ -1611,7 +1766,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:49-06:00",
+    "visto_en": "2026-10-28T03:37:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -1651,7 +1806,87 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:25-06:00",
+    "visto_en": "2026-10-28T03:35:50-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-41616",
+    "tienda": "Walmart GT",
+    "nombre": "Aceituna Excelencia Rellena Anchoa - 350 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/aceituna-excelencia-rellena-anchoa-350gr/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/1012497/aceituna-excelencia-rellena-anchoa-350-g-8410971140155.png?v=639178467502100000",
+    "moneda": "GTQ",
+    "precio_actual": 17.75,
+    "precio_referencia": 24.95,
+    "precio_antes_tienda": 17.75,
+    "descuento_real": 0.2886,
+    "ahorro_q": 7.2,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 24.95,
+        "url": "https://www.latorre.com.gt/aceitunas-verdes-rellenas-anchoa-excelencia-lata-39203/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 24.95
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 29.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:14-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-40553",
+    "tienda": "Walmart GT",
+    "nombre": "Vino Frontera blanco sauvignon concha y toro - 750 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/vino-frontera-blanco-sauvignon-750ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/947706/vino-frontera-blanco-sauvignon-concha-y-toro-750-ml-7804320556000.jpg?v=639052930456100000",
+    "moneda": "GTQ",
+    "precio_actual": 49.0,
+    "precio_referencia": 68.5,
+    "precio_antes_tienda": 49.0,
+    "descuento_real": 0.2847,
+    "ahorro_q": 19.5,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 68.5,
+        "url": "https://www.latorre.com.gt/vino-sauvignon-blanco-pedro-jimenez-frontera-16692/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 68.5
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 28.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-24T00:00:00Z",
+    "visto_en": "2026-10-28T03:37:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -1690,8 +1925,8 @@
     "puntaje": 28.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:13:56Z",
-    "visto_en": "2026-10-28T01:13:57-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -1731,7 +1966,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:09-06:00",
+    "visto_en": "2026-10-28T03:36:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -1770,8 +2005,8 @@
     "puntaje": 28.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:14:10Z",
-    "visto_en": "2026-10-28T01:14:10-06:00",
+    "fin_oferta": "2027-10-23T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -1810,8 +2045,8 @@
     "puntaje": 27.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:09:22Z",
-    "visto_en": "2026-10-28T01:13:27-06:00",
+    "fin_oferta": "2027-10-28T09:35:51Z",
+    "visto_en": "2026-10-28T03:35:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -1851,7 +2086,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T01:13:23-06:00",
+    "visto_en": "2026-10-28T03:35:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -1891,7 +2126,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:24-06:00",
+    "visto_en": "2026-10-28T03:38:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -1930,8 +2165,48 @@
     "puntaje": 27.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:15:26Z",
-    "visto_en": "2026-10-28T01:15:26-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:36-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-28349",
+    "tienda": "Walmart GT",
+    "nombre": "Chorizo Santa Lucia Argentino de Cerdo - 454 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/chorizo-argentino-cerdo-santa-lucia-un/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/837252/28337_01.jpg?v=638864781626870000",
+    "moneda": "GTQ",
+    "precio_actual": 26.75,
+    "precio_referencia": 36.75,
+    "precio_antes_tienda": 26.75,
+    "descuento_real": 0.2721,
+    "ahorro_q": 10.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 36.75,
+        "url": "https://www.latorre.com.gt/chorizo-argentino-santa-lucia-12728/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 36.75
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 27.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -1971,7 +2246,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:57-06:00",
+    "visto_en": "2026-10-28T03:36:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -2016,47 +2291,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T01:13:19-06:00",
+    "visto_en": "2026-10-28T03:35:41-06:00",
     "alerta_nueva": true
   },
   {
-    "id": "cemaco-103444296",
-    "tienda": "Cemaco",
-    "nombre": "Licuadora Fusion Blade con Jarra de Vidrio 650 W con 12 Velocidades Color Gris",
-    "categoria": "🍳 Electrodomésticos de cocina",
-    "url": "https://www.cemaco.com/licuadora-fusion-blade-12-velocidades-black-decker-1042227/p",
-    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/2889375/1042227_1.jpg?v=639220835994230000",
+    "id": "walmart-gt-58083",
+    "tienda": "Walmart GT",
+    "nombre": "Bebida Gaseosa Coca Cola Sabor Original - 3 L",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/gaseosa-coca-cola-sabor-original-3l-5/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/1038811/bebida-gaseosa-coca-cola-sabor-original-3-l-7441003500150.webp?v=639207804179200000",
     "moneda": "GTQ",
-    "precio_actual": 399.99,
-    "precio_referencia": 529.0,
-    "precio_antes_tienda": 499.99,
-    "descuento_real": 0.2439,
-    "ahorro_q": 129.01,
+    "precio_actual": 17.1,
+    "precio_referencia": 23.35,
+    "precio_antes_tienda": 18.0,
+    "descuento_real": 0.2677,
+    "ahorro_q": 6.25,
     "minimo_historico": false,
     "sin_historial": true,
     "fuente_referencia": "mercado",
     "mercado": [
       {
-        "tienda": "Tecnofácil",
-        "precio": 529.0,
-        "url": "https://www.tecnofacil.com.gt/licuadora-fusion-blade-black-decker-bl1120sg-12-velocidades"
+        "tienda": "La Torre",
+        "precio": 23.35,
+        "url": "https://www.latorre.com.gt/coca-cola-original-57999/p"
       }
     ],
     "antes_inflado": false,
     "mas_barato_que": {
-      "tienda": "Tecnofácil",
-      "precio": 529.0
+      "tienda": "La Torre",
+      "precio": 23.35
     },
-    "etiqueta": "Más barato que Tecnofácil",
+    "etiqueta": "Más barato que La Torre",
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
     "nivel_label": "BUENA",
-    "puntaje": 27.0,
+    "puntaje": 26.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T01:13:26-06:00",
+    "fin_oferta": "2027-10-28T09:36:54Z",
+    "visto_en": "2026-10-28T03:36:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -2096,87 +2371,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-18T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:47-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "walmart-gt-28349",
-    "tienda": "Walmart GT",
-    "nombre": "Chorizo Santa Lucia Argentino de Cerdo - 454 g",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.walmart.com.gt/chorizo-argentino-cerdo-santa-lucia-un/p",
-    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/837252/28337_01.jpg?v=638864781626870000",
-    "moneda": "GTQ",
-    "precio_actual": 26.75,
-    "precio_referencia": 36.4,
-    "precio_antes_tienda": 26.75,
-    "descuento_real": 0.2651,
-    "ahorro_q": 9.65,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "La Torre",
-        "precio": 36.4,
-        "url": "https://www.latorre.com.gt/chorizo-argentino-santa-lucia-12728/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "La Torre",
-      "precio": 36.4
-    },
-    "etiqueta": "Más barato que La Torre",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 26.7,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:38-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "max-gt-JBLCLIP5BLK",
-    "tienda": "Max",
-    "nombre": "Bocina JBL Clip 5 Ultraportátil Resistente al Agua y Polvo (Negro)",
-    "categoria": "📺 TV y audio",
-    "url": "https://www.max.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-negro-jbl-jblclip5blk",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/J/B/JBLCLIP5BLK_1.png",
-    "moneda": "GTQ",
-    "precio_actual": 496.0,
-    "precio_referencia": 649.0,
-    "precio_antes_tienda": 695.0,
-    "descuento_real": 0.2357,
-    "ahorro_q": 153.0,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Tecnofácil",
-        "precio": 649.0,
-        "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-negro-jbl-jblclip5blk"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Tecnofácil",
-      "precio": 649.0
-    },
-    "etiqueta": "Más barato que Tecnofácil",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 26.6,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-10-28T01:16:17-06:00",
+    "visto_en": "2026-10-28T03:36:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -2200,11 +2395,6 @@
         "tienda": "Tecnofácil",
         "precio": 649.0,
         "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-rojo-jbl-jblclip5red"
-      },
-      {
-        "tienda": "Tecnofácil",
-        "precio": 649.0,
-        "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-azul-jbl-jblclip5blu"
       }
     ],
     "antes_inflado": false,
@@ -2221,7 +2411,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:16:17-06:00",
+    "visto_en": "2026-10-28T03:38:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -2230,7 +2420,7 @@
     "nombre": "Bocina JBL Clip 5 Ultraportátil Resistente al Agua y Polvo (Rojo)",
     "categoria": "📺 TV y audio",
     "url": "https://www.max.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-rojo-jbl-jblclip5red",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/J/B/JBLCLIP5RED_1.jpg",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/J/B/JBLCLIP5RED_1.jpg?optimize=high&fit=bounds&height=&width=",
     "moneda": "GTQ",
     "precio_actual": 496.0,
     "precio_referencia": 649.0,
@@ -2245,11 +2435,6 @@
         "tienda": "Tecnofácil",
         "precio": 649.0,
         "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-rojo-jbl-jblclip5red"
-      },
-      {
-        "tienda": "Tecnofácil",
-        "precio": 649.0,
-        "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-azul-jbl-jblclip5blu"
       }
     ],
     "antes_inflado": false,
@@ -2266,7 +2451,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:16:17-06:00",
+    "visto_en": "2026-10-28T03:38:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -2305,8 +2490,8 @@
     "puntaje": 26.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:30-06:00",
+    "fin_oferta": "2027-10-28T09:37:21Z",
+    "visto_en": "2026-10-28T03:37:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -2346,7 +2531,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:09-06:00",
+    "visto_en": "2026-10-28T03:36:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -2385,8 +2570,8 @@
     "puntaje": 26.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:55-06:00",
+    "fin_oferta": "2027-10-28T09:36:30Z",
+    "visto_en": "2026-10-28T03:36:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -2426,7 +2611,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:53-06:00",
+    "visto_en": "2026-10-28T03:36:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -2465,8 +2650,88 @@
     "puntaje": 26.0,
     "disponible": true,
     "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T09:38:31Z",
+    "visto_en": "2026-10-28T03:38:32-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-48380",
+    "tienda": "Walmart GT",
+    "nombre": "Yogurt Lala Natural Semidescremado - 900 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/yogurt-lala-natural-semidescremado-900-g-2/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/684567/48379_01.jpg?v=638678931474330000",
+    "moneda": "GTQ",
+    "precio_actual": 28.0,
+    "precio_referencia": 37.65,
+    "precio_antes_tienda": 28.0,
+    "descuento_real": 0.2563,
+    "ahorro_q": 9.65,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 37.65,
+        "url": "https://www.latorre.com.gt/yogurt-natural-lala-2035450/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 37.65
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 25.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:23-06:00",
+    "visto_en": "2026-10-28T03:38:29-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-55528",
+    "tienda": "Walmart GT",
+    "nombre": "Yogurt Lala Fresa Mora - 900 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/yogurt-lala-fresa-mora-900-g-2/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/547375/55517_01.jpg?v=638557039276400000",
+    "moneda": "GTQ",
+    "precio_actual": 28.0,
+    "precio_referencia": 37.65,
+    "precio_antes_tienda": 28.0,
+    "descuento_real": 0.2563,
+    "ahorro_q": 9.65,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 37.65,
+        "url": "https://www.latorre.com.gt/yogurt-fresa-mora-lala-2056919/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 37.65
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 25.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -2505,8 +2770,8 @@
     "puntaje": 25.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:13:31Z",
-    "visto_en": "2026-10-28T01:13:31-06:00",
+    "fin_oferta": "2027-10-28T09:35:56Z",
+    "visto_en": "2026-10-28T03:35:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -2545,8 +2810,248 @@
     "puntaje": 25.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:27-06:00",
+    "fin_oferta": "2027-10-28T09:35:52Z",
+    "visto_en": "2026-10-28T03:35:52-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-CM0755SMX",
+    "tienda": "Max",
+    "nombre": "Cafetera de 5 tazas, con termo y funciones 4 en 1, CM0755SMX",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.max.com.gt/cafetera-de-5-tazas-con-termo-y-funciones-4-en-1-cm0755smx-black-decker-cm0755smx",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/c/m/cm0755smx.jpg?optimize=high&fit=bounds&height=&width=",
+    "moneda": "GTQ",
+    "precio_actual": 266.0,
+    "precio_referencia": 349.0,
+    "precio_antes_tienda": 395.0,
+    "descuento_real": 0.2378,
+    "ahorro_q": 83.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 349.0,
+        "url": "https://www.tecnofacil.com.gt/cafetera-de-5-tazas-con-termo-y-funciones-4-en-1-cm0755smx-black-decker-cm0755smx"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 349.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 25.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T03:37:52-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-EC8930",
+    "tienda": "Max",
+    "nombre": "Secadora para Cabello con Tecnología de Aire Iónico",
+    "categoria": "🧊 Línea blanca",
+    "url": "https://www.max.com.gt/secadora-para-cabello-con-tecnologia-de-aire-ionico-remington-ec8930",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/E/C/EC8930_1_1072025163215.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 996.0,
+    "precio_referencia": 1249.0,
+    "precio_antes_tienda": 1395.0,
+    "descuento_real": 0.2026,
+    "ahorro_q": 253.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 1249.0,
+        "url": "https://www.tecnofacil.com.gt/secadora-para-cabello-con-tecnologia-de-aire-ionico-remington-ec8930"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 1249.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 25.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T03:40:52-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-S8930",
+    "tienda": "Max",
+    "nombre": "Plancha de Cabello Remington con aire ionizado AIRvive 1\"",
+    "categoria": "📦 Otros",
+    "url": "https://www.max.com.gt/plancha-de-cabello-remington-con-aire-ionizado-airvive-1-remington-s8930",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/S/8/S8930_1.jpg?optimize=high&fit=bounds&height=&width=",
+    "moneda": "GTQ",
+    "precio_actual": 996.0,
+    "precio_referencia": 1249.0,
+    "precio_antes_tienda": 1395.0,
+    "descuento_real": 0.2026,
+    "ahorro_q": 253.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 1249.0,
+        "url": "https://www.tecnofacil.com.gt/plancha-de-cabello-remington-con-aire-ionizado-airvive-1-remington-s8930"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 1249.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 25.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T03:40:53-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-AS8930",
+    "tienda": "Max",
+    "nombre": "Plancha y Secadora de Aire Remington 2 en 1 con Recubrimiento Cerámico AIRvive",
+    "categoria": "🧊 Línea blanca",
+    "url": "https://www.max.com.gt/plancha-y-secadora-de-aire-remington-2-en-1-con-recubrimiento-ceramico-airvive-remington-as8930",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/A/S/AS8930_1_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 996.0,
+    "precio_referencia": 1249.0,
+    "precio_antes_tienda": 1395.0,
+    "descuento_real": 0.2026,
+    "ahorro_q": 253.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 1249.0,
+        "url": "https://www.tecnofacil.com.gt/plancha-y-secadora-de-aire-remington-2-en-1-con-recubrimiento-ceramico-airvive-remington-as8930"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 1249.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 25.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T03:40:53-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-62277",
+    "tienda": "Walmart GT",
+    "nombre": "Whisky Johnnie Walker Etiquete Roja - 750 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/whisky-johnnie-walker-etiq-roja-750ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/571320/62317_01.jpg?v=638590853064600000",
+    "moneda": "GTQ",
+    "precio_actual": 135.0,
+    "precio_referencia": 177.5,
+    "precio_antes_tienda": 135.0,
+    "descuento_real": 0.2394,
+    "ahorro_q": 42.5,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 177.5,
+        "url": "https://www.latorre.com.gt/whisky-johnnie-walker-red-label-16656/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 177.5
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 24.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:37:20-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-73381",
+    "tienda": "Walmart GT",
+    "nombre": "Jamón De Pavo Fud , Virginia - 290 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/10pk-calcetas-para-nina-a204-5-0-2-8-8-3/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/550840/73804_01.jpg?v=638563315312930000",
+    "moneda": "GTQ",
+    "precio_actual": 27.25,
+    "precio_referencia": 36.15,
+    "precio_antes_tienda": 27.25,
+    "descuento_real": 0.2462,
+    "ahorro_q": 8.9,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 36.15,
+        "url": "https://www.latorre.com.gt/jamon-virginia-pavo-fud-51325/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 36.15
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 24.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T09:38:48Z",
+    "visto_en": "2026-10-28T03:38:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -2585,8 +3090,8 @@
     "puntaje": 24.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:13:31Z",
-    "visto_en": "2026-10-28T01:13:31-06:00",
+    "fin_oferta": "2027-10-28T09:35:56Z",
+    "visto_en": "2026-10-28T03:35:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -2625,8 +3130,8 @@
     "puntaje": 24.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:11:29Z",
-    "visto_en": "2026-10-28T01:14:41-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:37:26-06:00",
     "alerta_nueva": true
   },
   {
@@ -2666,7 +3171,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:42-06:00",
+    "visto_en": "2026-10-28T03:37:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -2706,7 +3211,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:47-06:00",
+    "visto_en": "2026-10-28T03:36:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -2746,7 +3251,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:30-06:00",
+    "visto_en": "2026-10-28T03:37:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -2786,7 +3291,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:16-06:00",
+    "visto_en": "2026-10-28T03:37:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -2795,7 +3300,7 @@
     "nombre": "Samsung Power Bank Carga Inalámbrica 10,000mAh, 25W (Blanco)",
     "categoria": "📱 Celulares y tablets",
     "url": "https://www.tecnofacil.com.gt/samsung-power-bank-carga-inalambrica-10-000mah-25w-blanco-samsung-ebu2510xu",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/E/B/EBU2510XU_1.png",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/E/B/EBU2510XU_1.png?optimize=high&fit=bounds&height=&width=&format=jpeg",
     "moneda": "GTQ",
     "precio_actual": 347.0,
     "precio_referencia": 445.0,
@@ -2826,7 +3331,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:14:13-06:00",
+    "visto_en": "2026-10-28T03:36:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -2866,7 +3371,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:36-06:00",
+    "visto_en": "2026-10-28T03:36:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -2905,8 +3410,8 @@
     "puntaje": 23.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:23-06:00",
+    "fin_oferta": "2027-10-28T09:37:11Z",
+    "visto_en": "2026-10-28T03:37:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -2945,8 +3450,48 @@
     "puntaje": 23.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:15:13Z",
-    "visto_en": "2026-10-28T01:15:38-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:51-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-31439",
+    "tienda": "Walmart GT",
+    "nombre": "Granola Gran Día con gotitas de yogurt - 380g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/granola-gran-dia-con-gotitas-de-yogurt-380g/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/541818/31424_01.jpg?v=638550442294070000",
+    "moneda": "GTQ",
+    "precio_actual": 17.5,
+    "precio_referencia": 22.75,
+    "precio_antes_tienda": 17.5,
+    "descuento_real": 0.2308,
+    "ahorro_q": 5.25,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 22.75,
+        "url": "https://www.latorre.com.gt/granola-gran-dia-yogurt-42309/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 22.75
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 23.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:35:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -2985,8 +3530,8 @@
     "puntaje": 23.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:55-06:00",
+    "fin_oferta": "2027-10-28T09:36:30Z",
+    "visto_en": "2026-10-28T03:36:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -3026,7 +3571,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:06-06:00",
+    "visto_en": "2026-10-28T03:36:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -3066,7 +3611,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:06-06:00",
+    "visto_en": "2026-10-28T03:36:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -3106,47 +3651,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-22T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:10-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "cemaco-5805",
-    "tienda": "Cemaco",
-    "nombre": "Licuadora Cyclone con Jarra de Vidrio de 1.5 L 1000 W Color Negro",
-    "categoria": "🍳 Electrodomésticos de cocina",
-    "url": "https://www.cemaco.com/licuadora-de-vidrio-1000w-2-vel-black-decker-1013485/p",
-    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/353716/1013485_1.jpg?v=639153416556270000",
-    "moneda": "GTQ",
-    "precio_actual": 639.99,
-    "precio_referencia": 799.0,
-    "precio_antes_tienda": 799.99,
-    "descuento_real": 0.199,
-    "ahorro_q": 159.01,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Tecnofácil",
-        "precio": 799.0,
-        "url": "https://www.tecnofacil.com.gt/black-decker-bl1670s-licuadora-cyclone-2-velocidades-black-decker-bl1670s"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Tecnofácil",
-      "precio": 799.0
-    },
-    "etiqueta": "Más barato que Tecnofácil",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 23.1,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T01:13:17-06:00",
+    "visto_en": "2026-10-28T03:36:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -3185,8 +3690,48 @@
     "puntaje": 23.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:13:32Z",
-    "visto_en": "2026-10-28T01:13:32-06:00",
+    "fin_oferta": "2027-10-28T09:34:38Z",
+    "visto_en": "2026-10-28T03:35:58-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-41610",
+    "tienda": "Walmart GT",
+    "nombre": "Aceitunas Excelencia Negra Deshuesada - 350 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/aceitunas-excelencia-negra-deshuesada-350-g-0/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/1012474/aceitunas-excelencia-negra-deshuesada-350-g-8410971030173.png?v=639178467384900000",
+    "moneda": "GTQ",
+    "precio_actual": 19.25,
+    "precio_referencia": 24.95,
+    "precio_antes_tienda": 19.25,
+    "descuento_real": 0.2285,
+    "ahorro_q": 5.7,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 24.95,
+        "url": "https://www.latorre.com.gt/aceitunas-negras-deshuesadas-excelencia-lata-39198/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 24.95
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 23.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:14-06:00",
     "alerta_nueva": true
   },
   {
@@ -3225,88 +3770,48 @@
     "puntaje": 23.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:15:07Z",
-    "visto_en": "2026-10-28T01:15:07-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:10-06:00",
     "alerta_nueva": true
   },
   {
-    "id": "latorre-5058",
-    "tienda": "La Torre",
-    "nombre": "Tocino Ahumado Toledo",
+    "id": "walmart-gt-38918",
+    "tienda": "Walmart GT",
+    "nombre": "Alimento Complementario NIDO® 3+ Lata - 1.6 kg",
     "categoria": "🛒 Supermercado",
-    "url": "https://www.latorre.com.gt/tocino-ahumado-toledo-16977/p",
-    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/196487/16977-1.jpg.jpg?v=638797376051430000",
+    "url": "https://www.walmart.com.gt/nestl-nido-3-desarrollo-alimento-l-cteo-a-base-de-leche-instant-nea-lata-1-6kg/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/878051/38911_01.jpg?v=638936391082330000",
     "moneda": "GTQ",
-    "precio_actual": 20.9,
-    "precio_referencia": 27.0,
-    "precio_antes_tienda": 28.05,
-    "descuento_real": 0.2259,
-    "ahorro_q": 6.1,
+    "precio_actual": 133.45,
+    "precio_referencia": 171.65,
+    "precio_antes_tienda": 133.45,
+    "descuento_real": 0.2225,
+    "ahorro_q": 38.2,
     "minimo_historico": false,
     "sin_historial": true,
     "fuente_referencia": "mercado",
     "mercado": [
       {
-        "tienda": "Walmart GT",
-        "precio": 27.0,
-        "url": "https://www.walmart.com.gt/tocino-toledo-172gr/p"
+        "tienda": "La Torre",
+        "precio": 171.65,
+        "url": "https://www.latorre.com.gt/leche-entera-preescolar-3--nido-46614/p"
       }
     ],
     "antes_inflado": false,
     "mas_barato_que": {
-      "tienda": "Walmart GT",
-      "precio": 27.0
+      "tienda": "La Torre",
+      "precio": 171.65
     },
-    "etiqueta": "Más barato que Walmart GT",
+    "etiqueta": "Más barato que La Torre",
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
     "nivel_label": "BUENA",
-    "puntaje": 22.7,
+    "puntaje": 23.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:29-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "latorre-18127",
-    "tienda": "La Torre",
-    "nombre": "Jamón Ahumado Toledo",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.latorre.com.gt/jamon-ahumado-toledo-2053091/p",
-    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/196535/2053091-1.jpg.jpg?v=638797380407670000",
-    "moneda": "GTQ",
-    "precio_actual": 27.95,
-    "precio_referencia": 36.0,
-    "precio_antes_tienda": 37.35,
-    "descuento_real": 0.2236,
-    "ahorro_q": 8.05,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Walmart GT",
-        "precio": 36.0,
-        "url": "https://www.walmart.com.gt/jamon-toledo-ahumado-400g-2/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Walmart GT",
-      "precio": 36.0
-    },
-    "etiqueta": "Más barato que Walmart GT",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 22.5,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:29-06:00",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -3345,8 +3850,93 @@
     "puntaje": 22.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:26-06:00",
+    "fin_oferta": "2027-10-28T09:38:24Z",
+    "visto_en": "2026-10-28T03:38:25-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-2210538",
+    "tienda": "Simán",
+    "nombre": "Alisadora Remington Wet2Straight Extra Ancha para Cabello Húmedo y Seco",
+    "categoria": "💄 Belleza y cuidado personal",
+    "url": "https://gt.siman.com/alisadora-de-cabello-718877/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/1492624/471887700008.jpg?v=637596460201570000",
+    "moneda": "GTQ",
+    "precio_actual": 424.15,
+    "precio_referencia": 532.0,
+    "precio_antes_tienda": 499.0,
+    "descuento_real": 0.2027,
+    "ahorro_q": 107.85,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 489.0,
+        "url": "https://www.max.com.gt/plancha-remington-para-cabello-humedo-o-seco-que-evita-el-dano-del-cabello-remington-s8001p"
+      },
+      {
+        "tienda": "Tecnofácil",
+        "precio": 575.0,
+        "url": "https://www.tecnofacil.com.gt/plancha-remington-para-cabello-humedo-o-seco-que-evita-el-dano-del-cabello-remington-s8001p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 489.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 22.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T09:36:29Z",
+    "visto_en": "2026-10-28T03:36:30-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-53551",
+    "tienda": "Walmart GT",
+    "nombre": "Barras de Cereal Kelloggs Special K Cosecha Roja - 126 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/barra-special-kelloggs-fresa-126-g-8/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/697008/53545_01.jpg?v=638689245326070000",
+    "moneda": "GTQ",
+    "precio_actual": 21.0,
+    "precio_referencia": 26.95,
+    "precio_antes_tienda": 21.0,
+    "descuento_real": 0.2208,
+    "ahorro_q": 5.95,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 26.95,
+        "url": "https://www.latorre.com.gt/barra-cereal-cosecha-roja-special-k-2036865/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 26.95
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 22.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -3386,7 +3976,207 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:13-06:00",
+    "visto_en": "2026-10-28T03:36:50-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-59240",
+    "tienda": "Walmart GT",
+    "nombre": "Granola Gran día Original - 380 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/granola-gran-dia-original-380-g/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/834439/59260_01.jpg?v=638859498222370000",
+    "moneda": "GTQ",
+    "precio_actual": 17.75,
+    "precio_referencia": 22.75,
+    "precio_antes_tienda": 17.75,
+    "descuento_real": 0.2198,
+    "ahorro_q": 5.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 22.75,
+        "url": "https://www.latorre.com.gt/granola-gran-dia-con-pasas-2053170/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 22.75
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 22.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T09:32:41Z",
+    "visto_en": "2026-10-28T03:36:00-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-31431",
+    "tienda": "Walmart GT",
+    "nombre": "Granola Gran Día miel linaza - 380 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/granola-gran-dia-miel-linaza-380-g/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/555949/31416_01.jpg?v=638569302071270000",
+    "moneda": "GTQ",
+    "precio_actual": 17.75,
+    "precio_referencia": 22.75,
+    "precio_antes_tienda": 17.75,
+    "descuento_real": 0.2198,
+    "ahorro_q": 5.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 22.75,
+        "url": "https://www.latorre.com.gt/granola-gran-dia-light-linaza-55229/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 22.75
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 22.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:03-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-59239",
+    "tienda": "Walmart GT",
+    "nombre": "Granola Gran Día Chocolate - 380 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/granola-gran-dia-chocolate-380-g/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/498662/Granola-Chocolate-Gran-Dia-380G-1-62386.jpg?v=638452393588130000",
+    "moneda": "GTQ",
+    "precio_actual": 17.75,
+    "precio_referencia": 22.75,
+    "precio_antes_tienda": 17.75,
+    "descuento_real": 0.2198,
+    "ahorro_q": 5.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 22.75,
+        "url": "https://www.latorre.com.gt/granola-gran-dia-chocolate-con-gotitas-yogurt-109875/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 22.75
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 22.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:12-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-32317",
+    "tienda": "Walmart GT",
+    "nombre": "Jugo De Naranja De La Granja - 3400 ml",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/jugo-de-la-granja-de-naranja-3400ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/659797/32302_01.jpg?v=638663449434770000",
+    "moneda": "GTQ",
+    "precio_actual": 23.0,
+    "precio_referencia": 29.4,
+    "precio_antes_tienda": 23.0,
+    "descuento_real": 0.2177,
+    "ahorro_q": 6.4,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 29.4,
+        "url": "https://www.latorre.com.gt/de-la-granja-naranja-con-pulpa-90504/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 29.4
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T09:35:42Z",
+    "visto_en": "2026-10-28T03:36:55-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-44795",
+    "tienda": "Walmart GT",
+    "nombre": "Cereal Kelloggs Komplete Almendras - 390 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/cereal-komplete-almendras-de-kelloggs-390-g-0-3-3-1-2-5/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/910223/cereal-kelloggs-komplete-almendras-390-g-7501008041680.webp?v=638991708446600000",
+    "moneda": "GTQ",
+    "precio_actual": 26.25,
+    "precio_referencia": 33.5,
+    "precio_antes_tienda": 26.25,
+    "descuento_real": 0.2164,
+    "ahorro_q": 7.25,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 33.5,
+        "url": "https://www.latorre.com.gt/cereal-komplete-almendra-2027182/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 33.5
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:35:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -3425,8 +4215,288 @@
     "puntaje": 21.8,
     "disponible": true,
     "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T09:35:57Z",
+    "visto_en": "2026-10-28T03:35:58-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-44876",
+    "tienda": "Walmart GT",
+    "nombre": "Cereal Kelloggs Komplete Pasas - 420 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/cereal-komplete-con-pasas-kelloggs-420-g-7-5-8-8-1-6/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/910207/cereal-kelloggs-komplete-pasas-420-g-7501008041703.webp?v=638991708363130000",
+    "moneda": "GTQ",
+    "precio_actual": 26.25,
+    "precio_referencia": 33.5,
+    "precio_antes_tienda": 26.25,
+    "descuento_real": 0.2164,
+    "ahorro_q": 7.25,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 33.5,
+        "url": "https://www.latorre.com.gt/cereal-komplete-pasas-2027186/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 33.5
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:01-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-44874",
+    "tienda": "Walmart GT",
+    "nombre": "Cereal Kelloggs Komplete Manzana y Pasas - 440 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/cereal-komplete-kelloggs-manzana-pasas-440g/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/910199/cereal-kelloggs-komplete-manzana-y-pasas-440-g-7501008041666.webp?v=638991708321830000",
+    "moneda": "GTQ",
+    "precio_actual": 26.25,
+    "precio_referencia": 33.5,
+    "precio_antes_tienda": 26.25,
+    "descuento_real": 0.2164,
+    "ahorro_q": 7.25,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 33.5,
+        "url": "https://www.latorre.com.gt/cereal-komplete-manzana-y-pasas-2027405/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 33.5
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:32-06:00",
+    "visto_en": "2026-10-28T03:36:01-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-35402",
+    "tienda": "Walmart GT",
+    "nombre": "Cereal Kelloggs Komplete Arándanos - 310 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/cereal-kelloggs-komplete-arandanos-310-g-6/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/910190/cereal-kelloggs-komplete-arandanos-310-g-7501008005538.webp?v=638991708276030000",
+    "moneda": "GTQ",
+    "precio_actual": 26.25,
+    "precio_referencia": 33.5,
+    "precio_antes_tienda": 26.25,
+    "descuento_real": 0.2164,
+    "ahorro_q": 7.25,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 33.5,
+        "url": "https://www.latorre.com.gt/cereal-komplete-arandanos--91938/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 33.5
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:02-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-35394",
+    "tienda": "Walmart GT",
+    "nombre": "Cereal Kelloggs Komplete Sabor Chocolate - 370 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/cereal-kelloggs-komplete-chocolate-370g/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/910186/cereal-kelloggs-komplete-sabor-chocolate-370-g-7501008000625.webp?v=638991708252900000",
+    "moneda": "GTQ",
+    "precio_actual": 26.25,
+    "precio_referencia": 33.5,
+    "precio_antes_tienda": 26.25,
+    "descuento_real": 0.2164,
+    "ahorro_q": 7.25,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 33.5,
+        "url": "https://www.latorre.com.gt/cereal-komplete-chocolate-87240/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 33.5
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:02-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-44875",
+    "tienda": "Walmart GT",
+    "nombre": "Cereal Kelloggs Komplete Miel - 415 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/cereal-komplete-kelloggs-miel-415g/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/910203/cereal-kelloggs-komplete-miel-415-g-7501008041673.webp?v=638991708342500000",
+    "moneda": "GTQ",
+    "precio_actual": 26.25,
+    "precio_referencia": 33.5,
+    "precio_antes_tienda": 26.25,
+    "descuento_real": 0.2164,
+    "ahorro_q": 7.25,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 33.5,
+        "url": "https://www.latorre.com.gt/cereal-komplete-miel-2027185/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 33.5
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:14-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-35437",
+    "tienda": "Walmart GT",
+    "nombre": "Cereal Kelloggs Komplete Coco - 310 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/kelloggs-cereal-komplete-coco-310g/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/910219/cereal-kelloggs-komplete-coco-310-g-7501008031759.webp?v=638991708423770000",
+    "moneda": "GTQ",
+    "precio_actual": 26.25,
+    "precio_referencia": 33.5,
+    "precio_antes_tienda": 26.25,
+    "descuento_real": 0.2164,
+    "ahorro_q": 7.25,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 33.5,
+        "url": "https://www.latorre.com.gt/cereal-komplete-coco-2019870/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 33.5
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:35-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-BNTHB250",
+    "tienda": "Max",
+    "nombre": "Cepillo de Aire BaByliss Nano Titanium para Secado Rápido y Voluminoso",
+    "categoria": "📦 Otros",
+    "url": "https://www.max.com.gt/cepillo-de-aire-babyliss-nano-titanium-para-secado-rapido-y-voluminoso-babylisspro-bnthb250",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/B/N/BNTHB250_1_8052025103400.jpg?optimize=high&fit=bounds&height=&width=",
+    "moneda": "GTQ",
+    "precio_actual": 546.0,
+    "precio_referencia": 675.0,
+    "precio_antes_tienda": 765.0,
+    "descuento_real": 0.1911,
+    "ahorro_q": 129.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 675.0,
+        "url": "https://www.tecnofacil.com.gt/cepillo-de-aire-babyliss-nano-titanium-para-secado-rapido-y-voluminoso-babylisspro-bnthb250"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 675.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T03:35:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -3435,7 +4505,7 @@
     "nombre": "Black+Decker, SC1004D, Olla cocimiento lento, de 3.8 litros",
     "categoria": "🍳 Electrodomésticos de cocina",
     "url": "https://www.max.com.gt/black-decker-sc1004d-olla-cocimiento-lento-de-3-8-litros",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/s/c/sc1004d.png",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/s/c/sc1004d.png?optimize=high&fit=bounds&height=&width=&format=jpeg",
     "moneda": "GTQ",
     "precio_actual": 279.0,
     "precio_referencia": 349.0,
@@ -3466,7 +4536,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:15:37-06:00",
+    "visto_en": "2026-10-28T03:37:58-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-27516",
+    "tienda": "Walmart GT",
+    "nombre": "Gaseosa Coca-Cola Zero Azúcar Pet - 2.5 L",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/coca-cola-pet-sin-azucar-2500ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/1109622/gaseosa-coca-cola-zero-azucar-pet-2-5-l-7401006418364.webp?v=639269103041600000",
+    "moneda": "GTQ",
+    "precio_actual": 15.98,
+    "precio_referencia": 20.3,
+    "precio_antes_tienda": 17.75,
+    "descuento_real": 0.2128,
+    "ahorro_q": 4.32,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 20.3,
+        "url": "https://www.latorre.com.gt/gaseosa-coca-cola-zero--azucar2019801/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 20.3
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T09:36:54Z",
+    "visto_en": "2026-10-28T03:36:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -3506,7 +4616,87 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:49-06:00",
+    "visto_en": "2026-10-28T03:36:17-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-35853",
+    "tienda": "Walmart GT",
+    "nombre": "Bebida de Coco Silk Sin Endulzante - 946ml",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/bebida-silk-coco-sin-endulzante-946ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/800382/35841_01.jpg?v=638809761317000000",
+    "moneda": "GTQ",
+    "precio_actual": 20.5,
+    "precio_referencia": 26.0,
+    "precio_antes_tienda": 20.5,
+    "descuento_real": 0.2115,
+    "ahorro_q": 5.5,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 26.0,
+        "url": "https://www.latorre.com.gt/bebida-coco-silk-118670/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 26.0
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:36-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-21210",
+    "tienda": "Walmart GT",
+    "nombre": "Whisky escocés Grand Old Parr 12 años con 40% vol - 750 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/whisky-old-parr-750ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/917435/whisky-escoces-grand-old-parr-12-anos-con-40-vol-750-ml-5000281003160.webp?v=639003180110130000",
+    "moneda": "GTQ",
+    "precio_actual": 305.0,
+    "precio_referencia": 379.35,
+    "precio_antes_tienda": 305.0,
+    "descuento_real": 0.196,
+    "ahorro_q": 74.35,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 379.35,
+        "url": "https://www.latorre.com.gt/whisky-old-parr-12-años-11348/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 379.35
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T09:34:37Z",
+    "visto_en": "2026-10-28T03:37:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -3546,7 +4736,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:16-06:00",
+    "visto_en": "2026-10-28T03:38:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -3586,7 +4776,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:58-06:00",
+    "visto_en": "2026-10-28T03:36:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -3626,7 +4816,87 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:20-06:00",
+    "visto_en": "2026-10-28T03:37:07-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-44716",
+    "tienda": "Walmart GT",
+    "nombre": "Bebida de Almendra Silk Con Monkfruit - 946ml",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/bebida-silk-almendra-con-monkfruit-946ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/921943/bebida-de-almendra-silk-con-monkfruit-946-ml-7506443102392.jpg?v=639014049471670000",
+    "moneda": "GTQ",
+    "precio_actual": 20.6,
+    "precio_referencia": 26.0,
+    "precio_antes_tienda": 20.6,
+    "descuento_real": 0.2077,
+    "ahorro_q": 5.4,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 26.0,
+        "url": "https://www.latorre.com.gt/bebida-almendra-monk-fruit-sin-azucar-silk-2025977/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 26.0
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 20.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:37:13-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-62276",
+    "tienda": "Walmart GT",
+    "nombre": "Whisky Johnnie Walker Black Label - 750 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/whisky-johnnie-walker-black-label-750ml-3/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/917428/whisky-johnnie-walker-black-label-750-ml-5000267190167.webp?v=639003168061070000",
+    "moneda": "GTQ",
+    "precio_actual": 303.25,
+    "precio_referencia": 376.35,
+    "precio_antes_tienda": 303.25,
+    "descuento_real": 0.1942,
+    "ahorro_q": 73.1,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 376.35,
+        "url": "https://www.latorre.com.gt/whisky-johnnie-walker-black-label-12-años-16648/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 376.35
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 20.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:37:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -3665,8 +4935,8 @@
     "puntaje": 20.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:15:07Z",
-    "visto_en": "2026-10-28T01:15:07-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -3705,8 +4975,8 @@
     "puntaje": 20.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:43-06:00",
+    "fin_oferta": "2027-10-28T09:36:10Z",
+    "visto_en": "2026-10-28T03:36:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -3715,7 +4985,7 @@
     "nombre": "Control Nintendo Switch 2 Pro Controller Inalámbrico",
     "categoria": "💻 Computación y videojuegos",
     "url": "https://www.max.com.gt/control-nintendo-switch-2-pro-controller-inalambrico-nintendo-nsw2procontrol",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/N/S/NSW2PROCONTROL_1.png",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/N/S/NSW2PROCONTROL_1.png?optimize=high&fit=bounds&height=&width=&format=jpeg",
     "moneda": "GTQ",
     "precio_actual": 996.0,
     "precio_referencia": 1195.0,
@@ -3746,7 +5016,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:13:19-06:00",
+    "visto_en": "2026-10-28T03:35:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -3786,7 +5056,87 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:48-06:00",
+    "visto_en": "2026-10-28T03:36:19-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-27105",
+    "tienda": "Walmart GT",
+    "nombre": "Ron Botran añejo Guatemala Solera 1893 - 750 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/ron-botran-a-ejo-solera-1893-750ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/366610/Ron-Botran-A-ejo-Guatemala-Solera-1893-750ml-1-27179.jpg?v=638200534597570000",
+    "moneda": "GTQ",
+    "precio_actual": 163.1,
+    "precio_referencia": 203.1,
+    "precio_antes_tienda": 163.1,
+    "descuento_real": 0.1969,
+    "ahorro_q": 40.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 203.1,
+        "url": "https://www.latorre.com.gt/botran-añejo-solera-18-años-2004001/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 203.1
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 20.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T09:37:25Z",
+    "visto_en": "2026-10-28T03:37:26-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-29894",
+    "tienda": "Walmart GT",
+    "nombre": "Crema Trebolac Pura - 450ml",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/crema-trebolac-pura-450ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/434022/Crema-Trebolac-Pura-450ml-1-29998.jpg?v=638377656020770000",
+    "moneda": "GTQ",
+    "precio_actual": 19.75,
+    "precio_referencia": 24.8,
+    "precio_antes_tienda": 19.75,
+    "descuento_real": 0.2036,
+    "ahorro_q": 5.05,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 24.8,
+        "url": "https://www.latorre.com.gt/crema-pura-trebolac-73014/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 24.8
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 20.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -3826,7 +5176,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:28-06:00",
+    "visto_en": "2026-10-28T03:38:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -3866,7 +5216,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:30-06:00",
+    "visto_en": "2026-10-28T03:37:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -3906,7 +5256,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:37-06:00",
+    "visto_en": "2026-10-28T03:36:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -3946,7 +5296,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:20-06:00",
+    "visto_en": "2026-10-28T03:37:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -3986,7 +5336,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:06-06:00",
+    "visto_en": "2026-10-28T03:36:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -4025,8 +5375,48 @@
     "puntaje": 20.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:12-06:00",
+    "fin_oferta": "2027-10-28T09:36:54Z",
+    "visto_en": "2026-10-28T03:36:55-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-HACAJAEAA",
+    "tienda": "Max",
+    "nombre": "Controles Nintendo Switch Joy-Con (Left y Right) Neon Red/Blue",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://www.max.com.gt/controles-nintendo-switch-joy-con-left-y-right-neon-red-blue",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/h/a/hacajaeaa.jpg?optimize=high&fit=bounds&height=&width=",
+    "moneda": "GTQ",
+    "precio_actual": 746.0,
+    "precio_referencia": 899.0,
+    "precio_antes_tienda": 895.0,
+    "descuento_real": 0.1702,
+    "ahorro_q": 153.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 899.0,
+        "url": "https://gt.siman.com/control-switch-joy-con-neon-rojo-y-azul-103462022/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Simán",
+      "precio": 899.0
+    },
+    "etiqueta": "Más barato que Simán",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 20.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T03:38:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -4066,47 +5456,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:42-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "walmart-gt-58083",
-    "tienda": "Walmart GT",
-    "nombre": "Bebida Gaseosa Coca Cola Sabor Original - 3 L",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.walmart.com.gt/gaseosa-coca-cola-sabor-original-3l-5/p",
-    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/1038811/bebida-gaseosa-coca-cola-sabor-original-3-l-7441003500150.webp?v=639207804179200000",
-    "moneda": "GTQ",
-    "precio_actual": 17.1,
-    "precio_referencia": 21.35,
-    "precio_antes_tienda": 18.0,
-    "descuento_real": 0.1991,
-    "ahorro_q": 4.25,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "La Torre",
-        "precio": 21.35,
-        "url": "https://www.latorre.com.gt/coca-cola-original-57999/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "La Torre",
-      "precio": 21.35
-    },
-    "etiqueta": "Más barato que La Torre",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 20.0,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:12-06:00",
+    "visto_en": "2026-10-28T03:36:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -4145,8 +5495,8 @@
     "puntaje": 20.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:19-06:00",
+    "fin_oferta": "2027-10-28T09:38:27Z",
+    "visto_en": "2026-10-28T03:38:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -4186,7 +5536,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:09-06:00",
+    "visto_en": "2026-10-28T03:36:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -4226,7 +5576,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:31-06:00",
+    "visto_en": "2026-10-28T03:37:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -4266,7 +5616,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:38-06:00",
+    "visto_en": "2026-10-28T03:38:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -4306,7 +5656,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:15:17-06:00",
+    "visto_en": "2026-10-28T03:37:37-06:00",
     "alerta_nueva": true
   },
   {
@@ -4346,7 +5696,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:11-06:00",
+    "visto_en": "2026-10-28T03:36:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -4385,8 +5735,8 @@
     "puntaje": 19.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:36-06:00",
+    "fin_oferta": "2027-10-28T09:37:30Z",
+    "visto_en": "2026-10-28T03:37:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -4425,37 +5775,37 @@
     "puntaje": 19.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:14:54Z",
-    "visto_en": "2026-10-28T01:15:26-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:36-06:00",
     "alerta_nueva": true
   },
   {
-    "id": "walmart-gt-29894",
+    "id": "walmart-gt-33712",
     "tienda": "Walmart GT",
-    "nombre": "Crema Trebolac Pura - 450ml",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.walmart.com.gt/crema-trebolac-pura-450ml/p",
-    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/434022/Crema-Trebolac-Pura-450ml-1-29998.jpg?v=638377656020770000",
+    "nombre": "Pan Blanco Bimbo XG - 720 g",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.walmart.com.gt/pan-blanco-bimbo-sandwich-xg-720-g/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/891333/pan-blanco-bimbo-xg-720-g-7441029556773.webp?v=638955873084770000",
     "moneda": "GTQ",
-    "precio_actual": 19.75,
-    "precio_referencia": 24.45,
-    "precio_antes_tienda": 19.75,
-    "descuento_real": 0.1922,
-    "ahorro_q": 4.7,
+    "precio_actual": 22.1,
+    "precio_referencia": 27.35,
+    "precio_antes_tienda": 22.1,
+    "descuento_real": 0.192,
+    "ahorro_q": 5.25,
     "minimo_historico": false,
     "sin_historial": true,
     "fuente_referencia": "mercado",
     "mercado": [
       {
         "tienda": "La Torre",
-        "precio": 24.45,
-        "url": "https://www.latorre.com.gt/crema-pura-trebolac-73014/p"
+        "precio": 27.35,
+        "url": "https://www.latorre.com.gt/pan-sandwich-blanco-bimbo-25534/p"
       }
     ],
     "antes_inflado": false,
     "mas_barato_que": {
       "tienda": "La Torre",
-      "precio": 24.45
+      "precio": 27.35
     },
     "etiqueta": "Más barato que La Torre",
     "relampago": false,
@@ -4465,8 +5815,48 @@
     "puntaje": 19.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:16-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:10-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-35857",
+    "tienda": "Walmart GT",
+    "nombre": "Bebida de Soya Silk Sin Azúcar - 946 ml",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/bebida-silk-soya-sin-azucar-946ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/426924/Bebida-de-Soya-Silk-Sin-Az-car-946ml-1-35969.jpg?v=638366639166570000",
+    "moneda": "GTQ",
+    "precio_actual": 21.0,
+    "precio_referencia": 26.0,
+    "precio_antes_tienda": 21.0,
+    "descuento_real": 0.1923,
+    "ahorro_q": 5.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 26.0,
+        "url": "https://www.latorre.com.gt/bebida-soya-sin-azucar-silk-2006769/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 26.0
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 19.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -4505,8 +5895,8 @@
     "puntaje": 19.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:15:07Z",
-    "visto_en": "2026-10-28T01:15:07-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -4545,8 +5935,8 @@
     "puntaje": 19.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:19-06:00",
+    "fin_oferta": "2027-10-28T09:36:57Z",
+    "visto_en": "2026-10-28T03:36:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -4585,8 +5975,48 @@
     "puntaje": 19.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-19T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:08-06:00",
+    "fin_oferta": "2027-10-28T09:36:48Z",
+    "visto_en": "2026-10-28T03:36:49-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-38964",
+    "tienda": "Walmart GT",
+    "nombre": "Café Starbucks Dolce Gusto Caramel Macchiato 12 Cápsulas - 127,8 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/cafe-capsula-starbucks-caramel-mach/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/1040281/cafe-starbucks-by-nescafe-dolce-gusto-caramel-macchiato-caja-12-capsulas-127-8-g-7613036955201.webp?v=639210198247200000",
+    "moneda": "GTQ",
+    "precio_actual": 65.0,
+    "precio_referencia": 79.9,
+    "precio_antes_tienda": 73.25,
+    "descuento_real": 0.1865,
+    "ahorro_q": 14.9,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 79.9,
+        "url": "https://www.latorre.com.gt/capsulas-cafe-caramel-macchiato-starbucks-6-tazas-2024070/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 79.9
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 18.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -4626,47 +6056,87 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:37-06:00",
+    "visto_en": "2026-10-28T03:36:03-06:00",
     "alerta_nueva": true
   },
   {
-    "id": "latorre-4639",
-    "tienda": "La Torre",
-    "nombre": "Salchicha Pechuga Pollo Rey 10 Pack",
+    "id": "walmart-gt-38963",
+    "tienda": "Walmart GT",
+    "nombre": "Café Starbucks Dolce Gusto Cappuccino Caja de 12 Cápsulas - 120 g",
     "categoria": "🛒 Supermercado",
-    "url": "https://www.latorre.com.gt/salchicha-pechuga-pollo-rey-10-pack-12864/p",
-    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/175802/12864-frontal.jpg?v=637828798569870000",
+    "url": "https://www.walmart.com.gt/cafe-capsula-starbucks-cappuc-wht/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/647482/38956_01.jpg?v=638654105646400000",
     "moneda": "GTQ",
-    "precio_actual": 21.75,
-    "precio_referencia": 26.75,
-    "precio_antes_tienda": 27.35,
-    "descuento_real": 0.1869,
-    "ahorro_q": 5.0,
+    "precio_actual": 65.0,
+    "precio_referencia": 79.9,
+    "precio_antes_tienda": 73.25,
+    "descuento_real": 0.1865,
+    "ahorro_q": 14.9,
     "minimo_historico": false,
     "sin_historial": true,
     "fuente_referencia": "mercado",
     "mercado": [
       {
-        "tienda": "Walmart GT",
-        "precio": 26.75,
-        "url": "https://www.walmart.com.gt/salchicha-pollo-rey-de-pechuga-10-uds-460-g-0/p"
+        "tienda": "La Torre",
+        "precio": 79.9,
+        "url": "https://www.latorre.com.gt/capsulas-cafe-cappuccino-starbucks-6-tazas-2024069/p"
       }
     ],
     "antes_inflado": false,
     "mas_barato_que": {
-      "tienda": "Walmart GT",
-      "precio": 26.75
+      "tienda": "La Torre",
+      "precio": 79.9
     },
-    "etiqueta": "Más barato que Walmart GT",
+    "etiqueta": "Más barato que La Torre",
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
     "nivel_label": "BUENA",
-    "puntaje": 18.8,
+    "puntaje": 18.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:11:29Z",
-    "visto_en": "2026-10-28T01:14:30-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:16-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-38960",
+    "tienda": "Walmart GT",
+    "nombre": "STARBUCKS by NESCAFÉ Dolce Gusto Americano House Blend Caja 12 Cápsulas",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/cafe-capsula-starbucks-americano/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/900897/starbucks-by-nescafe-dolce-gusto-americano-house-blend-caja-12-capsulas-7613036941334.webp?v=638971965111600000",
+    "moneda": "GTQ",
+    "precio_actual": 65.0,
+    "precio_referencia": 79.9,
+    "precio_antes_tienda": 65.0,
+    "descuento_real": 0.1865,
+    "ahorro_q": 14.9,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 79.9,
+        "url": "https://www.latorre.com.gt/capsulas-cafe-americano-house-blend-starbucks-6-tazas-2024072/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 79.9
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 18.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -4705,8 +6175,8 @@
     "puntaje": 18.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:38-06:00",
+    "fin_oferta": "2027-10-28T09:38:50Z",
+    "visto_en": "2026-10-28T03:38:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -4745,8 +6215,8 @@
     "puntaje": 18.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:13:59Z",
-    "visto_en": "2026-10-28T01:13:59-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -4786,7 +6256,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:47-06:00",
+    "visto_en": "2026-10-28T03:36:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -4825,8 +6295,48 @@
     "puntaje": 18.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:13:57Z",
-    "visto_en": "2026-10-28T01:13:58-06:00",
+    "fin_oferta": "2027-10-24T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:34-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-47160",
+    "tienda": "Walmart GT",
+    "nombre": "Yogurt Oikos natural sin azúcar - 900 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/yogurt-oikos-natural-sin-azucar-900gr/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/999205/yogurt-natural-oikos-sin-azucar-900-gr-7506443101074.jpg?v=639150834774900000",
+    "moneda": "GTQ",
+    "precio_actual": 47.0,
+    "precio_referencia": 57.3,
+    "precio_antes_tienda": 47.0,
+    "descuento_real": 0.1798,
+    "ahorro_q": 10.3,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 57.3,
+        "url": "https://www.latorre.com.gt/yogurt-natural-sin-azucar-oikos-2027423/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 57.3
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 18.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -4866,7 +6376,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-18T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:41-06:00",
+    "visto_en": "2026-10-28T03:36:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -4906,7 +6416,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:41-06:00",
+    "visto_en": "2026-10-28T03:36:08-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-27879",
+    "tienda": "Walmart GT",
+    "nombre": "Pan Europa integral para sándwich - 650 g",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.walmart.com.gt/pan-europa-integral-para-sandwich-650-g/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/853665/27864_01.jpg?v=638889724579370000",
+    "moneda": "GTQ",
+    "precio_actual": 17.25,
+    "precio_referencia": 21.05,
+    "precio_antes_tienda": 17.25,
+    "descuento_real": 0.1805,
+    "ahorro_q": 3.8,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 21.05,
+        "url": "https://www.latorre.com.gt/pan-sandwich-integral-europa-25471/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 21.05
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 18.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -4945,8 +6495,8 @@
     "puntaje": 18.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:36-06:00",
+    "fin_oferta": "2027-10-28T09:38:47Z",
+    "visto_en": "2026-10-28T03:38:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -4985,39 +6535,39 @@
     "puntaje": 18.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:12-06:00",
+    "fin_oferta": "2027-10-28T09:36:54Z",
+    "visto_en": "2026-10-28T03:36:55-06:00",
     "alerta_nueva": true
   },
   {
-    "id": "latorre-18124",
-    "tienda": "La Torre",
-    "nombre": "Salchicha Pavo Especial Zipper Toledo",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.latorre.com.gt/salchicha-pavo-especial-zipper-toledo-2053086/p",
-    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/196521/2053086-1.jpg.jpg?v=638797378835670000",
+    "id": "siman-5209009",
+    "tienda": "Simán",
+    "nombre": "Olla Arrocera 7 Tz - Black and Decker",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://gt.siman.com/olla-arrocera-7-tz-101695671/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5939759/101695671_100.jpg?v=638563032739570000",
     "moneda": "GTQ",
-    "precio_actual": 18.5,
-    "precio_referencia": 22.5,
-    "precio_antes_tienda": 23.15,
-    "descuento_real": 0.1778,
-    "ahorro_q": 4.0,
+    "precio_actual": 287.1,
+    "precio_referencia": 345.0,
+    "precio_antes_tienda": 319.0,
+    "descuento_real": 0.1678,
+    "ahorro_q": 57.9,
     "minimo_historico": false,
     "sin_historial": true,
     "fuente_referencia": "mercado",
     "mercado": [
       {
-        "tienda": "Walmart GT",
-        "precio": 22.5,
-        "url": "https://www.walmart.com.gt/toledo-resellable-salchicha-400gr-10und/p"
+        "tienda": "Max",
+        "precio": 345.0,
+        "url": "https://www.max.com.gt/olla-arrocera-black-decker-14-tazas-color-blanco-black-decker-rc514"
       }
     ],
     "antes_inflado": false,
     "mas_barato_que": {
-      "tienda": "Walmart GT",
-      "precio": 22.5
+      "tienda": "Max",
+      "precio": 345.0
     },
-    "etiqueta": "Más barato que Walmart GT",
+    "etiqueta": "Más barato que Max",
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -5025,8 +6575,8 @@
     "puntaje": 17.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:31-06:00",
+    "fin_oferta": "2027-10-28T09:35:54Z",
+    "visto_en": "2026-10-28T03:36:13-06:00",
     "alerta_nueva": true
   },
   {
@@ -5066,7 +6616,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:36-06:00",
+    "visto_en": "2026-10-28T03:36:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -5106,7 +6656,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:59-06:00",
+    "visto_en": "2026-10-28T03:36:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -5146,7 +6696,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:59-06:00",
+    "visto_en": "2026-10-28T03:36:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -5185,8 +6735,128 @@
     "puntaje": 17.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:07-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:36:47-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-35839",
+    "tienda": "Walmart GT",
+    "nombre": "Yogurt Danone natural sin azúcar- 900 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/yogurt-danone-natural-sin-azucar-900gr/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/968026/yogurt-danone-natural-sin-azucar-900-gr-7501032398439.jpg?v=639086703397770000",
+    "moneda": "GTQ",
+    "precio_actual": 29.5,
+    "precio_referencia": 35.75,
+    "precio_antes_tienda": 29.5,
+    "descuento_real": 0.1748,
+    "ahorro_q": 6.25,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 35.75,
+        "url": "https://www.latorre.com.gt/yogurt-natural-sin-azucar-danone-113478/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 35.75
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 17.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:24-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-35836",
+    "tienda": "Walmart GT",
+    "nombre": "Yogurt Danone natural - 900 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/yogurt-danone-natural-900g/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/968025/yogurt-danone-natural-900-gr-7501032398385.jpg?v=639086703390000000",
+    "moneda": "GTQ",
+    "precio_actual": 29.5,
+    "precio_referencia": 35.75,
+    "precio_antes_tienda": 29.5,
+    "descuento_real": 0.1748,
+    "ahorro_q": 6.25,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 35.75,
+        "url": "https://www.latorre.com.gt/yogurt-natural-endulzado-danone-112036/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 35.75
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 17.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:25-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-35837",
+    "tienda": "Walmart GT",
+    "nombre": "Yogurt Danone fresa sin trozos - 900 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/yogurt-danone-semi-solido-fresa-900gr/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/480151/Yogurt-Danone-Semi-Solido-Fresa-900gr-1-35949.jpg?v=638423345357200000",
+    "moneda": "GTQ",
+    "precio_actual": 29.5,
+    "precio_referencia": 35.75,
+    "precio_antes_tienda": 29.5,
+    "descuento_real": 0.1748,
+    "ahorro_q": 6.25,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 35.75,
+        "url": "https://www.latorre.com.gt/yogurt-fresa-sin-trozos-danone-112037/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 35.75
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 17.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -5225,8 +6895,128 @@
     "puntaje": 17.5,
     "disponible": true,
     "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T09:34:38Z",
+    "visto_en": "2026-10-28T03:36:31-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-35606",
+    "tienda": "Walmart GT",
+    "nombre": "Leche Lala 100® Sin Lactosa Reducida en Grasa - 1000ml",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/leche-lala-100-reducida-en-grasa-1000ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/480147/Leche-Lala-100-Sin-Lactosa-Reducida-en-Grasa-1000ml-1-35719.jpg?v=638423345332100000",
+    "moneda": "GTQ",
+    "precio_actual": 20.0,
+    "precio_referencia": 24.2,
+    "precio_antes_tienda": 23.9,
+    "descuento_real": 0.1736,
+    "ahorro_q": 4.2,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 24.2,
+        "url": "https://www.latorre.com.gt/leche-liquida-deslactosada-light-con-proteina-lala-2010875/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 24.2
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 17.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:55-06:00",
+    "visto_en": "2026-10-28T03:38:24-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-35607",
+    "tienda": "Walmart GT",
+    "nombre": "Leche Lala 100® Sin Lactosa Parcialmente Descremada - 1000ml",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/leche-lala-100-parcialmt-descrem-1000ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/1121692/M-4_walmartgt_vuFcSlpQXp_35596_01.jpg?v=639283089253170000",
+    "moneda": "GTQ",
+    "precio_actual": 20.0,
+    "precio_referencia": 24.2,
+    "precio_antes_tienda": 20.0,
+    "descuento_real": 0.1736,
+    "ahorro_q": 4.2,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 24.2,
+        "url": "https://www.latorre.com.gt/leche-liquida-deslactosada-con-proteina-lala-2010873/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 24.2
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 17.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:25-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-18863",
+    "tienda": "La Torre",
+    "nombre": "Peperoni Snack Astoria",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/peperoni-snack-astoria-116208/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/186619/116208-frontal.jpg?v=638310157954500000",
+    "moneda": "GTQ",
+    "precio_actual": 16.55,
+    "precio_referencia": 20.0,
+    "precio_antes_tienda": 16.55,
+    "descuento_real": 0.1725,
+    "ahorro_q": 3.45,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 20.0,
+        "url": "https://www.walmart.com.gt/otros-embutidos-astoria-pepperoni-snack-60-g-gt3241-4-0/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 20.0
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 17.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-19T00:00:00Z",
+    "visto_en": "2026-10-28T03:37:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -5266,7 +7056,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:42-06:00",
+    "visto_en": "2026-10-28T03:36:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -5306,7 +7096,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:42-06:00",
+    "visto_en": "2026-10-28T03:36:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -5345,8 +7135,8 @@
     "puntaje": 17.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:55-06:00",
+    "fin_oferta": "2027-10-28T09:36:31Z",
+    "visto_en": "2026-10-28T03:36:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -5386,47 +7176,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:29-06:00",
+    "visto_en": "2026-10-28T03:38:39-06:00",
     "alerta_nueva": true
   },
   {
-    "id": "walmart-gt-59976",
+    "id": "walmart-gt-32897",
     "tienda": "Walmart GT",
-    "nombre": "Gaseosa Coca-Cola Zero Azúcar 6 Pack - 354 ml",
+    "nombre": "Mayonesa Hellmanns Contiene Huevos De Campo en Doypack - 880 g",
     "categoria": "🛒 Supermercado",
-    "url": "https://www.walmart.com.gt/6-pk-marca-coca-cola-ccsa-lata-2124-ml/p",
-    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/1065877/6-pack-gaseosa-coca-cola-zero-azucar-354-ml-7401006418562.webp?v=639233871191530000",
+    "url": "https://www.walmart.com.gt/mayonesa-hellmanns-contiene-huevos-de-campo-en-doypack-880-g/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/774215/32883_01.jpg?v=638768031373030000",
     "moneda": "GTQ",
-    "precio_actual": 24.08,
-    "precio_referencia": 29.0,
-    "precio_antes_tienda": 26.75,
-    "descuento_real": 0.1697,
-    "ahorro_q": 4.92,
+    "precio_actual": 25.5,
+    "precio_referencia": 30.7,
+    "precio_antes_tienda": 25.5,
+    "descuento_real": 0.1694,
+    "ahorro_q": 5.2,
     "minimo_historico": false,
     "sin_historial": true,
     "fuente_referencia": "mercado",
     "mercado": [
       {
         "tienda": "La Torre",
-        "precio": 29.0,
-        "url": "https://www.latorre.com.gt/coca-cola-sin-azucar-lata-6-pack-2048862/p"
+        "precio": 30.7,
+        "url": "https://www.latorre.com.gt/mayonesa-hellmanns-doypack-2000581/p"
       }
     ],
     "antes_inflado": false,
     "mas_barato_que": {
       "tienda": "La Torre",
-      "precio": 29.0
+      "precio": 30.7
     },
     "etiqueta": "Más barato que La Torre",
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
     "nivel_label": "BUENA",
-    "puntaje": 17.1,
+    "puntaje": 17.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:12-06:00",
+    "fin_oferta": "2027-10-28T09:33:42Z",
+    "visto_en": "2026-10-28T03:35:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -5466,7 +7256,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:41-06:00",
+    "visto_en": "2026-10-28T03:36:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -5506,7 +7296,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:47-06:00",
+    "visto_en": "2026-10-28T03:36:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -5545,8 +7335,8 @@
     "puntaje": 17.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:14-06:00",
+    "fin_oferta": "2027-10-28T09:36:58Z",
+    "visto_en": "2026-10-28T03:36:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -5586,7 +7376,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:38-06:00",
+    "visto_en": "2026-10-28T03:38:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -5625,8 +7415,48 @@
     "puntaje": 16.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:08:56Z",
-    "visto_en": "2026-10-28T01:13:43-06:00",
+    "fin_oferta": "2027-10-28T09:36:10Z",
+    "visto_en": "2026-10-28T03:36:11-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-18127",
+    "tienda": "La Torre",
+    "nombre": "Jamón Ahumado Toledo",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/jamon-ahumado-toledo-2053091/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/196535/2053091-1.jpg.jpg?v=638797380407670000",
+    "moneda": "GTQ",
+    "precio_actual": 27.95,
+    "precio_referencia": 33.5,
+    "precio_antes_tienda": 37.35,
+    "descuento_real": 0.1657,
+    "ahorro_q": 5.55,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 33.5,
+        "url": "https://www.walmart.com.gt/jamon-toledo-ahumado-400g-2/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 33.5
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 16.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:37:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -5665,8 +7495,8 @@
     "puntaje": 16.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:28-06:00",
+    "fin_oferta": "2027-10-28T09:34:30Z",
+    "visto_en": "2026-10-28T03:35:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -5706,7 +7536,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:36-06:00",
+    "visto_en": "2026-10-28T03:36:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -5745,8 +7575,8 @@
     "puntaje": 16.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:37-06:00",
+    "fin_oferta": "2027-10-28T09:36:02Z",
+    "visto_en": "2026-10-28T03:36:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -5786,7 +7616,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:59-06:00",
+    "visto_en": "2026-10-28T03:36:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -5825,8 +7655,8 @@
     "puntaje": 16.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:24-06:00",
+    "fin_oferta": "2027-10-28T09:38:31Z",
+    "visto_en": "2026-10-28T03:38:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -5866,7 +7696,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:19-06:00",
+    "visto_en": "2026-10-28T03:38:14-06:00",
     "alerta_nueva": true
   },
   {
@@ -5905,8 +7735,173 @@
     "puntaje": 16.6,
     "disponible": true,
     "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T09:36:01Z",
+    "visto_en": "2026-10-28T03:36:02-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-NT511",
+    "tienda": "Max",
+    "nombre": "UPS Forza 120V 500VA/250W",
+    "categoria": "🔌 Eléctrico",
+    "url": "https://www.max.com.gt/ups-forza-120v-500va-250w-forza-nt511",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/n/t/nt511_1.jpg?optimize=high&fit=bounds&height=&width=",
+    "moneda": "GTQ",
+    "precio_actual": 396.0,
+    "precio_referencia": 467.0,
+    "precio_antes_tienda": 495.0,
+    "descuento_real": 0.152,
+    "ahorro_q": 71.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 439.0,
+        "url": "https://gt.siman.com/regulador-de-voltaje-101454388/p"
+      },
+      {
+        "tienda": "Tecnofácil",
+        "precio": 495.0,
+        "url": "https://www.tecnofacil.com.gt/ups-forza-120v-500va-250w-forza-nt511"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Simán",
+      "precio": 439.0
+    },
+    "etiqueta": "Más barato que Simán",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 16.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T03:37:14-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-33349",
+    "tienda": "Walmart GT",
+    "nombre": "Leche Dos Pinos delactomy uht 0% grasa - 946 ml",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/leche-dos-pinos-delactomy-descremada-1000ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/621307/33335_01.jpg?v=638629789193500000",
+    "moneda": "GTQ",
+    "precio_actual": 17.25,
+    "precio_referencia": 20.65,
+    "precio_antes_tienda": 17.25,
+    "descuento_real": 0.1646,
+    "ahorro_q": 3.4,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 20.65,
+        "url": "https://www.latorre.com.gt/leche-uht-descremada-delactomy-11097/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 20.65
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 16.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:36-06:00",
+    "visto_en": "2026-10-28T03:38:24-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-33221",
+    "tienda": "Walmart GT",
+    "nombre": "Leche Semidescremada Dos Pinos Delactomy 2% Grasa - 946 ml",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/leche-dos-pinos-delactomy-semidescremada-1000ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/621403/33206_01.jpg?v=638629790113830000",
+    "moneda": "GTQ",
+    "precio_actual": 17.25,
+    "precio_referencia": 20.65,
+    "precio_antes_tienda": 17.25,
+    "descuento_real": 0.1646,
+    "ahorro_q": 3.4,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 20.65,
+        "url": "https://www.latorre.com.gt/leche-uht-semidescremada-delactomy--11098/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 20.65
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 16.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:24-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-33298",
+    "tienda": "Walmart GT",
+    "nombre": "Leche Entera Dos Pinos Delactomy - 1000 ml",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/leche-dos-pinos-delactomy-entera-1000ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/643872/33284_01.jpg?v=638651469341300000",
+    "moneda": "GTQ",
+    "precio_actual": 17.25,
+    "precio_referencia": 20.65,
+    "precio_antes_tienda": 17.25,
+    "descuento_real": 0.1646,
+    "ahorro_q": 3.4,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 20.65,
+        "url": "https://www.latorre.com.gt/leche-uht-deslactosada-delactomy-96866/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 20.65
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 16.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -5945,8 +7940,8 @@
     "puntaje": 16.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:19-06:00",
+    "fin_oferta": "2027-10-28T09:38:27Z",
+    "visto_en": "2026-10-28T03:38:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -5986,87 +7981,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T01:15:44-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "latorre-948",
-    "tienda": "La Torre",
-    "nombre": "Barras Cereal Lyne Tosh",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.latorre.com.gt/barras-cereal-lyne-tosh-98551/p",
-    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/164637/98551-frontal.jpg?v=638973549095570000",
-    "moneda": "GTQ",
-    "precio_actual": 20.8,
-    "precio_referencia": 24.85,
-    "precio_antes_tienda": 20.8,
-    "descuento_real": 0.163,
-    "ahorro_q": 4.05,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Walmart GT",
-        "precio": 24.85,
-        "url": "https://www.walmart.com.gt/barra-tosh-de-cereal-lyne-sin-azucar-adicionada-138g/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Walmart GT",
-      "precio": 24.85
-    },
-    "etiqueta": "Más barato que Walmart GT",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 16.4,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:34-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "walmart-gt-32897",
-    "tienda": "Walmart GT",
-    "nombre": "Mayonesa Hellmanns Contiene Huevos De Campo en Doypack - 880 g",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.walmart.com.gt/mayonesa-hellmanns-contiene-huevos-de-campo-en-doypack-880-g/p",
-    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/774215/32883_01.jpg?v=638768031373030000",
-    "moneda": "GTQ",
-    "precio_actual": 25.5,
-    "precio_referencia": 30.45,
-    "precio_antes_tienda": 25.5,
-    "descuento_real": 0.1626,
-    "ahorro_q": 4.95,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "La Torre",
-        "precio": 30.45,
-        "url": "https://www.latorre.com.gt/mayonesa-hellmanns-doypack-2000581/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "La Torre",
-      "precio": 30.45
-    },
-    "etiqueta": "Más barato que La Torre",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 16.4,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:21-06:00",
+    "visto_en": "2026-10-28T03:38:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -6105,8 +8020,48 @@
     "puntaje": 16.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:14:22Z",
-    "visto_en": "2026-10-28T01:14:22-06:00",
+    "fin_oferta": "2027-10-23T00:00:00Z",
+    "visto_en": "2026-10-28T03:37:09-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-38902",
+    "tienda": "Walmart GT",
+    "nombre": "Café Nescafe Gold Instantáneo Frasco - 100 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/cafe-nescafe-gold-instantaneo-frasco-100-g/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/586396/38896_01.jpg?v=638604864770700000",
+    "moneda": "GTQ",
+    "precio_actual": 58.75,
+    "precio_referencia": 69.95,
+    "precio_antes_tienda": 58.75,
+    "descuento_real": 0.1601,
+    "ahorro_q": 11.2,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 69.95,
+        "url": "https://www.latorre.com.gt/cafe-instantaneo-nescafe-gold-115617/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 69.95
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 16.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:35:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -6146,7 +8101,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:35-06:00",
+    "visto_en": "2026-10-28T03:37:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -6186,7 +8141,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:48-06:00",
+    "visto_en": "2026-10-28T03:36:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -6226,7 +8181,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:00-06:00",
+    "visto_en": "2026-10-28T03:36:37-06:00",
     "alerta_nueva": true
   },
   {
@@ -6265,8 +8220,8 @@
     "puntaje": 16.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:15:19Z",
-    "visto_en": "2026-10-28T01:15:19-06:00",
+    "fin_oferta": "2027-10-28T09:38:27Z",
+    "visto_en": "2026-10-28T03:38:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -6306,287 +8261,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:35-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "walmart-gt-44795",
-    "tienda": "Walmart GT",
-    "nombre": "Cereal Kelloggs Komplete Almendras - 390 g",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.walmart.com.gt/cereal-komplete-almendras-de-kelloggs-390-g-0-3-3-1-2-5/p",
-    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/910223/cereal-kelloggs-komplete-almendras-390-g-7501008041680.webp?v=638991708446600000",
-    "moneda": "GTQ",
-    "precio_actual": 26.25,
-    "precio_referencia": 31.2,
-    "precio_antes_tienda": 26.25,
-    "descuento_real": 0.1587,
-    "ahorro_q": 4.95,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "La Torre",
-        "precio": 31.2,
-        "url": "https://www.latorre.com.gt/cereal-komplete-almendra-2027182/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "La Torre",
-      "precio": 31.2
-    },
-    "etiqueta": "Más barato que La Torre",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 16.0,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:26-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "walmart-gt-44876",
-    "tienda": "Walmart GT",
-    "nombre": "Cereal Kelloggs Komplete Pasas - 420 g",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.walmart.com.gt/cereal-komplete-con-pasas-kelloggs-420-g-7-5-8-8-1-6/p",
-    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/910207/cereal-kelloggs-komplete-pasas-420-g-7501008041703.webp?v=638991708363130000",
-    "moneda": "GTQ",
-    "precio_actual": 26.25,
-    "precio_referencia": 31.2,
-    "precio_antes_tienda": 26.25,
-    "descuento_real": 0.1587,
-    "ahorro_q": 4.95,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "La Torre",
-        "precio": 31.2,
-        "url": "https://www.latorre.com.gt/cereal-komplete-pasas-2027186/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "La Torre",
-      "precio": 31.2
-    },
-    "etiqueta": "Más barato que La Torre",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 16.0,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:36-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "walmart-gt-44874",
-    "tienda": "Walmart GT",
-    "nombre": "Cereal Kelloggs Komplete Manzana y Pasas - 440 g",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.walmart.com.gt/cereal-komplete-kelloggs-manzana-pasas-440g/p",
-    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/910199/cereal-kelloggs-komplete-manzana-y-pasas-440-g-7501008041666.webp?v=638991708321830000",
-    "moneda": "GTQ",
-    "precio_actual": 26.25,
-    "precio_referencia": 31.2,
-    "precio_antes_tienda": 26.25,
-    "descuento_real": 0.1587,
-    "ahorro_q": 4.95,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "La Torre",
-        "precio": 31.2,
-        "url": "https://www.latorre.com.gt/cereal-komplete-manzana-y-pasas-2027405/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "La Torre",
-      "precio": 31.2
-    },
-    "etiqueta": "Más barato que La Torre",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 16.0,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:36-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "walmart-gt-35402",
-    "tienda": "Walmart GT",
-    "nombre": "Cereal Kelloggs Komplete Arándanos - 310 g",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.walmart.com.gt/cereal-kelloggs-komplete-arandanos-310-g-6/p",
-    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/910190/cereal-kelloggs-komplete-arandanos-310-g-7501008005538.webp?v=638991708276030000",
-    "moneda": "GTQ",
-    "precio_actual": 26.25,
-    "precio_referencia": 31.2,
-    "precio_antes_tienda": 26.25,
-    "descuento_real": 0.1587,
-    "ahorro_q": 4.95,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "La Torre",
-        "precio": 31.2,
-        "url": "https://www.latorre.com.gt/cereal-komplete-arandanos--91938/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "La Torre",
-      "precio": 31.2
-    },
-    "etiqueta": "Más barato que La Torre",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 16.0,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:36-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "walmart-gt-35394",
-    "tienda": "Walmart GT",
-    "nombre": "Cereal Kelloggs Komplete Sabor Chocolate - 370 g",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.walmart.com.gt/cereal-kelloggs-komplete-chocolate-370g/p",
-    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/910186/cereal-kelloggs-komplete-sabor-chocolate-370-g-7501008000625.webp?v=638991708252900000",
-    "moneda": "GTQ",
-    "precio_actual": 26.25,
-    "precio_referencia": 31.2,
-    "precio_antes_tienda": 26.25,
-    "descuento_real": 0.1587,
-    "ahorro_q": 4.95,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "La Torre",
-        "precio": 31.2,
-        "url": "https://www.latorre.com.gt/cereal-komplete-chocolate-87240/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "La Torre",
-      "precio": 31.2
-    },
-    "etiqueta": "Más barato que La Torre",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 16.0,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:36-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "walmart-gt-44875",
-    "tienda": "Walmart GT",
-    "nombre": "Cereal Kelloggs Komplete Miel - 415 g",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.walmart.com.gt/cereal-komplete-kelloggs-miel-415g/p",
-    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/910203/cereal-kelloggs-komplete-miel-415-g-7501008041673.webp?v=638991708342500000",
-    "moneda": "GTQ",
-    "precio_actual": 26.25,
-    "precio_referencia": 31.2,
-    "precio_antes_tienda": 26.25,
-    "descuento_real": 0.1587,
-    "ahorro_q": 4.95,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "La Torre",
-        "precio": 31.2,
-        "url": "https://www.latorre.com.gt/cereal-komplete-miel-2027185/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "La Torre",
-      "precio": 31.2
-    },
-    "etiqueta": "Más barato que La Torre",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 16.0,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:46-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "walmart-gt-35437",
-    "tienda": "Walmart GT",
-    "nombre": "Cereal Kelloggs Komplete Coco - 310 g",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.walmart.com.gt/kelloggs-cereal-komplete-coco-310g/p",
-    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/910219/cereal-kelloggs-komplete-coco-310-g-7501008031759.webp?v=638991708423770000",
-    "moneda": "GTQ",
-    "precio_actual": 26.25,
-    "precio_referencia": 31.2,
-    "precio_antes_tienda": 26.25,
-    "descuento_real": 0.1587,
-    "ahorro_q": 4.95,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "La Torre",
-        "precio": 31.2,
-        "url": "https://www.latorre.com.gt/cereal-komplete-coco-2019870/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "La Torre",
-      "precio": 31.2
-    },
-    "etiqueta": "Más barato que La Torre",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 16.0,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:13:58Z",
-    "visto_en": "2026-10-28T01:13:59-06:00",
+    "visto_en": "2026-10-28T03:37:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -6626,7 +8301,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:26-06:00",
+    "visto_en": "2026-10-28T03:38:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -6666,7 +8341,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:05-06:00",
+    "visto_en": "2026-10-28T03:37:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -6705,8 +8380,8 @@
     "puntaje": 15.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:08-06:00",
+    "fin_oferta": "2027-10-28T09:38:01Z",
+    "visto_en": "2026-10-28T03:38:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -6745,8 +8420,8 @@
     "puntaje": 15.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:13:31Z",
-    "visto_en": "2026-10-28T01:13:31-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:35:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -6785,8 +8460,8 @@
     "puntaje": 15.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:22-06:00",
+    "fin_oferta": "2027-10-28T09:38:18Z",
+    "visto_en": "2026-10-28T03:38:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -6826,7 +8501,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:36-06:00",
+    "visto_en": "2026-10-28T03:36:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -6865,8 +8540,8 @@
     "puntaje": 15.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:13-06:00",
+    "fin_oferta": "2027-10-28T09:36:55Z",
+    "visto_en": "2026-10-28T03:36:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -6906,7 +8581,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:38-06:00",
+    "visto_en": "2026-10-28T03:38:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -6946,7 +8621,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:15:38-06:00",
+    "visto_en": "2026-10-28T03:38:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -6985,8 +8660,8 @@
     "puntaje": 15.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:13:24Z",
-    "visto_en": "2026-10-28T01:13:24-06:00",
+    "fin_oferta": "2027-10-28T09:35:48Z",
+    "visto_en": "2026-10-28T03:35:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -7025,8 +8700,8 @@
     "puntaje": 15.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:32-06:00",
+    "fin_oferta": "2027-10-28T09:35:57Z",
+    "visto_en": "2026-10-28T03:35:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -7065,8 +8740,8 @@
     "puntaje": 15.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:27-06:00",
+    "fin_oferta": "2027-10-28T09:35:51Z",
+    "visto_en": "2026-10-28T03:35:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -7106,7 +8781,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T01:13:46-06:00",
+    "visto_en": "2026-10-28T03:36:14-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-30785",
+    "tienda": "Walmart GT",
+    "nombre": "Leche Entera Autralian Bolsa - 350 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/leche-autralian-entera-bolsa-350gr/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/828047/30767_01.jpg?v=638852007134970000",
+    "moneda": "GTQ",
+    "precio_actual": 26.25,
+    "precio_referencia": 30.95,
+    "precio_antes_tienda": 26.25,
+    "descuento_real": 0.1519,
+    "ahorro_q": 4.7,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 30.95,
+        "url": "https://www.latorre.com.gt/leche-entera-australian-pride-11910/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 30.95
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 15.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T03:38:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -7146,7 +8861,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:25-06:00",
+    "visto_en": "2026-10-28T03:37:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -7185,8 +8900,8 @@
     "puntaje": 18.3,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-15T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:26-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T03:37:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -7198,35 +8913,35 @@
     "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/196540/2059106-1.jpg.jpg?v=638797380688730000",
     "moneda": "GTQ",
     "precio_actual": 19.9,
-    "precio_referencia": 25.9,
+    "precio_referencia": 23.5,
     "precio_antes_tienda": 26.85,
-    "descuento_real": 0.2317,
-    "ahorro_q": 6.0,
+    "descuento_real": 0.1532,
+    "ahorro_q": 3.6,
     "minimo_historico": false,
     "sin_historial": true,
     "fuente_referencia": "mercado",
     "mercado": [
       {
         "tienda": "Walmart GT",
-        "precio": 25.9,
+        "precio": 23.5,
         "url": "https://www.walmart.com.gt/toledo-resellable-jamon-con-pavo-400gr-4/p"
       }
     ],
     "antes_inflado": false,
     "mas_barato_que": {
       "tienda": "Walmart GT",
-      "precio": 25.9
+      "precio": 23.5
     },
     "etiqueta": "Más barato que Walmart GT",
     "relampago": false,
     "nivel": "agotado",
     "nivel_emoji": "·",
     "nivel_label": "agotado",
-    "puntaje": 23.3,
+    "puntaje": 15.4,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:14:37Z",
-    "visto_en": "2026-10-28T01:14:37-06:00",
+    "fin_oferta": "2027-10-28T09:37:21Z",
+    "visto_en": "2026-10-28T03:37:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -7265,8 +8980,8 @@
     "puntaje": 20.9,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T07:14:37Z",
-    "visto_en": "2026-10-28T01:14:37-06:00",
+    "fin_oferta": "2027-10-28T09:37:21Z",
+    "visto_en": "2026-10-28T03:37:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -7306,7 +9021,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:38-06:00",
+    "visto_en": "2026-10-28T03:37:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -7346,7 +9061,47 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T01:14:38-06:00",
+    "visto_en": "2026-10-28T03:37:22-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-418",
+    "tienda": "La Torre",
+    "nombre": "Salchicha Tipo Americana Bremen",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/salchicha-tipo-americana-bremen-40095/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/195274/40095-frontal.jpg.jpg?v=638739409108900000",
+    "moneda": "GTQ",
+    "precio_actual": 18.9,
+    "precio_referencia": 23.0,
+    "precio_antes_tienda": 18.9,
+    "descuento_real": 0.1783,
+    "ahorro_q": 4.1,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 23.0,
+        "url": "https://www.walmart.com.gt/salchicha-bremen-tipo-americana/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 23.0
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "agotado",
+    "nivel_emoji": "·",
+    "nivel_label": "agotado",
+    "puntaje": 17.9,
+    "disponible": false,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-28T03:37:25-06:00",
     "alerta_nueva": true
   }
 ]
