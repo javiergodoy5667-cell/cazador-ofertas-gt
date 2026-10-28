@@ -4,7 +4,7 @@
 import json
 import unittest
 
-from recolectores import _unicomer, novex, officedepot
+from recolectores import _unicomer, elgallo, epa, novex, officedepot
 
 NEXT = ('<script id="__NEXT_DATA__" type="application/json">' + json.dumps({
     "props": {"pageProps": {"totalCount": 1, "productsList": [{
@@ -49,6 +49,24 @@ class TestNuevos(unittest.TestCase):
         t = officedepot._tarjetas(OD)["1310000365"]
         self.assertEqual((t["actual"], t["normal"]), (386.4, 644.0))
         self.assertTrue(t["url"].endswith("/p/1310000365"))
+
+    def test_epa_redondea_y_antes(self):
+        p = epa._producto({"name": "Taladro", "sku": "GT-1", "url_key": "taladro",
+                           "url_suffix": ".html", "stock_status": "IN_STOCK",
+                           "price_range": {"minimum_price": {
+                               "regular_price": {"value": 1998.998401, "currency": "GTQ"},
+                               "final_price": {"value": 1599.0}}}})
+        self.assertEqual((p["precio_actual"], p["precio_antes_tienda"]), (1599.0, 1999.0))
+        self.assertIsNone(epa._producto(None))
+
+    def test_elgallo_precio_y_antes(self):
+        h = (' class="product-item-info"> <a title="Celular Samsung A27" '
+             'href="https://www.elgallomasgallo.com.gt/celular-a27-202343" class="product-item-link">'
+             '<span data-price-amount="2898.560001" data-price-type="finalPrice"></span>'
+             '<span data-price-amount="3698.240001" data-price-type="oldPrice"></span>')
+        p = elgallo._tarjetas(h, "celulares")[0]
+        self.assertEqual((p["precio_actual"], p["precio_antes_tienda"], p["id"]),
+                         (2898.56, 3698.24, "elgallo-202343"))
 
 
 if __name__ == "__main__":

@@ -448,6 +448,9 @@ y las demás tiendas necesitan acumular historial de ≥7 días. Lo dejo como si
 | Novex | tarjetas HTML de categorías finales (precio + "Antes") | 122 productos en 60 s | robots.txt `Crawl-delay: 30` → 1 página cada 30 s (~14 por corrida), prioridad herramientas/eléctrico/electrodomésticos/automotriz |
 | Office Depot | HTML Hybris, `pageSize=100` (precio normal y con descuento) | 2,583 productos en 50 s, 277 con descuento | ninguno |
 
-- No agregadas: **El Gallo más Gallo** (robots.txt prohíbe `?`, sin sitemap), **Pacifiko** (bloquea IP de GitHub), **PriceSmart** (precios de socio), **EPA** (no responde), **Kemik** (403).
+| EPA | GraphQL público de Magento (`gt.epaenlinea.com/graphql`), categoría 4 "Productos" (~9,700), 100 por página | 1,697 productos en 42 s, 202 con descuento | ninguno (robots.txt no prohíbe `/graphql`) |
+| El Gallo más Gallo | HTML Magento (`finalPrice`/`oldPrice`) | 59 productos, 45 con descuento | robots.txt prohíbe `?` → solo página 1 de cada categoría |
+
+- No agregadas: **Pacifiko** (bloquea IP de GitHub), **PriceSmart** (muestra precios a visitantes, pero los carga con su buscador interno Bloomreach; leerlo exige usar sus claves internas → no se hace; la alternativa limpia es un navegador automático), **Kemik** (403 a todo programa).
 - Pruebas sin red: `pruebas/test_recolectores_nuevos.py` (precio, "antes", EAN, rechazo de moneda ≠ GTQ). El workflow las corre antes del pipeline.
 - `config/categorias.yml`: "tv-y-video/pantallas" caía en Supermercado (por "pan") → agregadas claves de TV y de herramientas eléctricas (barreno, atornillador, esmeriladora, compresor…).

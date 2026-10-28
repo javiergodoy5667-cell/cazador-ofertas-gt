@@ -2,7 +2,7 @@
 """Paquete de recolectores. RECOLECTORES lista todos los modulos activos.
 Pacifiko esta desactivado: bloquea las IP de datacenter de GitHub Actions."""
 from . import (walmart, elektra, cemaco, siman, intelaf, lacuracao, la_torre,
-               max_gt, tecnofacil, click, novex, officedepot)
+               max_gt, tecnofacil, click, novex, officedepot, epa, elgallo)
 
 RECOLECTORES = [walmart, elektra, cemaco, siman, intelaf, lacuracao, la_torre,
-                max_gt, tecnofacil, click, novex, officedepot]
+                max_gt, tecnofacil, click, novex, officedepot, epa, elgallo]
