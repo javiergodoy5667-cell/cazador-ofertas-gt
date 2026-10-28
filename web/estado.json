@@ -1,15 +1,15 @@
 {
-  "ultima_corrida": "2026-10-28T01:03:15-06:00",
-  "duracion_seg": 453.7,
-  "productos_leidos": 44817,
+  "ultima_corrida": "2026-10-28T01:20:49-06:00",
+  "duracion_seg": 455.1,
+  "productos_leidos": 45290,
   "dias_historial": 2,
   "con_ean": {
     "Elektra GT": 676,
     "La Torre": 5626,
     "Cemaco": 2792,
-    "Walmart GT": 5945,
+    "Walmart GT": 5937,
     "Simán": 2356,
-    "Max": 984,
+    "Max": 1092,
     "Tecnofácil": 942
   },
   "reporte_tiendas": {
@@ -21,40 +21,45 @@
     "Elektra GT": {
       "productos": 991,
       "con_ean": 676,
-      "dias_historial": 1
-    },
-    "La Curacao": {
-      "productos": 178,
-      "con_ean": 0,
       "dias_historial": 2
     },
     "Office Depot": {
-      "productos": 3448,
+      "productos": 3427,
       "con_ean": 0,
       "dias_historial": 1
+    },
+    "La Curacao": {
+      "productos": 256,
+      "con_ean": 0,
+      "dias_historial": 2
     },
     "La Torre": {
       "productos": 5994,
       "con_ean": 5626,
       "dias_historial": 1
     },
+    "Cemaco": {
+      "productos": 5872,
+      "con_ean": 2792,
+      "dias_historial": 2
+    },
     "El Gallo más Gallo": {
       "productos": 53,
       "con_ean": 0,
       "dias_historial": 1
     },
-    "Cemaco": {
-      "productos": 5870,
-      "con_ean": 2792,
-      "dias_historial": 2
-    },
     "Walmart GT": {
-      "productos": 5945,
-      "con_ean": 5945,
+      "productos": 5937,
+      "con_ean": 5937,
       "dias_historial": 2
     },
     "EPA": {
       "productos": 9425,
+      "con_ean": 0,
+      "dias_historial": 1
+    },
+    "PriceSmart": {
+      "productos": 357,
       "con_ean": 0,
       "dias_historial": 1
     },
@@ -64,28 +69,28 @@
       "dias_historial": 2
     },
     "Intelaf": {
-      "productos": 173,
+      "productos": 27,
       "con_ean": 0,
       "dias_historial": 1
     },
     "Max": {
-      "productos": 2714,
-      "con_ean": 984,
+      "productos": 3070,
+      "con_ean": 1092,
       "dias_historial": 1
     },
     "Tecnofácil": {
-      "productos": 2538,
+      "productos": 2467,
       "con_ean": 942,
       "dias_historial": 1
     },
     "Novex": {
-      "productos": 164,
+      "productos": 90,
       "con_ean": 0,
       "dias_historial": 1
     }
   },
-  "coincidencias": 3731,
-  "antes_inflado": 1050,
+  "coincidencias": 3855,
+  "antes_inflado": 1151,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -129,7 +134,7 @@
     }
   ],
   "ofertas_por_nivel": {
-    "buena": 180,
+    "buena": 177,
     "agotado": 6
   },
   "fuentes": {
@@ -141,32 +146,36 @@
       "productos": 1067,
       "estado": "OK"
     },
-    "recolectores.lacuracao": {
-      "productos": 181,
+    "recolectores.officedepot": {
+      "productos": 3651,
       "estado": "OK"
     },
-    "recolectores.officedepot": {
-      "productos": 3674,
+    "recolectores.lacuracao": {
+      "productos": 271,
       "estado": "OK"
     },
     "recolectores.la_torre": {
       "productos": 6006,
       "estado": "OK"
     },
+    "recolectores.cemaco": {
+      "productos": 6030,
+      "estado": "OK"
+    },
     "recolectores.elgallo": {
       "productos": 59,
       "estado": "OK"
     },
-    "recolectores.cemaco": {
-      "productos": 6028,
-      "estado": "OK"
-    },
     "recolectores.walmart": {
-      "productos": 6012,
+      "productos": 6004,
       "estado": "OK"
     },
     "recolectores.epa": {
       "productos": 9727,
+      "estado": "OK"
+    },
+    "recolectores.pricesmart": {
+      "productos": 375,
       "estado": "OK"
     },
     "recolectores.siman": {
@@ -174,19 +183,19 @@
       "estado": "OK"
     },
     "recolectores.intelaf": {
-      "productos": 237,
+      "productos": 37,
       "estado": "OK"
     },
     "recolectores.max_gt": {
-      "productos": 2874,
+      "productos": 3252,
       "estado": "OK"
     },
     "recolectores.tecnofacil": {
-      "productos": 2707,
+      "productos": 2613,
       "estado": "OK"
     },
     "recolectores.novex": {
-      "productos": 166,
+      "productos": 90,
       "estado": "OK"
     }
   },
