@@ -17,7 +17,7 @@ NIVELES = {
     "agotado":   {"emoji": "·", "label": "agotado", "orden": 9},
 }
 
-VENTANA_DIAS = 30
+VENTANA_DIAS = 7
 MIN_OBS_DIAS = 3
 PRECIO_BASURA = 15.0
 
@@ -140,18 +140,10 @@ def evaluar(prod, obs, hoy=None, alertados=None, mercado=None):
             nivel = "buena"
         else:
             return None
-    else:  # mercado
-        if descuento > 0.55:
-            # 🚨 solo con EAN o con 2+ tiendas que lo confirmen.
-            if (mercado or {}).get("por_ean") or (mercado or {}).get("tiendas", 0) >= 2:
-                nivel = "error"
-            else:
-                nivel = "loca"
-        elif descuento >= 0.40:
-            nivel = "loca"
-        elif descuento >= 0.25:
-            nivel = "muy_buena"
-        elif descuento >= 0.15:
+    else:  # mercado sin historial propio
+        # Auditoria 10: ser mas barato que otra tienda NO es oferta fuerte.
+        # Maximo nivel "buena" y con etiqueta "Mas barato que <tienda>".
+        if descuento >= 0.15:
             nivel = "buena"
         else:
             return None
@@ -184,6 +176,10 @@ def evaluar(prod, obs, hoy=None, alertados=None, mercado=None):
         "fuente_referencia": fuente,
         "mercado": (mercado or {}).get("mercado", []),
         "antes_inflado": bool((mercado or {}).get("antes_inflado")),
+        "mas_barato_que": (mercado or {}).get("mas_barato_que"),
+        "etiqueta": (f"Más barato que {(mercado or {}).get('mas_barato_que', {}).get('tienda')}"
+                     if fuente == "mercado" and (mercado or {}).get("mas_barato_que")
+                     else ""),
         "relampago": relampago,
         "nivel": nivel,
         "nivel_emoji": NIVELES[nivel]["emoji"],

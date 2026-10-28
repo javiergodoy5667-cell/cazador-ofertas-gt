@@ -175,6 +175,8 @@ def ejecutar(productos=None):
                   for m in o.get("mercado", [])],
             "f": o.get("fuente_referencia"), "ai": bool(o.get("antes_inflado")),
             "dr": o.get("precio_referencia"), "v": True,
+            "et": o.get("etiqueta", ""),
+            "mb": o.get("mas_barato_que"),
         })
     (WEB / "ofertas-resumen.json").write_text(
         json.dumps(resumen, ensure_ascii=False, separators=(",", ":")),
@@ -197,6 +199,24 @@ def ejecutar(productos=None):
         if p.get("ean"):
             con_ean[p["tienda"]] = con_ean.get(p["tienda"], 0) + 1
 
+    # Reporte por tienda: productos, con EAN y dias de historial (span).
+    reporte_tiendas = {}
+    for tienda, lista in por_tienda.items():
+        fechas = sorted({o["fecha_inicio"] for o in historial.cargar(tienda)
+                         if o.get("fecha_inicio")})
+        span = 0
+        if fechas:
+            try:
+                span = (dt.date.fromisoformat(fechas[-1])
+                        - dt.date.fromisoformat(fechas[0])).days + 1
+            except ValueError:
+                span = len(fechas)
+        reporte_tiendas[tienda] = {
+            "productos": len(lista),
+            "con_ean": sum(1 for p in lista if p.get("ean")),
+            "dias_historial": span,
+        }
+
     inflado_ejemplos = []
     for p in productos:
         info = info_mercado.get(p["id"])
@@ -217,6 +237,7 @@ def ejecutar(productos=None):
         "productos_leidos": len(productos),
         "dias_historial": dias_historial,
         "con_ean": con_ean,
+        "reporte_tiendas": reporte_tiendas,
         "coincidencias": len(info_mercado),
         "antes_inflado": sum(1 for v in info_mercado.values() if v["antes_inflado"]),
         "inflado_ejemplos": inflado_ejemplos,

@@ -151,6 +151,11 @@ button { font: inherit; cursor: pointer; width: auto; }
 .pag-btn.off { opacity: 0.35; }
 .pag-puntos { width: 24px; text-align: center; color: var(--gris); }
 
+.mas-barato {
+  background: #1f3a2a; color: #9fe0b0; font-size: 0.68rem;
+  padding: 3px 6px; border-radius: 6px; margin-bottom: 3px; font-weight: 600;
+}
+
 .seccion { margin-bottom: 16px; }
 .sec-titulo { font-size: 0.95rem; margin: 4px 0 8px; }
 .sec-n { color: var(--gris); font-size: 0.75rem; font-weight: 400; margin-left: 6px; }

@@ -37,7 +37,8 @@ function desdeResumen(r) {
     id: r.i, nombre: r.n, precio_actual: r.p, descuento_real: r.d,
     nivel: r.lv, tienda: r.t, categoria: r.c, imagen: r.img, url: r.u,
     mercado: r.m || [], fuente_referencia: r.f, antes_inflado: r.ai,
-    revisar: r.rev, precio_referencia: r.dr, verificada: r.v !== false
+    revisar: r.rev, precio_referencia: r.dr, verificada: r.v !== false,
+    etiqueta: r.et || "", mas_barato_que: r.mb || null
   };
 }
 
@@ -141,9 +142,15 @@ function filtradas() {
 
 function ordenar(lista) {
   const ord = $("orden").value;
-  if (ord === "ahorro") return [...lista].sort((a, b) => b.ahorro_q - a.ahorro_q);
-  if (ord === "reciente") return [...lista].sort((a, b) => (b.visto_en || "").localeCompare(a.visto_en || ""));
-  return [...lista].sort((a, b) => (b.puntaje || 0) - (a.puntaje || 0));
+  const base = (arr) => {
+    if (ord === "ahorro") return [...arr].sort((a, b) => b.ahorro_q - a.ahorro_q);
+    if (ord === "reciente") return [...arr].sort((a, b) => (b.visto_en || "").localeCompare(a.visto_en || ""));
+    return [...arr].sort((a, b) => (b.puntaje || 0) - (a.puntaje || 0));
+  };
+  // Los agotados SIEMPRE al final (auditoria 10).
+  const activas = lista.filter((o) => o.nivel !== "agotado");
+  const agotadas = lista.filter((o) => o.nivel === "agotado");
+  return base(activas).concat(base(agotadas));
 }
 
 function renderizar() {
@@ -307,6 +314,8 @@ function tarjeta(o) {
     ? `<div class="inflado">⚠️ "Antes" inflado por la tienda</div>` : "";
   const revisar = o.revisar
     ? `<div class="inflado">🔍 Revisar: precio muy bajo vs mercado</div>` : "";
+  const masBarato = o.etiqueta
+    ? `<div class="mas-barato">🏷️ ${esc(o.etiqueta)}</div>` : "";
 
   const sinVerif = !o.verificada
     ? `<div class="sin-verif">Sin verificar: precio "antes" de la tienda</div>` : "";
@@ -318,6 +327,7 @@ function tarjeta(o) {
     <div class="contenido">
       ${inflado}
       ${revisar}
+      ${masBarato}
       ${sinVerif}
       <div class="nombre">${esc(o.nombre)}</div>
       <div class="precio">Q${formato(o.precio_actual)}</div>

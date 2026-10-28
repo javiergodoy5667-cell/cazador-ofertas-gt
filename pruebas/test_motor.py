@@ -101,20 +101,24 @@ class TestPuntaje(unittest.TestCase):
                             [], hoy=HOY, mercado=merc)
         self.assertIsNone(o)
 
-    def test_mercado_loca_40_por_ciento(self):
+    def test_mercado_solo_buena_40_por_ciento(self):
+        # Auditoria 10: sin historial propio, maximo nivel "buena".
         merc = {"precio_mercado": 100.0,
                 "mercado": [{"tienda": "Otra", "precio": 100.0, "url": ""}],
-                "antes_inflado": False}
+                "antes_inflado": False,
+                "mas_barato_que": {"tienda": "Otra", "precio": 100.0}}
         o = puntaje.evaluar(prod(precio_actual=60.0), [], hoy=HOY, mercado=merc)
-        self.assertEqual(o["nivel"], "loca")
+        self.assertEqual(o["nivel"], "buena")
         self.assertEqual(o["fuente_referencia"], "mercado")
+        self.assertIn("Más barato que Otra", o["etiqueta"])
 
-    def test_mercado_muy_buena_25_por_ciento(self):
+    def test_mercado_sin_historico_max_buena(self):
         merc = {"precio_mercado": 100.0,
                 "mercado": [{"tienda": "Otra", "precio": 100.0, "url": ""}],
-                "antes_inflado": False}
+                "antes_inflado": False,
+                "mas_barato_que": {"tienda": "Otra", "precio": 100.0}}
         o = puntaje.evaluar(prod(precio_actual=74.0), [], hoy=HOY, mercado=merc)
-        self.assertEqual(o["nivel"], "muy_buena")
+        self.assertEqual(o["nivel"], "buena")
 
     def test_cluster_sin_verificacion_no_oferta(self):
         # Estar en una coleccion de oferta NO lo convierte en oferta.
@@ -141,7 +145,25 @@ class TestMercado(unittest.TestCase):
         self.assertAlmostEqual(info["a"]["precio_mercado"], 100.0)
         o = puntaje.evaluar(prod(id_="a", ean="12345678", precio_actual=60.0),
                             [], hoy=HOY, mercado=info["a"])
-        self.assertEqual(o["nivel"], "loca")
+        self.assertEqual(o["nivel"], "buena")
+
+    def test_mismo_ean_nombres_distintos_no_empareja(self):
+        # Auditoria 10: EAN 7401122302752 en Walmart y La Torre es
+        # "Snack Mix Pinchos La Alegria" vs "Jamon York Sant Dalmai": NO son el mismo.
+        prods = [
+            {"id": "snack", "tienda": "Walmart GT", "ean": "7401122302752",
+             "nombre": "Snack Mix Pinchos La Alegria", "precio_actual": 15.0, "disponible": True},
+            {"id": "jamon", "tienda": "La Torre", "ean": "7401122302752",
+             "nombre": "Jamon York Sant Dalmai", "precio_actual": 55.0, "disponible": True},
+        ]
+        self.assertEqual(mercado.calcular(prods), {})
+
+    def test_mismo_ean_tamano_distinto_no_empareja(self):
+        prods = [
+            {"id": "a", "tienda": "A", "ean": "999", "nombre": "Aceite Oliva Borges 1 L", "precio_actual": 30.0, "disponible": True},
+            {"id": "b", "tienda": "B", "ean": "999", "nombre": "Aceite Oliva Borges 2 L", "precio_actual": 60.0, "disponible": True},
+        ]
+        self.assertEqual(mercado.calcular(prods), {})
 
     def test_agotados_no_cuentan(self):
         prods = [
@@ -168,13 +190,14 @@ class TestMercado(unittest.TestCase):
         info = mercado.calcular(prods)
         self.assertNotIn("a", info)
 
-    def test_error_solo_con_ean_o_2_tiendas(self):
-        # >55% bajo mercado pero sin EAN y 1 tienda -> loca (no error).
+    def test_mercado_sin_historial_max_buena(self):
+        # Auditoria 10: sin historial propio, aunque sea 60% mas barato, es "buena".
         merc = {"precio_mercado": 100.0,
                 "mercado": [{"tienda": "Otra", "precio": 100.0, "url": ""}],
-                "antes_inflado": False, "por_ean": False, "tiendas": 1}
+                "antes_inflado": False, "por_ean": False, "tiendas": 1,
+                "mas_barato_que": {"tienda": "Otra", "precio": 100.0}}
         o = puntaje.evaluar(prod(precio_actual=40.0), [], hoy=HOY, mercado=merc)
-        self.assertEqual(o["nivel"], "loca")
+        self.assertEqual(o["nivel"], "buena")
 
 
 class TestFalsos(unittest.TestCase):
