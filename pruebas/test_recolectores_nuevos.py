@@ -4,7 +4,7 @@
 import json
 import unittest
 
-from recolectores import _unicomer, elgallo, epa, novex, officedepot
+from recolectores import _unicomer, elgallo, epa, novex, officedepot, pricesmart
 
 NEXT = ('<script id="__NEXT_DATA__" type="application/json">' + json.dumps({
     "props": {"pageProps": {"totalCount": 1, "productsList": [{
@@ -67,6 +67,13 @@ class TestNuevos(unittest.TestCase):
         p = elgallo._tarjetas(h, "celulares")[0]
         self.assertEqual((p["precio_actual"], p["precio_antes_tienda"], p["id"]),
                          (2898.56, 3698.24, "elgallo-202343"))
+
+    def test_pricesmart_descuento_visible(self):
+        d = {"href": "/es-gt/producto/monitor-509143/509143", "nombre": "Monitor",
+             "regular": None, "especial": "Q 699.95", "antes": "Q 799.95"}
+        p = pricesmart._producto(d, "/es-gt/categoria/Computadoras-C10D29/C10D29")
+        self.assertEqual((p["precio_actual"], p["precio_antes_tienda"], p["id"]),
+                         (699.95, 799.95, "pricesmart-509143"))
 
 
 if __name__ == "__main__":

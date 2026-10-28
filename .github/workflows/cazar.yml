@@ -34,6 +34,12 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Navegador para PriceSmart (si falla, solo se pierde esa tienda)
+        continue-on-error: true
+        run: |
+          pip install playwright==1.48.0
+          python -m playwright install --with-deps chromium
+
       - name: Pruebas obligatorias (si fallan, no se publica)
         run: python -m unittest pruebas.test_motor pruebas.test_recolectores_nuevos
 

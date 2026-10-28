@@ -451,6 +451,9 @@ y las demás tiendas necesitan acumular historial de ≥7 días. Lo dejo como si
 | EPA | GraphQL público de Magento (`gt.epaenlinea.com/graphql`), categoría 4 "Productos" (~9,700), 100 por página | 1,697 productos en 42 s, 202 con descuento | ninguno (robots.txt no prohíbe `/graphql`) |
 | El Gallo más Gallo | HTML Magento (`finalPrice`/`oldPrice`) | 59 productos, 45 con descuento | robots.txt prohíbe `?` → solo página 1 de cada categoría |
 
-- No agregadas: **Pacifiko** (bloquea IP de GitHub), **PriceSmart** (muestra precios a visitantes, pero los carga con su buscador interno Bloomreach; leerlo exige usar sus claves internas → no se hace; la alternativa limpia es un navegador automático), **Kemik** (403 a todo programa).
+| PriceSmart | navegador automático (Playwright) sobre páginas públicas de categoría, sin cuenta; 12 por página con clic | 237 productos en 70 s (~1,400 por corrida) | robots.txt solo prohíbe `?fq=`, carrito y cuenta; 8 categorías por corrida (4 fijas de alerta + 4 que rotan) |
+
+- No agregadas: **Pacifiko** (bloquea IP de GitHub; solo desde una PC), **Kemik** (403 a todo programa).
+- PriceSmart NO usa la cuenta de socio de Javier ni claves internas del sitio.
 - Pruebas sin red: `pruebas/test_recolectores_nuevos.py` (precio, "antes", EAN, rechazo de moneda ≠ GTQ). El workflow las corre antes del pipeline.
 - `config/categorias.yml`: "tv-y-video/pantallas" caía en Supermercado (por "pan") → agregadas claves de TV y de herramientas eléctricas (barreno, atornillador, esmeriladora, compresor…).
