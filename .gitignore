@@ -6,3 +6,4 @@ data/recoleccion_*.json
 muestras/sondeo_*.json
 logs/
 .gh-config/
+_revision.txt

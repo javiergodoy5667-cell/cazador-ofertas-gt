@@ -375,3 +375,63 @@ EAN/2 tiendas).
 Click, Tecnofácil, Sporta, PriceSmart, EPA, Pacifiko…) y la revisión manual de 40 ofertas
 no se completaron en esta pasada; el efecto es que hoy solo Walmart/La Torre comparten EAN
 y las demás tiendas necesitan acumular historial de ≥7 días. Lo dejo como siguiente paso.
+
+---
+
+## 15. Auditoría 10 — solo ofertas reales (2026-10-28)
+
+1. **EAN no basta.** `mercado.py` exige ahora EAN igual **+ nombre compatible**
+   (misma marca o ≥2 palabras clave en común) **+ tamaño** (si ambos lo declaran).
+   Caso del EAN 7401122302752 (Snack Mix Pinchos vs Jamón York Sant Dalmai) agregado
+   como prueba que **debe fallar** el emparejamiento (`test_mismo_ean_nombres_distintos_no_empareja`).
+2. **Diferencia entre tiendas ≠ oferta.** Sin historial propio, el nivel máximo es
+   ✅ "buena" y la tarjeta lleva "🏷️ Más barato que <tienda>". 🔥/⚡/🚨 solo con
+   historial ≥3 días. Ya no hay 🔥 falsas: 133 ✅ + 6 agotados, 0 🔥/🚨.
+3. **Cobertura.** Detección por historial propio activada (precio hoy vs mediana de
+   **7 días**, ≥3 días de datos). Hoy el historial tiene **1 día**, así que las ofertas
+   son por comparación EAN. Reporte por tienda (run `40640514340`):
+
+   | Tienda | Productos | Con EAN | Días historial |
+   |---|---|---|---|
+   | Walmart GT | 5,940 | 5,940 | 1 |
+   | La Torre | 5,994 | 5,626 | 1 |
+   | Cemaco | 5,870 | 2,792 | 1 |
+   | Simán | 5,828 | 2,356 | 1 |
+   | Elektra GT | 991 | 676 | 1 |
+   | La Curacao | 257 | 0 | 1 |
+   | Intelaf | 25 | 0 | 1 |
+
+   En 2 días más (historial ≥3) se activan las ofertas por historial propio de
+   Cemaco/Elektra/Simán/Curacao, que hoy no tienen comparación EAN.
+4. **Categorías.** "📦 Otros" pasó de 25 (17%) a **0 (0%)** agregando términos de
+   súper (queso, jamón, chorizo, pollo, salchicha, tocino, tilapia…). Reparto:
+   🛒 Supermercado 129 (92%), 🛏️ Hogar 5, 🍷 Licores 4, 🍳 Electrodomésticos 1.
+5. **Agotados.** La web los ordena **siempre al final** (antes el jamón agotado salía 2º).
+6. **Revisión manual (40 ofertas: top 10 + 30 al azar).** 0 falsas. Las 10 mayores,
+   con ambos links:
+
+   | # | Oferta (tienda, precio) | Comparado | ¿Mismo producto? |
+   |---|---|---|---|
+   | 1 | Aceite Borges Oliva 250 ml (Walmart Q25) | La Torre Q47.7 | Sí |
+   | 2 | Pan Europa hotdog 840 g (Walmart Q16.2) | La Torre Q24.45 | Sí |
+   | 3 | Queso Mozzarella Dos Pinos (La Torre Q19.9) | Walmart Q30.0 | Sí |
+   | 4 | Vino Gato Negro rosé 750 ml (Walmart Q29.9) | La Torre Q43.3 | Sí |
+   | 5 | Cereal Gran Día Choco Chiwi (Walmart Q20) | La Torre Q28.55 | Sí |
+   | 6 | Vino Sauvignon Undurraga (La Torre Q53.5) | Walmart Q76.0 | Sí |
+   | 7 | Mezcla pastel Gold Medal choc. (Walmart Q21) | La Torre Q29.6 | Sí |
+   | 8 | Incaparina 300 g (Walmart Q17.25) | La Torre Q24.25 | Sí |
+   | 9 | Premezcla Gold Medal vainilla (Walmart Q21) | La Torre Q29.3 | Sí |
+   | 10 | Pastel Gold Medal dorado (Walmart Q21) | La Torre Q29.3 | Sí |
+
+   Los 30 al azar (Incaparina, Zucaritas, Té Hindú, NIDO, Komplete, Granola Tosh,
+   Mayonesa McCormick, Jamón Toledo, Queso Delicatezza, Mostaza Don Lázaro, Nescafé,
+   Pimiento Killios, Pan Pita David's, Dasani, Salchicha Perry, Leche Australian,
+   Queso Trebolac, Aceite Bonella, Chorizo Santa Lucía, Café avellana, Mostaza
+   French's…) también son el mismo producto. Enlaces completos en
+   `scripts/revision_manual.py` (los imprime uno por uno).
+
+7. **Tiendas nuevas sondeadas (item 6).** Novex y Max: SPA/HTML sin API ni `Product`
+   ld+json. EPA: no resuelve. PriceSmart, Office Depot GT, Celasa, Tecnofácil, Kemik
+   (403), Spirit y Click: sin API pública usable desde GitHub Actions. **No se pudo
+   sumar ninguna sin navegador**; queda documentado en
+   `scripts/probar_tiendas_nuevas.py` y `probar_tiendas_deep.py`.
