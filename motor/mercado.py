@@ -54,10 +54,11 @@ def compatible(p1, p2):
 
 
 def mismo_tamano(p1, p2):
-    """Los tamanos declarados deben coincidir (si ninguno declara, ok)."""
+    """Si AMBOS declaran tamano, deben coincidir. Si uno no lo declara, no se
+    puede confirmar el tamano, pero el EAN + nombre ya identifican el producto."""
     v1, u1 = _tamano(p1.get("nombre"))
     v2, u2 = _tamano(p2.get("nombre"))
-    if not v1 and not v2:
+    if not v1 or not v2:
         return True
     return v1 == v2 and u1 == u2
 
