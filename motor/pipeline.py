@@ -14,7 +14,7 @@ import time
 from pathlib import Path
 
 from recolectores import RECOLECTORES
-from . import categorias, config, historial, mercado, puntaje
+from . import categorias, config, filtros, historial, mercado, puntaje
 
 BASE = Path(__file__).resolve().parent.parent
 DATA = BASE / "data"
@@ -70,13 +70,16 @@ def ejecutar(productos=None):
             fuentes.setdefault(p["tienda"], {"productos": 0, "estado": "OK"})
             fuentes[p["tienda"]]["productos"] += 1
 
+    # Excluir lo que no es oferta real (reservas, accesorios, kits, usados...).
+    productos = [p for p in productos if not filtros.excluido(p.get("nombre", ""))]
+
     # Clasificar categoria unificada (se conserva la original de la tienda)
     for p in productos:
         p["categoria_tienda"] = p.get("categoria", "")
         p["categoria"] = categorias.clasificar(p.get("categoria_tienda", ""),
                                                p.get("nombre", ""))
 
-    # Comparacion entre tiendas (EAN / marca+modelo) -> precio de mercado
+    # Comparacion entre tiendas SOLO por EAN (auditoria 9).
     info_mercado = mercado.calcular(productos)
 
     # Registrar en historial por lotes (solo se anade linea si el precio cambia)
@@ -120,31 +123,22 @@ def ejecutar(productos=None):
     activas.sort(key=lambda o: o["puntaje"], reverse=True)
     ofertas = activas + agotadas
 
-    # "Sin verificar": precio "antes" >=30% (no inflado, no verificado).
-    vistos_ids = {o["id"] for o in ofertas}
-    no_verif = []
+    # Freno de seguridad: descuento >70% (precio <30% de la referencia) es error
+    # de emparejamiento/datos. Se guarda para revision, NO se publica.
+    sospechosos = []
     for p in productos:
-        if p["id"] in vistos_ids:
-            continue
         antes = p.get("precio_antes_tienda")
         if not antes or antes <= 0 or p.get("precio_actual", 0) <= 0:
             continue
-        info = info_mercado.get(p["id"])
-        if info and info.get("antes_inflado"):
-            continue
         desc = (antes - p["precio_actual"]) / antes
-        if desc < 0.30:
-            continue
-        no_verif.append({
-            "id": p["id"], "nombre": p.get("nombre", ""),
-            "categoria": p.get("categoria", ""), "tienda": p["tienda"],
-            "precio_actual": p["precio_actual"], "precio_antes_tienda": antes,
-            "descuento_real": round(desc, 4), "url": p.get("url", ""),
-            "imagen": p.get("imagen"), "nivel": "sin_verificar",
-            "mercado": [], "verificada": False,
-            "precio_referencia": antes, "puntaje": round(desc * 100, 1),
-        })
-    no_verif.sort(key=lambda o: o["descuento_real"], reverse=True)
+        if desc > 0.70:
+            sospechosos.append({
+                "tienda": p["tienda"], "nombre": p.get("nombre", ""),
+                "precio": p["precio_actual"], "antes": antes,
+                "descuento": round(desc, 3), "url": p.get("url", ""),
+            })
+    (DATA / "sospechosos.json").write_text(
+        json.dumps(sospechosos, ensure_ascii=False, indent=2), encoding="utf-8")
 
     (DATA / "ofertas.json").write_text(
         json.dumps(ofertas, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -180,16 +174,7 @@ def ejecutar(productos=None):
             "m": [{"t": m["tienda"], "p": m["precio"], "u": m["url"]}
                   for m in o.get("mercado", [])],
             "f": o.get("fuente_referencia"), "ai": bool(o.get("antes_inflado")),
-            "rev": bool(o.get("revisar")), "dr": o.get("precio_referencia"),
-            "v": True,
-        })
-    for o in no_verif:
-        resumen.append({
-            "i": o["id"], "n": (o["nombre"] or "")[:80], "p": o["precio_actual"],
-            "d": o["descuento_real"], "lv": "sin_verificar", "t": o["tienda"],
-            "c": o["categoria"], "img": o.get("imagen"), "u": o["url"],
-            "m": [], "f": "tienda", "ai": False, "rev": False,
-            "dr": o.get("precio_referencia"), "v": False,
+            "dr": o.get("precio_referencia"), "v": True,
         })
     (WEB / "ofertas-resumen.json").write_text(
         json.dumps(resumen, ensure_ascii=False, separators=(",", ":")),

@@ -1,59 +1,21 @@
 # -*- coding: utf-8 -*-
 """
-Comparacion entre tiendas. Empareja por EAN; si no hay, exige marca + modelo
-+ TAMANO/PESO (ml, g, L, kg) para evitar comparaciones falsas (lechuga, aceite
-de otro tamano...). Devuelve precio_mercado, por_ean y cuantas tiendas confirman.
+Comparacion entre tiendas — SOLO por EAN (auditoria 9).
+Se apago el emparejamiento por codigo de modelo y por marca+modelo porque juntaba
+productos distintos (microondas vs estufa, protector vs iPhone...).
+Si no hay EAN igual, NO se compara.
 """
-import re
 import statistics
-
-UNIDADES = {"ml": "ml", "mililitros": "ml", "g": "g", "gr": "g", "gramos": "g",
-            "kg": "kg", "kilos": "kg", "kilo": "kg", "l": "l", "lt": "l",
-            "litros": "l", "litro": "l", "oz": "oz", "onzas": "oz"}
-
-
-def _norm(s):
-    return "".join(c for c in (s or "").lower() if c.isalnum())
-
-
-def _tamano(nombre):
-    """Extrae tamano/peso normalizado del nombre (ej. '1.5l', '500ml', '2kg')."""
-    m = re.search(r"(\d+(?:[.,]\d+)?)\s*(ml|mililitros|g|gr|gramos|kg|kilos?|l|lt|litros?|oz|onzas)\b",
-                  (nombre or "").lower())
-    if not m:
-        return ""
-    val = m.group(1).replace(",", ".")
-    return val + UNIDADES.get(m.group(2), m.group(2))
-
-
-def _codigo_modelo(nombre):
-    """Codigo de modelo del nombre (letras+digitos, 5+), ej. NN-ST965, WM1211D."""
-    for m in re.finditer(r"\b([A-Za-z]{2,}[- ]?\d{2,}[A-Za-z0-9-]*)\b", nombre or ""):
-        code = m.group(1).upper().replace("-", "").replace(" ", "")
-        if len(code) >= 5 and any(c.isdigit() for c in code) and any(c.isalpha() for c in code):
-            return code
-    return ""
 
 
 def clave(prod):
-    """Clave de emparejamiento. Prioridad: EAN > codigo de modelo > marca+modelo+tamano."""
+    """Unica clave valida: EAN identico. Si no hay EAN, no se compara."""
     ean = prod.get("ean") or ""
-    if ean:
-        return ("ean", ean)
-    cod = _codigo_modelo(prod.get("nombre"))
-    if cod:
-        return ("cod", cod)
-    marca = _norm(prod.get("marca"))
-    modelo = _norm(prod.get("modelo"))
-    tam = _tamano(prod.get("nombre"))
-    if marca and modelo and len(modelo) >= 4:
-        # sin EAN: marca + modelo + tamano exacto
-        return ("mm", marca + "|" + modelo + "|" + tam)
-    return None
+    return ("ean", ean) if ean else None
 
 
 def calcular(productos):
-    """{id: {precio_mercado, mercado, antes_inflado, por_ean, tiendas}}."""
+    """{id: {precio_mercado, mercado, antes_inflado, tiendas}} solo con EAN igual."""
     por_clave = {}
     for p in productos:
         k = clave(p)
@@ -61,11 +23,9 @@ def calcular(productos):
             por_clave.setdefault(k, []).append(p)
 
     out = {}
-    for k, lista in por_clave.items():
-        tiendas = {p["tienda"] for p in lista}
-        if len(tiendas) < 2:
+    for _k, lista in por_clave.items():
+        if len({p["tienda"] for p in lista}) < 2:
             continue
-        por_ean = (k[0] == "ean")
         for p in lista:
             otros = [q for q in lista
                      if q["tienda"] != p["tienda"] and q.get("disponible", True)]
@@ -81,7 +41,7 @@ def calcular(productos):
                              "precio": q["precio_actual"],
                              "url": q.get("url", "")} for q in otros],
                 "antes_inflado": inflado,
-                "por_ean": por_ean,
+                "por_ean": True,
                 "tiendas": len({q["tienda"] for q in otros}),
             }
     return out

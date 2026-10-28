@@ -10,7 +10,7 @@ import unittest
 import uuid
 from pathlib import Path
 
-from motor import historial, puntaje, config, categorias, mercado
+from motor import historial, puntaje, config, categorias, mercado, filtros
 
 HOY = dt.date(2026, 10, 27)
 PID = "tienda-1"
@@ -81,10 +81,11 @@ class TestPuntaje(unittest.TestCase):
         o = puntaje.evaluar(prod(precio_actual=5.0), [], hoy=HOY)
         self.assertIsNone(o)
 
-    def test_basura_permitida_si_error(self):
+    def test_precio_basura_no_es_oferta(self):
+        # Auditoria 9: precio <30% de la referencia -> freno de seguridad, no oferta.
         h = [obs(1, 100), obs(2, 100), obs(3, 100)]
         o = puntaje.evaluar(prod(precio_actual=5.0), h, hoy=HOY)
-        self.assertEqual(o["nivel"], "error")
+        self.assertIsNone(o)
 
     def test_sin_referencia_no_oferta(self):
         # Sin historial ni mercado: NO es oferta (aunque el "antes" sea alto).
@@ -151,17 +152,15 @@ class TestMercado(unittest.TestCase):
         info = mercado.calcular(prods)
         self.assertAlmostEqual(info["a"]["precio_mercado"], 100.0)
 
-    def test_marca_modelo_sin_ean(self):
+    def test_sin_ean_no_empareja(self):
+        # Auditoria 9: sin EAN NO se compara (aunque coincida marca+modelo).
         prods = [
             {"id": "a", "tienda": "A", "ean": "", "marca": "DeWalt", "modelo": "DCD771C2", "precio_actual": 60.0, "disponible": True},
             {"id": "b", "tienda": "B", "ean": "", "marca": "DeWalt", "modelo": "DCD771C2", "precio_actual": 100.0, "disponible": True},
-            {"id": "c", "tienda": "C", "ean": "", "marca": "DeWalt", "modelo": "OTRO", "precio_actual": 5.0, "disponible": True},
         ]
-        info = mercado.calcular(prods)
-        self.assertAlmostEqual(info["a"]["precio_mercado"], 100.0)
+        self.assertEqual(mercado.calcular(prods), {})
 
     def test_tamano_distinto_no_empareja(self):
-        # Mismo marca+modelo pero distinto tamano -> NO se comparan.
         prods = [
             {"id": "a", "tienda": "A", "ean": "", "marca": "Borges", "modelo": "AceiteOliva", "precio_actual": 30.0, "disponible": True, "nombre": "Aceite de oliva Borges 1L"},
             {"id": "b", "tienda": "B", "ean": "", "marca": "Borges", "modelo": "AceiteOliva", "precio_actual": 60.0, "disponible": True, "nombre": "Aceite de oliva Borges 2L"},
@@ -176,6 +175,32 @@ class TestMercado(unittest.TestCase):
                 "antes_inflado": False, "por_ean": False, "tiendas": 1}
         o = puntaje.evaluar(prod(precio_actual=40.0), [], hoy=HOY, mercado=merc)
         self.assertEqual(o["nivel"], "loca")
+
+
+class TestFalsos(unittest.TestCase):
+    """Casos falsos de la auditoria 9: NUNCA deben ser oferta."""
+
+    def test_microondas_vs_estufa_mismo_ean_distinto(self):
+        prods = [
+            {"id": "m", "tienda": "Simán", "ean": "111", "nombre": "Microondas Mabe HMM11SJW", "precio_actual": 699.0, "disponible": True},
+            {"id": "e", "tienda": "Elektra", "ean": "222", "nombre": "Estufa Mabe 30\"", "precio_actual": 2999.0, "disponible": True},
+        ]
+        self.assertEqual(mercado.calcular(prods), {})
+
+    def test_protector_iphone_no_es_oferta(self):
+        self.assertTrue(filtros.excluido("Protector de vidrio iPhone 17 Pro Max"))
+        self.assertTrue(filtros.excluido("Reserva Tu iPhone 18"))
+        self.assertTrue(filtros.excluido("Funda para Samsung Galaxy S25"))
+        self.assertTrue(filtros.excluido("Kit de herramientas 20 pzas"))
+        self.assertTrue(filtros.excluido("Combo de 3 sartenes"))
+        self.assertTrue(filtros.excluido("Cable USB-C para iPhone"))
+        self.assertFalse(filtros.excluido("Microondas Panasonic 25 L"))
+        self.assertFalse(filtros.excluido("Refrigeradora Whirlpool 12 pies"))
+
+    def test_freno_seguridad_70(self):
+        # Precio <30% de la referencia -> no es oferta (ni con historial).
+        h = [obs(1, 1000), obs(2, 1000), obs(3, 1000)]
+        self.assertIsNone(puntaje.evaluar(prod(precio_actual=100.0), h, hoy=HOY))
 
 
 class TestHistorial(unittest.TestCase):
