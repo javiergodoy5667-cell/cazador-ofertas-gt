@@ -1,17 +1,17 @@
 {
-  "ultima_corrida": "2026-10-27T19:50:56-06:00",
-  "duracion_seg": 242.4,
-  "productos_leidos": 25655,
+  "ultima_corrida": "2026-10-27T20:40:41-06:00",
+  "duracion_seg": 242.5,
+  "productos_leidos": 25705,
   "dias_historial": 1,
   "con_ean": {
     "Elektra GT": 741,
-    "La Torre": 5670,
-    "Walmart GT": 6021,
-    "Cemaco": 2847,
-    "Simán": 2407
+    "La Torre": 5654,
+    "Walmart GT": 6032,
+    "Cemaco": 2860,
+    "Simán": 2416
   },
-  "coincidencias": 2921,
-  "antes_inflado": 448,
+  "coincidencias": 2835,
+  "antes_inflado": 435,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -57,8 +57,8 @@
   "ofertas_por_nivel": {
     "error": 1,
     "loca": 1,
-    "muy_buena": 26,
-    "buena": 121,
+    "muy_buena": 24,
+    "buena": 118,
     "agotado": 8
   },
   "fuentes": {
@@ -71,23 +71,23 @@
       "estado": "OK"
     },
     "recolectores.la_torre": {
-      "productos": 6034,
+      "productos": 6024,
       "estado": "OK"
     },
     "recolectores.walmart": {
-      "productos": 6021,
+      "productos": 6032,
       "estado": "OK"
     },
     "recolectores.cemaco": {
-      "productos": 6011,
-      "estado": "OK"
-    },
-    "recolectores.siman": {
       "productos": 6029,
       "estado": "OK"
     },
+    "recolectores.siman": {
+      "productos": 6043,
+      "estado": "OK"
+    },
     "recolectores.intelaf": {
-      "productos": 220,
+      "productos": 237,
       "estado": "OK"
     }
   },
