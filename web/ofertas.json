@@ -1,5 +1,844 @@
 [
   {
+    "id": "siman-8750346",
+    "tienda": "Simán",
+    "nombre": "Protector de vidrio antimicrobiana para Apple iPhone 17 Pro Max",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://gt.siman.com/protector-de-vidrio-antimicrobial-para-iphone-17-pro-max-105086896/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7407042/105086896.jpg?v=638966652556570000",
+    "moneda": "GTQ",
+    "precio_actual": 209.0,
+    "precio_referencia": 12998.0,
+    "precio_antes_tienda": 209.0,
+    "descuento_real": 0.9839,
+    "ahorro_q": 12789.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 12998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-17-pro-max-12-gb-256-gb-deep-blue-470938700011/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 128.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:09-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "elektra-gt-1804",
+    "tienda": "Elektra GT",
+    "nombre": "Reserva Tu iPhone 18 Pro Max Glacier 256GB",
+    "categoria": "📱 Celulares y tablets",
+    "url": "https://www.elektra.com.gt/reserva-tu-iphone-18-pro-max-glacier-256gb-1804/p",
+    "imagen": "https://elektragt.vteximg.com.br/arquivos/ids/219216/reserva-tu-i-phone-18-pro-max-glacier-256-gb.webp?v=639262971145570000",
+    "moneda": "GTQ",
+    "precio_actual": 500.0,
+    "precio_referencia": 13498.0,
+    "precio_antes_tienda": 500.0,
+    "descuento_real": 0.963,
+    "ahorro_q": 12998.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-silver-473981400013/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-black-473992300012/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 12998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-12-gb-256-gb-burgundy-473992500016/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 12599.0,
+        "url": "https://gt.siman.com/iphone-18-pro-16-00-cm-6-3-256gb-plata-105381657/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "error",
+    "nivel_emoji": "🚨",
+    "nivel_label": "POSIBLE ERROR DE PRECIO",
+    "puntaje": 126.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T04:47:16Z",
+    "visto_en": "2026-10-27T22:56:03-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "elektra-gt-1803",
+    "tienda": "Elektra GT",
+    "nombre": "Reserva Tu iPhone 18 Pro Max Burgundy 256GB",
+    "categoria": "📱 Celulares y tablets",
+    "url": "https://www.elektra.com.gt/reserva-tu-iphone-18-pro-max-burgundy-256gb-1803/p",
+    "imagen": "https://elektragt.vteximg.com.br/arquivos/ids/219210/reserva-tu-i-phone-18-pro-max-burgundy-256-gb.webp?v=639262971118930000",
+    "moneda": "GTQ",
+    "precio_actual": 500.0,
+    "precio_referencia": 13498.0,
+    "precio_antes_tienda": 500.0,
+    "descuento_real": 0.963,
+    "ahorro_q": 12998.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-silver-473981400013/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-black-473992300012/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 12998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-12-gb-256-gb-burgundy-473992500016/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 12599.0,
+        "url": "https://gt.siman.com/iphone-18-pro-16-00-cm-6-3-256gb-plata-105381657/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "error",
+    "nivel_emoji": "🚨",
+    "nivel_label": "POSIBLE ERROR DE PRECIO",
+    "puntaje": 126.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:03-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "elektra-gt-1802",
+    "tienda": "Elektra GT",
+    "nombre": "Reserva Tu iPhone 18 Pro Max Silver 256GB",
+    "categoria": "📱 Celulares y tablets",
+    "url": "https://www.elektra.com.gt/reserva-tu-iphone-18-pro-max-silver-256gb-1802/p",
+    "imagen": "https://elektragt.vteximg.com.br/arquivos/ids/219204/reserva-tu-i-phone-18-pro-max-silver-256-gb.webp?v=639262971091300000",
+    "moneda": "GTQ",
+    "precio_actual": 500.0,
+    "precio_referencia": 13498.0,
+    "precio_antes_tienda": 500.0,
+    "descuento_real": 0.963,
+    "ahorro_q": 12998.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-silver-473981400013/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-black-473992300012/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 12998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-12-gb-256-gb-burgundy-473992500016/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 12599.0,
+        "url": "https://gt.siman.com/iphone-18-pro-16-00-cm-6-3-256gb-plata-105381657/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "error",
+    "nivel_emoji": "🚨",
+    "nivel_label": "POSIBLE ERROR DE PRECIO",
+    "puntaje": 126.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:03-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "elektra-gt-1801",
+    "tienda": "Elektra GT",
+    "nombre": "Reserva Tu iPhone 18 Pro Max Black 256GB",
+    "categoria": "📱 Celulares y tablets",
+    "url": "https://www.elektra.com.gt/reserva-tu-iphone-18-pro-max-black-256gb-1801/p",
+    "imagen": "https://elektragt.vteximg.com.br/arquivos/ids/219192/reserva-tu-i-phone-18-pro-max-black-256-gb.webp?v=639262971031030000",
+    "moneda": "GTQ",
+    "precio_actual": 500.0,
+    "precio_referencia": 13498.0,
+    "precio_antes_tienda": 500.0,
+    "descuento_real": 0.963,
+    "ahorro_q": 12998.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-silver-473981400013/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-black-473992300012/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 12998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-12-gb-256-gb-burgundy-473992500016/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 12599.0,
+        "url": "https://gt.siman.com/iphone-18-pro-16-00-cm-6-3-256gb-plata-105381657/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "error",
+    "nivel_emoji": "🚨",
+    "nivel_label": "POSIBLE ERROR DE PRECIO",
+    "puntaje": 126.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:03-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "elektra-gt-1805",
+    "tienda": "Elektra GT",
+    "nombre": "Reserva Tu iPhone 18 Pro Max Black 512GB",
+    "categoria": "📱 Celulares y tablets",
+    "url": "https://www.elektra.com.gt/reserva-tu-iphone-18-pro-max-black-512gb-1805/p",
+    "imagen": "https://elektragt.vteximg.com.br/arquivos/ids/219198/reserva-tu-i-phone-18-pro-max-black-512-gb.webp?v=639262971062930000",
+    "moneda": "GTQ",
+    "precio_actual": 500.0,
+    "precio_referencia": 13498.0,
+    "precio_antes_tienda": 500.0,
+    "descuento_real": 0.963,
+    "ahorro_q": 12998.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-silver-473981400013/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-black-473992300012/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 12998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-12-gb-256-gb-burgundy-473992500016/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 12599.0,
+        "url": "https://gt.siman.com/iphone-18-pro-16-00-cm-6-3-256gb-plata-105381657/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "error",
+    "nivel_emoji": "🚨",
+    "nivel_label": "POSIBLE ERROR DE PRECIO",
+    "puntaje": 126.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T04:52:14Z",
+    "visto_en": "2026-10-27T22:56:04-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "elektra-gt-1809",
+    "tienda": "Elektra GT",
+    "nombre": "Reserva Tu iPhone 18 Pro Burgundy 256GB",
+    "categoria": "📱 Celulares y tablets",
+    "url": "https://www.elektra.com.gt/reserva-tu-iphone-18-pro-burgundy-256gb-1809/p",
+    "imagen": "https://elektragt.vteximg.com.br/arquivos/ids/219706/reserva-tu-i-phone-18-pro-burgundy-256-gb.webp?v=639265794072330000",
+    "moneda": "GTQ",
+    "precio_actual": 500.0,
+    "precio_referencia": 13498.0,
+    "precio_antes_tienda": 500.0,
+    "descuento_real": 0.963,
+    "ahorro_q": 12998.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-silver-473981400013/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-black-473992300012/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 12998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-12-gb-256-gb-burgundy-473992500016/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 12599.0,
+        "url": "https://gt.siman.com/iphone-18-pro-16-00-cm-6-3-256gb-plata-105381657/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "error",
+    "nivel_emoji": "🚨",
+    "nivel_label": "POSIBLE ERROR DE PRECIO",
+    "puntaje": 126.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:04-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "elektra-gt-1806",
+    "tienda": "Elektra GT",
+    "nombre": "Reserva tu iPhone 18 Duo Star White 256GB",
+    "categoria": "📱 Celulares y tablets",
+    "url": "https://www.elektra.com.gt/reserva-tu-iphone-18-duo-star-white-256gb-1806/p",
+    "imagen": "https://elektragt.vteximg.com.br/arquivos/ids/219240/reserva-tu-i-phone-18-duo-star-white-256-gb.webp?v=639262977041370000",
+    "moneda": "GTQ",
+    "precio_actual": 500.0,
+    "precio_referencia": 13498.0,
+    "precio_antes_tienda": 500.0,
+    "descuento_real": 0.963,
+    "ahorro_q": 12998.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-silver-473981400013/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-black-473992300012/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 12998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-12-gb-256-gb-burgundy-473992500016/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 12599.0,
+        "url": "https://gt.siman.com/iphone-18-pro-16-00-cm-6-3-256gb-plata-105381657/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "error",
+    "nivel_emoji": "🚨",
+    "nivel_label": "POSIBLE ERROR DE PRECIO",
+    "puntaje": 126.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:04-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "elektra-gt-1808",
+    "tienda": "Elektra GT",
+    "nombre": "Reserva Tu iPhone 18 Pro Silver 256GB",
+    "categoria": "📱 Celulares y tablets",
+    "url": "https://www.elektra.com.gt/reserva-tu-iphone-18-pro-silver-256gb-1808/p",
+    "imagen": "https://elektragt.vteximg.com.br/arquivos/ids/220388/reserva-tu-i-phone-18-pro-silver-256-gb.webp?v=639280314033300000",
+    "moneda": "GTQ",
+    "precio_actual": 500.0,
+    "precio_referencia": 13498.0,
+    "precio_antes_tienda": 500.0,
+    "descuento_real": 0.963,
+    "ahorro_q": 12998.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-silver-473981400013/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-black-473992300012/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 12998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-12-gb-256-gb-burgundy-473992500016/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 12599.0,
+        "url": "https://gt.siman.com/iphone-18-pro-16-00-cm-6-3-256gb-plata-105381657/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "error",
+    "nivel_emoji": "🚨",
+    "nivel_label": "POSIBLE ERROR DE PRECIO",
+    "puntaje": 126.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:07-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "elektra-gt-1807",
+    "tienda": "Elektra GT",
+    "nombre": "Reserva Tu iPhone 18 Pro Black 256GB",
+    "categoria": "📱 Celulares y tablets",
+    "url": "https://www.elektra.com.gt/reserva-tu-iphone-18-pro-black-256gb-1807/p",
+    "imagen": "https://elektragt.vteximg.com.br/arquivos/ids/220394/reserva-tu-i-phone-18-pro-black-256-gb.webp?v=639280314056030000",
+    "moneda": "GTQ",
+    "precio_actual": 500.0,
+    "precio_referencia": 13498.0,
+    "precio_antes_tienda": 500.0,
+    "descuento_real": 0.963,
+    "ahorro_q": 12998.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-silver-473981400013/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 13998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-max-12-gb-256-gb-black-473992300012/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 12998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-18-pro-12-gb-256-gb-burgundy-473992500016/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 12599.0,
+        "url": "https://gt.siman.com/iphone-18-pro-16-00-cm-6-3-256gb-plata-105381657/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "error",
+    "nivel_emoji": "🚨",
+    "nivel_label": "POSIBLE ERROR DE PRECIO",
+    "puntaje": 126.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:07-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-7526831",
+    "tienda": "Simán",
+    "nombre": "Recortador de vello de nariz y oidos  serie 1000",
+    "categoria": "💄 Belleza y cuidado personal",
+    "url": "https://gt.siman.com/recortador-de-vello-de-nariz-y-oidos-serie-1000-104076427/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/3968993/104076427.jpg?v=638127607985070000",
+    "moneda": "GTQ",
+    "precio_actual": 143.1,
+    "precio_referencia": 2059.0,
+    "precio_antes_tienda": 159.0,
+    "descuento_real": 0.9305,
+    "ahorro_q": 1915.9,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Cemaco",
+        "precio": 2059.0,
+        "url": "https://www.cemaco.com/gabinete-herramientas-5-cajones-craftsma-1150461b/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 123.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:45-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103544732",
+    "tienda": "Cemaco",
+    "nombre": "Aditivo Sellador de Fugas de Aceite para Carro a Gasolina o Diésel de 300 mL",
+    "categoria": "🚗 Automotriz",
+    "url": "https://www.cemaco.com/tapa-fugas-de-aceite-12300ml-liqui-moly-1219513b/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/3166955/1219513_1.jpg?v=639186424733500000",
+    "moneda": "GTQ",
+    "precio_actual": 139.95,
+    "precio_referencia": 1799.0,
+    "precio_antes_tienda": 139.95,
+    "descuento_real": 0.9222,
+    "ahorro_q": 1659.05,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 1799.0,
+        "url": "https://gt.siman.com/barra-de-sonido-300-watts-1hdmi-bt-1usb-102963913/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 122.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:24-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103542212",
+    "tienda": "Cemaco",
+    "nombre": "Limpiador de Inyectores para Carro con Sistemas de Gasolina de 300 mL",
+    "categoria": "🚗 Automotriz",
+    "url": "https://www.cemaco.com/limpiador-de-inyectores-de-gasolina-300m-1218219b/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/3167090/1218219_1.jpg?v=639186425670700000",
+    "moneda": "GTQ",
+    "precio_actual": 174.99,
+    "precio_referencia": 1799.0,
+    "precio_antes_tienda": 174.99,
+    "descuento_real": 0.9027,
+    "ahorro_q": 1624.01,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 1799.0,
+        "url": "https://gt.siman.com/barra-de-sonido-300-watts-1hdmi-bt-1usb-102963913/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 120.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:20-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103528671",
+    "tienda": "Cemaco",
+    "nombre": "Lubricante para Bicicleta Multifuncional Bike Care EZ Lube Motul de 300 mL",
+    "categoria": "🚗 Automotriz",
+    "url": "https://www.cemaco.com/lubricante-multiusos-500-ml-1190036b/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/3065534/1190036_1.jpg?v=639096684460630000",
+    "moneda": "GTQ",
+    "precio_actual": 249.99,
+    "precio_referencia": 1799.0,
+    "precio_antes_tienda": 249.99,
+    "descuento_real": 0.861,
+    "ahorro_q": 1549.01,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 1799.0,
+        "url": "https://gt.siman.com/barra-de-sonido-300-watts-1hdmi-bt-1usb-102963913/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 116.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-09-24T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:29-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103491186",
+    "tienda": "Cemaco",
+    "nombre": "Bandeja para Freidora de Aire 17 x 20 x 5 cm - Color Surtido",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.cemaco.com/bandeja-p-freidora-de-aire-17x20x5cm-1134482b/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/2856458/1134482_1.jpg?v=639196155740270000",
+    "moneda": "GTQ",
+    "precio_actual": 29.99,
+    "precio_referencia": 899.0,
+    "precio_antes_tienda": 29.99,
+    "descuento_real": 0.9666,
+    "ahorro_q": 869.01,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 899.0,
+        "url": "https://gt.siman.com/horno-con-freidora-de-aire-capacidad-de-17litros-gris-105192581/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 114.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:43-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-8886644",
+    "tienda": "Simán",
+    "nombre": "Microondas Mabe 30 L (1.1 PCU) HMM11SJW",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://gt.siman.com/horno-de-microondas-1-1-pies-cubicos-30-l-120-v-gris-105183513/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8032200/105183513-1.jpg?v=639129074560400000",
+    "moneda": "GTQ",
+    "precio_actual": 699.0,
+    "precio_referencia": 3597.0,
+    "precio_antes_tienda": 749.0,
+    "descuento_real": 0.8057,
+    "ahorro_q": 2898.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Elektra GT",
+        "precio": 2599.0,
+        "url": "https://www.elektra.com.gt/estufa-de-gas-mabe-de-30-pulgadas-em7622baps2-6003685/p"
+      },
+      {
+        "tienda": "Elektra GT",
+        "precio": 3795.0,
+        "url": "https://www.elektra.com.gt/estufa-a-gas-mabe-emh7602jbs0-6004031/p"
+      },
+      {
+        "tienda": "Elektra GT",
+        "precio": 3999.0,
+        "url": "https://www.elektra.com.gt/estufa-de-gas-mabe-30-pulgadas-emh7602jss0-6003916/p"
+      },
+      {
+        "tienda": "Elektra GT",
+        "precio": 3399.0,
+        "url": "https://www.elektra.com.gt/estufa-de-gas-mabe-de-30-pulgadas-em7659bfix2-6003863/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 110.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T04:53:42Z",
+    "visto_en": "2026-10-27T22:56:23-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103469334",
+    "tienda": "Cemaco",
+    "nombre": "Compresor de Aire Horizontal 25 L 3 Hp Kit con Manguera y Pistola",
+    "categoria": "🔧 Ferretería y herramientas",
+    "url": "https://www.cemaco.com/kit-compresor-horizontal-de-25-litros-3-hp-truper-1052225/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/624014/1052225_1.jpg?v=639040202627700000",
+    "moneda": "GTQ",
+    "precio_actual": 1495.0,
+    "precio_referencia": 6998.0,
+    "precio_antes_tienda": 1495.0,
+    "descuento_real": 0.7864,
+    "ahorro_q": 5503.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 6998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/congelador-grs-dual-tapa-cerrada-horizontal-25-ft3-446201000003/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 108.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-27T22:57:59-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-8485570",
+    "tienda": "Simán",
+    "nombre": "Power bank magnético Belkin BoostCharge Pro 10,000 mAh 15W",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://gt.siman.com/power-bank-con-soporte-magnetico-10000mah-15w-negro-104887184/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6780604/104887184.jpg?v=638808429124170000",
+    "moneda": "GTQ",
+    "precio_actual": 659.0,
+    "precio_referencia": 2489.0,
+    "precio_antes_tienda": 659.0,
+    "descuento_real": 0.7352,
+    "ahorro_q": 1830.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Cemaco",
+        "precio": 2489.0,
+        "url": "https://www.cemaco.com/horno-y-freidora-de-aire-ninja-foodi-10-en-1-1144508/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 103.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T04:56:01Z",
+    "visto_en": "2026-10-27T22:56:01-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-4922572",
+    "tienda": "Simán",
+    "nombre": "Microondas digital frigidaire 30 L (1.1 PCU) FMDO30S3GSPG",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://gt.siman.com/microondas-digital-frigidaire-101385824/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/3756457/101385824.jpg?v=638064639135530000",
+    "moneda": "GTQ",
+    "precio_actual": 1099.0,
+    "precio_referencia": 3199.0,
+    "precio_antes_tienda": 1399.0,
+    "descuento_real": 0.6565,
+    "ahorro_q": 2100.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Elektra GT",
+        "precio": 2899.0,
+        "url": "https://www.elektra.com.gt/estufa-de-piso-30-pulgadas-6-quemadores-gas-lp-negra-6004054/p"
+      },
+      {
+        "tienda": "Elektra GT",
+        "precio": 3499.0,
+        "url": "https://www.elektra.com.gt/estufa-de-piso-frigidaire-30-pulgadas-6-quemadores-silver-6004045/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 95.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T04:47:15Z",
+    "visto_en": "2026-10-27T22:56:23-06:00",
+    "alerta_nueva": true
+  },
+  {
     "id": "latorre-8335",
     "tienda": "La Torre",
     "nombre": "Lechuga Mantequilla Mix Express",
@@ -32,8 +871,603 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:25-06:00",
+    "visto_en": "2026-10-27T22:57:29-06:00",
     "alerta_nueva": false
+  },
+  {
+    "id": "cemaco-103525090",
+    "tienda": "Cemaco",
+    "nombre": "Estuche con 5 Extensiones Magnéticas de 100 mm",
+    "categoria": "🔧 Ferretería y herramientas",
+    "url": "https://www.cemaco.com/estuche-con-5-extensiones-de-100-mm-magneticas-1178117/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/3034571/1178117_1.jpg?v=639102684139970000",
+    "moneda": "GTQ",
+    "precio_actual": 69.49,
+    "precio_referencia": 399.0,
+    "precio_antes_tienda": 69.49,
+    "descuento_real": 0.8258,
+    "ahorro_q": 329.51,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 399.0,
+        "url": "https://gt.siman.com/un-concentrador-tipo-c-8-en-1-de-axess-con-transferencia-de-pd-de-100-w-104095351/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": true,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 89.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-20T00:00:00Z",
+    "visto_en": "2026-10-27T22:58:14-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "elektra-gt-1012853",
+    "tienda": "Elektra GT",
+    "nombre": "Televisor Smart Samsung 55 Pulgadas QLED 4K UHD Quantum HDR Motion Xcelerator QN55Q6FAA Negro",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.elektra.com.gt/televisor-samsung-qn55q6faa-de-55-pulgadas-1012853/p",
+    "imagen": "https://elektragt.vteximg.com.br/arquivos/ids/213275/televisor-smart-samsung-55-pulgadas-qled-4-k-uhd-quantum-hdr-motion-xcelerator-qn-55-q-6-faa-negro-1012853.webp?v=639172554126300000",
+    "moneda": "GTQ",
+    "precio_actual": 2995.0,
+    "precio_referencia": 5669.0,
+    "precio_antes_tienda": 4499.0,
+    "descuento_real": 0.4717,
+    "ahorro_q": 2674.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 3599.0,
+        "url": "https://gt.siman.com/pantalla-samsung-55---139-7-cm--mini-led-uhd-4k-hdr10--un55m70hapxpa/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 8439.0,
+        "url": "https://gt.siman.com/pantalla-samsung-55--oled-uhd-4k-hdr10--qn55s85fapxpa/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 5669.0,
+        "url": "https://gt.siman.com/pantalla-samsung-55---139-7-cm--class-neo-qled-uhd-4k-hdr10--qn55qn70hapxpa/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 77.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:20-06:00",
+    "alerta_nueva": false
+  },
+  {
+    "id": "lacuracao-473506600010",
+    "tienda": "La Curacao",
+    "nombre": "Xiaomi Redmi Note 17 6GB + 256GB Black",
+    "categoria": "📦 Otros",
+    "url": "https://www.lacuracaonline.com/guatemala/xiaomi-redmi-note-17-6gb-256gb-black-473506600010/p",
+    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/473506600010_2_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 2498.0,
+    "precio_referencia": 4299.0,
+    "precio_antes_tienda": null,
+    "descuento_real": 0.4189,
+    "ahorro_q": 1801.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 4299.0,
+        "url": "https://gt.siman.com/celular-6-83-redmi-note-17-pro-max-5g-us-8g-512-negro-105334505/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 71.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-27T22:56:04-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "lacuracao-473509400013",
+    "tienda": "La Curacao",
+    "nombre": "Xiaomi Redmi Note 17 6GB + 256GB Celestial Purple",
+    "categoria": "📦 Otros",
+    "url": "https://www.lacuracaonline.com/guatemala/xiaomi-redmi-note-17-6gb-256gb-celestial-purple-473509400013/p",
+    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/473509400013_2.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 2498.0,
+    "precio_referencia": 4299.0,
+    "precio_antes_tienda": null,
+    "descuento_real": 0.4189,
+    "ahorro_q": 1801.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 4299.0,
+        "url": "https://gt.siman.com/celular-6-83-redmi-note-17-pro-max-5g-us-8g-512-negro-105334505/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 71.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-27T22:56:04-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "elektra-gt-1012915",
+    "tienda": "Elektra GT",
+    "nombre": "Televisor Smart Samsung 55 Pulgadas UHD 4K Crystal Modelo UN55U8000HPXPA Color Negro",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.elektra.com.gt/tv-samsung-55-uhd-4k-un55u8000h-1012915/p",
+    "imagen": "https://elektragt.vteximg.com.br/arquivos/ids/217095/televisor-smart-samsung-55-pulgadas-uhd-4-k-crystal-modelo-un-55-u-8000-hpxpa-color-negro-1012915.webp?v=639228629714700000",
+    "moneda": "GTQ",
+    "precio_actual": 3395.0,
+    "precio_referencia": 5669.0,
+    "precio_antes_tienda": 4999.0,
+    "descuento_real": 0.4011,
+    "ahorro_q": 2274.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 3599.0,
+        "url": "https://gt.siman.com/pantalla-samsung-55---139-7-cm--mini-led-uhd-4k-hdr10--un55m70hapxpa/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 8439.0,
+        "url": "https://gt.siman.com/pantalla-samsung-55--oled-uhd-4k-hdr10--qn55s85fapxpa/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 5669.0,
+        "url": "https://gt.siman.com/pantalla-samsung-55---139-7-cm--class-neo-qled-uhd-4k-hdr10--qn55qn70hapxpa/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 70.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-24T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:20-06:00",
+    "alerta_nueva": false
+  },
+  {
+    "id": "cemaco-103470514",
+    "tienda": "Cemaco",
+    "nombre": "Farol Colgante para Exterior 1 Luz de 100 W - Varios Colores",
+    "categoria": "🔌 Eléctrico",
+    "url": "https://www.cemaco.com/farol-colgante-para-exterior-1-luz-de-100-w-zlumini-varios-colores-1092575/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/628010/1092574_1.jpg?v=639127518481300000",
+    "moneda": "GTQ",
+    "precio_actual": 139.99,
+    "precio_referencia": 399.0,
+    "precio_antes_tienda": 139.99,
+    "descuento_real": 0.6491,
+    "ahorro_q": 259.01,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 399.0,
+        "url": "https://gt.siman.com/un-concentrador-tipo-c-8-en-1-de-axess-con-transferencia-de-pd-de-100-w-104095351/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 70.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-27T22:57:23-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103539321",
+    "tienda": "Cemaco",
+    "nombre": "Sellador Cerámico Gyeon Q2M Cure Protección Hidrofóbica para Pintura de 100 mL",
+    "categoria": "🚗 Automotriz",
+    "url": "https://www.cemaco.com/sellador-ceramico-gyeon-q2m-cure-proteccion-hidrofobica-para-pintura-250-ml-1203959/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/3125722/1203959_1.jpg?v=639114693522300000",
+    "moneda": "GTQ",
+    "precio_actual": 155.99,
+    "precio_referencia": 399.0,
+    "precio_antes_tienda": 155.99,
+    "descuento_real": 0.609,
+    "ahorro_q": 243.01,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 399.0,
+        "url": "https://gt.siman.com/un-concentrador-tipo-c-8-en-1-de-axess-con-transferencia-de-pd-de-100-w-104095351/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 65.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-19T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:27-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-8886648",
+    "tienda": "Simán",
+    "nombre": "Secadora eléctrica de ropa carga frontal 22 Kg SGE47N8MSSBT0 General Electric",
+    "categoria": "🧊 Línea blanca",
+    "url": "https://gt.siman.com/secadora-electrica-220-v-7-2-cu-ft-22kg-carga-frontal-blanca-105183514/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8032204/105183514-1.jpg?v=639129074563330000",
+    "moneda": "GTQ",
+    "precio_actual": 5599.0,
+    "precio_referencia": 8649.0,
+    "precio_antes_tienda": 5799.0,
+    "descuento_real": 0.3526,
+    "ahorro_q": 3050.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Cemaco",
+        "precio": 12999.0,
+        "url": "https://www.cemaco.com/torre-de-lavado-electrica-bespoke-22-kg-1176096/p"
+      },
+      {
+        "tienda": "Cemaco",
+        "precio": 4299.0,
+        "url": "https://www.cemaco.com/secadora-electrica-de-22-kg-carga-frontal-color-blanco-1161561/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 65.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T04:55:53Z",
+    "visto_en": "2026-10-27T22:56:19-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103504458",
+    "tienda": "Cemaco",
+    "nombre": "Cooktop a Gas 30 Plg con 5 Quemadores Color Negro",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.cemaco.com/cooktop-a-gas-negra-30-plg-1139004/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/2876257/1139004_1.jpg?v=638811443146330000",
+    "moneda": "GTQ",
+    "precio_actual": 2199.0,
+    "precio_referencia": 3549.0,
+    "precio_antes_tienda": 2199.0,
+    "descuento_real": 0.3804,
+    "ahorro_q": 1350.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Elektra GT",
+        "precio": 2699.0,
+        "url": "https://www.elektra.com.gt/estufa-de-gas-mabe-de-30-pulgadas-cem7650bsin3-6003873/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 4399.0,
+        "url": "https://gt.siman.com/cocina-a-gas-30-6-quemadores-mabe-emh7612dtss0-104955604/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 65.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:55:58-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103494009",
+    "tienda": "Cemaco",
+    "nombre": "Cooktop a Gas 30 Plg con 5 Quemadores Acero Inoxidable",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.cemaco.com/cooktop-a-gas-30plg-plateada-1139003/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/2857296/1139003_1.jpg?v=638829016597900000",
+    "moneda": "GTQ",
+    "precio_actual": 2199.0,
+    "precio_referencia": 3549.0,
+    "precio_antes_tienda": 2199.0,
+    "descuento_real": 0.3804,
+    "ahorro_q": 1350.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Elektra GT",
+        "precio": 2699.0,
+        "url": "https://www.elektra.com.gt/estufa-de-gas-mabe-de-30-pulgadas-cem7650bsin3-6003873/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 4399.0,
+        "url": "https://gt.siman.com/cocina-a-gas-30-6-quemadores-mabe-emh7612dtss0-104955604/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 65.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T04:52:41Z",
+    "visto_en": "2026-10-27T22:55:58-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "elektra-gt-1012914",
+    "tienda": "Elektra GT",
+    "nombre": "Televisor Smart Samsung 55 Pulgadas Mini LED 4K Crystal Modelo UN55M70HAPXPA Color Negro",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.elektra.com.gt/tv-samsung-55-mini-led-4k-un55m70h-1012914/p",
+    "imagen": "https://elektragt.vteximg.com.br/arquivos/ids/210914/televisor-smart-samsung-55-pulgadas-mini-led-4-k-crystal-modelo-un-55-m-70-hapxpa-color-negro-1012914.webp?v=639155250055970000",
+    "moneda": "GTQ",
+    "precio_actual": 3795.0,
+    "precio_referencia": 5669.0,
+    "precio_antes_tienda": 5999.0,
+    "descuento_real": 0.3306,
+    "ahorro_q": 1874.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 3599.0,
+        "url": "https://gt.siman.com/pantalla-samsung-55---139-7-cm--mini-led-uhd-4k-hdr10--un55m70hapxpa/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 8439.0,
+        "url": "https://gt.siman.com/pantalla-samsung-55--oled-uhd-4k-hdr10--qn55s85fapxpa/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 5669.0,
+        "url": "https://gt.siman.com/pantalla-samsung-55---139-7-cm--class-neo-qled-uhd-4k-hdr10--qn55qn70hapxpa/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 63.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:20-06:00",
+    "alerta_nueva": false
+  },
+  {
+    "id": "cemaco-103471461",
+    "tienda": "Cemaco",
+    "nombre": "Tapones para Oídos 32 dB, Caja de 100 Pares",
+    "categoria": "🔧 Ferretería y herramientas",
+    "url": "https://www.cemaco.com/caja-de-tapones-auditivos-desechables-32-db-100-pares-milwaukee-1103025/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/631261/1103025_1.jpg?v=638438977628200000",
+    "moneda": "GTQ",
+    "precio_actual": 182.99,
+    "precio_referencia": 399.0,
+    "precio_antes_tienda": 182.99,
+    "descuento_real": 0.5414,
+    "ahorro_q": 216.01,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 399.0,
+        "url": "https://gt.siman.com/un-concentrador-tipo-c-8-en-1-de-axess-con-transferencia-de-pd-de-100-w-104095351/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 58.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:57:59-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "lacuracao-470342600013",
+    "tienda": "La Curacao",
+    "nombre": "Microondas Samsung 32 Lts Negro MS32FG4504AG",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.lacuracaonline.com/guatemala/microondas-samsung-32-lts-negro-ms32fg4504ag-470342600013/p",
+    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/470342600013_1_.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 898.0,
+    "precio_referencia": 1509.0,
+    "precio_antes_tienda": null,
+    "descuento_real": 0.4049,
+    "ahorro_q": 611.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 1509.0,
+        "url": "https://gt.siman.com/pantalla-samsung-32--led-hd-un32h5000fpxpa-1/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 52.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-27T22:56:42-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "elektra-gt-8004199",
+    "tienda": "Elektra GT",
+    "nombre": "Lavadora Automatica Carga Superior Samsung 55 LBS WA25DG5505AVAX con Agitador ActiveWave, SmartThings, Panel Digital y Perilla, Motor 1/2 HP y 5 Nivel",
+    "categoria": "🧊 Línea blanca",
+    "url": "https://www.elektra.com.gt/lavadora-samsung-automatica-wa25dg5505avax-25kg-8004199/p",
+    "imagen": "https://elektragt.vteximg.com.br/arquivos/ids/214880/lavadora-automatica-carga-superior-samsung-55-lbs-wa-25-dg-5505-avax-con-agitador-active-wave-smart-things-panel-digital-y-perilla-motor-1-2-hp-y-5-nivel-8004199.webp?v=639195657086270000",
+    "moneda": "GTQ",
+    "precio_actual": 4299.0,
+    "precio_referencia": 5669.0,
+    "precio_antes_tienda": 5299.0,
+    "descuento_real": 0.2417,
+    "ahorro_q": 1370.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 3599.0,
+        "url": "https://gt.siman.com/pantalla-samsung-55---139-7-cm--mini-led-uhd-4k-hdr10--un55m70hapxpa/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 8439.0,
+        "url": "https://gt.siman.com/pantalla-samsung-55--oled-uhd-4k-hdr10--qn55s85fapxpa/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 5669.0,
+        "url": "https://gt.siman.com/pantalla-samsung-55---139-7-cm--class-neo-qled-uhd-4k-hdr10--qn55qn70hapxpa/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 51.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T04:52:23Z",
+    "visto_en": "2026-10-27T22:56:00-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103508830",
+    "tienda": "Cemaco",
+    "nombre": "Secadora Eléctrica de Carga Frontal 22 kg Color Blanco",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.cemaco.com/secadora-electrica-de-22-kg-carga-frontal-color-blanco-1161561/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/2861956/1161561_1.jpg?v=638718827915400000",
+    "moneda": "GTQ",
+    "precio_actual": 4299.0,
+    "precio_referencia": 5599.0,
+    "precio_antes_tienda": 4985.0,
+    "descuento_real": 0.2322,
+    "ahorro_q": 1300.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 5599.0,
+        "url": "https://gt.siman.com/secadora-electrica-220-v-7-2-cu-ft-22kg-carga-frontal-blanca-105183514/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 49.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2026-11-16T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:05-06:00",
+    "alerta_nueva": true
   },
   {
     "id": "walmart-gt-41441",
@@ -67,8 +1501,234 @@
     "puntaje": 48.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:35:06Z",
-    "visto_en": "2026-10-27T22:35:06-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:07-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-8329913",
+    "tienda": "Simán",
+    "nombre": "Licuadora Black and Decker  ice crush 1.25 litros 700 watts",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://gt.siman.com/licuadora-ice-crush-jarra-de-vidrio-8vel-700w-1-25l-negra-104753296/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6310026/104753296.jpg?v=638659057583270000",
+    "moneda": "GTQ",
+    "precio_actual": 404.1,
+    "precio_referencia": 689.99,
+    "precio_antes_tienda": 449.0,
+    "descuento_real": 0.4143,
+    "ahorro_q": 285.89,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Cemaco",
+        "precio": 689.99,
+        "url": "https://www.cemaco.com/microondas-0-7-con-control-digital-oster-1212222b/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 47.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:23-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-8329917",
+    "tienda": "Simán",
+    "nombre": "Licuadora Black and Decker  ice crush 1.25 litros 700 watts",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://gt.siman.com/licuadora-ice-crush-jarra-de-vidrio-8vel-700w-1-25l-negra-104753299/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6310031/104753299.jpg?v=638659057593500000",
+    "moneda": "GTQ",
+    "precio_actual": 404.1,
+    "precio_referencia": 689.99,
+    "precio_antes_tienda": 449.0,
+    "descuento_real": 0.4143,
+    "ahorro_q": 285.89,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Cemaco",
+        "precio": 689.99,
+        "url": "https://www.cemaco.com/microondas-0-7-con-control-digital-oster-1212222b/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 47.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:24-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103548570",
+    "tienda": "Cemaco",
+    "nombre": "Estufa de Piso a Gas 30 Plg 6 Quemadores y Parrillas de Alta Resistencia Color Negro",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.cemaco.com/estufa-de-piso-a-gas-30-plg-6-quemadores-y-parrillas-de-alta-resistencia-color-negro-1220964/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/3179834/1220964_1.jpg?v=639210482231870000",
+    "moneda": "GTQ",
+    "precio_actual": 2599.0,
+    "precio_referencia": 3549.0,
+    "precio_antes_tienda": 2599.0,
+    "descuento_real": 0.2677,
+    "ahorro_q": 950.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Elektra GT",
+        "precio": 2699.0,
+        "url": "https://www.elektra.com.gt/estufa-de-gas-mabe-de-30-pulgadas-cem7650bsin3-6003873/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 4399.0,
+        "url": "https://gt.siman.com/cocina-a-gas-30-6-quemadores-mabe-emh7612dtss0-104955604/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 45.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:01-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-8087608",
+    "tienda": "Simán",
+    "nombre": "Licuadora digital PowerXL Smart Pro de 1800W",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://gt.siman.com/licuadora-digital-2litros-con-fusible-inteligente-1800-watts-3-velocidades-104551064/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5379441/104551064.jpg?v=638482916815330000",
+    "moneda": "GTQ",
+    "precio_actual": 1124.1,
+    "precio_referencia": 1700.0,
+    "precio_antes_tienda": 1249.0,
+    "descuento_real": 0.3388,
+    "ahorro_q": 575.9,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Cemaco",
+        "precio": 1700.0,
+        "url": "https://www.cemaco.com/hidrolavadora-super-full-1800-w-150-bar-1166034/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 45.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:25-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-7582885",
+    "tienda": "Simán",
+    "nombre": "Pantalla RCA 65\" (165.1 cm) LED UHD 4K HDR10 RC65RK",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://gt.siman.com/pantalla-rca-65--led-uhd-4k-hdr10-rc65rk/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7335274/104125577.jpg?v=639201552189730000",
+    "moneda": "GTQ",
+    "precio_actual": 3999.0,
+    "precio_referencia": 4999.0,
+    "precio_antes_tienda": 5599.0,
+    "descuento_real": 0.2,
+    "ahorro_q": 1000.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Elektra GT",
+        "precio": 4999.0,
+        "url": "https://www.elektra.com.gt/televisor-rca-65-pulgadas-qled-4k-roku-1012864/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 40.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:14-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-9089699",
+    "tienda": "Simán",
+    "nombre": "Celular HONOR 600 Smart 5G, 6 GB RAM + 256 GB y 6.8\" pulgadas",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://gt.siman.com/celular-600-smart-6gb-ram-256gb-rom-plata-meteoro-105347247/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8633122/105347228.jpg?v=639276727222400000",
+    "moneda": "GTQ",
+    "precio_actual": 3199.0,
+    "precio_referencia": 3998.0,
+    "precio_antes_tienda": 3399.0,
+    "descuento_real": 0.1998,
+    "ahorro_q": 799.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 3998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/honor-600-elite-8gb-256gb-dorado-473264400013/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 3998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/honor-600-elite-8gb-256gb-plateado-meteoro-473264300016/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 36.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T04:56:07Z",
+    "visto_en": "2026-10-27T22:56:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -104,7 +1764,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:06-06:00",
+    "visto_en": "2026-10-27T22:57:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -140,7 +1800,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:44-06:00",
+    "visto_en": "2026-10-27T22:57:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -175,8 +1835,80 @@
     "puntaje": 31.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:13-06:00",
+    "fin_oferta": "2027-10-28T04:57:14Z",
+    "visto_en": "2026-10-27T22:57:14-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "lacuracao-473512100016",
+    "tienda": "La Curacao",
+    "nombre": "Xiaomi Redmi Note 17 Pro 6GB + 256GB Sky Blue",
+    "categoria": "📦 Otros",
+    "url": "https://www.lacuracaonline.com/guatemala/xiaomi-redmi-note-17-pro-6gb-256gb-sky-blue-473512100016/p",
+    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/473512100016_2.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 3598.0,
+    "precio_referencia": 4299.0,
+    "precio_antes_tienda": null,
+    "descuento_real": 0.1631,
+    "ahorro_q": 701.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 4299.0,
+        "url": "https://gt.siman.com/celular-6-83-redmi-note-17-pro-max-5g-us-8g-512-negro-105334505/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 30.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-27T22:56:04-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "lacuracao-473520900011",
+    "tienda": "La Curacao",
+    "nombre": "Xiaomi Redmi Note 17 Pro 6GB + 256GB Black",
+    "categoria": "📦 Otros",
+    "url": "https://www.lacuracaonline.com/guatemala/xiaomi-redmi-note-17-pro-6gb-256gb-black-473520900011/p",
+    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/473520900011_2.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 3598.0,
+    "precio_referencia": 4299.0,
+    "precio_antes_tienda": null,
+    "descuento_real": 0.1631,
+    "ahorro_q": 701.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 4299.0,
+        "url": "https://gt.siman.com/celular-6-83-redmi-note-17-pro-max-5g-us-8g-512-negro-105334505/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 30.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-27T22:56:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -212,7 +1944,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-22T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:03-06:00",
+    "visto_en": "2026-10-27T22:58:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -248,7 +1980,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:25-06:00",
+    "visto_en": "2026-10-27T22:56:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -284,7 +2016,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:25-06:00",
+    "visto_en": "2026-10-27T22:56:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -319,8 +2051,8 @@
     "puntaje": 29.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:36:29Z",
-    "visto_en": "2026-10-27T22:36:29-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-27T22:57:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -356,7 +2088,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:05-06:00",
+    "visto_en": "2026-10-27T22:56:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -392,7 +2124,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:36-06:00",
+    "visto_en": "2026-10-27T22:56:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -428,7 +2160,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:47-06:00",
+    "visto_en": "2026-10-27T22:56:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -464,7 +2196,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:50-06:00",
+    "visto_en": "2026-10-27T22:56:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -499,8 +2231,8 @@
     "puntaje": 28.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:33:59Z",
-    "visto_en": "2026-10-27T22:37:19-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:58:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -535,8 +2267,8 @@
     "puntaje": 27.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:35:07Z",
-    "visto_en": "2026-10-27T22:35:07-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -572,7 +2304,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:02-06:00",
+    "visto_en": "2026-10-27T22:58:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -608,7 +2340,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:04-06:00",
+    "visto_en": "2026-10-27T22:58:05-06:00",
     "alerta_nueva": true
   },
   {
@@ -644,7 +2376,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:36-06:00",
+    "visto_en": "2026-10-27T22:56:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -680,7 +2412,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-18T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:26-06:00",
+    "visto_en": "2026-10-27T22:56:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -716,7 +2448,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:17-06:00",
+    "visto_en": "2026-10-27T22:58:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -751,8 +2483,8 @@
     "puntaje": 26.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:36:11Z",
-    "visto_en": "2026-10-27T22:36:11-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:57:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -788,7 +2520,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:50-06:00",
+    "visto_en": "2026-10-27T22:56:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -824,7 +2556,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:34-06:00",
+    "visto_en": "2026-10-27T22:56:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -860,7 +2592,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:32-06:00",
+    "visto_en": "2026-10-27T22:56:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -896,7 +2628,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:01-06:00",
+    "visto_en": "2026-10-27T22:58:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -932,7 +2664,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:10-06:00",
+    "visto_en": "2026-10-27T22:56:13-06:00",
     "alerta_nueva": true
   },
   {
@@ -968,7 +2700,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:07-06:00",
+    "visto_en": "2026-10-27T22:56:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -1003,8 +2735,8 @@
     "puntaje": 24.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:35:10Z",
-    "visto_en": "2026-10-27T22:35:10-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:13-06:00",
     "alerta_nueva": true
   },
   {
@@ -1040,7 +2772,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:18-06:00",
+    "visto_en": "2026-10-27T22:57:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -1075,8 +2807,8 @@
     "puntaje": 24.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:36:19Z",
-    "visto_en": "2026-10-27T22:36:19-06:00",
+    "fin_oferta": "2027-10-28T04:52:27Z",
+    "visto_en": "2026-10-27T22:57:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -1112,7 +2844,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:26-06:00",
+    "visto_en": "2026-10-27T22:56:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -1148,7 +2880,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:07-06:00",
+    "visto_en": "2026-10-27T22:57:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -1183,8 +2915,8 @@
     "puntaje": 24.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:30:12Z",
-    "visto_en": "2026-10-27T22:35:57-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -1219,8 +2951,8 @@
     "puntaje": 23.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:34:24Z",
-    "visto_en": "2026-10-27T22:35:13-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -1256,7 +2988,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:04-06:00",
+    "visto_en": "2026-10-27T22:57:05-06:00",
     "alerta_nueva": true
   },
   {
@@ -1291,8 +3023,8 @@
     "puntaje": 23.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:17-06:00",
+    "fin_oferta": "2027-10-28T04:58:17Z",
+    "visto_en": "2026-10-27T22:58:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -1328,7 +3060,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:34-06:00",
+    "visto_en": "2026-10-27T22:56:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -1363,8 +3095,8 @@
     "puntaje": 23.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:45-06:00",
+    "fin_oferta": "2027-10-28T04:56:47Z",
+    "visto_en": "2026-10-27T22:56:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -1400,7 +3132,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:45-06:00",
+    "visto_en": "2026-10-27T22:56:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -1436,7 +3168,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-22T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:51-06:00",
+    "visto_en": "2026-10-27T22:56:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -1472,7 +3204,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:11-06:00",
+    "visto_en": "2026-10-27T22:56:15-06:00",
     "alerta_nueva": true
   },
   {
@@ -1508,7 +3240,79 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:44-06:00",
+    "visto_en": "2026-10-27T22:57:47-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "lacuracao-473465400010",
+    "tienda": "La Curacao",
+    "nombre": "Xiaomi Redmi 17 4GB + 128GB Black",
+    "categoria": "📦 Otros",
+    "url": "https://www.lacuracaonline.com/guatemala/xiaomi-redmi-17-4gb-128gb-black-473465400010/p",
+    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/473465400010_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 1498.0,
+    "precio_referencia": 1799.0,
+    "precio_antes_tienda": null,
+    "descuento_real": 0.1673,
+    "ahorro_q": 301.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 1799.0,
+        "url": "https://gt.siman.com/celular-17-52-cm-6-9-redmi-17-4gb-ram-256gb-rom-azul-105339104/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 22.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-27T22:56:04-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "lacuracao-473492300017",
+    "tienda": "La Curacao",
+    "nombre": "Xiaomi Redmi 17 4GB + 128GB Blue",
+    "categoria": "📦 Otros",
+    "url": "https://www.lacuracaonline.com/guatemala/xiaomi-redmi-17-4gb-128gb-blue-473492300017/p",
+    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/473492300017_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 1498.0,
+    "precio_referencia": 1799.0,
+    "precio_antes_tienda": null,
+    "descuento_real": 0.1673,
+    "ahorro_q": 301.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 1799.0,
+        "url": "https://gt.siman.com/celular-17-52-cm-6-9-redmi-17-4gb-ram-256gb-rom-azul-105339104/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 22.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-27T22:56:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -1544,7 +3348,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:06-06:00",
+    "visto_en": "2026-10-27T22:57:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -1580,7 +3384,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:06-06:00",
+    "visto_en": "2026-10-27T22:57:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -1615,8 +3419,8 @@
     "puntaje": 22.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:02-06:00",
+    "fin_oferta": "2027-10-28T04:58:08Z",
+    "visto_en": "2026-10-27T22:58:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -1652,7 +3456,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:51-06:00",
+    "visto_en": "2026-10-27T22:56:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -1688,7 +3492,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:11-06:00",
+    "visto_en": "2026-10-27T22:56:15-06:00",
     "alerta_nueva": true
   },
   {
@@ -1723,8 +3527,8 @@
     "puntaje": 21.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:26-06:00",
+    "fin_oferta": "2027-10-28T04:56:31Z",
+    "visto_en": "2026-10-27T22:56:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -1760,7 +3564,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:55-06:00",
+    "visto_en": "2026-10-27T22:57:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -1795,8 +3599,8 @@
     "puntaje": 20.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:37-06:00",
+    "fin_oferta": "2027-10-28T04:56:39Z",
+    "visto_en": "2026-10-27T22:56:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -1832,7 +3636,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:01-06:00",
+    "visto_en": "2026-10-27T22:57:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -1868,7 +3672,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:44-06:00",
+    "visto_en": "2026-10-27T22:57:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -1904,7 +3708,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:23-06:00",
+    "visto_en": "2026-10-27T22:56:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -1940,7 +3744,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:28-06:00",
+    "visto_en": "2026-10-27T22:56:30-06:00",
     "alerta_nueva": true
   },
   {
@@ -1976,7 +3780,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:06-06:00",
+    "visto_en": "2026-10-27T22:58:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -2011,8 +3815,8 @@
     "puntaje": 20.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:32:29Z",
-    "visto_en": "2026-10-27T22:36:07-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-27T22:57:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -2048,7 +3852,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:15-06:00",
+    "visto_en": "2026-10-27T22:56:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -2084,7 +3888,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:01-06:00",
+    "visto_en": "2026-10-27T22:57:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -2119,8 +3923,8 @@
     "puntaje": 20.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:30:45Z",
-    "visto_en": "2026-10-27T22:35:45-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -2156,7 +3960,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:53-06:00",
+    "visto_en": "2026-10-27T22:56:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -2192,7 +3996,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:22-06:00",
+    "visto_en": "2026-10-27T22:56:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -2227,8 +4031,8 @@
     "puntaje": 20.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:53-06:00",
+    "fin_oferta": "2027-10-28T04:55:35Z",
+    "visto_en": "2026-10-27T22:56:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -2264,7 +4068,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:58-06:00",
+    "visto_en": "2026-10-27T22:57:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2300,7 +4104,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:50-06:00",
+    "visto_en": "2026-10-27T22:56:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -2336,7 +4140,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:08-06:00",
+    "visto_en": "2026-10-27T22:57:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -2371,8 +4175,8 @@
     "puntaje": 19.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:16-06:00",
+    "fin_oferta": "2027-10-28T04:58:16Z",
+    "visto_en": "2026-10-27T22:58:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -2408,7 +4212,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:51-06:00",
+    "visto_en": "2026-10-27T22:56:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -2444,7 +4248,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:17-06:00",
+    "visto_en": "2026-10-27T22:57:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -2480,7 +4284,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:55-06:00",
+    "visto_en": "2026-10-27T22:57:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -2516,7 +4320,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:44-06:00",
+    "visto_en": "2026-10-27T22:57:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -2552,7 +4356,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:56-06:00",
+    "visto_en": "2026-10-27T22:57:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -2588,7 +4392,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-19T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:46-06:00",
+    "visto_en": "2026-10-27T22:56:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -2624,7 +4428,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:15-06:00",
+    "visto_en": "2026-10-27T22:56:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -2660,7 +4464,48 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:07-06:00",
+    "visto_en": "2026-10-27T22:57:11-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "intelaf-167",
+    "tienda": "Intelaf",
+    "nombre": "Microsoft 365 Personal Con IA Copilot Licencia Por 12 Meses Para PC/Mac Formato ESD (Electronic Software Download) Para1Dispositivo",
+    "categoria": "🍷 Licores",
+    "url": "https://www.intelaf.com/precios_stock_detallado/of365-hprem-esd",
+    "imagen": "https://www.intelaf.com/images/productos/gran/of365-hprem-esd.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 605.0,
+    "precio_referencia": 724.0,
+    "precio_antes_tienda": null,
+    "descuento_real": 0.1644,
+    "ahorro_q": 119.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Simán",
+        "precio": 799.0,
+        "url": "https://gt.siman.com/microsoft-365-familia-105025042/p"
+      },
+      {
+        "tienda": "Simán",
+        "precio": 649.0,
+        "url": "https://gt.siman.com/microsoft-365-personal-eset-home-security-essential-1-dispositivo-12-meses-104999353/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 18.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-27T22:58:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -2696,7 +4541,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:16-06:00",
+    "visto_en": "2026-10-27T22:57:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -2732,7 +4577,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:17-06:00",
+    "visto_en": "2026-10-27T22:58:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -2768,7 +4613,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:38-06:00",
+    "visto_en": "2026-10-27T22:56:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -2804,7 +4649,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:26-06:00",
+    "visto_en": "2026-10-27T22:56:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -2840,7 +4685,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:37-06:00",
+    "visto_en": "2026-10-27T22:56:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -2876,7 +4721,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-18T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:21-06:00",
+    "visto_en": "2026-10-27T22:56:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -2912,7 +4757,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:21-06:00",
+    "visto_en": "2026-10-27T22:56:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -2948,7 +4793,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:15-06:00",
+    "visto_en": "2026-10-27T22:58:15-06:00",
     "alerta_nueva": true
   },
   {
@@ -2984,7 +4829,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:53-06:00",
+    "visto_en": "2026-10-27T22:56:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -3020,7 +4865,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:08-06:00",
+    "visto_en": "2026-10-27T22:57:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -3055,8 +4900,8 @@
     "puntaje": 17.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:35:14Z",
-    "visto_en": "2026-10-27T22:35:14-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -3092,7 +4937,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:37-06:00",
+    "visto_en": "2026-10-27T22:56:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -3127,8 +4972,8 @@
     "puntaje": 17.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:32:25Z",
-    "visto_en": "2026-10-27T22:35:37-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -3164,7 +5009,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:46-06:00",
+    "visto_en": "2026-10-27T22:56:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -3200,7 +5045,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:34-06:00",
+    "visto_en": "2026-10-27T22:56:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -3235,8 +5080,8 @@
     "puntaje": 17.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-19T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:07-06:00",
+    "fin_oferta": "2027-10-28T04:57:11Z",
+    "visto_en": "2026-10-27T22:57:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -3271,8 +5116,8 @@
     "puntaje": 17.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:22-06:00",
+    "fin_oferta": "2027-10-28T04:56:24Z",
+    "visto_en": "2026-10-27T22:56:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -3307,8 +5152,8 @@
     "puntaje": 17.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:35:22Z",
-    "visto_en": "2026-10-27T22:35:22-06:00",
+    "fin_oferta": "2027-10-23T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -3344,7 +5189,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:33-06:00",
+    "visto_en": "2026-10-27T22:56:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -3379,8 +5224,8 @@
     "puntaje": 17.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:37:07Z",
-    "visto_en": "2026-10-27T22:37:08-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-27T22:58:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -3416,7 +5261,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:53-06:00",
+    "visto_en": "2026-10-27T22:56:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -3451,8 +5296,8 @@
     "puntaje": 17.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:21-06:00",
+    "fin_oferta": "2027-10-28T04:56:23Z",
+    "visto_en": "2026-10-27T22:56:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -3488,7 +5333,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:25-06:00",
+    "visto_en": "2026-10-27T22:56:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -3524,7 +5369,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:55-06:00",
+    "visto_en": "2026-10-27T22:56:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -3559,8 +5404,8 @@
     "puntaje": 17.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:36:17Z",
-    "visto_en": "2026-10-27T22:36:17-06:00",
+    "fin_oferta": "2027-10-11T00:00:00Z",
+    "visto_en": "2026-10-27T22:57:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -3596,7 +5441,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:17-06:00",
+    "visto_en": "2026-10-27T22:58:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -3631,8 +5476,8 @@
     "puntaje": 16.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:23-06:00",
+    "fin_oferta": "2027-10-28T04:55:56Z",
+    "visto_en": "2026-10-27T22:56:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -3668,7 +5513,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:08-06:00",
+    "visto_en": "2026-10-27T22:56:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -3704,7 +5549,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:14-06:00",
+    "visto_en": "2026-10-27T22:56:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -3740,7 +5585,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:15-06:00",
+    "visto_en": "2026-10-27T22:56:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -3776,7 +5621,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:38-06:00",
+    "visto_en": "2026-10-27T22:56:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -3812,7 +5657,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:01-06:00",
+    "visto_en": "2026-10-27T22:58:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -3848,7 +5693,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:55-06:00",
+    "visto_en": "2026-10-27T22:58:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -3884,7 +5729,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:14-06:00",
+    "visto_en": "2026-10-27T22:56:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -3920,7 +5765,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:58-06:00",
+    "visto_en": "2026-10-27T22:57:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -3955,8 +5800,8 @@
     "puntaje": 16.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:11-06:00",
+    "fin_oferta": "2027-10-28T04:56:15Z",
+    "visto_en": "2026-10-27T22:56:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -3992,7 +5837,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:02-06:00",
+    "visto_en": "2026-10-27T22:56:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -4028,7 +5873,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:03-06:00",
+    "visto_en": "2026-10-27T22:57:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -4064,7 +5909,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:12-06:00",
+    "visto_en": "2026-10-27T22:57:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -4100,7 +5945,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:26-06:00",
+    "visto_en": "2026-10-27T22:56:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -4136,7 +5981,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:39-06:00",
+    "visto_en": "2026-10-27T22:56:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -4171,8 +6016,8 @@
     "puntaje": 16.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:36:12Z",
-    "visto_en": "2026-10-27T22:36:12-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:57:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -4208,7 +6053,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:06-06:00",
+    "visto_en": "2026-10-27T22:56:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -4243,8 +6088,8 @@
     "puntaje": 16.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:35:13Z",
-    "visto_en": "2026-10-27T22:35:13-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -4279,8 +6124,8 @@
     "puntaje": 16.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:33:25Z",
-    "visto_en": "2026-10-27T22:35:13-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -4316,7 +6161,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:14-06:00",
+    "visto_en": "2026-10-27T22:56:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -4352,7 +6197,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:14-06:00",
+    "visto_en": "2026-10-27T22:56:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -4388,7 +6233,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:25-06:00",
+    "visto_en": "2026-10-27T22:56:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -4424,7 +6269,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:38-06:00",
+    "visto_en": "2026-10-27T22:56:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -4460,7 +6305,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:02-06:00",
+    "visto_en": "2026-10-27T22:58:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -4495,8 +6340,8 @@
     "puntaje": 15.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:42-06:00",
+    "fin_oferta": "2027-10-28T04:57:47Z",
+    "visto_en": "2026-10-27T22:57:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -4532,7 +6377,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:45-06:00",
+    "visto_en": "2026-10-27T22:57:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -4568,7 +6413,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:08-06:00",
+    "visto_en": "2026-10-27T22:56:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -4604,7 +6449,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:58-06:00",
+    "visto_en": "2026-10-27T22:58:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -4640,7 +6485,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:14-06:00",
+    "visto_en": "2026-10-27T22:56:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -4676,7 +6521,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:54-06:00",
+    "visto_en": "2026-10-27T22:56:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -4711,8 +6556,8 @@
     "puntaje": 15.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:37:16Z",
-    "visto_en": "2026-10-27T22:37:16-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-27T22:58:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -4748,7 +6593,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:37:17-06:00",
+    "visto_en": "2026-10-27T22:58:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -4784,7 +6629,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:04-06:00",
+    "visto_en": "2026-10-27T22:56:05-06:00",
     "alerta_nueva": true
   },
   {
@@ -4819,8 +6664,8 @@
     "puntaje": 15.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:35:11Z",
-    "visto_en": "2026-10-27T22:35:11-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:15-06:00",
     "alerta_nueva": true
   },
   {
@@ -4856,7 +6701,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:07-06:00",
+    "visto_en": "2026-10-27T22:56:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -4892,7 +6737,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T22:35:25-06:00",
+    "visto_en": "2026-10-27T22:56:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -4928,7 +6773,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:02-06:00",
+    "visto_en": "2026-10-27T22:57:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -4963,8 +6808,8 @@
     "puntaje": 18.3,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-15T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:03-06:00",
+    "fin_oferta": "2027-10-28T04:57:06Z",
+    "visto_en": "2026-10-27T22:57:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -4999,8 +6844,8 @@
     "puntaje": 23.3,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T04:32:59Z",
-    "visto_en": "2026-10-27T22:36:14-06:00",
+    "fin_oferta": "2027-10-28T04:57:18Z",
+    "visto_en": "2026-10-27T22:57:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -5036,7 +6881,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:14-06:00",
+    "visto_en": "2026-10-27T22:57:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -5072,7 +6917,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:15-06:00",
+    "visto_en": "2026-10-27T22:57:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -5108,7 +6953,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:15-06:00",
+    "visto_en": "2026-10-27T22:57:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -5143,8 +6988,8 @@
     "puntaje": 47.4,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-09-22T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:15-06:00",
+    "fin_oferta": "2027-10-28T04:57:19Z",
+    "visto_en": "2026-10-27T22:57:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -5179,8 +7024,141 @@
     "puntaje": 17.9,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T22:36:17-06:00",
+    "fin_oferta": "2027-10-28T04:57:21Z",
+    "visto_en": "2026-10-27T22:57:21-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-8695228",
+    "tienda": "Simán",
+    "nombre": "Apple iPhone 17",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://gt.siman.com/apple-iphone-17-pantalla-6-3--chip-a19-experiencia-potente-camara-posterior-48-mp-1/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7361061/998877-1530-1.jpg?v=638956285645600000",
+    "moneda": "GTQ",
+    "precio_actual": 8999.0,
+    "precio_referencia": 12998.0,
+    "precio_antes_tienda": 8999.0,
+    "descuento_real": 0.3077,
+    "ahorro_q": 3999.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 12998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-17-pro-max-12-gb-256-gb-deep-blue-470938700011/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "agotado",
+    "nivel_emoji": "·",
+    "nivel_label": "agotado",
+    "puntaje": 60.8,
+    "disponible": false,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T04:51:49Z",
+    "visto_en": "2026-10-27T22:55:59-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-9123864",
+    "tienda": "Simán",
+    "nombre": "Celular Xiaomi Redmi Note 17 6GB RAM + 256GB 6.99\" (17.75 cm)",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://gt.siman.com/celular-6-99-redmi-note-17-6gb-ram-256gb-rom-negro-105374550/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8623444/105334501.jpg?v=639275230790330000",
+    "moneda": "GTQ",
+    "precio_actual": 2499.0,
+    "precio_referencia": 3598.0,
+    "precio_antes_tienda": 2499.0,
+    "descuento_real": 0.3054,
+    "ahorro_q": 1099.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 2498.0,
+        "url": "https://www.lacuracaonline.com/guatemala/xiaomi-redmi-note-17-6gb-256gb-black-473506600010/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 2498.0,
+        "url": "https://www.lacuracaonline.com/guatemala/xiaomi-redmi-note-17-6gb-256gb-celestial-purple-473509400013/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 3598.0,
+        "url": "https://www.lacuracaonline.com/guatemala/xiaomi-redmi-note-17-pro-6gb-256gb-sky-blue-473512100016/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 3598.0,
+        "url": "https://www.lacuracaonline.com/guatemala/xiaomi-redmi-note-17-pro-6gb-256gb-black-473520900011/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 5298.0,
+        "url": "https://www.lacuracaonline.com/guatemala/xiaomi-redmi-note-17-pro-max-8gb-512gb-cloud-blush-473522400014/p"
+      },
+      {
+        "tienda": "La Curacao",
+        "precio": 5298.0,
+        "url": "https://www.lacuracaonline.com/guatemala/xiaomi-redmi-note-17-pro-max-8gb-512gb-black-473523000015/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "agotado",
+    "nivel_emoji": "·",
+    "nivel_label": "agotado",
+    "puntaje": 52.5,
+    "disponible": false,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-27T22:56:00-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-8695233",
+    "tienda": "Simán",
+    "nombre": "Apple Iphone 17 Air 256GB",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://gt.siman.com/apple-iphone-air-256gb/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7361271/998877-1538-1.jpg?v=638956291019300000",
+    "moneda": "GTQ",
+    "precio_actual": 7599.0,
+    "precio_referencia": 12998.0,
+    "precio_antes_tienda": 10999.0,
+    "descuento_real": 0.4154,
+    "ahorro_q": 5399.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Curacao",
+        "precio": 12998.0,
+        "url": "https://www.lacuracaonline.com/guatemala/iphone-17-pro-max-12-gb-256-gb-deep-blue-470938700011/p"
+      }
+    ],
+    "antes_inflado": false,
+    "revisar": false,
+    "relampago": false,
+    "nivel": "agotado",
+    "nivel_emoji": "·",
+    "nivel_label": "agotado",
+    "puntaje": 71.5,
+    "disponible": false,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T04:46:34Z",
+    "visto_en": "2026-10-27T22:56:04-06:00",
     "alerta_nueva": true
   }
 ]
