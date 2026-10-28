@@ -2276,7 +2276,7 @@
 {"id": "latorre-14807", "fecha": "2026-10-27", "precio": 28.4, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:39-06:00", "visto_hasta": "2026-10-28"}
 {"id": "latorre-14804", "fecha": "2026-10-27", "precio": 33.3, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:39-06:00", "visto_hasta": "2026-10-28"}
 {"id": "latorre-13313", "fecha": "2026-10-27", "precio": 63.6, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:39-06:00", "visto_hasta": "2026-10-28"}
-{"id": "latorre-12215", "fecha": "2026-10-27", "precio": 19.95, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:39-06:00", "visto_hasta": "2026-10-28"}
+{"id": "latorre-12215", "fecha": "2026-10-27", "precio": 19.95, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:39-06:00", "visto_hasta": "2026-10-27"}
 {"id": "latorre-11050", "fecha": "2026-10-27", "precio": 18.5, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:39-06:00", "visto_hasta": "2026-10-28"}
 {"id": "latorre-9897", "fecha": "2026-10-27", "precio": 26.5, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:39-06:00", "visto_hasta": "2026-10-28"}
 {"id": "latorre-9259", "fecha": "2026-10-27", "precio": 32.9, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:39-06:00", "visto_hasta": "2026-10-28"}
@@ -6682,7 +6682,7 @@
 {"id": "latorre-5014", "fecha_inicio": "2026-10-28", "precio": 101.4, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
 {"id": "latorre-4826", "fecha_inicio": "2026-10-28", "precio": 18.05, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
 {"id": "latorre-23071", "fecha_inicio": "2026-10-28", "precio": 38.2, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
-{"id": "latorre-3091", "fecha_inicio": "2026-10-28", "precio": 6.25, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "latorre-3091", "fecha_inicio": "2026-10-28", "precio": 6.25, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "latorre-22387", "fecha_inicio": "2026-10-28", "precio": 31.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "latorre-20820", "fecha_inicio": "2026-10-28", "precio": 74.9, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "latorre-14324", "fecha_inicio": "2026-10-28", "precio": 37.65, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
@@ -6699,11 +6699,11 @@
 {"id": "latorre-4953", "fecha_inicio": "2026-10-28", "precio": 31.05, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "latorre-5854", "fecha_inicio": "2026-10-28", "precio": 10.75, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "latorre-4484", "fecha_inicio": "2026-10-28", "precio": 12.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
-{"id": "latorre-4766", "fecha_inicio": "2026-10-28", "precio": 21.85, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "latorre-4766", "fecha_inicio": "2026-10-28", "precio": 21.85, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "latorre-21200", "fecha_inicio": "2026-10-28", "precio": 118.45, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
 {"id": "latorre-14451", "fecha_inicio": "2026-10-28", "precio": 29.65, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
 {"id": "latorre-2339", "fecha_inicio": "2026-10-28", "precio": 3.7, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
-{"id": "latorre-4953", "fecha_inicio": "2026-10-28", "precio": 26.35, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "latorre-4953", "fecha_inicio": "2026-10-28", "precio": 26.35, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "latorre-1406", "fecha_inicio": "2026-10-28", "precio": 5.1, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
 {"id": "latorre-17514", "fecha_inicio": "2026-10-28", "precio": 36.45, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
 {"id": "latorre-5854", "fecha_inicio": "2026-10-28", "precio": 11.5, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
@@ -6722,7 +6722,15 @@
 {"id": "latorre-20820", "fecha_inicio": "2026-10-28", "precio": 74.9, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "latorre-19777", "fecha_inicio": "2026-10-28", "precio": 26.5, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "latorre-25310", "fecha_inicio": "2026-10-28", "precio": 32.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
-{"id": "latorre-19440", "fecha_inicio": "2026-10-28", "precio": 24.2, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "latorre-19440", "fecha_inicio": "2026-10-28", "precio": 24.2, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "latorre-20820", "fecha_inicio": "2026-10-28", "precio": 67.6, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
-{"id": "latorre-3934", "fecha_inicio": "2026-10-28", "precio": 157.9, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "latorre-3934", "fecha_inicio": "2026-10-28", "precio": 157.9, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "latorre-19777", "fecha_inicio": "2026-10-28", "precio": 22.05, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "latorre-17958", "fecha_inicio": "2026-10-28", "precio": 63.9, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "latorre-2361", "fecha_inicio": "2026-10-28", "precio": 22.5, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "latorre-3091", "fecha_inicio": "2026-10-28", "precio": 7.5, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "latorre-12215", "fecha_inicio": "2026-10-28", "precio": 23.55, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "latorre-4766", "fecha_inicio": "2026-10-28", "precio": 26.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "latorre-3934", "fecha_inicio": "2026-10-28", "precio": 137.65, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "latorre-4953", "fecha_inicio": "2026-10-28", "precio": 31.05, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "latorre-19440", "fecha_inicio": "2026-10-28", "precio": 26.5, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
