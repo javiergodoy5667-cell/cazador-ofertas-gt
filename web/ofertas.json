@@ -1,5 +1,725 @@
 [
   {
+    "id": "max-gt-1002634",
+    "tienda": "Max",
+    "nombre": "Marshall Kilburn II Bocina Bluetooth inalámbrica portátil, color negro.",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.max.com.gt/marshall-kilburn-ii-bocina-bluetooth-inalambrica-portatil-color-negro-marshall-1002634",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/1/0/1002634.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 1496.0,
+    "precio_referencia": 3295.0,
+    "precio_antes_tienda": 3295.0,
+    "descuento_real": 0.546,
+    "ahorro_q": 1799.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 3295.0,
+        "url": "https://www.tecnofacil.com.gt/marshall-kilburn-ii-bocina-bluetooth-inalambrica-portatil-color-negro-marshall-1002634"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 3295.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 84.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:28:30-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-HWQS700F",
+    "tienda": "Max",
+    "nombre": "Barra de sonido HWQS700F de 3.1.2 canales con subwoofer inalámbrico, ultra delgada",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.max.com.gt/barra-de-sonido-hwqs700f-de-3-1-2-canales-con-subwoofer-inalambrico-ultra-delgada-samsung-hwqs700f",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/H/W/HWQS700F_1_27102025142910.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 2496.0,
+    "precio_referencia": 3995.0,
+    "precio_antes_tienda": 4395.0,
+    "descuento_real": 0.3752,
+    "ahorro_q": 1499.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 3995.0,
+        "url": "https://www.tecnofacil.com.gt/barra-de-sonido-hwqs700f-de-3-1-2-canales-con-subwoofer-inalambrico-ultra-delgada-samsung-hwqs700f"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 3995.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 67.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:28:33-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-LS55CG970NNXGO",
+    "tienda": "Max",
+    "nombre": "Monitor Samsung Gamer Odyssey Ark, 55\" 4K, 1ms, 165Hz, AMD FreeSync Premium Pro, Curvo 1000R",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://www.max.com.gt/monitor-samsung-gamer-odyssey-ark-55-4k-1ms-165hz-amd-freesync-premium-pro-curvo-1000r-samsung-ls55cg970nnxgo",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/L/S/LS55CG970NNXGO_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 18996.0,
+    "precio_referencia": 29995.0,
+    "precio_antes_tienda": 29995.0,
+    "descuento_real": 0.3667,
+    "ahorro_q": 10999.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 29995.0,
+        "url": "https://www.tecnofacil.com.gt/monitor-samsung-gamer-odyssey-ark-55-4k-1ms-165hz-amd-freesync-premium-pro-curvo-1000r-samsung-ls55cg970nnxgo"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 29995.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 66.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:28:12-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-SAFO001LA",
+    "tienda": "Max",
+    "nombre": "Horno Tostador con freidora de aire y tecnología 360, 22 L, PowerXL",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.max.com.gt/horno-tostador-con-freidora-de-aire-y-tecnologia-360-22-l-powerxl-power-xl-safo001la",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/S/A/SAFO001LA_1_10032025152426.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 796.0,
+    "precio_referencia": 1599.0,
+    "precio_antes_tienda": 1795.0,
+    "descuento_real": 0.5022,
+    "ahorro_q": 803.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 1599.0,
+        "url": "https://www.tecnofacil.com.gt/horno-tostador-con-freidora-de-aire-y-tecnologia-360-22-l-powerxl-power-xl-safo001la"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 1599.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 66.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:27:47-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "tecnofacil-43QD6QF",
+    "tienda": "Tecnofácil",
+    "nombre": "Televisor Hisense de 43 pulgadas QLED UHD-4K",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.tecnofacil.com.gt/televisor-hisense-de-43-pulgadas-qled-uhd-4k-hisense-43qd6qf",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/4/3/43qd6qf.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 1796.0,
+    "precio_referencia": 2995.0,
+    "precio_antes_tienda": 2995.0,
+    "descuento_real": 0.4003,
+    "ahorro_q": 1199.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 2995.0,
+        "url": "https://www.max.com.gt/televisor-hisense-de-43-pulgadas-qled-uhd-4k-hisense-43qd6qf"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 2995.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 64.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:26:40-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-JBLBAR1300XM2B",
+    "tienda": "Max",
+    "nombre": "TV SOUNDBAR JBL 11.1.4 CANALES",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.max.com.gt/tv-soundbar-jbl-11-1-4-canales-jbl-jblbar1300xm2b",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/J/B/JBLBAR1300XM2B_1_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 9996.0,
+    "precio_referencia": 14995.0,
+    "precio_antes_tienda": 12995.0,
+    "descuento_real": 0.3334,
+    "ahorro_q": 4999.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 14995.0,
+        "url": "https://www.tecnofacil.com.gt/tv-soundbar-jbl-11-1-4-canales-jbl-jblbar1300xm2b"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 14995.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 63.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:26:17-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103464663",
+    "tienda": "Cemaco",
+    "nombre": "Serie de Luces LED Smart Wi-Fi para Exterior Multicolor de 14.6 Metros",
+    "categoria": "🔌 Eléctrico",
+    "url": "https://www.cemaco.com/series-de-luces-smart-multicolor-nexxt-1093254/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/590288/1093254_1.jpg?v=639102675882630000",
+    "moneda": "GTQ",
+    "precio_actual": 489.0,
+    "precio_referencia": 995.0,
+    "precio_antes_tienda": 796.99,
+    "descuento_real": 0.5085,
+    "ahorro_q": 506.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 995.0,
+        "url": "https://www.max.com.gt/guirnalda-de-luces-inteligente-con-conexion-wi-fi-con-google-assistan-y-alexa-contra-agua"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 995.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 61.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-01-01T06:00:00Z",
+    "visto_en": "2026-10-28T00:26:45-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-DCE15PREMIUM",
+    "tienda": "Max",
+    "nombre": "Calentador eléctrico de paso de 2 servicios, blanco",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.max.com.gt/calentador-electrico-de-paso-de-2-servicios-blanco-stiebel-eltron-dce15premium",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/D/C/DCE15PREMIUM_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 3996.0,
+    "precio_referencia": 5495.0,
+    "precio_antes_tienda": 5495.0,
+    "descuento_real": 0.2728,
+    "ahorro_q": 1499.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 5495.0,
+        "url": "https://www.tecnofacil.com.gt/calentador-electrico-de-paso-de-2-servicios-blanco-stiebel-eltron-dce15premium"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 5495.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 57.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:27:56-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "tecnofacil-83J3003RGJ",
+    "tienda": "Tecnofácil",
+    "nombre": "Lenovo IdeaPad Slim 5, 15.3\" FHD, AMD Ryzen 7 7735HS, 16GB RAM, almacenamiento de 1TGB SSD",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://www.tecnofacil.com.gt/lenovo-ideapad-slim-5-15-3-fhd-amd-ryzen-7-7735hs-16gb-ram-almacenamiento-de-1tgb-ssd-lenovo-83j3003rgj",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/8/3/83J3003RGJ_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 7299.0,
+    "precio_referencia": 9995.0,
+    "precio_antes_tienda": 9995.0,
+    "descuento_real": 0.2697,
+    "ahorro_q": 2696.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 9995.0,
+        "url": "https://www.max.com.gt/lenovo-ideapad-slim-5-15-3-fhd-amd-ryzen-7-7735hs-16gb-ram-almacenamiento-de-1tgb-ssd-lenovo-83j3003rgj"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 9995.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 57.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:27:39-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-LMA74215WBAB1",
+    "tienda": "Max",
+    "nombre": "Lavadora de ropa HE de 52 libras tapa de vidrio, blanca",
+    "categoria": "🧊 Línea blanca",
+    "url": "https://www.max.com.gt/lavadora-de-ropa-he-de-52-libras-tapa-de-vidrio-blanca-mabe-lma74215wbab1",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/L/M/LMA74215WBAB1_1_13052025093038.png",
+    "moneda": "GTQ",
+    "precio_actual": 4396.0,
+    "precio_referencia": 5995.0,
+    "precio_antes_tienda": 5995.0,
+    "descuento_real": 0.2667,
+    "ahorro_q": 1599.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 5995.0,
+        "url": "https://www.tecnofacil.com.gt/lavadora-de-ropa-he-de-52-libras-tapa-de-vidrio-blanca-mabe-lma74215wbab1"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 5995.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 56.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:27:24-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-DCE15TREND",
+    "tienda": "Max",
+    "nombre": "Calentador eléctrico de paso de 2 servicios, blanco",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.max.com.gt/calentador-electrico-de-paso-de-2-servicios-blanco-stiebel-eltron-dce15trend",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/D/C/DCE15TREND_1_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 2996.0,
+    "precio_referencia": 4295.0,
+    "precio_antes_tienda": 4295.0,
+    "descuento_real": 0.3024,
+    "ahorro_q": 1299.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 4295.0,
+        "url": "https://www.tecnofacil.com.gt/calentador-electrico-de-paso-de-2-servicios-blanco-stiebel-eltron-dce15trend"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 4295.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 56.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:27:56-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-32U990AS",
+    "tienda": "Max",
+    "nombre": "Monitor LG UltraFine 32U990AS, 32\" 6K, NANO IPS, 5 ms, 60 hz",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://www.max.com.gt/monitor-lg-ultrafine-32u990as-32-6k-nano-ips-5-ms-60-hz-lg-32u990as",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/3/2/32U990AS_1_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 14996.0,
+    "precio_referencia": 19995.0,
+    "precio_antes_tienda": 19995.0,
+    "descuento_real": 0.25,
+    "ahorro_q": 4999.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 19995.0,
+        "url": "https://www.tecnofacil.com.gt/monitor-lg-ultrafine-32u990as-32-6k-nano-ips-5-ms-60-hz-lg-32u990as"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 19995.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 55.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:26:28-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-AIRLINE",
+    "tienda": "Max",
+    "nombre": "Alisador y Secador de cabello Airline 3 en 1 ULA",
+    "categoria": "💄 Belleza y cuidado personal",
+    "url": "https://www.max.com.gt/alisador-y-secador-de-cabello-airline-3-en-1-ula-ula-airline",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/A/I/AIRLINE_1.jpg?optimize=high&fit=bounds&height=&width=",
+    "moneda": "GTQ",
+    "precio_actual": 796.0,
+    "precio_referencia": 1395.0,
+    "precio_antes_tienda": 1395.0,
+    "descuento_real": 0.4294,
+    "ahorro_q": 599.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 1395.0,
+        "url": "https://www.tecnofacil.com.gt/alisador-y-secador-de-cabello-airline-3-en-1-ula-ula-airline"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 1395.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 54.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:25:29-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "tecnofacil-27N7Q",
+    "tienda": "Tecnofácil",
+    "nombre": "MONITOR HISENSE 27\" UHD 60HZ, 7ms, negro",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://www.tecnofacil.com.gt/monitor-hisense-27-uhd-60hz-7ms-negro-hisense-27n7q",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/2/7/27N7Q_1_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 1999.0,
+    "precio_referencia": 2995.0,
+    "precio_antes_tienda": 2995.0,
+    "descuento_real": 0.3326,
+    "ahorro_q": 996.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 2995.0,
+        "url": "https://www.max.com.gt/monitor-hisense-27-uhd-60hz-7ms-negro-hisense-27n7q"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 2995.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 53.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:27:41-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-F0000014395",
+    "tienda": "Max",
+    "nombre": "camara fujifilm instax mmini 12, color purpura",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.max.com.gt/camara-fujifilm-instax-mmini-12-color-purpura-fuji-f0000014395",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/F/0/F0000014395_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 1096.0,
+    "precio_referencia": 1795.0,
+    "precio_antes_tienda": 1795.0,
+    "descuento_real": 0.3894,
+    "ahorro_q": 699.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 1795.0,
+        "url": "https://www.tecnofacil.com.gt/camara-fujifilm-instax-mmini-12-color-purpura-fuji-f0000014395"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 1795.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 52.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:26:49-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-MRN55R85HA",
+    "tienda": "Max",
+    "nombre": "Televisor Micro RGB LED Samsung de 55 pulgadas serie R85H",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.max.com.gt/televisor-micro-rgb-led-samsung-de-55-pulgadas-serie-r85h-samsung-mrn55r85ha",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/M/R/MRN55R85HA_1_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 6995.0,
+    "precio_referencia": 8999.0,
+    "precio_antes_tienda": null,
+    "descuento_real": 0.2227,
+    "ahorro_q": 2004.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 8999.0,
+        "url": "https://www.tecnofacil.com.gt/televisor-micro-rgb-led-samsung-de-55-pulgadas-serie-r85h-samsung-mrn55r85ha"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 8999.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 52.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:26:09-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "tecnofacil-24G3Q",
+    "tienda": "Tecnofácil",
+    "nombre": "Monitor Hisense 24\" 240hz 1ms -negro-",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://www.tecnofacil.com.gt/monitor-hisense-24-240hz-1ms-negro-hisense-24g3q",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/2/4/24G3Q_1_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 1299.0,
+    "precio_referencia": 1995.0,
+    "precio_antes_tienda": 1995.0,
+    "descuento_real": 0.3489,
+    "ahorro_q": 696.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 1995.0,
+        "url": "https://www.max.com.gt/monitor-hisense-24-240hz-1ms-negro-hisense-24g3q"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 1995.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 48.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:27:41-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "tecnofacil-SH5WC",
+    "tienda": "Tecnofácil",
+    "nombre": "Barra de sonido LG con 600 watts de potencia 4.1 canales y Dolby Atmos con Modo Futbol",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.tecnofacil.com.gt/barra-de-sonido-lg-con-600-watts-de-potencia-4-1-canales-y-dolby-atmos-con-modo-futbol-lg-sh5wc",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/S/H/SH5WC_1_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 2499.0,
+    "precio_referencia": 3495.0,
+    "precio_antes_tienda": 3495.0,
+    "descuento_real": 0.285,
+    "ahorro_q": 996.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 3495.0,
+        "url": "https://www.max.com.gt/barra-de-sonido-lg-con-600-watts-de-potencia-4-1-canales-y-dolby-atmos-con-modo-futbol-lg-sh5wc"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 3495.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 48.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:28:27-06:00",
+    "alerta_nueva": true
+  },
+  {
     "id": "walmart-gt-41441",
     "tienda": "Walmart GT",
     "nombre": "Aceite Borges Oliva Extra Virgen Botella - 250 ml",
@@ -35,8 +755,413 @@
     "puntaje": 48.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:52:58-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T00:25:31-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-D62W3LA",
+    "tienda": "Max",
+    "nombre": "Laptop HP Hyperx Omen 15-ga0001la, 15.3\" 2K, Core I7-14650HX, 16GB RAM, 512GB SSD, RTX 5060 8GB, W11",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://www.max.com.gt/laptop-hp-hyperx-omen-15-ga0001la-15-3-2k-core-i7-14650hx-16gb-ram-512gb-ssd-rtx-5060-8gb-w11-hp-d62w3la",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/D/6/D62W3LA_2_15072026171106_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 18996.0,
+    "precio_referencia": 22995.0,
+    "precio_antes_tienda": 24995.0,
+    "descuento_real": 0.1739,
+    "ahorro_q": 3999.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 22995.0,
+        "url": "https://www.tecnofacil.com.gt/laptop-hp-hyperx-omen-15-ga0001la-15-3-2k-core-i7-14650hx-16gb-ram-512gb-ssd-rtx-5060-8gb-w11-hp-d62w3la"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 22995.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 47.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:26:28-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "tecnofacil-27G3Q",
+    "tienda": "Tecnofácil",
+    "nombre": "Monitor Hisense 27G3Q Panel IPS LED Full HD de 27 pulgadas y 240hz",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://www.tecnofacil.com.gt/monitor-hisense-27g3q-panel-ips-led-full-hd-de-27-pulgadas-y-240hz-hisense-27g3q",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/2/7/27G3Q_1_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 1799.0,
+    "precio_referencia": 2595.0,
+    "precio_antes_tienda": 2595.0,
+    "descuento_real": 0.3067,
+    "ahorro_q": 796.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 2595.0,
+        "url": "https://www.max.com.gt/monitor-hisense-27g3q-panel-ips-led-full-hd-de-27-pulgadas-y-240hz-hisense-27g3q"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 2595.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 46.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:27:41-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-AC16250I7",
+    "tienda": "Max",
+    "nombre": "Laptop Dell Alienware AC16250 de 16\" FHD, Intel Core 7 240H, 16GB RAM, 1TB SSD, RTX 5050 8GB, W11",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://www.max.com.gt/laptop-dell-alienware-ac16250-de-16-fhd-intel-core-7-240h-16gb-ram-1tb-ssd-rtx-5050-8gb-w11-dell-ac16250i7",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/A/C/AC16250I7_1_11112025161447.png",
+    "moneda": "GTQ",
+    "precio_actual": 15996.0,
+    "precio_referencia": 18995.0,
+    "precio_antes_tienda": 18995.0,
+    "descuento_real": 0.1579,
+    "ahorro_q": 2999.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 18995.0,
+        "url": "https://www.tecnofacil.com.gt/laptop-dell-alienware-ac16250-de-16-fhd-intel-core-7-240h-16gb-ram-1tb-ssd-rtx-5050-8gb-w11-dell-ac16250i7"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 18995.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 45.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:28:10-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-FN101GY",
+    "tienda": "Max",
+    "nombre": "Sistema de cocción portátil de vidrio 4 en 1, Ninja Crispi, Ninja",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.max.com.gt/sistema-de-coccion-portatil-de-vidrio-4-en-1-ninja-crispi-ninja-ninja-fn101gy",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/F/N/FN101GY_1_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 1196.0,
+    "precio_referencia": 1795.0,
+    "precio_antes_tienda": 1795.0,
+    "descuento_real": 0.3337,
+    "ahorro_q": 599.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 1795.0,
+        "url": "https://www.tecnofacil.com.gt/sistema-de-coccion-portatil-de-vidrio-4-en-1-ninja-crispi-ninja-ninja-fn101gy"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 1795.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 45.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:27:45-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103451599",
+    "tienda": "Cemaco",
+    "nombre": "Horno de Mesa Doble Convección con Air Fry de 1800 W Color Negro",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.cemaco.com/horno-doble-conveccion-con-freidora-164x185x13-plg-kitchenaid-1075690/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/527340/1075690_1.jpg?v=638438985773800000",
+    "moneda": "GTQ",
+    "precio_actual": 3699.0,
+    "precio_referencia": 4695.0,
+    "precio_antes_tienda": 3699.0,
+    "descuento_real": 0.2121,
+    "ahorro_q": 996.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 4695.0,
+        "url": "https://www.max.com.gt/kitchenaid-kco224bm-horno-de-encimera-conveccion-doble-kitchenaid-kco224bm"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 4695.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 41.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-23T00:00:00Z",
+    "visto_en": "2026-10-28T00:25:37-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-HHU60CEEC",
+    "tienda": "Max",
+    "nombre": "Cooktop eléctrico de 24\", 4 zonas de cocción, controles touch, Hisense HHU60CEEC",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.max.com.gt/cooktop-electrico-de-24-4-zonas-de-coccion-controles-touch-hisense-hhu60ceec-hisense-hhu60ceec",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/H/H/HHU60CEEC_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 2496.0,
+    "precio_referencia": 3295.0,
+    "precio_antes_tienda": 3295.0,
+    "descuento_real": 0.2425,
+    "ahorro_q": 799.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 3295.0,
+        "url": "https://www.tecnofacil.com.gt/cooktop-electrico-de-24-4-zonas-de-coccion-controles-touch-hisense-hhu60ceec"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 3295.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 40.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:27:31-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-4678155",
+    "tienda": "Simán",
+    "nombre": "Regulador de voltaje Forza 750 Voltios / 375 Watts 6 tomas certificados NEMA 5-15R + 2 puertos RJ45",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://gt.siman.com/regulador-de-voltaje-forza-101148089/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5959623/101148089_100.jpg?v=638569331831770000",
+    "moneda": "GTQ",
+    "precio_actual": 349.0,
+    "precio_referencia": 545.0,
+    "precio_antes_tienda": 499.0,
+    "descuento_real": 0.3596,
+    "ahorro_q": 196.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 545.0,
+        "url": "https://www.tecnofacil.com.gt/ups-forza-de-750va-y-375w-con-6-tomas-protegidas-forza-nt751"
+      },
+      {
+        "tienda": "Max",
+        "precio": 545.0,
+        "url": "https://www.max.com.gt/ups-forza-de-750va-y-375w-con-6-tomas-protegidas-forza-nt751"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 545.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 39.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T06:25:25Z",
+    "visto_en": "2026-10-28T00:25:25-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "tecnofacil-DJIOSMONANO",
+    "tienda": "Tecnofácil",
+    "nombre": "DJI OSMO ACTION CAM NANO",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.tecnofacil.com.gt/dji-osmo-action-cam-nano-dji-djiosmonano",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/D/J/DJIOSMONANO_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 3999.0,
+    "precio_referencia": 4995.0,
+    "precio_antes_tienda": 4995.0,
+    "descuento_real": 0.1994,
+    "ahorro_q": 996.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 4995.0,
+        "url": "https://www.max.com.gt/dji-osmo-action-cam-nano-dji-djiosmonano"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 4995.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 39.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:27:52-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-PK0445",
+    "tienda": "Max",
+    "nombre": "Audífonos OTL Infantiles Alámbricos Pokeball (Rojo)",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.max.com.gt/audifonos-otl-infantiles-alambricos-pokeball-rojo-wit-pk0445",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/P/K/PK0445_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 199.0,
+    "precio_referencia": 295.0,
+    "precio_antes_tienda": 295.0,
+    "descuento_real": 0.3254,
+    "ahorro_q": 96.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 295.0,
+        "url": "https://www.tecnofacil.com.gt/audifonos-otl-infantiles-alambricos-pokeball-rojo-wit-pk0445"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 295.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 34.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:28:28-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103443102",
+    "tienda": "Cemaco",
+    "nombre": "Cafetera con Jarra de Vidrio para 12 Tazas Color Negro",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.cemaco.com/cafetera-de-12-tazas-con-jarra-de-vidrio-black-decker-1059833/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/459234/1059833_1.jpg?v=639090946864170000",
+    "moneda": "GTQ",
+    "precio_actual": 194.99,
+    "precio_referencia": 289.0,
+    "precio_antes_tienda": 269.99,
+    "descuento_real": 0.3253,
+    "ahorro_q": 94.01,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 289.0,
+        "url": "https://www.tecnofacil.com.gt/black-decker-cm0916b-cafetera-de-12-tazas-filtro-permanente-color-negro"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 289.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 34.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2026-11-02T06:00:00Z",
+    "visto_en": "2026-10-28T00:25:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -76,7 +1201,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:57-06:00",
+    "visto_en": "2026-10-28T00:26:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -116,7 +1241,127 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:36-06:00",
+    "visto_en": "2026-10-28T00:27:06-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-HP530",
+    "tienda": "Max",
+    "nombre": "Impresora HP 530 Multifuncional WiFi Smart Tank Todo en Uno",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://www.max.com.gt/impresora-hp-530-multifuncional-wifi-smart-tank-todo-en-uno-hp-hp530",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/4/s/4sb24a_02imagenprincipalsintexto_b_.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 2199.0,
+    "precio_referencia": 2795.0,
+    "precio_antes_tienda": 2795.0,
+    "descuento_real": 0.2132,
+    "ahorro_q": 596.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 2795.0,
+        "url": "https://www.tecnofacil.com.gt/impresora-hp-530-multifuncional-wifi-smart-tank-todo-en-uno-hp-hp530"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 2795.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 33.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:26:30-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-AS8821",
+    "tienda": "Max",
+    "nombre": "Cepillo de Aire Remington con Terapia de Keratina Avanzada",
+    "categoria": "📦 Otros",
+    "url": "https://www.max.com.gt/cepillo-de-aire-remington-con-terapia-de-keratina-avanzada-remington-as8821",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/a/s/as8821_02.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 496.0,
+    "precio_referencia": 699.0,
+    "precio_antes_tienda": 795.0,
+    "descuento_real": 0.2904,
+    "ahorro_q": 203.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 699.0,
+        "url": "https://www.tecnofacil.com.gt/cepillo-de-aire-remington-con-terapia-de-keratina-avanzada-remington-as8821"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 699.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 33.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:25:29-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "tecnofacil-BM2800",
+    "tienda": "Tecnofácil",
+    "nombre": "Maquina de coser mecánica de 27 puntadas, color blanco con amarillo.",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.tecnofacil.com.gt/maquina-de-coser-mecanica-de-27-puntadas-color-blanco-con-amarillo",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/B/M/BM2800_1_26082025122027.png",
+    "moneda": "GTQ",
+    "precio_actual": 1699.0,
+    "precio_referencia": 2195.0,
+    "precio_antes_tienda": 2195.0,
+    "descuento_real": 0.226,
+    "ahorro_q": 496.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 2195.0,
+        "url": "https://www.max.com.gt/maquina-de-coser-mecanica-de-27-puntadas-color-blanco-con-amarillo-brother-bm2800"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 2195.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 32.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:32:05-06:00",
     "alerta_nueva": true
   },
   {
@@ -156,7 +1401,52 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:05-06:00",
+    "visto_en": "2026-10-28T00:26:35-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "siman-7033226",
+    "tienda": "Simán",
+    "nombre": "Audifonos cableados in ear Skullcandy JIB",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://gt.siman.com/audifonos-jib-con-microfono-tipo-1-azul-103695560/p",
+    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5979974/101321985_100.jpg?v=638574602221970000",
+    "moneda": "GTQ",
+    "precio_actual": 69.0,
+    "precio_referencia": 99.0,
+    "precio_antes_tienda": 99.0,
+    "descuento_real": 0.303,
+    "ahorro_q": 30.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 99.0,
+        "url": "https://www.tecnofacil.com.gt/audifono-skullcandy-in-ear-jib-black-black-black-con-microfono"
+      },
+      {
+        "tienda": "Max",
+        "precio": 99.0,
+        "url": "https://www.max.com.gt/audifonos-skullcandy-jib-in-ear-con-microfono-y-alambricos-negro"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 99.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 30.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T06:23:54Z",
+    "visto_en": "2026-10-28T00:25:29-06:00",
     "alerta_nueva": true
   },
   {
@@ -196,7 +1486,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-22T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:53-06:00",
+    "visto_en": "2026-10-28T00:27:30-06:00",
     "alerta_nueva": true
   },
   {
@@ -236,7 +1526,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:18-06:00",
+    "visto_en": "2026-10-28T00:25:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -276,7 +1566,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:18-06:00",
+    "visto_en": "2026-10-28T00:25:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -316,7 +1606,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:21-06:00",
+    "visto_en": "2026-10-28T00:26:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -356,7 +1646,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:52:57-06:00",
+    "visto_en": "2026-10-28T00:25:30-06:00",
     "alerta_nueva": true
   },
   {
@@ -396,7 +1686,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:29-06:00",
+    "visto_en": "2026-10-28T00:26:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -436,7 +1726,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:40-06:00",
+    "visto_en": "2026-10-28T00:26:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -476,7 +1766,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:41-06:00",
+    "visto_en": "2026-10-28T00:26:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -515,8 +1805,48 @@
     "puntaje": 27.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T05:52:59Z",
-    "visto_en": "2026-10-27T23:52:59-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T00:25:32-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-6531",
+    "tienda": "Cemaco",
+    "nombre": "Microondas Inverter de 1.5 Pies³ con EasyClean Color Negro",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.cemaco.com/microondas-lg-15-pies-inverter-negro-981331/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/308699/981331_1.jpg?v=638439194501200000",
+    "moneda": "GTQ",
+    "precio_actual": 1349.0,
+    "precio_referencia": 1696.0,
+    "precio_antes_tienda": 1569.0,
+    "descuento_real": 0.2046,
+    "ahorro_q": 347.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 1696.0,
+        "url": "https://www.max.com.gt/horno-microondas-de-1-5-cubicos-de-capacidad-color-negro-acabado-espejo"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 1696.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 27.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2026-11-02T06:00:00Z",
+    "visto_en": "2026-10-28T00:25:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -555,8 +1885,8 @@
     "puntaje": 27.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:52-06:00",
+    "fin_oferta": "2027-10-28T06:23:42Z",
+    "visto_en": "2026-10-28T00:27:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -596,7 +1926,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:54-06:00",
+    "visto_en": "2026-10-28T00:27:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -636,7 +1966,87 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:29-06:00",
+    "visto_en": "2026-10-28T00:26:00-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103464213",
+    "tienda": "Cemaco",
+    "nombre": "Cafetera de 5 Tazas con Filtro Permanente y Jarra de Vidrio Color Negro",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.cemaco.com/cafetera-negra-5-tazas-black-decker-1092899/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/605337/1092899_1.jpg?v=638824240089370000",
+    "moneda": "GTQ",
+    "precio_actual": 199.99,
+    "precio_referencia": 269.0,
+    "precio_antes_tienda": 249.99,
+    "descuento_real": 0.2565,
+    "ahorro_q": 69.01,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 269.0,
+        "url": "https://www.tecnofacil.com.gt/cafetera-de-5-tazas-color-negro"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 269.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 27.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2026-11-02T06:00:00Z",
+    "visto_en": "2026-10-28T00:25:24-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103444296",
+    "tienda": "Cemaco",
+    "nombre": "Licuadora Fusion Blade con Jarra de Vidrio 650 W con 12 Velocidades Color Gris",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.cemaco.com/licuadora-fusion-blade-12-velocidades-black-decker-1042227/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/2889375/1042227_1.jpg?v=639220835994230000",
+    "moneda": "GTQ",
+    "precio_actual": 399.99,
+    "precio_referencia": 529.0,
+    "precio_antes_tienda": 499.99,
+    "descuento_real": 0.2439,
+    "ahorro_q": 129.01,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 529.0,
+        "url": "https://www.tecnofacil.com.gt/licuadora-fusion-blade-black-decker-bl1120sg-12-velocidades"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 529.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 27.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2026-11-02T06:00:00Z",
+    "visto_en": "2026-10-28T00:25:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -676,7 +2086,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-18T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:19-06:00",
+    "visto_en": "2026-10-28T00:25:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -715,8 +2125,8 @@
     "puntaje": 26.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T05:53:11Z",
-    "visto_en": "2026-10-27T23:55:06-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T00:27:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -756,7 +2166,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:03-06:00",
+    "visto_en": "2026-10-28T00:26:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -796,7 +2206,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:41-06:00",
+    "visto_en": "2026-10-28T00:26:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -836,7 +2246,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:27-06:00",
+    "visto_en": "2026-10-28T00:25:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -876,7 +2286,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:25-06:00",
+    "visto_en": "2026-10-28T00:25:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -916,7 +2326,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:51-06:00",
+    "visto_en": "2026-10-28T00:27:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -956,7 +2366,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:02-06:00",
+    "visto_en": "2026-10-28T00:25:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -995,8 +2405,8 @@
     "puntaje": 25.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T05:52:59Z",
-    "visto_en": "2026-10-27T23:52:59-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T00:25:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -1036,7 +2446,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:02-06:00",
+    "visto_en": "2026-10-28T00:25:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -1076,7 +2486,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:09-06:00",
+    "visto_en": "2026-10-28T00:26:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -1115,8 +2525,8 @@
     "puntaje": 24.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:10-06:00",
+    "fin_oferta": "2027-10-28T06:26:45Z",
+    "visto_en": "2026-10-28T00:26:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -1156,7 +2566,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:19-06:00",
+    "visto_en": "2026-10-28T00:25:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -1196,7 +2606,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:59-06:00",
+    "visto_en": "2026-10-28T00:26:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -1236,7 +2646,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:49-06:00",
+    "visto_en": "2026-10-28T00:26:19-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "tecnofacil-EBU2510XU",
+    "tienda": "Tecnofácil",
+    "nombre": "Samsung Power Bank Carga Inalámbrica 10,000mAh, 25W (Blanco)",
+    "categoria": "📱 Celulares y tablets",
+    "url": "https://www.tecnofacil.com.gt/samsung-power-bank-carga-inalambrica-10-000mah-25w-blanco-samsung-ebu2510xu",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/E/B/EBU2510XU_1.png",
+    "moneda": "GTQ",
+    "precio_actual": 347.0,
+    "precio_referencia": 445.0,
+    "precio_antes_tienda": 445.0,
+    "descuento_real": 0.2202,
+    "ahorro_q": 98.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 445.0,
+        "url": "https://www.max.com.gt/samsung-power-bank-carga-inalambrica-10-000mah-25w-blanco-samsung-ebu2510xu"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 445.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 24.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:26:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -1276,7 +2726,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:05-06:00",
+    "visto_en": "2026-10-28T00:25:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -1315,8 +2765,8 @@
     "puntaje": 23.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:56-06:00",
+    "fin_oferta": "2027-10-28T06:23:16Z",
+    "visto_en": "2026-10-28T00:26:26-06:00",
     "alerta_nueva": true
   },
   {
@@ -1356,7 +2806,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:55:06-06:00",
+    "visto_en": "2026-10-28T00:27:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -1396,7 +2846,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:27-06:00",
+    "visto_en": "2026-10-28T00:25:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -1435,8 +2885,8 @@
     "puntaje": 23.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T05:53:38Z",
-    "visto_en": "2026-10-27T23:53:38-06:00",
+    "fin_oferta": "2027-10-28T06:25:41Z",
+    "visto_en": "2026-10-28T00:26:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -1476,7 +2926,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:38-06:00",
+    "visto_en": "2026-10-28T00:26:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -1516,7 +2966,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-22T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:42-06:00",
+    "visto_en": "2026-10-28T00:26:12-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-5805",
+    "tienda": "Cemaco",
+    "nombre": "Licuadora Cyclone con Jarra de Vidrio de 1.5 L 1000 W Color Negro",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.cemaco.com/licuadora-de-vidrio-1000w-2-vel-black-decker-1013485/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/353716/1013485_1.jpg?v=639153416556270000",
+    "moneda": "GTQ",
+    "precio_actual": 639.99,
+    "precio_referencia": 799.0,
+    "precio_antes_tienda": 799.99,
+    "descuento_real": 0.199,
+    "ahorro_q": 159.01,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 799.0,
+        "url": "https://www.tecnofacil.com.gt/black-decker-bl1670s-licuadora-cyclone-2-velocidades-black-decker-bl1670s"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 799.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 23.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2026-11-02T06:00:00Z",
+    "visto_en": "2026-10-28T00:25:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -1556,7 +3046,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:03-06:00",
+    "visto_en": "2026-10-28T00:25:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -1596,7 +3086,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:36-06:00",
+    "visto_en": "2026-10-28T00:27:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -1636,7 +3126,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:57-06:00",
+    "visto_en": "2026-10-28T00:26:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -1675,8 +3165,8 @@
     "puntaje": 22.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T05:53:57Z",
-    "visto_en": "2026-10-27T23:53:57-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T00:26:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -1715,8 +3205,8 @@
     "puntaje": 22.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:52-06:00",
+    "fin_oferta": "2027-10-28T06:27:29Z",
+    "visto_en": "2026-10-28T00:27:29-06:00",
     "alerta_nueva": true
   },
   {
@@ -1755,8 +3245,8 @@
     "puntaje": 22.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T05:53:42Z",
-    "visto_en": "2026-10-27T23:53:42-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T00:26:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -1796,7 +3286,87 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:03-06:00",
+    "visto_en": "2026-10-28T00:25:36-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-BNTHB250",
+    "tienda": "Max",
+    "nombre": "Cepillo de Aire BaByliss Nano Titanium para Secado Rápido y Voluminoso",
+    "categoria": "📦 Otros",
+    "url": "https://www.max.com.gt/cepillo-de-aire-babyliss-nano-titanium-para-secado-rapido-y-voluminoso-babylisspro-bnthb250",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/B/N/BNTHB250_1_8052025103400.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 546.0,
+    "precio_referencia": 675.0,
+    "precio_antes_tienda": 765.0,
+    "descuento_real": 0.1911,
+    "ahorro_q": 129.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 675.0,
+        "url": "https://www.tecnofacil.com.gt/cepillo-de-aire-babyliss-nano-titanium-para-secado-rapido-y-voluminoso-babylisspro-bnthb250"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 675.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:25:29-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-SC1004D",
+    "tienda": "Max",
+    "nombre": "Black+Decker, SC1004D, Olla cocimiento lento, de 3.8 litros",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.max.com.gt/black-decker-sc1004d-olla-cocimiento-lento-de-3-8-litros",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/s/c/sc1004d.png",
+    "moneda": "GTQ",
+    "precio_actual": 279.0,
+    "precio_referencia": 349.0,
+    "precio_antes_tienda": 395.0,
+    "descuento_real": 0.2006,
+    "ahorro_q": 70.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 349.0,
+        "url": "https://www.tecnofacil.com.gt/olla-cocimiento-lento-black-decker-sc1004d-3-8-litros-color-blanco"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 349.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:27:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -1835,8 +3405,8 @@
     "puntaje": 21.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T05:53:19Z",
-    "visto_en": "2026-10-27T23:53:19-06:00",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-28T00:25:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -1876,7 +3446,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:45-06:00",
+    "visto_en": "2026-10-28T00:27:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -1916,7 +3486,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:30-06:00",
+    "visto_en": "2026-10-28T00:26:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -1955,8 +3525,8 @@
     "puntaje": 20.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:53-06:00",
+    "fin_oferta": "2027-10-28T06:26:23Z",
+    "visto_en": "2026-10-28T00:26:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -1996,7 +3566,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:36-06:00",
+    "visto_en": "2026-10-28T00:27:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -2036,7 +3606,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:14-06:00",
+    "visto_en": "2026-10-28T00:25:46-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-NSW2PROCONTROL",
+    "tienda": "Max",
+    "nombre": "Control Nintendo Switch 2 Pro Controller Inalámbrico",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://www.max.com.gt/control-nintendo-switch-2-pro-controller-inalambrico-nintendo-nsw2procontrol",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/N/S/NSW2PROCONTROL_1.png",
+    "moneda": "GTQ",
+    "precio_actual": 996.0,
+    "precio_referencia": 1195.0,
+    "precio_antes_tienda": 1195.0,
+    "descuento_real": 0.1665,
+    "ahorro_q": 199.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 1195.0,
+        "url": "https://www.tecnofacil.com.gt/control-nintendo-switch-2-pro-controller-inalambrico-nintendo-nsw2procontrol"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 1195.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 20.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:28:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -2076,7 +3686,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:20-06:00",
+    "visto_en": "2026-10-28T00:25:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -2116,7 +3726,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:56-06:00",
+    "visto_en": "2026-10-28T00:27:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -2155,8 +3765,8 @@
     "puntaje": 20.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:59-06:00",
+    "fin_oferta": "2027-10-28T06:21:52Z",
+    "visto_en": "2026-10-28T00:26:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -2195,8 +3805,8 @@
     "puntaje": 20.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T05:48:12Z",
-    "visto_en": "2026-10-27T23:53:07-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T00:25:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -2236,7 +3846,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:53-06:00",
+    "visto_en": "2026-10-28T00:26:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -2275,8 +3885,8 @@
     "puntaje": 20.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:38-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T00:26:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -2316,7 +3926,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:44-06:00",
+    "visto_en": "2026-10-28T00:26:15-06:00",
     "alerta_nueva": true
   },
   {
@@ -2356,7 +3966,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:13-06:00",
+    "visto_en": "2026-10-28T00:25:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -2395,8 +4005,8 @@
     "puntaje": 20.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:44-06:00",
+    "fin_oferta": "2027-10-28T06:22:24Z",
+    "visto_en": "2026-10-28T00:26:15-06:00",
     "alerta_nueva": true
   },
   {
@@ -2435,8 +4045,8 @@
     "puntaje": 20.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:49-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T00:27:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -2476,7 +4086,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:40-06:00",
+    "visto_en": "2026-10-28T00:26:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -2516,7 +4126,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:59-06:00",
+    "visto_en": "2026-10-28T00:26:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -2556,7 +4166,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:55:05-06:00",
+    "visto_en": "2026-10-28T00:27:36-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-14105",
+    "tienda": "Max",
+    "nombre": "Plancha de vapor con suela extra glide, color gris.",
+    "categoria": "👟 Moda y zapatos",
+    "url": "https://www.max.com.gt/plancha-de-vapor-con-suela-extra-glide-color-gris",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/1/4/14105_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 199.0,
+    "precio_referencia": 245.0,
+    "precio_antes_tienda": 245.0,
+    "descuento_real": 0.1878,
+    "ahorro_q": 46.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 245.0,
+        "url": "https://www.tecnofacil.com.gt/plancha-de-vapor-con-suela-extra-glide-color-gris"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 245.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 19.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:27:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -2596,7 +4246,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:42-06:00",
+    "visto_en": "2026-10-28T00:26:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -2636,7 +4286,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:09-06:00",
+    "visto_en": "2026-10-28T00:26:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -2676,7 +4326,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:55:00-06:00",
+    "visto_en": "2026-10-28T00:27:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -2716,7 +4366,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:45-06:00",
+    "visto_en": "2026-10-28T00:27:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -2756,7 +4406,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:36-06:00",
+    "visto_en": "2026-10-28T00:27:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -2795,8 +4445,8 @@
     "puntaje": 19.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T05:44:02Z",
-    "visto_en": "2026-10-27T23:53:47-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T00:26:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -2836,7 +4486,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-19T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:39-06:00",
+    "visto_en": "2026-10-28T00:26:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -2876,7 +4526,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:07-06:00",
+    "visto_en": "2026-10-28T00:25:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -2916,7 +4566,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:59-06:00",
+    "visto_en": "2026-10-28T00:26:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -2956,7 +4606,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:55:06-06:00",
+    "visto_en": "2026-10-28T00:27:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -2996,7 +4646,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:31-06:00",
+    "visto_en": "2026-10-28T00:26:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -3036,7 +4686,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:19-06:00",
+    "visto_en": "2026-10-28T00:25:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -3076,7 +4726,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:30-06:00",
+    "visto_en": "2026-10-28T00:26:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -3116,7 +4766,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-18T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:12-06:00",
+    "visto_en": "2026-10-28T00:25:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -3155,8 +4805,8 @@
     "puntaje": 18.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:12-06:00",
+    "fin_oferta": "2027-10-28T06:25:40Z",
+    "visto_en": "2026-10-28T00:25:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -3196,7 +4846,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:55:04-06:00",
+    "visto_en": "2026-10-28T00:27:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -3236,7 +4886,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:44-06:00",
+    "visto_en": "2026-10-28T00:26:15-06:00",
     "alerta_nueva": true
   },
   {
@@ -3276,7 +4926,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:59-06:00",
+    "visto_en": "2026-10-28T00:26:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -3315,8 +4965,8 @@
     "puntaje": 17.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T05:53:06Z",
-    "visto_en": "2026-10-27T23:53:06-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-28T00:25:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -3356,7 +5006,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:30-06:00",
+    "visto_en": "2026-10-28T00:26:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -3396,7 +5046,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:30-06:00",
+    "visto_en": "2026-10-28T00:26:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -3436,7 +5086,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:39-06:00",
+    "visto_en": "2026-10-28T00:26:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -3476,7 +5126,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:27-06:00",
+    "visto_en": "2026-10-28T00:25:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -3515,8 +5165,8 @@
     "puntaje": 17.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T05:45:47Z",
-    "visto_en": "2026-10-27T23:53:13-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-28T00:25:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -3556,7 +5206,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:13-06:00",
+    "visto_en": "2026-10-28T00:25:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -3596,7 +5246,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:26-06:00",
+    "visto_en": "2026-10-28T00:25:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -3636,7 +5286,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:57-06:00",
+    "visto_en": "2026-10-28T00:27:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -3676,7 +5326,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:44-06:00",
+    "visto_en": "2026-10-28T00:26:15-06:00",
     "alerta_nueva": true
   },
   {
@@ -3716,7 +5366,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:12-06:00",
+    "visto_en": "2026-10-28T00:25:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -3756,7 +5406,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:18-06:00",
+    "visto_en": "2026-10-28T00:25:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -3796,7 +5446,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:47-06:00",
+    "visto_en": "2026-10-28T00:26:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -3836,7 +5486,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:55:06-06:00",
+    "visto_en": "2026-10-28T00:27:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -3876,7 +5526,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:14-06:00",
+    "visto_en": "2026-10-28T00:25:46-06:00",
     "alerta_nueva": true
   },
   {
@@ -3915,8 +5565,8 @@
     "puntaje": 16.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:00-06:00",
+    "fin_oferta": "2027-10-28T06:22:42Z",
+    "visto_en": "2026-10-28T00:25:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -3956,7 +5606,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:06-06:00",
+    "visto_en": "2026-10-28T00:25:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -3996,7 +5646,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:07-06:00",
+    "visto_en": "2026-10-28T00:25:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -4036,7 +5686,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:31-06:00",
+    "visto_en": "2026-10-28T00:26:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -4076,7 +5726,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:51-06:00",
+    "visto_en": "2026-10-28T00:27:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -4116,7 +5766,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:44-06:00",
+    "visto_en": "2026-10-28T00:27:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -4156,7 +5806,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:06-06:00",
+    "visto_en": "2026-10-28T00:25:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -4196,7 +5846,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:49-06:00",
+    "visto_en": "2026-10-28T00:27:19-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-WM120B",
+    "tienda": "Max",
+    "nombre": "Waflera, Black+Decker, WM120B, Planchas Antiadherentes.",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.max.com.gt/waflera-black-decker-wm120b-planchas-antiadherentes-black-decker-wm120b",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/w/m/wm120b.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 249.0,
+    "precio_referencia": 295.0,
+    "precio_antes_tienda": 295.0,
+    "descuento_real": 0.1559,
+    "ahorro_q": 46.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 295.0,
+        "url": "https://www.tecnofacil.com.gt/waflera-black-decker-wm120b-planchas-antiadherentes-black-decker-wm120b"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 295.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 16.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T00:27:54-06:00",
     "alerta_nueva": true
   },
   {
@@ -4235,8 +5925,8 @@
     "puntaje": 16.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T05:53:03Z",
-    "visto_en": "2026-10-27T23:53:04-06:00",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-28T00:25:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -4276,7 +5966,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:52:54-06:00",
+    "visto_en": "2026-10-28T00:25:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -4316,7 +6006,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:55-06:00",
+    "visto_en": "2026-10-28T00:26:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -4355,8 +6045,8 @@
     "puntaje": 16.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:03-06:00",
+    "fin_oferta": "2027-10-28T06:21:53Z",
+    "visto_en": "2026-10-28T00:26:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -4396,7 +6086,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:19-06:00",
+    "visto_en": "2026-10-28T00:25:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -4436,7 +6126,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:32-06:00",
+    "visto_en": "2026-10-28T00:26:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -4476,7 +6166,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:59-06:00",
+    "visto_en": "2026-10-28T00:27:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -4516,7 +6206,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:03-06:00",
+    "visto_en": "2026-10-28T00:26:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -4556,7 +6246,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:52:58-06:00",
+    "visto_en": "2026-10-28T00:25:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -4596,7 +6286,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:05-06:00",
+    "visto_en": "2026-10-28T00:25:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -4635,8 +6325,8 @@
     "puntaje": 16.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:05-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T00:25:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -4676,7 +6366,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:06-06:00",
+    "visto_en": "2026-10-28T00:25:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -4716,7 +6406,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:06-06:00",
+    "visto_en": "2026-10-28T00:25:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -4756,7 +6446,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:18-06:00",
+    "visto_en": "2026-10-28T00:25:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -4796,7 +6486,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:30-06:00",
+    "visto_en": "2026-10-28T00:26:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -4836,7 +6526,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:52-06:00",
+    "visto_en": "2026-10-28T00:27:29-06:00",
     "alerta_nueva": true
   },
   {
@@ -4875,8 +6565,8 @@
     "puntaje": 15.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T05:54:31Z",
-    "visto_en": "2026-10-27T23:54:31-06:00",
+    "fin_oferta": "2027-10-23T00:00:00Z",
+    "visto_en": "2026-10-28T00:27:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -4916,7 +6606,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:34-06:00",
+    "visto_en": "2026-10-28T00:27:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -4956,7 +6646,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:01-06:00",
+    "visto_en": "2026-10-28T00:25:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -4996,7 +6686,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:47-06:00",
+    "visto_en": "2026-10-28T00:27:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -5036,7 +6726,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:06-06:00",
+    "visto_en": "2026-10-28T00:25:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -5076,7 +6766,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:45-06:00",
+    "visto_en": "2026-10-28T00:26:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -5116,7 +6806,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:55:05-06:00",
+    "visto_en": "2026-10-28T00:27:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -5156,7 +6846,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:55:06-06:00",
+    "visto_en": "2026-10-28T00:27:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -5195,8 +6885,8 @@
     "puntaje": 15.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T05:52:56Z",
-    "visto_en": "2026-10-27T23:52:56-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T00:25:29-06:00",
     "alerta_nueva": true
   },
   {
@@ -5236,7 +6926,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:03-06:00",
+    "visto_en": "2026-10-28T00:25:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -5276,7 +6966,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:52:59-06:00",
+    "visto_en": "2026-10-28T00:25:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -5316,7 +7006,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:18-06:00",
+    "visto_en": "2026-10-28T00:25:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -5356,7 +7046,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:53-06:00",
+    "visto_en": "2026-10-28T00:26:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -5396,7 +7086,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-15T00:00:00Z",
-    "visto_en": "2026-10-27T23:53:54-06:00",
+    "visto_en": "2026-10-28T00:26:29-06:00",
     "alerta_nueva": true
   },
   {
@@ -5436,7 +7126,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:05-06:00",
+    "visto_en": "2026-10-28T00:26:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -5476,7 +7166,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:05-06:00",
+    "visto_en": "2026-10-28T00:26:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -5515,8 +7205,8 @@
     "puntaje": 24.5,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:06-06:00",
+    "fin_oferta": "2027-10-28T06:26:41Z",
+    "visto_en": "2026-10-28T00:26:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -5556,7 +7246,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-27T23:54:06-06:00",
+    "visto_en": "2026-10-28T00:26:41-06:00",
     "alerta_nueva": true
   }
 ]

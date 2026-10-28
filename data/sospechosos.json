@@ -1,5 +1,13 @@
 [
   {
+    "tienda": "Click",
+    "nombre": "PORTA LLAVES S-BINER KRG2-11-R3",
+    "precio": 9.0,
+    "antes": 35.0,
+    "descuento": 0.743,
+    "url": "https://www.click.gt/products/porta-llaves-s-biner-krg2-11-r3"
+  },
+  {
     "tienda": "Elektra GT",
     "nombre": "Regulador Automático de Voltaje Forza 1000VA 500W 4 Salidas AC 2 USB FVR-1011USB Negro",
     "precio": 149.0,
@@ -126,6 +134,14 @@
     "antes": 695.0,
     "descuento": 0.714,
     "url": "https://www.elektra.com.gt/audifonos-bt-klip-knh300bk-negro-30004203/p"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "MOUSE PRIMUS GAMING AHSOKA",
+    "precio": 92.25,
+    "antes": 369.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Mouse-inal%C3%A1mbrico/MOUSE-PRIMUS-GAMING-AHSOKA/p/1303000630"
   },
   {
     "tienda": "La Torre",
@@ -310,5 +326,45 @@
     "antes": 819.0,
     "descuento": 0.904,
     "url": "https://gt.siman.com/inflador-inalambrico-multiproposito-20v-104027465/p"
+  },
+  {
+    "tienda": "Tecnofácil",
+    "nombre": "Silla de comedor moderna de Polipropileno",
+    "precio": 150.0,
+    "antes": 550.0,
+    "descuento": 0.727,
+    "url": "https://www.tecnofacil.com.gt/silla-de-comedor-moderna-7d366bf0"
+  },
+  {
+    "tienda": "Novex",
+    "nombre": "Broca para encaje de bisagra escondida 35 mm",
+    "precio": 35.49,
+    "antes": 120.0,
+    "descuento": 0.704,
+    "url": "https://www.novex.com.gt/producto/169223/Broca-para-encaje-de-bisagra-escondida-35-mm.html"
+  },
+  {
+    "tienda": "Novex",
+    "nombre": "Disco de corte concreto 7 x 1/8 x 7/8 pulgadas",
+    "precio": 2.59,
+    "antes": 11.0,
+    "descuento": 0.765,
+    "url": "https://www.novex.com.gt/producto/130585/Disco-de-corte-concreto-7-x-1|8-x-7|8-pulgadas.html"
+  },
+  {
+    "tienda": "Novex",
+    "nombre": "Disco de corte metal/acero inoxidable 7 x 1/8 x 7/8 pulgadas",
+    "precio": 6.59,
+    "antes": 22.0,
+    "descuento": 0.7,
+    "url": "https://www.novex.com.gt/producto/169055/Disco-de-corte-metal|acero-inoxidable-7-x-1|8-x-7|8-pulgadas.html"
+  },
+  {
+    "tienda": "Novex",
+    "nombre": "Disco de corte concreto 7 x 1/8 x 7/8 pulgadas",
+    "precio": 3.89,
+    "antes": 13.0,
+    "descuento": 0.701,
+    "url": "https://www.novex.com.gt/producto/169062/Disco-de-corte-concreto-7-x-1|8-x-7|8-pulgadas.html"
   }
 ]
