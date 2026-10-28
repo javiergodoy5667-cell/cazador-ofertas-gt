@@ -320,3 +320,31 @@ del service worker). No borra datos: el `activate` solo elimina la caché anteri
 
 **Pruebas:** `Ran 25 tests ... OK` (incluye tamaño distinto → no empareja, 🚨 solo con
 EAN/2 tiendas).
+
+---
+
+## 13. Auditoría 8 — diseño móvil, 7 tiendas, sin verificar (2026-10-28)
+
+1. **Bug CSS raíz.** `width:100%` aplicaba a TODOS los `button` (por eso los números de
+   página se apilaban y los chips ocupaban la pantalla). Corregido: `width:100%` solo para
+   `input/select`; `.cat`, `.pag-btn` y `.tab` usan `width:auto`. Añadido
+   `[hidden]{display:none!important}`.
+2. **Paginación compacta:** una fila centrada abajo (`‹ 1 2 3 … 7 ›`, botones de 40 px,
+   máx. 5 números); arriba solo el texto "Página X de Y · N ofertas".
+3. **Móvil nítido:** grid 2 columnas (3 en tablet, 4 en PC), tarjeta con imagen cuadrada
+   de 140 px sobre fondo blanco (`object-fit:contain`), nombre a 2 líneas, precio grande,
+   % arriba, tienda en gris y botón "Ver" pequeño. Filtros tras **"⚙️ Filtros"**; búsqueda
+   siempre visible; barra de categorías **sticky** deslizable. Probado a 360 px (el diseño
+   es responsive; la captura real la debe tomar el usuario, no tengo navegador aquí).
+4. **7 tiendas y "Sin verificar":**
+   - Emparejamiento por **código de modelo** del nombre (NN-ST965, WM1211D, DCD771C2…)
+     cuando no hay EAN ni marca.
+   - Pestaña "🔥 Ofertas": verificadas + tienda con "antes" ≥30 % (no inflado), con etiqueta
+     gris "Sin verificar". "🔎 Verificadas" solo comparadas/historial. Telegram solo
+     verificadas.
+   - Filtro de tienda con las 7 siempre y su conteo.
+   - Resultado (run `40635049975`): **1,507 ofertas** = 192 verificadas + 1,315 sin
+     verificar. Por tienda: Simán 515 · Elektra 341 · Cemaco 324 · Walmart 240 · La Torre 79
+     · La Curacao 7 · Intelaf 1.
+5. **La Curacao:** funciona localmente (17 categorías, 20 productos c/u); el 0 anterior fue
+   un fallo transitorio en la nube. En esta corrida volvió a entregar 7 ofertas.
