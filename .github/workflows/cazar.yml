@@ -35,7 +35,7 @@ jobs:
           python-version: "3.12"
 
       - name: Pruebas obligatorias (si fallan, no se publica)
-        run: python -m unittest pruebas.test_motor
+        run: python -m unittest pruebas.test_motor pruebas.test_recolectores_nuevos
 
       - name: Recolectar, historial y puntaje
         run: python -m motor.pipeline

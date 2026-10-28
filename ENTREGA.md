@@ -435,3 +435,19 @@ y las demás tiendas necesitan acumular historial de ≥7 días. Lo dejo como si
    (403), Spirit y Click: sin API pública usable desde GitHub Actions. **No se pudo
    sumar ninguna sin navegador**; queda documentado en
    `scripts/probar_tiendas_nuevas.py` y `probar_tiendas_deep.py`.
+
+---
+
+## 16. Tiendas nuevas agregadas por Linderman (2026-10-28)
+
+| Tienda | Cómo se lee | Prueba local | Límite por reglas de la tienda |
+|---|---|---|---|
+| Max | `__NEXT_DATA__` de cada categoría final (precio, precio oferta, EAN) | 412 productos en 45 s, 246 con descuento | robots.txt prohíbe `?` → solo página 1 de cada categoría; rota por hora |
+| Tecnofácil | misma plataforma que Max (`_unicomer.py`) | 94 productos en 25 s | igual que Max |
+| Click | Shopify `/products.json` | 1,697 productos en 8 s | ninguno |
+| Novex | tarjetas HTML de categorías finales (precio + "Antes") | 122 productos en 60 s | robots.txt `Crawl-delay: 30` → 1 página cada 30 s (~14 por corrida), prioridad herramientas/eléctrico/electrodomésticos/automotriz |
+| Office Depot | HTML Hybris, `pageSize=100` (precio normal y con descuento) | 2,583 productos en 50 s, 277 con descuento | ninguno |
+
+- No agregadas: **El Gallo más Gallo** (robots.txt prohíbe `?`, sin sitemap), **Pacifiko** (bloquea IP de GitHub), **PriceSmart** (precios de socio), **EPA** (no responde), **Kemik** (403).
+- Pruebas sin red: `pruebas/test_recolectores_nuevos.py` (precio, "antes", EAN, rechazo de moneda ≠ GTQ). El workflow las corre antes del pipeline.
+- `config/categorias.yml`: "tv-y-video/pantallas" caía en Supermercado (por "pan") → agregadas claves de TV y de herramientas eléctricas (barreno, atornillador, esmeriladora, compresor…).

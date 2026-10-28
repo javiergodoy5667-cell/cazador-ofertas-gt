@@ -96,7 +96,8 @@ function contarPorCategoria() {
 }
 
 const TIENDAS = ["Walmart GT", "La Torre", "Cemaco", "Elektra GT", "Simán",
-                 "Intelaf", "La Curacao"];
+                 "Intelaf", "La Curacao", "Max", "Tecnofácil", "Click", "Novex",
+                 "Office Depot"];
 
 function poblarFiltros() {
   const porTienda = {};
