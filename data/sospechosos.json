@@ -105,14 +105,6 @@
   },
   {
     "tienda": "Elektra GT",
-    "nombre": "Cover Samsung S25 Ultra Colores Varios",
-    "precio": 99.0,
-    "antes": 478.0,
-    "descuento": 0.793,
-    "url": "https://www.elektra.com.gt/cover-samsung-s25-ultra-32011341/p"
-  },
-  {
-    "tienda": "Elektra GT",
     "nombre": "Sartén Picca Turín 18 cm PI0022ST",
     "precio": 49.0,
     "antes": 209.0,
@@ -166,6 +158,14 @@
     "antes": 79.0,
     "descuento": 0.75,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/STATIONERY-CAVALIER-KIDS-SET/p/1218000438"
+  },
+  {
+    "tienda": "La Torre",
+    "nombre": "Solomito Toledo Bandeja Peso Máximo 3.20Lb.",
+    "precio": 28.58,
+    "antes": 98.05,
+    "descuento": 0.709,
+    "url": "https://www.latorre.com.gt/solomito-toledo-bandeja-peso-maximo-3-20lb--92311/p"
   },
   {
     "tienda": "Cemaco",
@@ -294,14 +294,6 @@
     "antes": 269.99,
     "descuento": 0.8,
     "url": "https://www.cemaco.com/qmazo-de-12-lbs-663516b/p"
-  },
-  {
-    "tienda": "La Torre",
-    "nombre": "Solomito Toledo Bandeja Peso Máximo 3.20Lb.",
-    "precio": 28.58,
-    "antes": 98.05,
-    "descuento": 0.709,
-    "url": "https://www.latorre.com.gt/solomito-toledo-bandeja-peso-maximo-3-20lb--92311/p"
   },
   {
     "tienda": "EPA",
@@ -1886,13 +1878,5 @@
     "antes": 550.0,
     "descuento": 0.727,
     "url": "https://www.tecnofacil.com.gt/silla-de-comedor-moderna-7d366bf0"
-  },
-  {
-    "tienda": "Max",
-    "nombre": "Silla de comedor moderna de Polipropileno",
-    "precio": 150.0,
-    "antes": 550.0,
-    "descuento": 0.727,
-    "url": "https://www.max.com.gt/silla-de-comedor-moderna-7d366bf0"
   }
 ]
