@@ -1,65 +1,64 @@
 {
-  "ultima_corrida": "2026-10-27T22:59:58-06:00",
-  "duracion_seg": 242.7,
-  "productos_leidos": 25667,
+  "ultima_corrida": "2026-10-27T23:19:09-06:00",
+  "duracion_seg": 249.4,
+  "productos_leidos": 24933,
   "dias_historial": 1,
   "con_ean": {
-    "Elektra GT": 740,
-    "La Torre": 5637,
-    "Cemaco": 2860,
-    "Walmart GT": 6029,
-    "Simán": 2430
+    "Elektra GT": 676,
+    "La Torre": 5626,
+    "Cemaco": 2792,
+    "Walmart GT": 5961,
+    "Simán": 2357
   },
-  "coincidencias": 2812,
-  "antes_inflado": 459,
+  "coincidencias": 2651,
+  "antes_inflado": 410,
   "inflado_ejemplos": [
     {
-      "nombre": "Estufa de Gas Samsung de 30 Pulgadas NX52D3000MV/AX",
+      "nombre": "Ventilador de Pared Navia M018P",
       "tienda": "Elektra GT",
-      "antes": 4799.0,
-      "precio": 2999.0,
-      "max_otro": 2998.0,
-      "url": "https://www.elektra.com.gt/estufa-de-gas-samsung-de-30-pulgadas-6003911/p"
+      "antes": 599.0,
+      "precio": 499.0,
+      "max_otro": 499.99,
+      "url": "https://www.elektra.com.gt/ventilador-de-pared-navia-m018p-12003124/p"
     },
     {
-      "nombre": "Estufa de Gas Mabe 30 Pulgadas 6 Quemadores EM7622BAPS2",
+      "nombre": "Set de 3 Sartenes Picca Gravina con Recubrimiento de Mármol ",
       "tienda": "Elektra GT",
-      "antes": 4949.0,
-      "precio": 2599.0,
-      "max_otro": 699.0,
-      "url": "https://www.elektra.com.gt/estufa-de-gas-mabe-de-30-pulgadas-em7622baps2-6003685/p"
+      "antes": 499.0,
+      "precio": 339.0,
+      "max_otro": 309.99,
+      "url": "https://www.elektra.com.gt/juego-de-sarten-picca-de-3-piezas-pi003ssmu-c-10004534/p"
     },
     {
-      "nombre": "Estufa de Gas de 30 Pulgadas Whirlpool LWFR3000S",
-      "tienda": "Elektra GT",
-      "antes": 3799.0,
-      "precio": 2999.0,
-      "max_otro": 2898.0,
-      "url": "https://www.elektra.com.gt/estufa-de-gas-de-30-pulgadas-6003942/p"
+      "nombre": "Garbanzos Killios Lata",
+      "tienda": "La Torre",
+      "antes": 13.65,
+      "precio": 13.65,
+      "max_otro": 11.65,
+      "url": "https://www.latorre.com.gt/garbanzos-killios-lata-116708/p"
     },
     {
-      "nombre": "Refrigeradora Frigidaire 15 Pies Side by Side Panel de Contr",
-      "tienda": "Elektra GT",
-      "antes": 6999.0,
-      "precio": 4995.0,
-      "max_otro": 5498.0,
-      "url": "https://www.elektra.com.gt/refrigeradora-side-by-side-frigidaire-de-15-pies-frsa15k2hvg-7004432/p"
+      "nombre": "Maíz Dulce Grano Killios",
+      "tienda": "La Torre",
+      "antes": 9.3,
+      "precio": 9.3,
+      "max_otro": 7.5,
+      "url": "https://www.latorre.com.gt/maiz-dulce-grano-killios-39192/p"
     },
     {
-      "nombre": "Estufa de Gas Mabe 30 Pulgadas 6 Quemadores Black Slate Horn",
-      "tienda": "Elektra GT",
-      "antes": 4999.0,
-      "precio": 3795.0,
-      "max_otro": 699.0,
-      "url": "https://www.elektra.com.gt/estufa-a-gas-mabe-emh7602jbs0-6004031/p"
+      "nombre": "Salsa Verde Herdez",
+      "tienda": "La Torre",
+      "antes": 21.0,
+      "precio": 21.0,
+      "max_otro": 17.5,
+      "url": "https://www.latorre.com.gt/salsa-verde-herdez-8166/p"
     }
   ],
   "ofertas_por_nivel": {
-    "loca": 22,
-    "error": 10,
-    "muy_buena": 31,
-    "buena": 118,
-    "agotado": 11
+    "loca": 1,
+    "muy_buena": 25,
+    "buena": 108,
+    "agotado": 8
   },
   "fuentes": {
     "recolectores.elektra": {
@@ -79,7 +78,7 @@
       "estado": "OK"
     },
     "recolectores.walmart": {
-      "productos": 6029,
+      "productos": 6028,
       "estado": "OK"
     },
     "recolectores.siman": {
@@ -87,7 +86,7 @@
       "estado": "OK"
     },
     "recolectores.intelaf": {
-      "productos": 238,
+      "productos": 39,
       "estado": "OK"
     }
   },
