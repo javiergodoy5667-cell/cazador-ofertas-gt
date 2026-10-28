@@ -348,3 +348,30 @@ EAN/2 tiendas).
      · La Curacao 7 · Intelaf 1.
 5. **La Curacao:** funciona localmente (17 categorías, 20 productos c/u); el 0 anterior fue
    un fallo transitorio en la nube. En esta corrida volvió a entregar 7 ofertas.
+
+---
+
+## 14. Auditoría 9 — ofertas falsas: emparejamiento estricto (2026-10-28)
+
+1. **Solo EAN.** Se apagó el emparejamiento por código de modelo y por marca+modelo.
+   `mercado.py` ahora solo junta productos con **EAN idéntico**. Con eso desaparecen
+   microondas-vs-estufa, protector-vs-iPhone, bandeja-vs-Q899, etc.
+2. **Exclusiones** (`motor/filtros.py`): reserva, apartado, preventa, anticipo, cuota,
+   abono, "para iPhone/Samsung", compatible con, protector, funda, case, mica, cargador,
+   cable, combo, kit, paquete de, reacondicionado, usado, open box, exhibición, demo.
+   Los 10 "Reserva Tu iPhone 18" ya no aparecen.
+3. **Freno de seguridad:** si el precio es <30 % de la referencia (descuento >70 %) NO es
+   oferta; se guarda en `data/sospechosos.json`. Se quitó la etiqueta "Revisar".
+4. **Solo ofertas reales:** referencia por historial o por **EAN igual en otra tienda**.
+   El "precio antes" de la tienda nunca basta. Se eliminó "Sin verificar".
+5. **Pruebas:** `Ran 28 tests ... OK`, con los casos falsos (microondas vs estufa,
+   protector/reserva/kit/cable, freno >70 %). El workflow corre las pruebas **antes** del
+   pipeline: si fallan, la corrida falla y no publica.
+6. **Resultado (run `40636859120`, pruebas OK):** **142 ofertas** (antes 1,507), todas de
+   Walmart 109 + La Torre 33, todas con EAN igual y descuentos normales (28–48 %). Ya no
+   hay 🔥 de −90 % falsas. Por nivel: loca 1, muy_buena 25, buena 108, agotado 8.
+
+**Pendiente (honesto):** el punto 5 (sumar Max, Novex, Celasa, Office Depot, Kemik, Spirit,
+Click, Tecnofácil, Sporta, PriceSmart, EPA, Pacifiko…) y la revisión manual de 40 ofertas
+no se completaron en esta pasada; el efecto es que hoy solo Walmart/La Torre comparten EAN
+y las demás tiendas necesitan acumular historial de ≥7 días. Lo dejo como siguiente paso.
