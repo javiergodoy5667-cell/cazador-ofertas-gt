@@ -25,25 +25,30 @@
   </div>
 
   <section class="controles">
-    <input id="busqueda" type="search" placeholder="Buscar producto…" aria-label="Buscar">
-    <div class="fila">
-      <select id="nivel" aria-label="Nivel mínimo"></select>
-      <select id="tienda" aria-label="Tienda"></select>
-      <select id="orden" aria-label="Orden"></select>
+    <div class="busqueda-fila">
+      <input id="busqueda" type="search" placeholder="Buscar producto…" aria-label="Buscar">
+      <button id="btn_filtros" class="btn-filtros" type="button">⚙️ Filtros</button>
     </div>
-    <div class="fila">
-      <label class="check"><input type="checkbox" id="online"> Solo pagar en línea</label>
-      <label class="check"><input type="checkbox" id="tienda_fisica"> Solo ir a tienda</label>
-    </div>
-    <div class="fila rango">
-      <input id="precio_min" type="number" inputmode="numeric" placeholder="Q mín">
-      <input id="precio_max" type="number" inputmode="numeric" placeholder="Q máx">
+    <div id="filtros" class="filtros" hidden>
+      <div class="fila">
+        <select id="nivel" aria-label="Nivel mínimo"></select>
+        <select id="tienda" aria-label="Tienda"></select>
+        <select id="orden" aria-label="Orden"></select>
+      </div>
+      <div class="fila">
+        <label class="check"><input type="checkbox" id="online"> Solo pagar en línea</label>
+        <label class="check"><input type="checkbox" id="tienda_fisica"> Solo ir a tienda</label>
+      </div>
+      <div class="fila rango">
+        <input id="precio_min" type="number" inputmode="numeric" placeholder="Q mín">
+        <input id="precio_max" type="number" inputmode="numeric" placeholder="Q máx">
+      </div>
     </div>
   </section>
 
   <nav id="barra_categorias" class="barra-categorias" aria-label="Categorías"></nav>
 
-  <div id="paginacion_top" class="paginacion"></div>
+  <div id="pag_texto" class="pag-texto"></div>
   <main id="grid" class="grid"></main>
   <div id="vacio" class="vacio" hidden>No hay ofertas que coincidan con los filtros.</div>
   <div id="paginacion_bot" class="paginacion"></div>

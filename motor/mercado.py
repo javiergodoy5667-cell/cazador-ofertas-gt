@@ -26,11 +26,23 @@ def _tamano(nombre):
     return val + UNIDADES.get(m.group(2), m.group(2))
 
 
+def _codigo_modelo(nombre):
+    """Codigo de modelo del nombre (letras+digitos, 5+), ej. NN-ST965, WM1211D."""
+    for m in re.finditer(r"\b([A-Za-z]{2,}[- ]?\d{2,}[A-Za-z0-9-]*)\b", nombre or ""):
+        code = m.group(1).upper().replace("-", "").replace(" ", "")
+        if len(code) >= 5 and any(c.isdigit() for c in code) and any(c.isalpha() for c in code):
+            return code
+    return ""
+
+
 def clave(prod):
-    """Clave de emparejamiento, o None si no es fiable."""
+    """Clave de emparejamiento. Prioridad: EAN > codigo de modelo > marca+modelo+tamano."""
     ean = prod.get("ean") or ""
     if ean:
         return ("ean", ean)
+    cod = _codigo_modelo(prod.get("nombre"))
+    if cod:
+        return ("cod", cod)
     marca = _norm(prod.get("marca"))
     modelo = _norm(prod.get("modelo"))
     tam = _tamano(prod.get("nombre"))

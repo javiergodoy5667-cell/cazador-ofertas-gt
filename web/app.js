@@ -5,7 +5,15 @@ const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g,
   (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
-const ORDEN_NIVEL = { error: 0, loca: 1, muy_buena: 2, buena: 3, agotado: 9 };
+const ORDEN_NIVEL = { error: 0, loca: 1, muy_buena: 2, buena: 3, sin_verificar: 4, agotado: 9 };
+const NIVEL_INFO = {
+  error: { e: "🚨", t: "ERROR DE PRECIO" },
+  loca: { e: "🔥", t: "LOCA" },
+  muy_buena: { e: "⚡", t: "MUY BUENA" },
+  buena: { e: "✅", t: "BUENA" },
+  sin_verificar: { e: "🏷️", t: "Sin verificar" },
+  agotado: { e: "·", t: "agotado" }
+};
 const TOP_POR_CATEGORIA = 5;
 const POR_PAGINA = 24;
 
@@ -29,7 +37,7 @@ function desdeResumen(r) {
     id: r.i, nombre: r.n, precio_actual: r.p, descuento_real: r.d,
     nivel: r.lv, tienda: r.t, categoria: r.c, imagen: r.img, url: r.u,
     mercado: r.m || [], fuente_referencia: r.f, antes_inflado: r.ai,
-    revisar: r.rev, precio_referencia: r.dr
+    revisar: r.rev, precio_referencia: r.dr, verificada: r.v !== false
   };
 }
 
@@ -86,10 +94,17 @@ function contarPorCategoria() {
   return m;
 }
 
+const TIENDAS = ["Walmart GT", "La Torre", "Cemaco", "Elektra GT", "Simán",
+                 "Intelaf", "La Curacao"];
+
 function poblarFiltros() {
-  const tiendas = [...new Set(state.ofertas.map((o) => o.tienda).filter(Boolean))].sort();
+  const porTienda = {};
+  for (const o of state.ofertas) {
+    if (o.tienda) porTienda[o.tienda] = (porTienda[o.tienda] || 0) + 1;
+  }
+  const todas = [...new Set([...TIENDAS, ...Object.keys(porTienda)])];
   $("tienda").innerHTML = '<option value="">Todas las tiendas</option>' +
-    tiendas.map((t) => `<option>${esc(t)}</option>`).join("");
+    todas.map((t) => `<option value="${esc(t)}">${esc(t)} (${porTienda[t] || 0})</option>`).join("");
 
   const conteo = contarPorCategoria();
   const cats = Object.keys(conteo).sort((a, b) => conteo[b] - conteo[a]);
@@ -140,11 +155,13 @@ function renderizar() {
   $("tab_verif").classList.toggle("activa", state.tab === "verificadas");
   $("barra_categorias").hidden = state.tab !== "ofertas";
 
-  const lista = ordenar(filtradas());
+  let lista = ordenar(filtradas());
+  if (state.tab === "verificadas") {
+    lista = lista.filter((o) => o.verificada);
+  }
   if (state.categoria !== "") {
     renderPaginado(lista.filter((o) => (o.categoria || "📦 Otros") === state.categoria));
   } else {
-    // Vista "Todas": lista paginada (24 por pagina), ordenada por puntaje.
     renderPaginado(lista);
   }
 }
@@ -196,11 +213,11 @@ function renderPaginado(lista) {
   for (const o of pagina) grid.appendChild(tarjeta(o));
 
   const info = `Página ${state.pag} de ${totalPag} · ${total} ofertas`;
-  renderControles($("paginacion_top"), totalPag, info);
-  renderControles($("paginacion_bot"), totalPag, info);
+  $("pag_texto").textContent = info;      // arriba: solo texto
+  renderControles($("paginacion_bot"), totalPag);  // abajo: botones
 }
 
-function renderControles(cont, totalPag, info) {
+function renderControles(cont, totalPag) {
   cont.innerHTML = "";
   if (totalPag <= 1) { return; }
   const fila = document.createElement("div");
@@ -212,7 +229,7 @@ function renderControles(cont, totalPag, info) {
     b.addEventListener("click", () => irA(pag));
     return b;
   };
-  fila.appendChild(btn("‹ Anterior", state.pag - 1, state.pag <= 1 ? "off" : ""));
+  fila.appendChild(btn("‹", state.pag - 1, state.pag <= 1 ? "off" : ""));
 
   const nums = [];
   const start = Math.max(1, state.pag - 2);
@@ -233,12 +250,8 @@ function renderControles(cont, totalPag, info) {
       fila.appendChild(btn(String(n), n, n === state.pag ? "activo" : ""));
     }
   }
-  fila.appendChild(btn("Siguiente ›", state.pag + 1, state.pag >= totalPag ? "off" : ""));
+  fila.appendChild(btn("›", state.pag + 1, state.pag >= totalPag ? "off" : ""));
   cont.appendChild(fila);
-  const inf = document.createElement("div");
-  inf.className = "pag-info";
-  inf.textContent = info;
-  cont.appendChild(inf);
 }
 
 function irA(pag) {
@@ -295,19 +308,24 @@ function tarjeta(o) {
   const revisar = o.revisar
     ? `<div class="inflado">🔍 Revisar: precio muy bajo vs mercado</div>` : "";
 
+  const sinVerif = !o.verificada
+    ? `<div class="sin-verif">Sin verificar: precio "antes" de la tienda</div>` : "";
+  const info = NIVEL_INFO[o.nivel] || NIVEL_INFO.buena;
+
   art.innerHTML = `
     ${img}
-    <div class="badge">${esc(o.nivel_emoji || "")} ${esc(o.nivel_label || "")} · -${desc}%</div>
+    <div class="badge">${info.e} ${esc(info.t)} · -${desc}%</div>
     <div class="contenido">
       ${inflado}
       ${revisar}
+      ${sinVerif}
       <div class="nombre">${esc(o.nombre)}</div>
       <div class="precio">Q${formato(o.precio_actual)}</div>
       <div class="antes">referencia ~Q${formato(o.precio_referencia)}</div>
       <div class="meta">🏬 ${esc(o.tienda)} · ${modo}</div>
       ${compara}
       <a class="boton" href="${esc(o.url)}" target="_blank" rel="noopener"
-         onclick="event.stopPropagation()">Ver / Comprar</a>
+         onclick="event.stopPropagation()">Ver</a>
     </div>`;
   return art;
 }
@@ -384,11 +402,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
   $("barra_categorias").addEventListener("click", (e) => {
     const b = e.target.closest(".cat");
-    if (b) setCategoria(b.dataset.cat || "");
-  });
+    if (b) setCategoria(b.dataset.cat || "");  });
 
   $("tab_ofertas").addEventListener("click", () => setTab("ofertas"));
   $("tab_verif").addEventListener("click", () => setTab("verificadas"));
+
+  $("btn_filtros").addEventListener("click", () => {
+    const f = $("filtros");
+    f.hidden = !f.hidden;
+  });
 
   window.addEventListener("popstate", () => { leerURL(); poblarFiltros(); renderizar(); });
 
