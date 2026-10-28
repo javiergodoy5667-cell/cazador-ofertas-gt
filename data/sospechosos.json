@@ -97,6 +97,14 @@
   },
   {
     "tienda": "Elektra GT",
+    "nombre": "Cover Samsung S25 Ultra Colores Varios",
+    "precio": 99.0,
+    "antes": 478.0,
+    "descuento": 0.793,
+    "url": "https://www.elektra.com.gt/cover-samsung-s25-ultra-32011341/p"
+  },
+  {
+    "tienda": "Elektra GT",
     "nombre": "Cover Samsung S25 Colores Varios",
     "precio": 89.0,
     "antes": 339.0,
@@ -1734,14 +1742,6 @@
     "antes": 89.99,
     "descuento": 0.822,
     "url": "https://www.cemaco.com/tuerca-para-carro-12-mm-x-125-rh-herrero-659349/p"
-  },
-  {
-    "tienda": "Cemaco",
-    "nombre": "Set de 3 Moldes Rectangulares Antiadherentes Color Negro",
-    "precio": 89.99,
-    "antes": 299.99,
-    "descuento": 0.7,
-    "url": "https://www.cemaco.com/juego-de-3-charolas-rectangular-antiadherente-1162034/p"
   },
   {
     "tienda": "Cemaco",
