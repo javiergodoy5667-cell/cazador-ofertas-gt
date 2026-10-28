@@ -1,13 +1,13 @@
 {
-  "ultima_corrida": "2026-10-27T23:19:09-06:00",
-  "duracion_seg": 249.4,
-  "productos_leidos": 24933,
+  "ultima_corrida": "2026-10-27T23:36:47-06:00",
+  "duracion_seg": 245.9,
+  "productos_leidos": 25024,
   "dias_historial": 1,
   "con_ean": {
     "Elektra GT": 676,
     "La Torre": 5626,
     "Cemaco": 2792,
-    "Walmart GT": 5961,
+    "Walmart GT": 5963,
     "Simán": 2357
   },
   "coincidencias": 2651,
@@ -78,15 +78,15 @@
       "estado": "OK"
     },
     "recolectores.walmart": {
-      "productos": 6028,
+      "productos": 6030,
       "estado": "OK"
     },
     "recolectores.siman": {
-      "productos": 6027,
+      "productos": 6025,
       "estado": "OK"
     },
     "recolectores.intelaf": {
-      "productos": 39,
+      "productos": 152,
       "estado": "OK"
     }
   },
