@@ -4718,7 +4718,7 @@
 {"id": "epa-GT-0246001", "fecha_inicio": "2026-10-28", "precio": 485.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "epa-GT-0246000", "fecha_inicio": "2026-10-28", "precio": 485.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "epa-GT-0245190", "fecha_inicio": "2026-10-28", "precio": 879.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
-{"id": "epa-GT-0245189", "fecha_inicio": "2026-10-28", "precio": 169.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "epa-GT-0245189", "fecha_inicio": "2026-10-28", "precio": 169.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
 {"id": "epa-GT-0244057", "fecha_inicio": "2026-10-28", "precio": 8.37, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "epa-GT-0244056", "fecha_inicio": "2026-10-28", "precio": 3.55, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "epa-GT-0244055", "fecha_inicio": "2026-10-28", "precio": 8.37, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
@@ -10025,3 +10025,4 @@
 {"id": "epa-GT-0948028 / 0948029", "fecha_inicio": "2026-10-29", "precio": 1994.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "epa-GT-0948026 / 0948027", "fecha_inicio": "2026-10-29", "precio": 1198.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "epa-GT-0948034 / 0948035", "fecha_inicio": "2026-10-29", "precio": 1877.99, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "epa-GT-0245189", "fecha_inicio": "2026-10-29", "precio": 152.1, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
