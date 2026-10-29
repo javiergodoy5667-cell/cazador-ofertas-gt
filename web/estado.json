@@ -1,16 +1,16 @@
 {
-  "ultima_corrida": "2026-10-29T09:50:24-06:00",
-  "duracion_seg": 431.3,
-  "productos_leidos": 45162,
+  "ultima_corrida": "2026-10-29T10:50:48-06:00",
+  "duracion_seg": 434.1,
+  "productos_leidos": 45189,
   "dias_historial": 3,
   "con_ean": {
-    "Elektra GT": 679,
-    "La Torre": 5627,
+    "Elektra GT": 678,
+    "La Torre": 5626,
     "Walmart GT": 5933,
-    "Cemaco": 2774,
+    "Cemaco": 2631,
     "Simán": 2339,
-    "Tecnofácil": 944,
-    "Max": 1005
+    "Tecnofácil": 939,
+    "Max": 1085
   },
   "reporte_tiendas": {
     "Click": {
@@ -19,38 +19,33 @@
       "dias_historial": 1
     },
     "Elektra GT": {
-      "productos": 994,
-      "con_ean": 679,
+      "productos": 993,
+      "con_ean": 678,
       "dias_historial": 3
     },
     "Office Depot": {
-      "productos": 3537,
+      "productos": 3539,
       "con_ean": 0,
       "dias_historial": 2
-    },
-    "La Curacao": {
-      "productos": 254,
-      "con_ean": 0,
-      "dias_historial": 3
     },
     "El Gallo más Gallo": {
       "productos": 53,
       "con_ean": 0,
       "dias_historial": 2
     },
+    "La Curacao": {
+      "productos": 255,
+      "con_ean": 0,
+      "dias_historial": 3
+    },
+    "PriceSmart": {
+      "productos": 456,
+      "con_ean": 0,
+      "dias_historial": 2
+    },
     "La Torre": {
-      "productos": 5995,
-      "con_ean": 5627,
-      "dias_historial": 3
-    },
-    "Walmart GT": {
-      "productos": 5933,
-      "con_ean": 5933,
-      "dias_historial": 3
-    },
-    "Cemaco": {
-      "productos": 5871,
-      "con_ean": 2774,
+      "productos": 5994,
+      "con_ean": 5626,
       "dias_historial": 3
     },
     "EPA": {
@@ -58,13 +53,18 @@
       "con_ean": 0,
       "dias_historial": 2
     },
-    "PriceSmart": {
-      "productos": 546,
-      "con_ean": 0,
-      "dias_historial": 2
+    "Walmart GT": {
+      "productos": 5933,
+      "con_ean": 5933,
+      "dias_historial": 3
+    },
+    "Cemaco": {
+      "productos": 5839,
+      "con_ean": 2631,
+      "dias_historial": 3
     },
     "Intelaf": {
-      "productos": 81,
+      "productos": 164,
       "con_ean": 0,
       "dias_historial": 3
     },
@@ -74,23 +74,18 @@
       "dias_historial": 3
     },
     "Tecnofácil": {
-      "productos": 2436,
-      "con_ean": 944,
+      "productos": 2425,
+      "con_ean": 939,
       "dias_historial": 2
     },
     "Max": {
-      "productos": 2597,
-      "con_ean": 1005,
-      "dias_historial": 2
-    },
-    "Novex": {
-      "productos": 109,
-      "con_ean": 0,
+      "productos": 2782,
+      "con_ean": 1085,
       "dias_historial": 2
     }
   },
-  "coincidencias": 3780,
-  "antes_inflado": 1062,
+  "coincidencias": 3845,
+  "antes_inflado": 1125,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -105,7 +100,7 @@
       "tienda": "Elektra GT",
       "antes": 1799.0,
       "precio": 1599.0,
-      "max_otro": 1299.0,
+      "max_otro": 1296.0,
       "url": "https://www.elektra.com.gt/samsung-galaxy-watch-7-32011506/p"
     },
     {
@@ -134,11 +129,9 @@
     }
   ],
   "ofertas_por_nivel": {
-    "buena": 40,
-    "loca": 2,
-    "error": 1,
-    "muy_buena": 634,
-    "agotado": 9
+    "buena": 38,
+    "muy_buena": 633,
+    "agotado": 6
   },
   "fuentes": {
     "recolectores.click": {
@@ -146,23 +139,31 @@
       "estado": "OK"
     },
     "recolectores.elektra": {
-      "productos": 1070,
+      "productos": 1069,
       "estado": "OK"
     },
     "recolectores.officedepot": {
-      "productos": 3798,
-      "estado": "OK"
-    },
-    "recolectores.lacuracao": {
-      "productos": 270,
+      "productos": 3804,
       "estado": "OK"
     },
     "recolectores.elgallo": {
       "productos": 58,
       "estado": "OK"
     },
+    "recolectores.lacuracao": {
+      "productos": 271,
+      "estado": "OK"
+    },
+    "recolectores.pricesmart": {
+      "productos": 477,
+      "estado": "OK"
+    },
     "recolectores.la_torre": {
-      "productos": 6006,
+      "productos": 6005,
+      "estado": "OK"
+    },
+    "recolectores.epa": {
+      "productos": 9734,
       "estado": "OK"
     },
     "recolectores.walmart": {
@@ -170,19 +171,11 @@
       "estado": "OK"
     },
     "recolectores.cemaco": {
-      "productos": 6026,
-      "estado": "OK"
-    },
-    "recolectores.epa": {
-      "productos": 9734,
-      "estado": "OK"
-    },
-    "recolectores.pricesmart": {
-      "productos": 567,
+      "productos": 6019,
       "estado": "OK"
     },
     "recolectores.intelaf": {
-      "productos": 108,
+      "productos": 224,
       "estado": "OK"
     },
     "recolectores.siman": {
@@ -190,16 +183,16 @@
       "estado": "OK"
     },
     "recolectores.tecnofacil": {
-      "productos": 2581,
+      "productos": 2587,
       "estado": "OK"
     },
     "recolectores.max_gt": {
-      "productos": 2736,
+      "productos": 2930,
       "estado": "OK"
     },
     "recolectores.novex": {
-      "productos": 109,
-      "estado": "OK"
+      "productos": 0,
+      "estado": "ROTA"
     }
   },
   "fallos": []
