@@ -36,7 +36,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:46-06:00",
+    "visto_en": "2026-10-28T18:38:37-06:00",
     "alerta_nueva": true
   },
   {
@@ -76,7 +76,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:49-06:00",
+    "visto_en": "2026-10-28T18:38:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -116,7 +116,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:29-06:00",
+    "visto_en": "2026-10-28T18:38:14-06:00",
     "alerta_nueva": true
   },
   {
@@ -156,7 +156,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:03-06:00",
+    "visto_en": "2026-10-28T18:37:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -196,7 +196,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:28:44-06:00",
+    "visto_en": "2026-10-28T18:36:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -236,7 +236,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:28:26-06:00",
+    "visto_en": "2026-10-28T18:35:58-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "cemaco-103464663",
+    "tienda": "Cemaco",
+    "nombre": "Serie de Luces LED Smart Wi-Fi para Exterior Multicolor de 14.6 Metros",
+    "categoria": "🔌 Eléctrico",
+    "url": "https://www.cemaco.com/series-de-luces-smart-multicolor-nexxt-1093254/p",
+    "imagen": "https://cemacogt.vteximg.com.br/arquivos/ids/590288/1093254_1.jpg?v=639102675882630000",
+    "moneda": "GTQ",
+    "precio_actual": 489.0,
+    "precio_referencia": 995.0,
+    "precio_antes_tienda": 796.99,
+    "descuento_real": 0.5085,
+    "ahorro_q": 506.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 995.0,
+        "url": "https://www.max.com.gt/guirnalda-de-luces-inteligente-con-conexion-wi-fi-con-google-assistan-y-alexa-contra-agua"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 995.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 61.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-01-01T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -276,7 +316,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:12-06:00",
+    "visto_en": "2026-10-28T18:37:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -316,47 +356,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:29:51-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "max-gt-LMA74215WBAB1",
-    "tienda": "Max",
-    "nombre": "Lavadora de ropa HE de 52 libras tapa de vidrio, blanca",
-    "categoria": "🧊 Línea blanca",
-    "url": "https://www.max.com.gt/lavadora-de-ropa-he-de-52-libras-tapa-de-vidrio-blanca-mabe-lma74215wbab1",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/L/M/LMA74215WBAB1_1_13052025093038.png",
-    "moneda": "GTQ",
-    "precio_actual": 4396.0,
-    "precio_referencia": 5995.0,
-    "precio_antes_tienda": 5995.0,
-    "descuento_real": 0.2667,
-    "ahorro_q": 1599.0,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Tecnofácil",
-        "precio": 5995.0,
-        "url": "https://www.tecnofacil.com.gt/lavadora-de-ropa-he-de-52-libras-tapa-de-vidrio-blanca-mabe-lma74215wbab1"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Tecnofácil",
-      "precio": 5995.0
-    },
-    "etiqueta": "Más barato que Tecnofácil",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 56.7,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-10-28T17:29:39-06:00",
+    "visto_en": "2026-10-28T18:37:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -396,7 +396,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:12-06:00",
+    "visto_en": "2026-10-28T18:37:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -436,7 +436,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:28:18-06:00",
+    "visto_en": "2026-10-28T18:35:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -476,7 +476,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:28:40-06:00",
+    "visto_en": "2026-10-28T18:36:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -516,7 +516,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:27:22-06:00",
+    "visto_en": "2026-10-28T18:34:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -556,7 +556,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:29:52-06:00",
+    "visto_en": "2026-10-28T18:37:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -596,7 +596,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:29:03-06:00",
+    "visto_en": "2026-10-28T18:36:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -636,7 +636,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:29:52-06:00",
+    "visto_en": "2026-10-28T18:37:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -676,7 +676,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:40-06:00",
+    "visto_en": "2026-10-28T18:38:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -715,8 +715,8 @@
     "puntaje": 48.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:23-06:00",
+    "fin_oferta": "2027-10-29T00:31:21Z",
+    "visto_en": "2026-10-28T18:34:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -756,7 +756,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:27:24-06:00",
+    "visto_en": "2026-10-28T18:36:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -796,7 +796,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:29:52-06:00",
+    "visto_en": "2026-10-28T18:37:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -836,7 +836,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:27-06:00",
+    "visto_en": "2026-10-28T18:38:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -876,7 +876,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:27-06:00",
+    "visto_en": "2026-10-28T18:38:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -916,7 +916,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:01-06:00",
+    "visto_en": "2026-10-28T18:37:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -956,7 +956,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:28-06:00",
+    "visto_en": "2026-10-28T18:34:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -996,7 +996,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:29:45-06:00",
+    "visto_en": "2026-10-28T18:37:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -1036,7 +1036,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:04-06:00",
+    "visto_en": "2026-10-28T18:37:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -1076,7 +1076,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:14-06:00",
+    "visto_en": "2026-10-28T18:36:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -1116,7 +1116,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:44-06:00",
+    "visto_en": "2026-10-28T18:38:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -1156,7 +1156,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:44-06:00",
+    "visto_en": "2026-10-28T18:38:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -1196,7 +1196,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:37-06:00",
+    "visto_en": "2026-10-28T18:35:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -1236,7 +1236,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:28:42-06:00",
+    "visto_en": "2026-10-28T18:36:15-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-AS8821",
+    "tienda": "Max",
+    "nombre": "Cepillo de Aire Remington con Terapia de Keratina Avanzada",
+    "categoria": "📦 Otros",
+    "url": "https://www.max.com.gt/cepillo-de-aire-remington-con-terapia-de-keratina-avanzada-remington-as8821",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/a/s/as8821_02.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 496.0,
+    "precio_referencia": 699.0,
+    "precio_antes_tienda": 795.0,
+    "descuento_real": 0.2904,
+    "ahorro_q": 203.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 699.0,
+        "url": "https://www.tecnofacil.com.gt/cepillo-de-aire-remington-con-terapia-de-keratina-avanzada-remington-as8821"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 699.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 33.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T18:34:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -1276,7 +1316,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:31:21-06:00",
+    "visto_en": "2026-10-28T18:41:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -1315,8 +1355,8 @@
     "puntaje": 31.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:41-06:00",
+    "fin_oferta": "2027-10-29T00:36:01Z",
+    "visto_en": "2026-10-28T18:36:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -1356,7 +1396,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:39-06:00",
+    "visto_en": "2026-10-28T18:35:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -1396,7 +1436,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-22T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:38-06:00",
+    "visto_en": "2026-10-28T18:36:41-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-7697",
+    "tienda": "La Torre",
+    "nombre": "Vino Cabernet Sauvignon Undurraga",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/vino-cabernet-sauvignon-undurraga-15976/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/185996/15976-frontal.jpg?v=638295391802800000",
+    "moneda": "GTQ",
+    "precio_actual": 53.5,
+    "precio_referencia": 76.0,
+    "precio_antes_tienda": 78.1,
+    "descuento_real": 0.2961,
+    "ahorro_q": 22.5,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 76.0,
+        "url": "https://www.walmart.com.gt/vino-tinto-undurraga-cabernet-750-ml-4/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 76.0
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 30.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-22T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -1435,8 +1515,8 @@
     "puntaje": 30.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:25:19Z",
-    "visto_en": "2026-10-28T17:27:46-06:00",
+    "fin_oferta": "2027-10-29T00:31:15Z",
+    "visto_en": "2026-10-28T18:35:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -1476,7 +1556,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:46-06:00",
+    "visto_en": "2026-10-28T18:35:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -1516,7 +1596,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:57-06:00",
+    "visto_en": "2026-10-28T18:36:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -1556,7 +1636,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:22-06:00",
+    "visto_en": "2026-10-28T18:34:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -1596,7 +1676,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:46-06:00",
+    "visto_en": "2026-10-28T18:35:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -1636,7 +1716,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:38-06:00",
+    "visto_en": "2026-10-28T18:35:59-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-40533",
+    "tienda": "Walmart GT",
+    "nombre": "Vino tinto Frontera carmenere viñedo protegido por la naturaleza - 750 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/vino-concha-toro-frontera-carmener-750ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/954224/vino-tinto-frontera-carmenere-vinedo-protegido-por-la-naturaleza-750-ml-7804320135854.jpg?v=639065268277900000",
+    "moneda": "GTQ",
+    "precio_actual": 49.0,
+    "precio_referencia": 68.5,
+    "precio_antes_tienda": 49.0,
+    "descuento_real": 0.2847,
+    "ahorro_q": 19.5,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 68.5,
+        "url": "https://www.latorre.com.gt/vino-carmenere-frontera-61842/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 68.5
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 28.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-14T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:14-06:00",
     "alerta_nueva": true
   },
   {
@@ -1676,7 +1796,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:58-06:00",
+    "visto_en": "2026-10-28T18:35:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -1716,7 +1836,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:11-06:00",
+    "visto_en": "2026-10-28T18:35:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -1756,7 +1876,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:11-06:00",
+    "visto_en": "2026-10-28T18:35:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -1796,7 +1916,127 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:25-06:00",
+    "visto_en": "2026-10-28T18:34:54-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-40560",
+    "tienda": "Walmart GT",
+    "nombre": "Vino Tinto Frontera Merlot 750 Ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/vino-tinto-frontera-merlot-750-ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/954228/vino-tinto-frontera-merlot-750-ml-7804320706009.jpg?v=639065268291600000",
+    "moneda": "GTQ",
+    "precio_actual": 49.95,
+    "precio_referencia": 68.5,
+    "precio_antes_tienda": 49.95,
+    "descuento_real": 0.2708,
+    "ahorro_q": 18.55,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 68.5,
+        "url": "https://www.latorre.com.gt/vino-merlot-frontera-82147/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 68.5
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 27.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:59-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-40552",
+    "tienda": "Walmart GT",
+    "nombre": "Vino Frontera Moscato - 750 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/vino-frontera-moscato-750-ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/986737/vino-frontera-moscato-750-ml-7804320519357.jpg?v=639129268236970000",
+    "moneda": "GTQ",
+    "precio_actual": 49.95,
+    "precio_referencia": 68.5,
+    "precio_antes_tienda": 49.95,
+    "descuento_real": 0.2708,
+    "ahorro_q": 18.55,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 68.5,
+        "url": "https://www.latorre.com.gt/vino-moscato-frontera-80370/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 68.5
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 27.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:59-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-40554",
+    "tienda": "Walmart GT",
+    "nombre": "Vino Frontera Cabernet Sauvignon 750Ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/vino-frontera-cabernet-sauvignon-750ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/1021333/M-4_walmartgt_wRTdIwKGpD_40548_01.jpg?v=639195535120430000",
+    "moneda": "GTQ",
+    "precio_actual": 49.95,
+    "precio_referencia": 68.5,
+    "precio_antes_tienda": 49.95,
+    "descuento_real": 0.2708,
+    "ahorro_q": 18.55,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 68.5,
+        "url": "https://www.latorre.com.gt/vino-cabernet-sauvignon-frontera-16693/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 68.5
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 27.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:05-06:00",
     "alerta_nueva": true
   },
   {
@@ -1836,7 +2076,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T17:27:19-06:00",
+    "visto_en": "2026-10-28T18:34:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -1875,8 +2115,8 @@
     "puntaje": 27.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:32-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -1916,7 +2156,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:35-06:00",
+    "visto_en": "2026-10-28T18:36:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -1956,7 +2196,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:47-06:00",
+    "visto_en": "2026-10-28T18:37:04-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-109327",
+    "tienda": "Walmart GT",
+    "nombre": "Tequila El Jimador Reposado 700 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/tequila-el-jimador-reposado-700-ml-gt8639-4-7/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/966942/tequila-el-jimador-reposado-700-ml-7501145269107.jpg?v=639082479955670000",
+    "moneda": "GTQ",
+    "precio_actual": 129.6,
+    "precio_referencia": 175.8,
+    "precio_antes_tienda": 168.25,
+    "descuento_real": 0.2628,
+    "ahorro_q": 46.2,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 175.8,
+        "url": "https://www.latorre.com.gt/tequila-reposado-el-jimador-2084827/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 175.8
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 27.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-21T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -1995,8 +2275,8 @@
     "puntaje": 27.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:58-06:00",
+    "fin_oferta": "2027-10-29T00:28:08Z",
+    "visto_en": "2026-10-28T18:35:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -2017,11 +2297,6 @@
     "fuente_referencia": "mercado",
     "mercado": [
       {
-        "tienda": "Max",
-        "precio": 269.0,
-        "url": "https://www.max.com.gt/black-decker-cm0701b-cafetera-de-5-tazas-color-negro"
-      },
-      {
         "tienda": "Tecnofácil",
         "precio": 269.0,
         "url": "https://www.tecnofacil.com.gt/cafetera-de-5-tazas-color-negro"
@@ -2029,10 +2304,10 @@
     ],
     "antes_inflado": false,
     "mas_barato_que": {
-      "tienda": "Max",
+      "tienda": "Tecnofácil",
       "precio": 269.0
     },
-    "etiqueta": "Más barato que Max",
+    "etiqueta": "Más barato que Tecnofácil",
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
@@ -2041,7 +2316,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T17:27:16-06:00",
+    "visto_en": "2026-10-28T18:34:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -2081,7 +2356,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T17:27:22-06:00",
+    "visto_en": "2026-10-28T18:34:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -2121,7 +2396,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:14-06:00",
+    "visto_en": "2026-10-28T18:35:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -2161,7 +2436,177 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-18T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:47-06:00",
+    "visto_en": "2026-10-28T18:35:12-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-20180",
+    "tienda": "Walmart GT",
+    "nombre": "Licor Jagermeister de Hierba  - 700ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/licor-de-hierba-jagermeister-700ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/986458/licor-jagermeister-de-hierba-700-ml-4067700014559.jpg?v=639129258999200000",
+    "moneda": "GTQ",
+    "precio_actual": 260.0,
+    "precio_referencia": 346.75,
+    "precio_antes_tienda": 260.0,
+    "descuento_real": 0.2502,
+    "ahorro_q": 86.75,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 346.75,
+        "url": "https://www.latorre.com.gt/jagermeister-67029/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 346.75
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 26.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:04-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-JBLCLIP5BLK",
+    "tienda": "Max",
+    "nombre": "Bocina JBL Clip 5 Ultraportátil Resistente al Agua y Polvo (Negro)",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.max.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-negro-jbl-jblclip5blk",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/J/B/JBLCLIP5BLK_1.png",
+    "moneda": "GTQ",
+    "precio_actual": 496.0,
+    "precio_referencia": 649.0,
+    "precio_antes_tienda": 695.0,
+    "descuento_real": 0.2357,
+    "ahorro_q": 153.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 649.0,
+        "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-negro-jbl-jblclip5blk"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 649.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 26.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T18:38:35-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-JBLCLIP5BLU",
+    "tienda": "Max",
+    "nombre": "Bocina JBL Clip 5 Ultraportátil Resistente al Agua y Polvo (Azul)",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.max.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-azul-jbl-jblclip5blu",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/J/B/JBLCLIP5BLU_1.png",
+    "moneda": "GTQ",
+    "precio_actual": 496.0,
+    "precio_referencia": 649.0,
+    "precio_antes_tienda": 695.0,
+    "descuento_real": 0.2357,
+    "ahorro_q": 153.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 649.0,
+        "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-rojo-jbl-jblclip5red"
+      },
+      {
+        "tienda": "Tecnofácil",
+        "precio": 649.0,
+        "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-azul-jbl-jblclip5blu"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 649.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 26.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T18:38:35-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-JBLCLIP5RED",
+    "tienda": "Max",
+    "nombre": "Bocina JBL Clip 5 Ultraportátil Resistente al Agua y Polvo (Rojo)",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.max.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-rojo-jbl-jblclip5red",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/J/B/JBLCLIP5RED_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 496.0,
+    "precio_referencia": 649.0,
+    "precio_antes_tienda": 695.0,
+    "descuento_real": 0.2357,
+    "ahorro_q": 153.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 649.0,
+        "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-rojo-jbl-jblclip5red"
+      },
+      {
+        "tienda": "Tecnofácil",
+        "precio": 649.0,
+        "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-azul-jbl-jblclip5blu"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 649.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 26.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T18:38:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -2200,8 +2645,8 @@
     "puntaje": 26.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:28:36Z",
-    "visto_en": "2026-10-28T17:28:37-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -2241,7 +2686,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:11-06:00",
+    "visto_en": "2026-10-28T18:35:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -2281,7 +2726,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:56-06:00",
+    "visto_en": "2026-10-28T18:35:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -2321,7 +2766,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:54-06:00",
+    "visto_en": "2026-10-28T18:35:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -2360,8 +2805,8 @@
     "puntaje": 26.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:31-06:00",
+    "fin_oferta": "2027-10-29T00:34:20Z",
+    "visto_en": "2026-10-28T18:36:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -2401,7 +2846,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:26-06:00",
+    "visto_en": "2026-10-28T18:36:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -2441,7 +2886,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:28-06:00",
+    "visto_en": "2026-10-28T18:36:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -2481,7 +2926,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:28-06:00",
+    "visto_en": "2026-10-28T18:36:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -2521,7 +2966,87 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:32-06:00",
+    "visto_en": "2026-10-28T18:36:50-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-109407",
+    "tienda": "Walmart GT",
+    "nombre": "Vino Frontera Fruta Tinto d Verano 750ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/vino-frontera-fruta-tinto-d-verano-750ml-gt8830-4-2/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/1030533/M-4_walmartgt_JPOHIdCHty_4188937_4.jpg?v=639204180198930000",
+    "moneda": "GTQ",
+    "precio_actual": 45.0,
+    "precio_referencia": 60.3,
+    "precio_antes_tienda": 52.5,
+    "descuento_real": 0.2537,
+    "ahorro_q": 15.3,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 60.3,
+        "url": "https://www.latorre.com.gt/vino-tinto-de-verano-frontera-2085867/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 60.3
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 25.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:06-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-22878",
+    "tienda": "La Torre",
+    "nombre": "Vino White Malbec Trivento",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.latorre.com.gt/vino-white-malbec-trivento-2079334/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/200256/2079334-frontal.jpg?v=638936626296770000",
+    "moneda": "GTQ",
+    "precio_actual": 74.9,
+    "precio_referencia": 100.0,
+    "precio_antes_tienda": 105.5,
+    "descuento_real": 0.251,
+    "ahorro_q": 25.1,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 100.0,
+        "url": "https://www.walmart.com.gt/vino-blanco-trivento-white-malbec-750-ml-2/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 100.0
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 25.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -2561,7 +3086,87 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:25-06:00",
+    "visto_en": "2026-10-28T18:34:54-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-40538",
+    "tienda": "Walmart GT",
+    "nombre": "Vino tinto Viña Maipo varietal carmenere - 750 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/vino-vina-maipo-varietal-carmener-750-ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/684318/40532_01.jpg?v=638678923010900000",
+    "moneda": "GTQ",
+    "precio_actual": 39.95,
+    "precio_referencia": 53.45,
+    "precio_antes_tienda": 52.0,
+    "descuento_real": 0.2526,
+    "ahorro_q": 13.5,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 53.45,
+        "url": "https://www.latorre.com.gt/vino-carmenere-viña-maipo-62112/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 53.45
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 25.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:59-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-40525",
+    "tienda": "Walmart GT",
+    "nombre": "Vino Viña Maipo classic series cabernet sauvignon - 750 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/vino-maipo-varietal-cabernet-sauvignon-750ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/1049894/vino-vina-maipo-classic-series-cabernet-sauvignon-750-ml-7804320063010.jpg?v=639219999335470000",
+    "moneda": "GTQ",
+    "precio_actual": 39.95,
+    "precio_referencia": 53.45,
+    "precio_antes_tienda": 52.0,
+    "descuento_real": 0.2526,
+    "ahorro_q": 13.5,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 53.45,
+        "url": "https://www.latorre.com.gt/vino-cabernet-sauvignon-classicviña-maipo-88516/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 53.45
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 25.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2601,7 +3206,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:35-06:00",
+    "visto_en": "2026-10-28T18:35:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -2641,7 +3246,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:45-06:00",
+    "visto_en": "2026-10-28T18:37:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -2681,7 +3286,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:29-06:00",
+    "visto_en": "2026-10-28T18:34:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -2721,7 +3326,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:49-06:00",
+    "visto_en": "2026-10-28T18:36:05-06:00",
     "alerta_nueva": true
   },
   {
@@ -2761,7 +3366,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:50-06:00",
+    "visto_en": "2026-10-28T18:36:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -2801,7 +3406,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:47-06:00",
+    "visto_en": "2026-10-28T18:35:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -2841,7 +3446,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:37-06:00",
+    "visto_en": "2026-10-28T18:35:54-06:00",
     "alerta_nueva": true
   },
   {
@@ -2881,7 +3486,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:19-06:00",
+    "visto_en": "2026-10-28T18:35:43-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-40362",
+    "tienda": "Walmart GT",
+    "nombre": "Vino Tinto Los Cardos Doña Paula, Malbec - 750ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/vino-dona-paula-los-cardos-malbec-750-ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/921196/vino-tinto-los-cardos-dona-paula-malbec-750-ml-7798090160140.jpg?v=639009964122300000",
+    "moneda": "GTQ",
+    "precio_actual": 95.8,
+    "precio_referencia": 125.4,
+    "precio_antes_tienda": 127.7,
+    "descuento_real": 0.236,
+    "ahorro_q": 29.6,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 125.4,
+        "url": "https://www.latorre.com.gt/vino-malbec-los-cardo-doña-paula-77967/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 125.4
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 24.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2921,7 +3566,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:28:26-06:00",
+    "visto_en": "2026-10-28T18:35:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2960,8 +3605,8 @@
     "puntaje": 23.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:27:33Z",
-    "visto_en": "2026-10-28T17:27:33-06:00",
+    "fin_oferta": "2027-10-29T00:34:40Z",
+    "visto_en": "2026-10-28T18:35:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -3000,8 +3645,8 @@
     "puntaje": 23.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:28:28Z",
-    "visto_en": "2026-10-28T17:28:28-06:00",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -3041,7 +3686,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:47-06:00",
+    "visto_en": "2026-10-28T18:37:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -3080,8 +3725,8 @@
     "puntaje": 23.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:23:38Z",
-    "visto_en": "2026-10-28T17:27:17-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:34:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -3121,7 +3766,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:56-06:00",
+    "visto_en": "2026-10-28T18:35:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -3161,7 +3806,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:07-06:00",
+    "visto_en": "2026-10-28T18:35:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -3201,7 +3846,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:07-06:00",
+    "visto_en": "2026-10-28T18:35:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -3241,7 +3886,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-22T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:12-06:00",
+    "visto_en": "2026-10-28T18:35:37-06:00",
     "alerta_nueva": true
   },
   {
@@ -3281,7 +3926,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T17:27:15-06:00",
+    "visto_en": "2026-10-28T18:34:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -3321,7 +3966,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:30-06:00",
+    "visto_en": "2026-10-28T18:34:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -3361,7 +4006,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:46-06:00",
+    "visto_en": "2026-10-28T18:35:11-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-20100",
+    "tienda": "Walmart GT",
+    "nombre": "Vino Blanco Peter Brum, Liebfraumilch - 750ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/vino-peter-brum-liebfraulmil-blan-750ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/824850/20078_01.jpg?v=638847813062700000",
+    "moneda": "GTQ",
+    "precio_actual": 54.4,
+    "precio_referencia": 70.35,
+    "precio_antes_tienda": 70.5,
+    "descuento_real": 0.2267,
+    "ahorro_q": 15.95,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 70.35,
+        "url": "https://www.latorre.com.gt/vino-muller-thurgau-rheinhessen-noblesse-peter-brum-15933/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 70.35
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 23.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -3401,7 +4086,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:14-06:00",
+    "visto_en": "2026-10-28T18:36:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -3441,7 +4126,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:32-06:00",
+    "visto_en": "2026-10-28T18:36:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -3481,7 +4166,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:37-06:00",
+    "visto_en": "2026-10-28T18:36:40-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-8119",
+    "tienda": "La Torre",
+    "nombre": "Vino Espumante Rosso Fragolino",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/vino-espumante-rosso-fragolino-2009224/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/168550/2009224-frontal.jpg?v=637680291619830000",
+    "moneda": "GTQ",
+    "precio_actual": 59.9,
+    "precio_referencia": 77.0,
+    "precio_antes_tienda": 80.1,
+    "descuento_real": 0.2221,
+    "ahorro_q": 17.1,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 77.0,
+        "url": "https://www.walmart.com.gt/vino-espumante-fragolino-rosso-750-ml/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 77.0
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 22.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -3521,7 +4246,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:58-06:00",
+    "visto_en": "2026-10-28T18:35:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -3560,8 +4285,8 @@
     "puntaje": 22.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:26:02Z",
-    "visto_en": "2026-10-28T17:28:19-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -3601,7 +4326,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:32-06:00",
+    "visto_en": "2026-10-28T18:34:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -3640,8 +4365,8 @@
     "puntaje": 22.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:24:59Z",
-    "visto_en": "2026-10-28T17:27:36-06:00",
+    "fin_oferta": "2027-10-29T00:34:11Z",
+    "visto_en": "2026-10-28T18:35:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -3681,7 +4406,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:45-06:00",
+    "visto_en": "2026-10-28T18:35:10-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-46401",
+    "tienda": "Walmart GT",
+    "nombre": "Vino Tinto Matsu Temp Toro Picaro - 750ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/vino-tinto-matsu-temp-toro-picaro-750ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/449412/Vino-Tinto-Matsu-Temp-Toro-Picaro-750ml-1-47375.jpg?v=638415244294300000",
+    "moneda": "GTQ",
+    "precio_actual": 116.25,
+    "precio_referencia": 147.95,
+    "precio_antes_tienda": 116.25,
+    "descuento_real": 0.2143,
+    "ahorro_q": 31.7,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 147.95,
+        "url": "https://www.latorre.com.gt/vino-tempranillo-el-picaro-matsu-2063250/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 147.95
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 22.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -3721,7 +4486,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:14-06:00",
+    "visto_en": "2026-10-28T18:35:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -3761,7 +4526,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:23-06:00",
+    "visto_en": "2026-10-28T18:34:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -3801,7 +4566,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:30-06:00",
+    "visto_en": "2026-10-28T18:34:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -3840,8 +4605,8 @@
     "puntaje": 21.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:27:33Z",
-    "visto_en": "2026-10-28T17:27:33-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -3881,7 +4646,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:33-06:00",
+    "visto_en": "2026-10-28T18:35:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -3921,7 +4686,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:35-06:00",
+    "visto_en": "2026-10-28T18:35:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -3961,7 +4726,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:35-06:00",
+    "visto_en": "2026-10-28T18:35:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -4001,7 +4766,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:46-06:00",
+    "visto_en": "2026-10-28T18:35:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -4041,7 +4806,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:00-06:00",
+    "visto_en": "2026-10-28T18:35:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -4081,7 +4846,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:04-06:00",
+    "visto_en": "2026-10-28T18:41:37-06:00",
     "alerta_nueva": true
   },
   {
@@ -4121,7 +4886,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:14-06:00",
+    "visto_en": "2026-10-28T18:35:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -4160,8 +4925,8 @@
     "puntaje": 21.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:27:48Z",
-    "visto_en": "2026-10-28T17:27:48-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:15-06:00",
     "alerta_nueva": true
   },
   {
@@ -4200,8 +4965,8 @@
     "puntaje": 21.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:35-06:00",
+    "fin_oferta": "2027-10-29T00:36:52Z",
+    "visto_en": "2026-10-28T18:36:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -4241,7 +5006,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:37-06:00",
+    "visto_en": "2026-10-28T18:35:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -4281,7 +5046,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:24-06:00",
+    "visto_en": "2026-10-28T18:36:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -4321,7 +5086,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:59-06:00",
+    "visto_en": "2026-10-28T18:35:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -4360,8 +5125,8 @@
     "puntaje": 20.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:24-06:00",
+    "fin_oferta": "2027-10-29T00:35:47Z",
+    "visto_en": "2026-10-28T18:35:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -4401,7 +5166,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:29-06:00",
+    "visto_en": "2026-10-28T18:35:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -4440,8 +5205,8 @@
     "puntaje": 20.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:28:35Z",
-    "visto_en": "2026-10-28T17:28:35-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -4481,7 +5246,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:14-06:00",
+    "visto_en": "2026-10-28T18:36:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -4521,7 +5286,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:44-06:00",
+    "visto_en": "2026-10-28T18:35:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -4561,7 +5326,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:26-06:00",
+    "visto_en": "2026-10-28T18:38:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -4606,7 +5371,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T17:27:13-06:00",
+    "visto_en": "2026-10-28T18:34:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -4646,7 +5411,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:49-06:00",
+    "visto_en": "2026-10-28T18:35:14-06:00",
     "alerta_nueva": true
   },
   {
@@ -4686,7 +5451,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:40-06:00",
+    "visto_en": "2026-10-28T18:36:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -4726,7 +5491,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:24-06:00",
+    "visto_en": "2026-10-28T18:36:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -4765,8 +5530,8 @@
     "puntaje": 20.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:37-06:00",
+    "fin_oferta": "2027-10-29T00:34:20Z",
+    "visto_en": "2026-10-28T18:36:54-06:00",
     "alerta_nueva": true
   },
   {
@@ -4805,8 +5570,8 @@
     "puntaje": 20.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:36-06:00",
+    "fin_oferta": "2027-10-29T00:32:38Z",
+    "visto_en": "2026-10-28T18:35:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -4845,8 +5610,8 @@
     "puntaje": 20.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:28:24Z",
-    "visto_en": "2026-10-28T17:28:24-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -4885,8 +5650,8 @@
     "puntaje": 20.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:07-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -4925,8 +5690,48 @@
     "puntaje": 20.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:14-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:39-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-40365",
+    "tienda": "Walmart GT",
+    "nombre": "Vino Doña Paula Rojo Estate Black Edition - 750 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/vino-dona-paula-rojo-estate-black-edition-750-ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/986145/vino-dona-paula-rojo-estate-black-edition-750-ml-7798090162212.jpg?v=639129253666900000",
+    "moneda": "GTQ",
+    "precio_actual": 160.8,
+    "precio_referencia": 199.3,
+    "precio_antes_tienda": 214.4,
+    "descuento_real": 0.1932,
+    "ahorro_q": 38.5,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 199.3,
+        "url": "https://www.latorre.com.gt/vino-bold-red-blend-doña-paula-102565/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 199.3
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 20.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -4965,8 +5770,8 @@
     "puntaje": 20.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:43-06:00",
+    "fin_oferta": "2027-10-29T00:35:08Z",
+    "visto_en": "2026-10-28T18:35:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -5005,8 +5810,8 @@
     "puntaje": 20.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:28:14Z",
-    "visto_en": "2026-10-28T17:29:27-06:00",
+    "fin_oferta": "2027-10-29T00:34:34Z",
+    "visto_en": "2026-10-28T18:36:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -5046,7 +5851,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:11-06:00",
+    "visto_en": "2026-10-28T18:35:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -5086,7 +5891,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:39-06:00",
+    "visto_en": "2026-10-28T18:35:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -5125,8 +5930,8 @@
     "puntaje": 19.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:46-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-28T18:37:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -5166,7 +5971,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:41-06:00",
+    "visto_en": "2026-10-28T18:35:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -5206,7 +6011,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:29:42-06:00",
+    "visto_en": "2026-10-28T18:37:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -5246,7 +6051,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:13-06:00",
+    "visto_en": "2026-10-28T18:35:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -5286,7 +6091,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:44-06:00",
+    "visto_en": "2026-10-28T18:36:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -5325,8 +6130,48 @@
     "puntaje": 19.5,
     "disponible": true,
     "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-29T00:36:52Z",
+    "visto_en": "2026-10-28T18:36:52-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-66721",
+    "tienda": "Walmart GT",
+    "nombre": "Ron Botran Xl Gordito - 1750ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/ron-botran-xl-gordito-1750ml-2/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/1108254/M-4_walmartgt_jKOmpfEQYH_84614_01.jpg?v=639265857585730000",
+    "moneda": "GTQ",
+    "precio_actual": 92.7,
+    "precio_referencia": 114.45,
+    "precio_antes_tienda": 103.0,
+    "descuento_real": 0.19,
+    "ahorro_q": 21.75,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 114.45,
+        "url": "https://www.latorre.com.gt/botran-xl-blanco-6409/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 114.45
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 19.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:35-06:00",
+    "visto_en": "2026-10-28T18:35:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -5366,7 +6211,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:21-06:00",
+    "visto_en": "2026-10-28T18:35:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -5406,7 +6251,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:14-06:00",
+    "visto_en": "2026-10-28T18:36:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -5446,7 +6291,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:32-06:00",
+    "visto_en": "2026-10-28T18:36:50-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-122117",
+    "tienda": "Walmart GT",
+    "nombre": "Jagermeister 1750 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/jagermeister-1750-ml-gt4400-4-1/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/1087190/jagermeister-1750-ml-4067700014528.jpg?v=639248510514630000",
+    "moneda": "GTQ",
+    "precio_actual": 535.0,
+    "precio_referencia": 644.0,
+    "precio_antes_tienda": 700.0,
+    "descuento_real": 0.1693,
+    "ahorro_q": 109.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 644.0,
+        "url": "https://www.latorre.com.gt/jagermeister-licor-de-hierbas-109102/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 644.0
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 19.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -5485,8 +6370,8 @@
     "puntaje": 19.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:28:47Z",
-    "visto_en": "2026-10-28T17:29:14-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -5526,7 +6411,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:24-06:00",
+    "visto_en": "2026-10-28T18:35:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -5566,7 +6451,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-19T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:09-06:00",
+    "visto_en": "2026-10-28T18:35:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -5606,7 +6491,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:35-06:00",
+    "visto_en": "2026-10-28T18:35:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -5646,7 +6531,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:36-06:00",
+    "visto_en": "2026-10-28T18:35:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -5686,7 +6571,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:47-06:00",
+    "visto_en": "2026-10-28T18:35:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -5726,7 +6611,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:00-06:00",
+    "visto_en": "2026-10-28T18:35:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -5765,8 +6650,8 @@
     "puntaje": 18.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:47-06:00",
+    "fin_oferta": "2027-10-29T00:35:12Z",
+    "visto_en": "2026-10-28T18:35:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -5806,7 +6691,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:59-06:00",
+    "visto_en": "2026-10-28T18:35:23-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-59721",
+    "tienda": "Walmart GT",
+    "nombre": "Ron Botran Oro 5 años - 1.75 L",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/ron-botran-oro-5-anos-1-75-l/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/478210/Ron-Botran-Oro-5Anos-1-75Ml-1-62362.jpg?v=638423250777470000",
+    "moneda": "GTQ",
+    "precio_actual": 84.87,
+    "precio_referencia": 103.25,
+    "precio_antes_tienda": 94.3,
+    "descuento_real": 0.178,
+    "ahorro_q": 18.38,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 103.25,
+        "url": "https://www.latorre.com.gt/botran-oro-5-años-55166/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 103.25
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 18.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -5846,7 +6771,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:24-06:00",
+    "visto_en": "2026-10-28T18:36:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -5886,7 +6811,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-18T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:42-06:00",
+    "visto_en": "2026-10-28T18:35:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -5925,8 +6850,8 @@
     "puntaje": 18.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:42-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -5966,7 +6891,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:14-06:00",
+    "visto_en": "2026-10-28T18:36:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -6006,7 +6931,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:45-06:00",
+    "visto_en": "2026-10-28T18:37:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -6046,7 +6971,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:14-06:00",
+    "visto_en": "2026-10-28T18:35:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -6086,7 +7011,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:35-06:00",
+    "visto_en": "2026-10-28T18:35:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -6126,7 +7051,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:59-06:00",
+    "visto_en": "2026-10-28T18:35:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -6165,8 +7090,8 @@
     "puntaje": 17.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:59-06:00",
+    "fin_oferta": "2027-10-29T00:35:23Z",
+    "visto_en": "2026-10-28T18:35:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -6205,8 +7130,88 @@
     "puntaje": 17.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:28:09Z",
-    "visto_en": "2026-10-28T17:28:09-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:35-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-99396",
+    "tienda": "Walmart GT",
+    "nombre": "Vino blanco 49 millions lata - 250 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/49-millions-vino-blanco-lata-250-ml-gt3631-4-1/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/856405/99603_01.jpg?v=638895840672870000",
+    "moneda": "GTQ",
+    "precio_actual": 24.5,
+    "precio_referencia": 29.7,
+    "precio_antes_tienda": 28.8,
+    "descuento_real": 0.1751,
+    "ahorro_q": 5.2,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 29.7,
+        "url": "https://www.latorre.com.gt/cooler-blanco-49-millions-lata-2082400/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 29.7
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 17.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-05T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:07-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-99394",
+    "tienda": "Walmart GT",
+    "nombre": "Vino rosé 49 Millions lata - 250 ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/49-millions-vino-rose-lata-250-ml-gt5742-4-4/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/856385/99600_01.jpg?v=638895840539570000",
+    "moneda": "GTQ",
+    "precio_actual": 24.5,
+    "precio_referencia": 29.7,
+    "precio_antes_tienda": 28.8,
+    "descuento_real": 0.1751,
+    "ahorro_q": 5.2,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 29.7,
+        "url": "https://www.latorre.com.gt/cooler-rose-49-millions-lata-2082376/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 29.7
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 17.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-05T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -6245,8 +7250,8 @@
     "puntaje": 17.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:27:03Z",
-    "visto_en": "2026-10-28T17:29:24-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -6285,8 +7290,8 @@
     "puntaje": 17.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:28:13Z",
-    "visto_en": "2026-10-28T17:29:25-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -6326,7 +7331,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:32-06:00",
+    "visto_en": "2026-10-28T18:36:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -6365,8 +7370,8 @@
     "puntaje": 17.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:56-06:00",
+    "fin_oferta": "2027-10-29T00:35:20Z",
+    "visto_en": "2026-10-28T18:35:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -6406,7 +7411,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:24-06:00",
+    "visto_en": "2026-10-28T18:36:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -6445,8 +7450,8 @@
     "puntaje": 17.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:28:17Z",
-    "visto_en": "2026-10-28T17:29:25-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -6486,7 +7491,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-19T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:37-06:00",
+    "visto_en": "2026-10-28T18:35:54-06:00",
     "alerta_nueva": true
   },
   {
@@ -6526,7 +7531,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:43-06:00",
+    "visto_en": "2026-10-28T18:35:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -6566,7 +7571,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:43-06:00",
+    "visto_en": "2026-10-28T18:35:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -6606,7 +7611,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:56-06:00",
+    "visto_en": "2026-10-28T18:35:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -6646,7 +7651,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:38-06:00",
+    "visto_en": "2026-10-28T18:36:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -6686,7 +7691,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:19-06:00",
+    "visto_en": "2026-10-28T18:34:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -6726,7 +7731,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:42-06:00",
+    "visto_en": "2026-10-28T18:35:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -6766,7 +7771,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:47-06:00",
+    "visto_en": "2026-10-28T18:35:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -6806,7 +7811,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:47-06:00",
+    "visto_en": "2026-10-28T18:37:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -6846,7 +7851,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:37-06:00",
+    "visto_en": "2026-10-28T18:35:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -6886,7 +7891,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:27-06:00",
+    "visto_en": "2026-10-28T18:34:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -6926,7 +7931,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:35-06:00",
+    "visto_en": "2026-10-28T18:35:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -6965,8 +7970,8 @@
     "puntaje": 16.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:27:36Z",
-    "visto_en": "2026-10-28T17:27:36-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -7006,7 +8011,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:00-06:00",
+    "visto_en": "2026-10-28T18:35:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -7046,7 +8051,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:31-06:00",
+    "visto_en": "2026-10-28T18:36:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -7085,8 +8090,8 @@
     "puntaje": 16.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:29:29Z",
-    "visto_en": "2026-10-28T17:29:29-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -7125,8 +8130,48 @@
     "puntaje": 16.6,
     "disponible": true,
     "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-29T00:32:02Z",
+    "visto_en": "2026-10-28T18:35:01-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-119113",
+    "tienda": "Walmart GT",
+    "nombre": "Sir Mark Royal Whisky 700ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/sir-mark-royal-whisky-700ml-2/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/1016499/M-4_walmartgt_LhjmHhvEuc_114811_01.jpg?v=639185397424000000",
+    "moneda": "GTQ",
+    "precio_actual": 48.0,
+    "precio_referencia": 57.35,
+    "precio_antes_tienda": 57.0,
+    "descuento_real": 0.163,
+    "ahorro_q": 9.35,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 57.35,
+        "url": "https://www.latorre.com.gt/whisky-escoces-sir-mark-royal-2088180/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 57.35
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 16.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:35-06:00",
+    "visto_en": "2026-10-28T18:36:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -7166,7 +8211,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:24-06:00",
+    "visto_en": "2026-10-28T18:36:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -7206,7 +8251,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:24-06:00",
+    "visto_en": "2026-10-28T18:36:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -7245,8 +8290,8 @@
     "puntaje": 16.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:28:17Z",
-    "visto_en": "2026-10-28T17:29:25-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -7285,8 +8330,8 @@
     "puntaje": 16.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:27-06:00",
+    "fin_oferta": "2027-10-29T00:36:45Z",
+    "visto_en": "2026-10-28T18:36:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -7326,7 +8371,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:30:11-06:00",
+    "visto_en": "2026-10-28T18:37:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -7366,7 +8411,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:27-06:00",
+    "visto_en": "2026-10-28T18:35:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -7406,7 +8451,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:23-06:00",
+    "visto_en": "2026-10-28T18:34:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -7446,7 +8491,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T17:29:20-06:00",
+    "visto_en": "2026-10-28T18:36:54-06:00",
     "alerta_nueva": true
   },
   {
@@ -7486,7 +8531,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:43-06:00",
+    "visto_en": "2026-10-28T18:35:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -7526,7 +8571,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:48-06:00",
+    "visto_en": "2026-10-28T18:35:13-06:00",
     "alerta_nueva": true
   },
   {
@@ -7566,7 +8611,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:01-06:00",
+    "visto_en": "2026-10-28T18:35:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -7605,8 +8650,48 @@
     "puntaje": 16.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:28:36Z",
-    "visto_en": "2026-10-28T17:28:37-06:00",
+    "fin_oferta": "2027-10-23T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:57-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-27553",
+    "tienda": "Walmart GT",
+    "nombre": "Vino Presidente Dulce Especial para Cocinar  - 750ml",
+    "categoria": "🍷 Licores",
+    "url": "https://www.walmart.com.gt/vino-tinto-presidente-dulce-750ml/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/447265/Vino-Presidente-Dulce-Especial-para-Cocinar-750ml-1-27626.jpg?v=638415141527830000",
+    "moneda": "GTQ",
+    "precio_actual": 22.25,
+    "precio_referencia": 26.5,
+    "precio_antes_tienda": 22.25,
+    "descuento_real": 0.1604,
+    "ahorro_q": 4.25,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 26.5,
+        "url": "https://www.latorre.com.gt/vino-dulce-para-cocinar-presidente-11866/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 26.5
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 16.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:35:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -7646,7 +8731,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:27-06:00",
+    "visto_en": "2026-10-28T18:36:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -7686,7 +8771,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:43-06:00",
+    "visto_en": "2026-10-28T18:35:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -7726,7 +8811,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:37-06:00",
+    "visto_en": "2026-10-28T18:36:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -7765,8 +8850,8 @@
     "puntaje": 15.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:29:14Z",
-    "visto_en": "2026-10-28T17:29:14-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -7806,7 +8891,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:17-06:00",
+    "visto_en": "2026-10-28T18:36:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -7846,7 +8931,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:26-06:00",
+    "visto_en": "2026-10-28T18:34:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -7886,7 +8971,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:33-06:00",
+    "visto_en": "2026-10-28T18:36:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -7926,7 +9011,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:35-06:00",
+    "visto_en": "2026-10-28T18:35:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -7966,7 +9051,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:15-06:00",
+    "visto_en": "2026-10-28T18:35:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -8005,8 +9090,8 @@
     "puntaje": 15.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:28:11Z",
-    "visto_en": "2026-10-28T17:29:46-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-28T18:37:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -8046,7 +9131,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:29:47-06:00",
+    "visto_en": "2026-10-28T18:37:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -8086,7 +9171,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:21-06:00",
+    "visto_en": "2026-10-28T18:34:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -8126,7 +9211,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:30-06:00",
+    "visto_en": "2026-10-28T18:34:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -8166,7 +9251,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:37-06:00",
+    "visto_en": "2026-10-28T18:35:54-06:00",
     "alerta_nueva": true
   },
   {
@@ -8206,7 +9291,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:25-06:00",
+    "visto_en": "2026-10-28T18:34:54-06:00",
     "alerta_nueva": true
   },
   {
@@ -8246,7 +9331,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T17:27:46-06:00",
+    "visto_en": "2026-10-28T18:35:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -8285,8 +9370,8 @@
     "puntaje": 15.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:18:25Z",
-    "visto_en": "2026-10-28T17:29:25-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T18:36:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -8326,47 +9411,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:32-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "latorre-21200",
-    "tienda": "La Torre",
-    "nombre": "Bebida Láctea Esencial Nestle",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.latorre.com.gt/bebida-lactea-esencial-nestle-2071080/p",
-    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/193024/2071080-frontal.jpg?v=638633358090300000",
-    "moneda": "GTQ",
-    "precio_actual": 118.45,
-    "precio_referencia": 144.0,
-    "precio_antes_tienda": 118.45,
-    "descuento_real": 0.1774,
-    "ahorro_q": 25.55,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Walmart GT",
-        "precio": 144.0,
-        "url": "https://www.walmart.com.gt/bebida-nestle-lactea-esencial-2000-g/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Walmart GT",
-      "precio": 144.0
-    },
-    "etiqueta": "Más barato que Walmart GT",
-    "relampago": false,
-    "nivel": "agotado",
-    "nivel_emoji": "·",
-    "nivel_label": "agotado",
-    "puntaje": 18.3,
-    "disponible": false,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:33-06:00",
+    "visto_en": "2026-10-28T18:35:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -8406,7 +9451,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:45-06:00",
+    "visto_en": "2026-10-28T18:36:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -8446,7 +9491,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:46-06:00",
+    "visto_en": "2026-10-28T18:36:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -8485,8 +9530,8 @@
     "puntaje": 24.5,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:46-06:00",
+    "fin_oferta": "2027-10-29T00:36:02Z",
+    "visto_en": "2026-10-28T18:36:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -8526,7 +9571,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T17:28:48-06:00",
+    "visto_en": "2026-10-28T18:36:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -8570,8 +9615,8 @@
     "puntaje": 30.9,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T23:22:02Z",
-    "visto_en": "2026-10-28T17:27:21-06:00",
+    "fin_oferta": "2027-10-29T00:29:57Z",
+    "visto_en": "2026-10-28T18:34:51-06:00",
     "alerta_nueva": true
   }
 ]

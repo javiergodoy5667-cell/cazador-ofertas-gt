@@ -144,14 +144,6 @@
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Mouse-inal%C3%A1mbrico/MOUSE-PRIMUS-GAMING-AHSOKA/p/1303000630"
   },
   {
-    "tienda": "La Torre",
-    "nombre": "Solomito Toledo Bandeja Peso Máximo 3.20Lb.",
-    "precio": 28.58,
-    "antes": 98.05,
-    "descuento": 0.709,
-    "url": "https://www.latorre.com.gt/solomito-toledo-bandeja-peso-maximo-3-20lb--92311/p"
-  },
-  {
     "tienda": "Cemaco",
     "nombre": "Filtro Reusable de Tela para Aspirar en Seco 2.5 Gal",
     "precio": 15.0,
@@ -278,6 +270,14 @@
     "antes": 46.99,
     "descuento": 0.787,
     "url": "https://www.cemaco.com/pistola-para-manguera-metalica-pretul-623931/p"
+  },
+  {
+    "tienda": "La Torre",
+    "nombre": "Solomito Toledo Bandeja Peso Máximo 3.20Lb.",
+    "precio": 28.58,
+    "antes": 98.05,
+    "descuento": 0.709,
+    "url": "https://www.latorre.com.gt/solomito-toledo-bandeja-peso-maximo-3-20lb--92311/p"
   },
   {
     "tienda": "EPA",
