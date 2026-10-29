@@ -1,5 +1,45 @@
 [
   {
+    "id": "max-gt-1002634",
+    "tienda": "Max",
+    "nombre": "Marshall Kilburn II Bocina Bluetooth inalámbrica portátil, color negro.",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.max.com.gt/marshall-kilburn-ii-bocina-bluetooth-inalambrica-portatil-color-negro-marshall-1002634",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/1/0/1002634.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 1496.0,
+    "precio_referencia": 3295.0,
+    "precio_antes_tienda": 3295.0,
+    "descuento_real": 0.546,
+    "ahorro_q": 1799.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 3295.0,
+        "url": "https://www.tecnofacil.com.gt/marshall-kilburn-ii-bocina-bluetooth-inalambrica-portatil-color-negro-marshall-1002634"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 3295.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 84.6,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T21:41:43-06:00",
+    "alerta_nueva": true
+  },
+  {
     "id": "max-gt-HWQS700F",
     "tienda": "Max",
     "nombre": "Barra de sonido HWQS700F de 3.1.2 canales con subwoofer inalámbrico, ultra delgada",
@@ -36,7 +76,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:44:23-06:00",
+    "visto_en": "2026-10-28T21:41:46-06:00",
     "alerta_nueva": true
   },
   {
@@ -76,7 +116,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:58-06:00",
+    "visto_en": "2026-10-28T21:41:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -116,7 +156,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:30-06:00",
+    "visto_en": "2026-10-28T21:40:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -156,7 +196,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:42:10-06:00",
+    "visto_en": "2026-10-28T21:39:37-06:00",
     "alerta_nueva": true
   },
   {
@@ -196,7 +236,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:41:46-06:00",
+    "visto_en": "2026-10-28T21:39:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -236,7 +276,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:39-06:00",
+    "visto_en": "2026-10-28T21:41:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -276,7 +316,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:18-06:00",
+    "visto_en": "2026-10-28T21:40:37-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-LMA74215WBAB1",
+    "tienda": "Max",
+    "nombre": "Lavadora de ropa HE de 52 libras tapa de vidrio, blanca",
+    "categoria": "🧊 Línea blanca",
+    "url": "https://www.max.com.gt/lavadora-de-ropa-he-de-52-libras-tapa-de-vidrio-blanca-mabe-lma74215wbab1",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/L/M/LMA74215WBAB1_1_13052025093038.png",
+    "moneda": "GTQ",
+    "precio_actual": 4396.0,
+    "precio_referencia": 5995.0,
+    "precio_antes_tienda": 5995.0,
+    "descuento_real": 0.2667,
+    "ahorro_q": 1599.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 5995.0,
+        "url": "https://www.tecnofacil.com.gt/lavadora-de-ropa-he-de-52-libras-tapa-de-vidrio-blanca-mabe-lma74215wbab1"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 5995.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 56.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T21:40:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -316,7 +396,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:39-06:00",
+    "visto_en": "2026-10-28T21:41:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -356,7 +436,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:41:39-06:00",
+    "visto_en": "2026-10-28T21:39:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -396,7 +476,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:42:02-06:00",
+    "visto_en": "2026-10-28T21:39:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -405,7 +485,7 @@
     "nombre": "Alisador y Secador de cabello Airline 3 en 1 ULA",
     "categoria": "💄 Belleza y cuidado personal",
     "url": "https://www.max.com.gt/alisador-y-secador-de-cabello-airline-3-en-1-ula-ula-airline",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/A/I/AIRLINE_1.jpg",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/A/I/AIRLINE_1.jpg?optimize=high&fit=bounds&height=&width=",
     "moneda": "GTQ",
     "precio_actual": 796.0,
     "precio_referencia": 1395.0,
@@ -436,7 +516,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:40:46-06:00",
+    "visto_en": "2026-10-28T21:38:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -476,7 +556,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:21-06:00",
+    "visto_en": "2026-10-28T21:40:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -516,7 +596,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:42:24-06:00",
+    "visto_en": "2026-10-28T21:39:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -556,7 +636,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:21-06:00",
+    "visto_en": "2026-10-28T21:40:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -596,7 +676,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:44:11-06:00",
+    "visto_en": "2026-10-28T21:41:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -635,8 +715,8 @@
     "puntaje": 48.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:40:44Z",
-    "visto_en": "2026-10-28T20:40:44-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T21:38:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -676,7 +756,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:42:00-06:00",
+    "visto_en": "2026-10-28T21:38:26-06:00",
     "alerta_nueva": true
   },
   {
@@ -716,7 +796,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:21-06:00",
+    "visto_en": "2026-10-28T21:40:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -756,7 +836,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:55-06:00",
+    "visto_en": "2026-10-28T21:41:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -796,7 +876,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:55-06:00",
+    "visto_en": "2026-10-28T21:41:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -836,7 +916,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:28-06:00",
+    "visto_en": "2026-10-28T21:40:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -876,7 +956,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:48-06:00",
+    "visto_en": "2026-10-28T21:38:29-06:00",
     "alerta_nueva": true
   },
   {
@@ -916,7 +996,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:10-06:00",
+    "visto_en": "2026-10-28T21:40:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -956,7 +1036,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:34-06:00",
+    "visto_en": "2026-10-28T21:40:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -996,7 +1076,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:36-06:00",
+    "visto_en": "2026-10-28T21:40:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -1036,47 +1116,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:44:17-06:00",
+    "visto_en": "2026-10-28T21:41:41-06:00",
     "alerta_nueva": true
   },
   {
-    "id": "max-gt-PK0758",
+    "id": "max-gt-S9980",
     "tienda": "Max",
-    "nombre": "Audífonos OTL Alámbricos Pokémon (ROJO)",
-    "categoria": "📺 TV y audio",
-    "url": "https://www.max.com.gt/audifonos-otl-alambricos-pokemon-rojo-wit-pk0758",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/P/K/PK0758_1.jpg",
+    "nombre": "Plancha de Cabello con Placas Anchas con Extracto de Aguacate y Macadamia",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.max.com.gt/plancha-de-cabello-con-placas-anchas-con-extracto-de-aguacate-y-macadamia-remington-s9980",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/s/9/s9980_5.jpg",
     "moneda": "GTQ",
-    "precio_actual": 199.0,
-    "precio_referencia": 295.0,
-    "precio_antes_tienda": 295.0,
-    "descuento_real": 0.3254,
-    "ahorro_q": 96.0,
+    "precio_actual": 546.0,
+    "precio_referencia": 775.0,
+    "precio_antes_tienda": 775.0,
+    "descuento_real": 0.2955,
+    "ahorro_q": 229.0,
     "minimo_historico": false,
     "sin_historial": true,
     "fuente_referencia": "mercado",
     "mercado": [
       {
         "tienda": "Tecnofácil",
-        "precio": 295.0,
-        "url": "https://www.tecnofacil.com.gt/audifonos-otl-alambricos-pokemon-rojo-wit-pk0758"
+        "precio": 775.0,
+        "url": "https://www.tecnofacil.com.gt/plancha-de-cabello-con-placas-anchas-con-extracto-de-aguacate-y-macadamia-remington-s9980"
       }
     ],
     "antes_inflado": false,
     "mas_barato_que": {
       "tienda": "Tecnofácil",
-      "precio": 295.0
+      "precio": 775.0
     },
     "etiqueta": "Más barato que Tecnofácil",
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
     "nivel_label": "BUENA",
-    "puntaje": 34.5,
+    "puntaje": 34.1,
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:44:17-06:00",
+    "visto_en": "2026-10-28T21:42:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -1116,7 +1196,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:54-06:00",
+    "visto_en": "2026-10-28T21:39:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -1156,7 +1236,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:42:04-06:00",
+    "visto_en": "2026-10-28T21:39:34-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-AS8821",
+    "tienda": "Max",
+    "nombre": "Cepillo de Aire Remington con Terapia de Keratina Avanzada",
+    "categoria": "📦 Otros",
+    "url": "https://www.max.com.gt/cepillo-de-aire-remington-con-terapia-de-keratina-avanzada-remington-as8821",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/a/s/as8821_02.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 496.0,
+    "precio_referencia": 699.0,
+    "precio_antes_tienda": 795.0,
+    "descuento_real": 0.2904,
+    "ahorro_q": 203.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 699.0,
+        "url": "https://www.tecnofacil.com.gt/cepillo-de-aire-remington-con-terapia-de-keratina-avanzada-remington-as8821"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 699.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 33.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T21:38:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -1196,7 +1316,47 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:45:01-06:00",
+    "visto_en": "2026-10-28T21:44:23-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-ZAF10147PA",
+    "tienda": "Max",
+    "nombre": "Tablet Lenovo Tab One con Folio, 8.7\" LTE, 4GB, 128GB (Gris)",
+    "categoria": "📱 Celulares y tablets",
+    "url": "https://www.max.com.gt/tablet-lenovo-tab-one-con-folio-8-7-lte-4gb-128gb-gris-lenovo-zaf10147pa",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/Z/A/ZAF10147PA_1.png?optimize=high&fit=bounds&height=&width=&format=jpeg",
+    "moneda": "GTQ",
+    "precio_actual": 1699.0,
+    "precio_referencia": 2195.0,
+    "precio_antes_tienda": 2195.0,
+    "descuento_real": 0.226,
+    "ahorro_q": 496.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 2195.0,
+        "url": "https://www.tecnofacil.com.gt/tablet-lenovo-tab-one-con-folio-8-7-lte-4gb-128gb-gris-lenovo-zaf10147pa"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 2195.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 32.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T21:39:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -1236,7 +1396,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:04-06:00",
+    "visto_en": "2026-10-28T21:39:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -1275,8 +1435,48 @@
     "puntaje": 31.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:42:04Z",
-    "visto_en": "2026-10-28T20:42:05-06:00",
+    "fin_oferta": "2027-10-29T03:39:37Z",
+    "visto_en": "2026-10-28T21:39:38-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "tecnofacil-FB54",
+    "tienda": "Tecnofácil",
+    "nombre": "Spa para pies Homedics Color Blanco y Rosa",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.tecnofacil.com.gt/spa-para-pies-homedics-color-blanco-y-rosa-homedics-fb54",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/F/B/FB54_1_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 269.0,
+    "precio_referencia": 375.0,
+    "precio_antes_tienda": 375.0,
+    "descuento_real": 0.2827,
+    "ahorro_q": 106.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Max",
+        "precio": 375.0,
+        "url": "https://www.max.com.gt/spa-para-pies-homedics-color-blanco-y-rosa-homedics-fb54"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Max",
+      "precio": 375.0
+    },
+    "etiqueta": "Más barato que Max",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 30.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T21:43:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -1315,8 +1515,8 @@
     "puntaje": 30.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-22T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:51-06:00",
+    "fin_oferta": "2027-10-29T03:40:26Z",
+    "visto_en": "2026-10-28T21:40:26-06:00",
     "alerta_nueva": true
   },
   {
@@ -1356,7 +1556,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:05-06:00",
+    "visto_en": "2026-10-28T21:38:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -1396,7 +1596,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:05-06:00",
+    "visto_en": "2026-10-28T21:38:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -1436,7 +1636,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:21-06:00",
+    "visto_en": "2026-10-28T21:39:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -1476,7 +1676,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:43-06:00",
+    "visto_en": "2026-10-28T21:38:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -1515,8 +1715,8 @@
     "puntaje": 29.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:41:05Z",
-    "visto_en": "2026-10-28T20:41:05-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T21:38:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -1556,7 +1756,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:03-06:00",
+    "visto_en": "2026-10-28T21:39:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -1595,8 +1795,8 @@
     "puntaje": 28.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:05-06:00",
+    "fin_oferta": "2027-10-29T03:38:45Z",
+    "visto_en": "2026-10-28T21:38:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -1636,7 +1836,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:35-06:00",
+    "visto_en": "2026-10-28T21:39:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -1676,7 +1876,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:36-06:00",
+    "visto_en": "2026-10-28T21:39:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -1716,7 +1916,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:46-06:00",
+    "visto_en": "2026-10-28T21:38:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -1756,7 +1956,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T20:40:40-06:00",
+    "visto_en": "2026-10-28T21:38:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -1796,7 +1996,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:52-06:00",
+    "visto_en": "2026-10-28T21:40:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -1835,8 +2035,8 @@
     "puntaje": 27.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:42:05Z",
-    "visto_en": "2026-10-28T20:42:54-06:00",
+    "fin_oferta": "2027-10-29T03:35:16Z",
+    "visto_en": "2026-10-28T21:40:30-06:00",
     "alerta_nueva": true
   },
   {
@@ -1876,7 +2076,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:43:06-06:00",
+    "visto_en": "2026-10-28T21:40:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -1916,7 +2116,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:19-06:00",
+    "visto_en": "2026-10-28T21:39:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -1940,6 +2140,11 @@
         "tienda": "Tecnofácil",
         "precio": 269.0,
         "url": "https://www.tecnofacil.com.gt/cafetera-de-5-tazas-color-negro"
+      },
+      {
+        "tienda": "Max",
+        "precio": 269.0,
+        "url": "https://www.max.com.gt/black-decker-cm0701b-cafetera-de-5-tazas-color-negro"
       }
     ],
     "antes_inflado": false,
@@ -1956,7 +2161,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T20:40:37-06:00",
+    "visto_en": "2026-10-28T21:38:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -1996,7 +2201,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T20:40:43-06:00",
+    "visto_en": "2026-10-28T21:38:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -2036,7 +2241,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:40-06:00",
+    "visto_en": "2026-10-28T21:39:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -2076,7 +2281,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-18T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:07-06:00",
+    "visto_en": "2026-10-28T21:38:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -2116,137 +2321,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:11-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "max-gt-JBLCLIP5BLK",
-    "tienda": "Max",
-    "nombre": "Bocina JBL Clip 5 Ultraportátil Resistente al Agua y Polvo (Negro)",
-    "categoria": "📺 TV y audio",
-    "url": "https://www.max.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-negro-jbl-jblclip5blk",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/J/B/JBLCLIP5BLK_1.png",
-    "moneda": "GTQ",
-    "precio_actual": 496.0,
-    "precio_referencia": 649.0,
-    "precio_antes_tienda": 695.0,
-    "descuento_real": 0.2357,
-    "ahorro_q": 153.0,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Tecnofácil",
-        "precio": 649.0,
-        "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-negro-jbl-jblclip5blk"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Tecnofácil",
-      "precio": 649.0
-    },
-    "etiqueta": "Más barato que Tecnofácil",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 26.6,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-10-28T20:44:18-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "max-gt-JBLCLIP5BLU",
-    "tienda": "Max",
-    "nombre": "Bocina JBL Clip 5 Ultraportátil Resistente al Agua y Polvo (Azul)",
-    "categoria": "📺 TV y audio",
-    "url": "https://www.max.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-azul-jbl-jblclip5blu",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/J/B/JBLCLIP5BLU_1.png",
-    "moneda": "GTQ",
-    "precio_actual": 496.0,
-    "precio_referencia": 649.0,
-    "precio_antes_tienda": 695.0,
-    "descuento_real": 0.2357,
-    "ahorro_q": 153.0,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Tecnofácil",
-        "precio": 649.0,
-        "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-rojo-jbl-jblclip5red"
-      },
-      {
-        "tienda": "Tecnofácil",
-        "precio": 649.0,
-        "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-azul-jbl-jblclip5blu"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Tecnofácil",
-      "precio": 649.0
-    },
-    "etiqueta": "Más barato que Tecnofácil",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 26.6,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-10-28T20:44:18-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "max-gt-JBLCLIP5RED",
-    "tienda": "Max",
-    "nombre": "Bocina JBL Clip 5 Ultraportátil Resistente al Agua y Polvo (Rojo)",
-    "categoria": "📺 TV y audio",
-    "url": "https://www.max.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-rojo-jbl-jblclip5red",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/J/B/JBLCLIP5RED_1.jpg",
-    "moneda": "GTQ",
-    "precio_actual": 496.0,
-    "precio_referencia": 649.0,
-    "precio_antes_tienda": 695.0,
-    "descuento_real": 0.2357,
-    "ahorro_q": 153.0,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Tecnofácil",
-        "precio": 649.0,
-        "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-rojo-jbl-jblclip5red"
-      },
-      {
-        "tienda": "Tecnofácil",
-        "precio": 649.0,
-        "url": "https://www.tecnofacil.com.gt/bocina-jbl-clip-5-ultraportatil-resistente-al-agua-y-polvo-azul-jbl-jblclip5blu"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Tecnofácil",
-      "precio": 649.0
-    },
-    "etiqueta": "Más barato que Tecnofácil",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 26.6,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-10-28T20:44:18-06:00",
+    "visto_en": "2026-10-28T21:39:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -2286,7 +2361,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:01-06:00",
+    "visto_en": "2026-10-28T21:39:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -2326,7 +2401,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:36-06:00",
+    "visto_en": "2026-10-28T21:39:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -2366,7 +2441,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:18-06:00",
+    "visto_en": "2026-10-28T21:38:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -2406,7 +2481,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:16-06:00",
+    "visto_en": "2026-10-28T21:38:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -2446,7 +2521,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:51-06:00",
+    "visto_en": "2026-10-28T21:40:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -2485,8 +2560,8 @@
     "puntaje": 25.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:47-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-28T21:40:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -2526,7 +2601,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:49-06:00",
+    "visto_en": "2026-10-28T21:40:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -2566,7 +2641,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:49-06:00",
+    "visto_en": "2026-10-28T21:40:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -2605,8 +2680,8 @@
     "puntaje": 25.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:51-06:00",
+    "fin_oferta": "2027-10-29T03:39:07Z",
+    "visto_en": "2026-10-28T21:40:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -2645,8 +2720,168 @@
     "puntaje": 25.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:38:07Z",
-    "visto_en": "2026-10-28T20:40:46-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T21:38:25-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-EC8930",
+    "tienda": "Max",
+    "nombre": "Secadora para Cabello con Tecnología de Aire Iónico",
+    "categoria": "🧊 Línea blanca",
+    "url": "https://www.max.com.gt/secadora-para-cabello-con-tecnologia-de-aire-ionico-remington-ec8930",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/E/C/EC8930_1_1072025163215.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 996.0,
+    "precio_referencia": 1249.0,
+    "precio_antes_tienda": 1395.0,
+    "descuento_real": 0.2026,
+    "ahorro_q": 253.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 1249.0,
+        "url": "https://www.tecnofacil.com.gt/secadora-para-cabello-con-tecnologia-de-aire-ionico-remington-ec8930"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 1249.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 25.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T21:42:40-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-S8930",
+    "tienda": "Max",
+    "nombre": "Plancha de Cabello Remington con aire ionizado AIRvive 1\"",
+    "categoria": "📦 Otros",
+    "url": "https://www.max.com.gt/plancha-de-cabello-remington-con-aire-ionizado-airvive-1-remington-s8930",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/S/8/S8930_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 996.0,
+    "precio_referencia": 1249.0,
+    "precio_antes_tienda": 1395.0,
+    "descuento_real": 0.2026,
+    "ahorro_q": 253.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 1249.0,
+        "url": "https://www.tecnofacil.com.gt/plancha-de-cabello-remington-con-aire-ionizado-airvive-1-remington-s8930"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 1249.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 25.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T21:42:41-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-AS8930",
+    "tienda": "Max",
+    "nombre": "Plancha y Secadora de Aire Remington 2 en 1 con Recubrimiento Cerámico AIRvive",
+    "categoria": "🧊 Línea blanca",
+    "url": "https://www.max.com.gt/plancha-y-secadora-de-aire-remington-2-en-1-con-recubrimiento-ceramico-airvive-remington-as8930",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/A/S/AS8930_1_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 996.0,
+    "precio_referencia": 1249.0,
+    "precio_antes_tienda": 1395.0,
+    "descuento_real": 0.2026,
+    "ahorro_q": 253.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 1249.0,
+        "url": "https://www.tecnofacil.com.gt/plancha-y-secadora-de-aire-remington-2-en-1-con-recubrimiento-ceramico-airvive-remington-as8930"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 1249.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 25.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T21:42:41-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-CI8930",
+    "tienda": "Max",
+    "nombre": "Rizador de Barril Giratorio con Tecnología de Aire Iónico",
+    "categoria": "💻 Computación y videojuegos",
+    "url": "https://www.max.com.gt/rizador-de-barril-giratorio-con-tecnologia-de-aire-ionico-remington-ci8930",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/C/I/CI8930_1.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 996.0,
+    "precio_referencia": 1249.0,
+    "precio_antes_tienda": 1395.0,
+    "descuento_real": 0.2026,
+    "ahorro_q": 253.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 1249.0,
+        "url": "https://www.tecnofacil.com.gt/rizador-de-barril-giratorio-con-tecnologia-de-aire-ionico-remington-ci8930"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 1249.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 25.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T21:42:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -2686,7 +2921,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:59-06:00",
+    "visto_en": "2026-10-28T21:39:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -2725,8 +2960,8 @@
     "puntaje": 24.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:43:04-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-28T21:40:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -2766,7 +3001,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:49-06:00",
+    "visto_en": "2026-10-28T21:38:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -2806,7 +3041,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:07-06:00",
+    "visto_en": "2026-10-28T21:39:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -2845,8 +3080,8 @@
     "puntaje": 24.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:07-06:00",
+    "fin_oferta": "2027-10-29T03:39:40Z",
+    "visto_en": "2026-10-28T21:39:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -2886,7 +3121,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:07-06:00",
+    "visto_en": "2026-10-28T21:38:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -2926,7 +3161,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:55-06:00",
+    "visto_en": "2026-10-28T21:39:29-06:00",
     "alerta_nueva": true
   },
   {
@@ -2966,7 +3201,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:45-06:00",
+    "visto_en": "2026-10-28T21:39:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -3006,7 +3241,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:41:47-06:00",
+    "visto_en": "2026-10-28T21:39:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -3046,7 +3281,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:53-06:00",
+    "visto_en": "2026-10-28T21:38:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -3085,8 +3320,8 @@
     "puntaje": 23.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:53-06:00",
+    "fin_oferta": "2027-10-29T03:39:26Z",
+    "visto_en": "2026-10-28T21:39:26-06:00",
     "alerta_nueva": true
   },
   {
@@ -3126,7 +3361,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:43:07-06:00",
+    "visto_en": "2026-10-28T21:40:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -3166,7 +3401,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:37-06:00",
+    "visto_en": "2026-10-28T21:38:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -3206,7 +3441,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:17-06:00",
+    "visto_en": "2026-10-28T21:38:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -3246,7 +3481,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:32-06:00",
+    "visto_en": "2026-10-28T21:39:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -3286,7 +3521,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-22T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:37-06:00",
+    "visto_en": "2026-10-28T21:39:14-06:00",
     "alerta_nueva": true
   },
   {
@@ -3326,7 +3561,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T20:40:35-06:00",
+    "visto_en": "2026-10-28T21:38:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -3366,7 +3601,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:51-06:00",
+    "visto_en": "2026-10-28T21:38:30-06:00",
     "alerta_nueva": true
   },
   {
@@ -3406,7 +3641,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:05-06:00",
+    "visto_en": "2026-10-28T21:38:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -3446,7 +3681,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:36-06:00",
+    "visto_en": "2026-10-28T21:40:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -3486,7 +3721,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:52-06:00",
+    "visto_en": "2026-10-28T21:40:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -3526,7 +3761,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:50-06:00",
+    "visto_en": "2026-10-28T21:40:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -3566,7 +3801,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:19-06:00",
+    "visto_en": "2026-10-28T21:39:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -3606,7 +3841,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:38-06:00",
+    "visto_en": "2026-10-28T21:39:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -3646,7 +3881,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:52-06:00",
+    "visto_en": "2026-10-28T21:38:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -3686,7 +3921,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:55-06:00",
+    "visto_en": "2026-10-28T21:38:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -3725,8 +3960,8 @@
     "puntaje": 22.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:04-06:00",
+    "fin_oferta": "2027-10-29T03:38:44Z",
+    "visto_en": "2026-10-28T21:38:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -3766,7 +4001,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:40-06:00",
+    "visto_en": "2026-10-28T21:39:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -3806,7 +4041,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:44-06:00",
+    "visto_en": "2026-10-28T21:38:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -3845,8 +4080,8 @@
     "puntaje": 21.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:44-06:00",
+    "fin_oferta": "2027-10-29T03:36:48Z",
+    "visto_en": "2026-10-28T21:38:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -3885,8 +4120,8 @@
     "puntaje": 21.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:40:50Z",
-    "visto_en": "2026-10-28T20:40:51-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T21:38:30-06:00",
     "alerta_nueva": true
   },
   {
@@ -3926,7 +4161,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:53-06:00",
+    "visto_en": "2026-10-28T21:38:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -3966,7 +4201,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:53-06:00",
+    "visto_en": "2026-10-28T21:38:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -4006,7 +4241,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:54-06:00",
+    "visto_en": "2026-10-28T21:38:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -4046,7 +4281,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:05-06:00",
+    "visto_en": "2026-10-28T21:38:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -4086,7 +4321,87 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:21-06:00",
+    "visto_en": "2026-10-28T21:39:01-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-BNTHB250",
+    "tienda": "Max",
+    "nombre": "Cepillo de Aire BaByliss Nano Titanium para Secado Rápido y Voluminoso",
+    "categoria": "📦 Otros",
+    "url": "https://www.max.com.gt/cepillo-de-aire-babyliss-nano-titanium-para-secado-rapido-y-voluminoso-babylisspro-bnthb250",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/B/N/BNTHB250_1_8052025103400.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 546.0,
+    "precio_referencia": 675.0,
+    "precio_antes_tienda": 765.0,
+    "descuento_real": 0.1911,
+    "ahorro_q": 129.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 675.0,
+        "url": "https://www.tecnofacil.com.gt/cepillo-de-aire-babyliss-nano-titanium-para-secado-rapido-y-voluminoso-babylisspro-bnthb250"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 675.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T21:42:43-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-SC1004D",
+    "tienda": "Max",
+    "nombre": "Black+Decker, SC1004D, Olla cocimiento lento, de 3.8 litros",
+    "categoria": "🍳 Electrodomésticos de cocina",
+    "url": "https://www.max.com.gt/black-decker-sc1004d-olla-cocimiento-lento-de-3-8-litros",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/s/c/sc1004d.png",
+    "moneda": "GTQ",
+    "precio_actual": 279.0,
+    "precio_referencia": 349.0,
+    "precio_antes_tienda": 395.0,
+    "descuento_real": 0.2006,
+    "ahorro_q": 70.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Tecnofácil",
+        "precio": 349.0,
+        "url": "https://www.tecnofacil.com.gt/olla-cocimiento-lento-black-decker-sc1004d-3-8-litros-color-blanco"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Tecnofácil",
+      "precio": 349.0
+    },
+    "etiqueta": "Más barato que Tecnofácil",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-28T21:40:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -4126,7 +4441,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:40-06:00",
+    "visto_en": "2026-10-28T21:39:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -4166,7 +4481,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:10-06:00",
+    "visto_en": "2026-10-28T21:38:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -4205,8 +4520,8 @@
     "puntaje": 21.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:52-06:00",
+    "fin_oferta": "2027-10-29T03:37:18Z",
+    "visto_en": "2026-10-28T21:40:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -4246,7 +4561,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:03-06:00",
+    "visto_en": "2026-10-28T21:39:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -4286,7 +4601,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:45-06:00",
+    "visto_en": "2026-10-28T21:40:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -4326,7 +4641,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:21-06:00",
+    "visto_en": "2026-10-28T21:39:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -4366,7 +4681,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:50-06:00",
+    "visto_en": "2026-10-28T21:39:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -4406,7 +4721,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:55-06:00",
+    "visto_en": "2026-10-28T21:39:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -4446,7 +4761,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:59-06:00",
+    "visto_en": "2026-10-28T21:39:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -4486,7 +4801,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:36-06:00",
+    "visto_en": "2026-10-28T21:40:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -4525,8 +4840,8 @@
     "puntaje": 20.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:03-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-28T21:38:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -4535,7 +4850,7 @@
     "nombre": "Control Nintendo Switch 2 Pro Controller Inalámbrico",
     "categoria": "💻 Computación y videojuegos",
     "url": "https://www.max.com.gt/control-nintendo-switch-2-pro-controller-inalambrico-nintendo-nsw2procontrol",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/N/S/NSW2PROCONTROL_1.png",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/N/S/NSW2PROCONTROL_1.png?optimize=high&fit=bounds&height=&width=&format=jpeg",
     "moneda": "GTQ",
     "precio_actual": 996.0,
     "precio_referencia": 1195.0,
@@ -4566,7 +4881,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:54-06:00",
+    "visto_en": "2026-10-28T21:41:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -4587,14 +4902,14 @@
     "fuente_referencia": "mercado",
     "mercado": [
       {
-        "tienda": "Max",
-        "precio": 196.0,
-        "url": "https://www.max.com.gt/black-decker-cm0916b-cafetera-de-12-tazas-filtro-permanente-color-negro"
-      },
-      {
         "tienda": "Tecnofácil",
         "precio": 289.0,
         "url": "https://www.tecnofacil.com.gt/black-decker-cm0916b-cafetera-de-12-tazas-filtro-permanente-color-negro"
+      },
+      {
+        "tienda": "Max",
+        "precio": 196.0,
+        "url": "https://www.max.com.gt/black-decker-cm0916b-cafetera-de-12-tazas-filtro-permanente-color-negro"
       }
     ],
     "antes_inflado": false,
@@ -4611,7 +4926,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-11-02T06:00:00Z",
-    "visto_en": "2026-10-28T20:40:33-06:00",
+    "visto_en": "2026-10-28T21:38:15-06:00",
     "alerta_nueva": true
   },
   {
@@ -4651,7 +4966,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:08-06:00",
+    "visto_en": "2026-10-28T21:38:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -4691,7 +5006,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:05-06:00",
+    "visto_en": "2026-10-28T21:39:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -4730,8 +5045,8 @@
     "puntaje": 20.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:41:36Z",
-    "visto_en": "2026-10-28T20:42:45-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T21:40:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -4771,7 +5086,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:57-06:00",
+    "visto_en": "2026-10-28T21:40:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -4811,7 +5126,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:55-06:00",
+    "visto_en": "2026-10-28T21:38:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -4851,7 +5166,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:50-06:00",
+    "visto_en": "2026-10-28T21:39:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -4890,8 +5205,8 @@
     "puntaje": 20.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:41:32Z",
-    "visto_en": "2026-10-28T20:41:33-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-28T21:39:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -4930,8 +5245,8 @@
     "puntaje": 20.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:40-06:00",
+    "fin_oferta": "2027-10-29T03:36:38Z",
+    "visto_en": "2026-10-28T21:39:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -4971,7 +5286,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:00-06:00",
+    "visto_en": "2026-10-28T21:38:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -5011,7 +5326,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:48-06:00",
+    "visto_en": "2026-10-28T21:40:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -5051,7 +5366,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:19-06:00",
+    "visto_en": "2026-10-28T21:39:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -5091,7 +5406,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:56-06:00",
+    "visto_en": "2026-10-28T21:39:30-06:00",
     "alerta_nueva": true
   },
   {
@@ -5131,7 +5446,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:43:05-06:00",
+    "visto_en": "2026-10-28T21:40:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -5171,7 +5486,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:59-06:00",
+    "visto_en": "2026-10-28T21:39:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -5211,7 +5526,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:06-06:00",
+    "visto_en": "2026-10-28T21:40:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -5251,7 +5566,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:23-06:00",
+    "visto_en": "2026-10-28T21:39:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -5291,7 +5606,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:11-06:00",
+    "visto_en": "2026-10-28T21:39:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -5331,7 +5646,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:54-06:00",
+    "visto_en": "2026-10-28T21:40:30-06:00",
     "alerta_nueva": true
   },
   {
@@ -5371,7 +5686,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:47-06:00",
+    "visto_en": "2026-10-28T21:39:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -5411,7 +5726,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:36-06:00",
+    "visto_en": "2026-10-28T21:40:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -5451,7 +5766,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:52-06:00",
+    "visto_en": "2026-10-28T21:40:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -5491,7 +5806,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:36-06:00",
+    "visto_en": "2026-10-28T21:40:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -5531,7 +5846,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:42-06:00",
+    "visto_en": "2026-10-28T21:39:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -5571,7 +5886,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-19T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:34-06:00",
+    "visto_en": "2026-10-28T21:39:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -5611,7 +5926,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:54-06:00",
+    "visto_en": "2026-10-28T21:38:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -5651,7 +5966,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:55-06:00",
+    "visto_en": "2026-10-28T21:38:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -5691,7 +6006,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:07-06:00",
+    "visto_en": "2026-10-28T21:38:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -5731,7 +6046,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:23-06:00",
+    "visto_en": "2026-10-28T21:39:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -5770,8 +6085,8 @@
     "puntaje": 18.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:07-06:00",
+    "fin_oferta": "2027-10-29T03:38:48Z",
+    "visto_en": "2026-10-28T21:38:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -5811,7 +6126,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:21-06:00",
+    "visto_en": "2026-10-28T21:39:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -5850,8 +6165,8 @@
     "puntaje": 18.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:39:14Z",
-    "visto_en": "2026-10-28T20:42:45-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T21:40:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -5891,7 +6206,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-18T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:00-06:00",
+    "visto_en": "2026-10-28T21:38:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -5931,7 +6246,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:00-06:00",
+    "visto_en": "2026-10-28T21:38:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -5971,7 +6286,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:36-06:00",
+    "visto_en": "2026-10-28T21:40:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -6010,8 +6325,8 @@
     "puntaje": 18.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:43:04-06:00",
+    "fin_oferta": "2027-10-29T03:35:46Z",
+    "visto_en": "2026-10-28T21:40:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -6050,8 +6365,8 @@
     "puntaje": 18.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:40-06:00",
+    "fin_oferta": "2027-10-29T03:35:10Z",
+    "visto_en": "2026-10-28T21:39:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -6091,7 +6406,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:54-06:00",
+    "visto_en": "2026-10-28T21:38:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -6131,7 +6446,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:07-06:00",
+    "visto_en": "2026-10-28T21:38:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -6170,8 +6485,8 @@
     "puntaje": 17.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:41:06Z",
-    "visto_en": "2026-10-28T20:41:07-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-28T21:38:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -6211,7 +6526,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:34-06:00",
+    "visto_en": "2026-10-28T21:39:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -6250,8 +6565,8 @@
     "puntaje": 17.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:45-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-28T21:40:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -6290,8 +6605,8 @@
     "puntaje": 17.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:46-06:00",
+    "fin_oferta": "2027-10-29T03:36:15Z",
+    "visto_en": "2026-10-28T21:40:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -6331,7 +6646,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:52-06:00",
+    "visto_en": "2026-10-28T21:40:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -6371,7 +6686,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:18-06:00",
+    "visto_en": "2026-10-28T21:38:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -6411,7 +6726,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:45-06:00",
+    "visto_en": "2026-10-28T21:40:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -6451,7 +6766,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:46-06:00",
+    "visto_en": "2026-10-28T21:40:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -6490,8 +6805,8 @@
     "puntaje": 17.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:36:19Z",
-    "visto_en": "2026-10-28T20:41:01-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-28T21:38:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -6531,7 +6846,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:01-06:00",
+    "visto_en": "2026-10-28T21:38:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -6571,7 +6886,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:17-06:00",
+    "visto_en": "2026-10-28T21:38:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -6610,8 +6925,8 @@
     "puntaje": 17.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:42:57Z",
-    "visto_en": "2026-10-28T20:42:58-06:00",
+    "fin_oferta": "2027-10-25T00:00:00Z",
+    "visto_en": "2026-10-28T21:40:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -6650,8 +6965,8 @@
     "puntaje": 17.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:39:23Z",
-    "visto_en": "2026-10-28T20:40:40-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T21:38:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -6690,8 +7005,8 @@
     "puntaje": 17.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:00-06:00",
+    "fin_oferta": "2027-10-29T03:38:41Z",
+    "visto_en": "2026-10-28T21:38:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -6730,8 +7045,8 @@
     "puntaje": 17.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:41:05Z",
-    "visto_en": "2026-10-28T20:41:05-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T21:38:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -6770,8 +7085,8 @@
     "puntaje": 17.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:43:07-06:00",
+    "fin_oferta": "2027-10-29T03:40:45Z",
+    "visto_en": "2026-10-28T21:40:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -6811,7 +7126,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:54-06:00",
+    "visto_en": "2026-10-28T21:39:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -6850,8 +7165,8 @@
     "puntaje": 16.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:40:47Z",
-    "visto_en": "2026-10-28T20:40:48-06:00",
+    "fin_oferta": "2027-10-29T03:38:26Z",
+    "visto_en": "2026-10-28T21:38:26-06:00",
     "alerta_nueva": true
   },
   {
@@ -6891,7 +7206,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:54-06:00",
+    "visto_en": "2026-10-28T21:38:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -6930,8 +7245,8 @@
     "puntaje": 16.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:40:54Z",
-    "visto_en": "2026-10-28T20:40:55-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-28T21:38:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -6971,7 +7286,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:21-06:00",
+    "visto_en": "2026-10-28T21:39:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -7011,7 +7326,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:51-06:00",
+    "visto_en": "2026-10-28T21:40:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -7051,7 +7366,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:42-06:00",
+    "visto_en": "2026-10-28T21:40:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -7091,7 +7406,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:54-06:00",
+    "visto_en": "2026-10-28T21:38:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -7130,8 +7445,8 @@
     "puntaje": 16.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:39:19Z",
-    "visto_en": "2026-10-28T20:42:45-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-28T21:40:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -7171,7 +7486,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:45-06:00",
+    "visto_en": "2026-10-28T21:40:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -7211,7 +7526,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:47-06:00",
+    "visto_en": "2026-10-28T21:40:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -7251,7 +7566,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:48-06:00",
+    "visto_en": "2026-10-28T21:40:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -7291,7 +7606,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:43:37-06:00",
+    "visto_en": "2026-10-28T21:41:05-06:00",
     "alerta_nueva": true
   },
   {
@@ -7331,7 +7646,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:52-06:00",
+    "visto_en": "2026-10-28T21:39:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -7371,7 +7686,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:44-06:00",
+    "visto_en": "2026-10-28T21:38:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -7411,7 +7726,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-28T20:42:40-06:00",
+    "visto_en": "2026-10-28T21:40:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -7451,7 +7766,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:01-06:00",
+    "visto_en": "2026-10-28T21:39:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -7491,7 +7806,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-24T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:07-06:00",
+    "visto_en": "2026-10-28T21:38:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -7531,7 +7846,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-23T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:25-06:00",
+    "visto_en": "2026-10-28T21:39:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -7571,7 +7886,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:03-06:00",
+    "visto_en": "2026-10-28T21:39:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -7610,8 +7925,8 @@
     "puntaje": 16.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:48-06:00",
+    "fin_oferta": "2027-10-29T03:40:23Z",
+    "visto_en": "2026-10-28T21:40:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -7651,7 +7966,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:01-06:00",
+    "visto_en": "2026-10-28T21:39:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -7691,7 +8006,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-26T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:51-06:00",
+    "visto_en": "2026-10-28T21:40:26-06:00",
     "alerta_nueva": true
   },
   {
@@ -7731,7 +8046,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:30-06:00",
+    "visto_en": "2026-10-28T21:40:05-06:00",
     "alerta_nueva": true
   },
   {
@@ -7771,7 +8086,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:32-06:00",
+    "visto_en": "2026-10-28T21:40:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -7811,7 +8126,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:49-06:00",
+    "visto_en": "2026-10-28T21:38:26-06:00",
     "alerta_nueva": true
   },
   {
@@ -7850,8 +8165,8 @@
     "puntaje": 15.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-16T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:34-06:00",
+    "fin_oferta": "2027-10-29T03:39:10Z",
+    "visto_en": "2026-10-28T21:39:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -7891,7 +8206,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:46-06:00",
+    "visto_en": "2026-10-28T21:40:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -7930,8 +8245,8 @@
     "puntaje": 15.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:40:53Z",
-    "visto_en": "2026-10-28T20:40:54-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T21:38:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -7970,8 +8285,8 @@
     "puntaje": 15.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:41:40Z",
-    "visto_en": "2026-10-28T20:41:41-06:00",
+    "fin_oferta": "2027-10-28T00:00:00Z",
+    "visto_en": "2026-10-28T21:39:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -8011,7 +8326,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:43:05-06:00",
+    "visto_en": "2026-10-28T21:40:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -8050,8 +8365,8 @@
     "puntaje": 15.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:43:07-06:00",
+    "fin_oferta": "2027-10-29T03:39:03Z",
+    "visto_en": "2026-10-28T21:40:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -8091,7 +8406,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:42-06:00",
+    "visto_en": "2026-10-28T21:38:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -8131,7 +8446,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-25T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:51-06:00",
+    "visto_en": "2026-10-28T21:38:30-06:00",
     "alerta_nueva": true
   },
   {
@@ -8171,7 +8486,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:55-06:00",
+    "visto_en": "2026-10-28T21:39:29-06:00",
     "alerta_nueva": true
   },
   {
@@ -8211,7 +8526,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:40:46-06:00",
+    "visto_en": "2026-10-28T21:38:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -8250,8 +8565,8 @@
     "puntaje": 15.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:39:57Z",
-    "visto_en": "2026-10-28T20:41:05-06:00",
+    "fin_oferta": "2027-10-26T00:00:00Z",
+    "visto_en": "2026-10-28T21:38:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -8291,7 +8606,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:46-06:00",
+    "visto_en": "2026-10-28T21:40:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -8331,7 +8646,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:50-06:00",
+    "visto_en": "2026-10-28T21:39:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -8371,7 +8686,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:41:51-06:00",
+    "visto_en": "2026-10-28T21:39:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -8411,7 +8726,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:03-06:00",
+    "visto_en": "2026-10-28T21:39:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -8451,7 +8766,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-28T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:03-06:00",
+    "visto_en": "2026-10-28T21:39:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -8491,7 +8806,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:03-06:00",
+    "visto_en": "2026-10-28T21:39:37-06:00",
     "alerta_nueva": true
   },
   {
@@ -8531,7 +8846,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-28T20:42:06-06:00",
+    "visto_en": "2026-10-28T21:39:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -8552,22 +8867,22 @@
     "fuente_referencia": "mercado",
     "mercado": [
       {
-        "tienda": "Max",
-        "precio": 99.0,
-        "url": "https://www.max.com.gt/audifonos-skullcandy-jib-in-ear-con-microfono-y-alambricos-negro"
-      },
-      {
         "tienda": "Tecnofácil",
         "precio": 99.0,
         "url": "https://www.tecnofacil.com.gt/audifono-skullcandy-in-ear-jib-black-black-black-con-microfono"
+      },
+      {
+        "tienda": "Max",
+        "precio": 99.0,
+        "url": "https://www.max.com.gt/audifonos-skullcandy-jib-in-ear-con-microfono-y-alambricos-negro"
       }
     ],
     "antes_inflado": false,
     "mas_barato_que": {
-      "tienda": "Max",
+      "tienda": "Tecnofácil",
       "precio": 99.0
     },
-    "etiqueta": "Más barato que Max",
+    "etiqueta": "Más barato que Tecnofácil",
     "relampago": false,
     "nivel": "agotado",
     "nivel_emoji": "·",
@@ -8575,8 +8890,8 @@
     "puntaje": 30.9,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T02:40:41Z",
-    "visto_en": "2026-10-28T20:40:42-06:00",
+    "fin_oferta": "2027-10-29T03:35:58Z",
+    "visto_en": "2026-10-28T21:38:24-06:00",
     "alerta_nueva": true
   }
 ]
