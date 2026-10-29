@@ -218,12 +218,12 @@
 {"id": "intelaf-217", "fecha_inicio": "2026-10-27", "precio": 25.0, "visto_hasta": "2026-10-26", "precio_unidad": null, "unidad": null}
 {"id": "intelaf-218", "fecha_inicio": "2026-10-27", "precio": 95.0, "visto_hasta": "2026-10-26", "precio_unidad": null, "unidad": null}
 {"id": "intelaf-219", "fecha_inicio": "2026-10-27", "precio": 23.0, "visto_hasta": "2026-10-26", "precio_unidad": null, "unidad": null}
-{"id": "intelaf-220", "fecha_inicio": "2026-10-27", "precio": 56.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
-{"id": "intelaf-221", "fecha_inicio": "2026-10-27", "precio": 880.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "intelaf-220", "fecha_inicio": "2026-10-27", "precio": 56.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "intelaf-221", "fecha_inicio": "2026-10-27", "precio": 880.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "intelaf-222", "fecha_inicio": "2026-10-27", "precio": 307.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
-{"id": "intelaf-223", "fecha_inicio": "2026-10-27", "precio": 168.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
-{"id": "intelaf-224", "fecha_inicio": "2026-10-27", "precio": 292.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
-{"id": "intelaf-225", "fecha_inicio": "2026-10-27", "precio": 56.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "intelaf-223", "fecha_inicio": "2026-10-27", "precio": 168.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "intelaf-224", "fecha_inicio": "2026-10-27", "precio": 292.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "intelaf-225", "fecha_inicio": "2026-10-27", "precio": 56.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "intelaf-226", "fecha_inicio": "2026-10-27", "precio": 525.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
 {"id": "intelaf-227", "fecha_inicio": "2026-10-27", "precio": 620.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
 {"id": "intelaf-228", "fecha_inicio": "2026-10-27", "precio": 580.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
@@ -527,8 +527,8 @@
 {"id": "intelaf-215", "fecha_inicio": "2026-10-27", "precio": 90.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "intelaf-216", "fecha_inicio": "2026-10-27", "precio": 77.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "intelaf-217", "fecha_inicio": "2026-10-27", "precio": 25.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
-{"id": "intelaf-218", "fecha_inicio": "2026-10-27", "precio": 95.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
-{"id": "intelaf-219", "fecha_inicio": "2026-10-27", "precio": 23.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "intelaf-218", "fecha_inicio": "2026-10-27", "precio": 95.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "intelaf-219", "fecha_inicio": "2026-10-27", "precio": 23.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "intelaf-51", "fecha_inicio": "2026-10-28", "precio": 785.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "intelaf-52", "fecha_inicio": "2026-10-28", "precio": 1805.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "intelaf-53", "fecha_inicio": "2026-10-28", "precio": 82.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
@@ -730,5 +730,5 @@
 {"id": "intelaf-213", "fecha_inicio": "2026-10-28", "precio": 780.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "intelaf-214", "fecha_inicio": "2026-10-28", "precio": 85.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "intelaf-215", "fecha_inicio": "2026-10-28", "precio": 90.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
-{"id": "intelaf-216", "fecha_inicio": "2026-10-28", "precio": 77.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
-{"id": "intelaf-217", "fecha_inicio": "2026-10-28", "precio": 25.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "intelaf-216", "fecha_inicio": "2026-10-28", "precio": 77.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "intelaf-217", "fecha_inicio": "2026-10-28", "precio": 25.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
