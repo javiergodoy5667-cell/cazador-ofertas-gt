@@ -1881,10 +1881,26 @@
   },
   {
     "tienda": "Novex",
-    "nombre": "Broca para concreto 5/32 x 3 pulgadas",
-    "precio": 0.99,
-    "antes": 3.6,
-    "descuento": 0.725,
-    "url": "https://www.novex.com.gt/producto/19411/Broca-para-concreto-5|32-x-3-pulgadas.html"
+    "nombre": "Broca para esmerilado de metal hss 1/16 in",
+    "precio": 0.89,
+    "antes": 3.0,
+    "descuento": 0.703,
+    "url": "https://www.novex.com.gt/producto/59101/Broca-para-esmerilado-de-metal-hss-1|16-in.html"
+  },
+  {
+    "tienda": "Novex",
+    "nombre": "Broca para esmerilado de metal hss 21/64 pulgada",
+    "precio": 7.59,
+    "antes": 26.0,
+    "descuento": 0.708,
+    "url": "https://www.novex.com.gt/producto/59118/Broca-para-esmerilado-de-metal-hss-21|64-pulgada.html"
+  },
+  {
+    "tienda": "Novex",
+    "nombre": "Broca para esmerilado de metal hss 25/64 pulgada",
+    "precio": 10.19,
+    "antes": 34.0,
+    "descuento": 0.7,
+    "url": "https://www.novex.com.gt/producto/59122/Broca-para-esmerilado-de-metal-hss-25|64-pulgada.html"
   }
 ]
