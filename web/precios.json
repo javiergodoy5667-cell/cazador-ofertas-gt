@@ -689,6 +689,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 437.92
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 448.0
     }
   ],
   "elgallo-175067": [
@@ -703,6 +707,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 1648.64
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1998.08
     }
   ],
   "elgallo-201703": [
@@ -717,6 +725,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 6597.92
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 6698.72
     }
   ],
   "elgallo-204715": [
@@ -731,6 +743,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 6198.08
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5998.72
     }
   ],
   "elgallo-201992": [
@@ -745,6 +761,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 1598.24
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1528.8
     }
   ],
   "elgallo-201268": [
@@ -759,6 +779,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 6198.08
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5998.72
     }
   ],
   "elgallo-201558": [
@@ -773,6 +797,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 5598.88
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5897.92
     }
   ],
   "elgallo-198772": [
@@ -857,156 +885,6 @@
     {
       "fecha": "2026-10-29",
       "precio": 1798.72
-    }
-  ],
-  "pricesmart-3364": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 424.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 427.95
-    }
-  ],
-  "pricesmart-517826": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 5199.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5299.95
-    }
-  ],
-  "pricesmart-517165": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 1449.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 1499.95
-    }
-  ],
-  "pricesmart-497734": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 2299.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2499.95
-    }
-  ],
-  "pricesmart-428521": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 7999.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 8499.95
-    }
-  ],
-  "pricesmart-483770": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 349.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 329.95
-    }
-  ],
-  "pricesmart-515014": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 389.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 399.95
-    }
-  ],
-  "pricesmart-28033": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 279.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 289.95
-    }
-  ],
-  "pricesmart-497914": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 199.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 239.95
-    }
-  ],
-  "pricesmart-497917": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 1249.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 1099.95
-    }
-  ],
-  "pricesmart-515213": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 2379.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2389.95
-    }
-  ],
-  "pricesmart-514235": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 849.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 824.95
-    }
-  ],
-  "pricesmart-524836": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 89.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 64.7
-    }
-  ],
-  "pricesmart-339183": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 219.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 229.95
-    }
-  ],
-  "pricesmart-360463": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 189.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 199.95
     }
   ],
   "latorre-608": [
@@ -1495,6 +1373,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 17.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 19.5
     }
   ],
   "latorre-980": [
@@ -3329,6 +3211,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 23.9
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 30.25
     }
   ],
   "latorre-1689": [
@@ -4905,6 +4791,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 169.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 194.55
     }
   ],
   "latorre-14717": [
@@ -4919,6 +4809,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 30.2
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 35.75
     }
   ],
   "latorre-14451": [
@@ -5073,6 +4967,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 137.65
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 157.9
     }
   ],
   "latorre-2339": [
@@ -5095,6 +4993,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 3.4
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.15
     }
   ],
   "latorre-14854": [
@@ -5789,6 +5691,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 26.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 22.95
     }
   ],
   "latorre-5040": [
@@ -8327,6 +8233,4232 @@
       "precio": 11.15
     }
   ],
+  "walmart-gt-57793": [
+    {
+      "fecha": null,
+      "precio": 4.45
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.25
+    }
+  ],
+  "walmart-gt-59988": [
+    {
+      "fecha": null,
+      "precio": 2.55
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2.8
+    }
+  ],
+  "walmart-gt-22324": [
+    {
+      "fecha": null,
+      "precio": 7.6
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 7.8
+    }
+  ],
+  "walmart-gt-59987": [
+    {
+      "fecha": null,
+      "precio": 2.55
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2.8
+    }
+  ],
+  "walmart-gt-58440": [
+    {
+      "fecha": null,
+      "precio": 29.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 35.5
+    }
+  ],
+  "walmart-gt-31436": [
+    {
+      "fecha": null,
+      "precio": 19.25
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 20.0
+    }
+  ],
+  "walmart-gt-26955": [
+    {
+      "fecha": null,
+      "precio": 5.7
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 6.7
+    }
+  ],
+  "walmart-gt-26807": [
+    {
+      "fecha": null,
+      "precio": 17.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 16.5
+    }
+  ],
+  "walmart-gt-15413": [
+    {
+      "fecha": null,
+      "precio": 8.2
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 8.4
+    }
+  ],
+  "walmart-gt-14277": [
+    {
+      "fecha": null,
+      "precio": 21.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 22.5
+    }
+  ],
+  "walmart-gt-8319": [
+    {
+      "fecha": null,
+      "precio": 4.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.05
+    }
+  ],
+  "walmart-gt-86888": [
+    {
+      "fecha": null,
+      "precio": 2.15
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1.9
+    }
+  ],
+  "walmart-gt-59986": [
+    {
+      "fecha": null,
+      "precio": 2.55
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2.8
+    }
+  ],
+  "walmart-gt-32944": [
+    {
+      "fecha": null,
+      "precio": 3.05
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2.6
+    }
+  ],
+  "walmart-gt-31433": [
+    {
+      "fecha": null,
+      "precio": 19.25
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 20.0
+    }
+  ],
+  "walmart-gt-13923": [
+    {
+      "fecha": null,
+      "precio": 10.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 10.0
+    }
+  ],
+  "walmart-gt-8337": [
+    {
+      "fecha": null,
+      "precio": 9.85
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 13.0
+    }
+  ],
+  "walmart-gt-8321": [
+    {
+      "fecha": null,
+      "precio": 4.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.05
+    }
+  ],
+  "walmart-gt-8318": [
+    {
+      "fecha": null,
+      "precio": 4.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.05
+    }
+  ],
+  "walmart-gt-8305": [
+    {
+      "fecha": null,
+      "precio": 2.4
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2.6
+    }
+  ],
+  "walmart-gt-6811": [
+    {
+      "fecha": null,
+      "precio": 4.45
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.55
+    }
+  ],
+  "walmart-gt-6809": [
+    {
+      "fecha": null,
+      "precio": 4.45
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.55
+    }
+  ],
+  "walmart-gt-57716": [
+    {
+      "fecha": null,
+      "precio": 5.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.55
+    }
+  ],
+  "walmart-gt-39366": [
+    {
+      "fecha": null,
+      "precio": 42.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 43.25
+    }
+  ],
+  "walmart-gt-39200": [
+    {
+      "fecha": null,
+      "precio": 18.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 20.0
+    }
+  ],
+  "walmart-gt-38980": [
+    {
+      "fecha": null,
+      "precio": 5.4
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.1
+    }
+  ],
+  "walmart-gt-38923": [
+    {
+      "fecha": null,
+      "precio": 2.35
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2.6
+    }
+  ],
+  "walmart-gt-34004": [
+    {
+      "fecha": null,
+      "precio": 11.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 10.5
+    }
+  ],
+  "walmart-gt-34003": [
+    {
+      "fecha": null,
+      "precio": 6.6
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 6.1
+    }
+  ],
+  "walmart-gt-33997": [
+    {
+      "fecha": null,
+      "precio": 5.7
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.8
+    }
+  ],
+  "walmart-gt-32949": [
+    {
+      "fecha": null,
+      "precio": 3.05
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2.6
+    }
+  ],
+  "walmart-gt-15266": [
+    {
+      "fecha": null,
+      "precio": 19.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 15.75
+    }
+  ],
+  "walmart-gt-14946": [
+    {
+      "fecha": null,
+      "precio": 16.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 15.25
+    }
+  ],
+  "walmart-gt-14480": [
+    {
+      "fecha": null,
+      "precio": 4.15
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.5
+    }
+  ],
+  "walmart-gt-8424": [
+    {
+      "fecha": null,
+      "precio": 4.7
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.5
+    }
+  ],
+  "walmart-gt-8320": [
+    {
+      "fecha": null,
+      "precio": 4.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.05
+    }
+  ],
+  "walmart-gt-8256": [
+    {
+      "fecha": null,
+      "precio": 17.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 18.0
+    }
+  ],
+  "walmart-gt-101078": [
+    {
+      "fecha": null,
+      "precio": 17.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 20.25
+    }
+  ],
+  "walmart-gt-87940": [
+    {
+      "fecha": null,
+      "precio": 17.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 15.75
+    }
+  ],
+  "walmart-gt-67348": [
+    {
+      "fecha": null,
+      "precio": 23.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 24.9
+    }
+  ],
+  "walmart-gt-66253": [
+    {
+      "fecha": null,
+      "precio": 23.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 24.9
+    }
+  ],
+  "walmart-gt-59788": [
+    {
+      "fecha": null,
+      "precio": 2.35
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2.6
+    }
+  ],
+  "walmart-gt-54847": [
+    {
+      "fecha": null,
+      "precio": 10.35
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 11.0
+    }
+  ],
+  "walmart-gt-54116": [
+    {
+      "fecha": null,
+      "precio": 13.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 11.5
+    }
+  ],
+  "walmart-gt-39201": [
+    {
+      "fecha": null,
+      "precio": 18.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 20.0
+    }
+  ],
+  "walmart-gt-39190": [
+    {
+      "fecha": null,
+      "precio": 29.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 32.7
+    }
+  ],
+  "walmart-gt-39161": [
+    {
+      "fecha": null,
+      "precio": 24.85
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 20.0
+    }
+  ],
+  "walmart-gt-38993": [
+    {
+      "fecha": null,
+      "precio": 5.4
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.1
+    }
+  ],
+  "walmart-gt-38982": [
+    {
+      "fecha": null,
+      "precio": 2.55
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2.7
+    }
+  ],
+  "walmart-gt-38922": [
+    {
+      "fecha": null,
+      "precio": 4.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.05
+    }
+  ],
+  "walmart-gt-38921": [
+    {
+      "fecha": null,
+      "precio": 4.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.05
+    }
+  ],
+  "walmart-gt-34005": [
+    {
+      "fecha": null,
+      "precio": 6.4
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 6.1
+    }
+  ],
+  "walmart-gt-32950": [
+    {
+      "fecha": null,
+      "precio": 2.7
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2.95
+    }
+  ],
+  "walmart-gt-32945": [
+    {
+      "fecha": null,
+      "precio": 3.05
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2.6
+    }
+  ],
+  "walmart-gt-31727": [
+    {
+      "fecha": null,
+      "precio": 7.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 6.3
+    }
+  ],
+  "walmart-gt-30531": [
+    {
+      "fecha": null,
+      "precio": 69.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 73.0
+    }
+  ],
+  "walmart-gt-14484": [
+    {
+      "fecha": null,
+      "precio": 5.7
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.0
+    }
+  ],
+  "walmart-gt-8427": [
+    {
+      "fecha": null,
+      "precio": 5.05
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.6
+    }
+  ],
+  "walmart-gt-8421": [
+    {
+      "fecha": null,
+      "precio": 4.7
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.2
+    }
+  ],
+  "walmart-gt-7503": [
+    {
+      "fecha": null,
+      "precio": 29.25
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 30.0
+    }
+  ],
+  "walmart-gt-6810": [
+    {
+      "fecha": null,
+      "precio": 4.45
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.55
+    }
+  ],
+  "walmart-gt-102062": [
+    {
+      "fecha": null,
+      "precio": 25.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 18.75
+    }
+  ],
+  "walmart-gt-101080": [
+    {
+      "fecha": null,
+      "precio": 17.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 20.25
+    }
+  ],
+  "walmart-gt-99078": [
+    {
+      "fecha": null,
+      "precio": 15.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 11.25
+    }
+  ],
+  "walmart-gt-67902": [
+    {
+      "fecha": null,
+      "precio": 31.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 32.5
+    }
+  ],
+  "walmart-gt-66252": [
+    {
+      "fecha": null,
+      "precio": 23.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 24.9
+    }
+  ],
+  "walmart-gt-58323": [
+    {
+      "fecha": null,
+      "precio": 8.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 6.4
+    }
+  ],
+  "walmart-gt-39162": [
+    {
+      "fecha": null,
+      "precio": 19.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 25.0
+    }
+  ],
+  "walmart-gt-32948": [
+    {
+      "fecha": null,
+      "precio": 3.05
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2.6
+    }
+  ],
+  "walmart-gt-31877": [
+    {
+      "fecha": null,
+      "precio": 14.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 12.0
+    }
+  ],
+  "walmart-gt-16792": [
+    {
+      "fecha": null,
+      "precio": 68.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 61.0
+    }
+  ],
+  "walmart-gt-15318": [
+    {
+      "fecha": null,
+      "precio": 5.6
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 6.2
+    }
+  ],
+  "walmart-gt-15245": [
+    {
+      "fecha": null,
+      "precio": 12.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 13.75
+    }
+  ],
+  "walmart-gt-15241": [
+    {
+      "fecha": null,
+      "precio": 14.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 16.25
+    }
+  ],
+  "walmart-gt-14282": [
+    {
+      "fecha": null,
+      "precio": 3.6
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 3.95
+    }
+  ],
+  "walmart-gt-8306": [
+    {
+      "fecha": null,
+      "precio": 5.55
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.8
+    }
+  ],
+  "walmart-gt-4906": [
+    {
+      "fecha": null,
+      "precio": 43.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 41.5
+    }
+  ],
+  "walmart-gt-4546": [
+    {
+      "fecha": null,
+      "precio": 27.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 28.25
+    }
+  ],
+  "walmart-gt-119072": [
+    {
+      "fecha": null,
+      "precio": 25.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 18.75
+    }
+  ],
+  "walmart-gt-114947": [
+    {
+      "fecha": null,
+      "precio": 15.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 11.25
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 11.0
+    }
+  ],
+  "walmart-gt-100718": [
+    {
+      "fecha": null,
+      "precio": 8.7
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 7.7
+    }
+  ],
+  "walmart-gt-66251": [
+    {
+      "fecha": null,
+      "precio": 23.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 24.9
+    }
+  ],
+  "walmart-gt-66249": [
+    {
+      "fecha": null,
+      "precio": 23.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 24.9
+    }
+  ],
+  "walmart-gt-63737": [
+    {
+      "fecha": null,
+      "precio": 15.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 16.0
+    }
+  ],
+  "walmart-gt-62193": [
+    {
+      "fecha": null,
+      "precio": 10.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 7.5
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 7.0
+    }
+  ],
+  "walmart-gt-62191": [
+    {
+      "fecha": null,
+      "precio": 10.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 7.5
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 7.0
+    }
+  ],
+  "walmart-gt-54685": [
+    {
+      "fecha": null,
+      "precio": 17.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 16.0
+    }
+  ],
+  "walmart-gt-50297": [
+    {
+      "fecha": null,
+      "precio": 57.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 60.75
+    }
+  ],
+  "walmart-gt-50112": [
+    {
+      "fecha": null,
+      "precio": 43.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 47.75
+    }
+  ],
+  "walmart-gt-49502": [
+    {
+      "fecha": null,
+      "precio": 14.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 16.5
+    }
+  ],
+  "walmart-gt-39189": [
+    {
+      "fecha": null,
+      "precio": 27.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 32.7
+    }
+  ],
+  "walmart-gt-38999": [
+    {
+      "fecha": null,
+      "precio": 5.4
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.1
+    }
+  ],
+  "walmart-gt-36566": [
+    {
+      "fecha": null,
+      "precio": 11.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 12.25
+    }
+  ],
+  "walmart-gt-30800": [
+    {
+      "fecha": null,
+      "precio": 36.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 37.25
+    }
+  ],
+  "walmart-gt-15235": [
+    {
+      "fecha": null,
+      "precio": 13.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 14.5
+    }
+  ],
+  "walmart-gt-14283": [
+    {
+      "fecha": null,
+      "precio": 4.2
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.05
+    }
+  ],
+  "walmart-gt-10996": [
+    {
+      "fecha": null,
+      "precio": 24.7
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 25.5
+    }
+  ],
+  "walmart-gt-6589": [
+    {
+      "fecha": null,
+      "precio": 13.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 14.75
+    }
+  ],
+  "walmart-gt-6588": [
+    {
+      "fecha": null,
+      "precio": 10.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 10.0
+    }
+  ],
+  "walmart-gt-5417": [
+    {
+      "fecha": null,
+      "precio": 12.15
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.8
+    }
+  ],
+  "walmart-gt-1019": [
+    {
+      "fecha": null,
+      "precio": 17.45
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 16.0
+    }
+  ],
+  "walmart-gt-99080": [
+    {
+      "fecha": null,
+      "precio": 15.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 11.25
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 11.0
+    }
+  ],
+  "walmart-gt-99076": [
+    {
+      "fecha": null,
+      "precio": 13.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 9.75
+    }
+  ],
+  "walmart-gt-92754": [
+    {
+      "fecha": null,
+      "precio": 18.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 25.0
+    }
+  ],
+  "walmart-gt-88428": [
+    {
+      "fecha": null,
+      "precio": 35.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 27.5
+    }
+  ],
+  "walmart-gt-59266": [
+    {
+      "fecha": null,
+      "precio": 28.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 35.0
+    }
+  ],
+  "walmart-gt-49426": [
+    {
+      "fecha": null,
+      "precio": 33.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 35.0
+    }
+  ],
+  "walmart-gt-48191": [
+    {
+      "fecha": null,
+      "precio": 19.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 20.25
+    }
+  ],
+  "walmart-gt-39188": [
+    {
+      "fecha": null,
+      "precio": 24.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 28.0
+    }
+  ],
+  "walmart-gt-30534": [
+    {
+      "fecha": null,
+      "precio": 75.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 81.25
+    }
+  ],
+  "walmart-gt-15315": [
+    {
+      "fecha": null,
+      "precio": 6.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 6.7
+    }
+  ],
+  "walmart-gt-15308": [
+    {
+      "fecha": null,
+      "precio": 12.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 14.0
+    }
+  ],
+  "walmart-gt-33401": [
+    {
+      "fecha": null,
+      "precio": 4.41
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.5
+    }
+  ],
+  "walmart-gt-33396": [
+    {
+      "fecha": null,
+      "precio": 4.41
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.5
+    }
+  ],
+  "walmart-gt-99155": [
+    {
+      "fecha": null,
+      "precio": 4.41
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.5
+    }
+  ],
+  "walmart-gt-27543": [
+    {
+      "fecha": null,
+      "precio": 26.75
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 35.0
+    }
+  ],
+  "walmart-gt-27509": [
+    {
+      "fecha": null,
+      "precio": 6.3
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.85
+    }
+  ],
+  "walmart-gt-27507": [
+    {
+      "fecha": null,
+      "precio": 3.74
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 3.92
+    }
+  ],
+  "walmart-gt-59976": [
+    {
+      "fecha": null,
+      "precio": 24.08
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 27.0
+    }
+  ],
+  "walmart-gt-58044": [
+    {
+      "fecha": null,
+      "precio": 14.4
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 14.49
+    }
+  ],
+  "walmart-gt-27540": [
+    {
+      "fecha": null,
+      "precio": 28.75
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 30.0
+    }
+  ],
+  "walmart-gt-90911": [
+    {
+      "fecha": null,
+      "precio": 6.2
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 6.3
+    }
+  ],
+  "walmart-gt-34554": [
+    {
+      "fecha": null,
+      "precio": 3.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 3.95
+    }
+  ],
+  "walmart-gt-34552": [
+    {
+      "fecha": null,
+      "precio": 3.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 3.95
+    }
+  ],
+  "walmart-gt-33915": [
+    {
+      "fecha": null,
+      "precio": 8.4
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 10.0
+    }
+  ],
+  "walmart-gt-33404": [
+    {
+      "fecha": null,
+      "precio": 4.9
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.0
+    }
+  ],
+  "walmart-gt-31432": [
+    {
+      "fecha": null,
+      "precio": 19.15
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 18.25
+    }
+  ],
+  "walmart-gt-7990": [
+    {
+      "fecha": null,
+      "precio": 17.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 18.9
+    }
+  ],
+  "walmart-gt-4534": [
+    {
+      "fecha": null,
+      "precio": 2.85
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 3.2
+    }
+  ],
+  "walmart-gt-4533": [
+    {
+      "fecha": null,
+      "precio": 2.85
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 3.9
+    }
+  ],
+  "walmart-gt-90912": [
+    {
+      "fecha": null,
+      "precio": 6.2
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 6.3
+    }
+  ],
+  "walmart-gt-69886": [
+    {
+      "fecha": null,
+      "precio": 9.17
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 9.46
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.17
+    }
+  ],
+  "walmart-gt-34551": [
+    {
+      "fecha": null,
+      "precio": 3.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 3.95
+    }
+  ],
+  "walmart-gt-32306": [
+    {
+      "fecha": null,
+      "precio": 4.55
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.65
+    }
+  ],
+  "walmart-gt-32301": [
+    {
+      "fecha": null,
+      "precio": 9.6
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.15
+    }
+  ],
+  "walmart-gt-76706": [
+    {
+      "fecha": null,
+      "precio": 12.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 16.0
+    }
+  ],
+  "walmart-gt-75270": [
+    {
+      "fecha": null,
+      "precio": 12.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 16.0
+    }
+  ],
+  "walmart-gt-64174": [
+    {
+      "fecha": null,
+      "precio": 4.9
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.0
+    }
+  ],
+  "walmart-gt-45458": [
+    {
+      "fecha": null,
+      "precio": 26.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 21.0
+    }
+  ],
+  "walmart-gt-34553": [
+    {
+      "fecha": null,
+      "precio": 3.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 3.95
+    }
+  ],
+  "walmart-gt-75269": [
+    {
+      "fecha": null,
+      "precio": 12.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 16.0
+    }
+  ],
+  "walmart-gt-27525": [
+    {
+      "fecha": null,
+      "precio": 5.4
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.94
+    }
+  ],
+  "walmart-gt-27520": [
+    {
+      "fecha": null,
+      "precio": 5.4
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.94
+    }
+  ],
+  "walmart-gt-4558": [
+    {
+      "fecha": null,
+      "precio": 116.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 115.0
+    }
+  ],
+  "walmart-gt-4559": [
+    {
+      "fecha": null,
+      "precio": 117.8
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 115.0
+    }
+  ],
+  "walmart-gt-4554": [
+    {
+      "fecha": null,
+      "precio": 117.8
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 115.0
+    }
+  ],
+  "walmart-gt-49226": [
+    {
+      "fecha": null,
+      "precio": 26.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 21.3
+    }
+  ],
+  "walmart-gt-84326": [
+    {
+      "fecha": null,
+      "precio": 12.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 16.0
+    }
+  ],
+  "walmart-gt-115232": [
+    {
+      "fecha": null,
+      "precio": 30.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 48.75
+    }
+  ],
+  "walmart-gt-75275": [
+    {
+      "fecha": null,
+      "precio": 12.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 16.0
+    }
+  ],
+  "walmart-gt-26628": [
+    {
+      "fecha": null,
+      "precio": 109.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 110.0
+    }
+  ],
+  "walmart-gt-26624": [
+    {
+      "fecha": null,
+      "precio": 160.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 170.0
+    }
+  ],
+  "walmart-gt-5389": [
+    {
+      "fecha": null,
+      "precio": 26.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 35.0
+    }
+  ],
+  "walmart-gt-93043": [
+    {
+      "fecha": null,
+      "precio": 4.8
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.0
+    }
+  ],
+  "walmart-gt-62276": [
+    {
+      "fecha": null,
+      "precio": 303.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 310.0
+    }
+  ],
+  "walmart-gt-21210": [
+    {
+      "fecha": null,
+      "precio": 305.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 290.0
+    }
+  ],
+  "walmart-gt-40529": [
+    {
+      "fecha": null,
+      "precio": 35.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 40.0
+    }
+  ],
+  "walmart-gt-27097": [
+    {
+      "fecha": null,
+      "precio": 45.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 46.0
+    }
+  ],
+  "walmart-gt-26618": [
+    {
+      "fecha": null,
+      "precio": 5.8
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.7
+    }
+  ],
+  "walmart-gt-21263": [
+    {
+      "fecha": null,
+      "precio": 62.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 55.0
+    }
+  ],
+  "walmart-gt-19594": [
+    {
+      "fecha": null,
+      "precio": 40.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 45.0
+    }
+  ],
+  "walmart-gt-61349": [
+    {
+      "fecha": null,
+      "precio": 102.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 100.0
+    }
+  ],
+  "walmart-gt-26629": [
+    {
+      "fecha": null,
+      "precio": 8.9
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 8.5
+    }
+  ],
+  "walmart-gt-19616": [
+    {
+      "fecha": null,
+      "precio": 33.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 35.0
+    }
+  ],
+  "walmart-gt-59970": [
+    {
+      "fecha": null,
+      "precio": 62.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 55.0
+    }
+  ],
+  "walmart-gt-36001": [
+    {
+      "fecha": null,
+      "precio": 84.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 85.0
+    }
+  ],
+  "walmart-gt-27053": [
+    {
+      "fecha": null,
+      "precio": 41.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 40.0
+    }
+  ],
+  "walmart-gt-110399": [
+    {
+      "fecha": null,
+      "precio": 198.8
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 190.0
+    }
+  ],
+  "walmart-gt-41299": [
+    {
+      "fecha": null,
+      "precio": 14.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 13.0
+    }
+  ],
+  "walmart-gt-40531": [
+    {
+      "fecha": null,
+      "precio": 35.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 40.0
+    }
+  ],
+  "walmart-gt-21238": [
+    {
+      "fecha": null,
+      "precio": 129.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 120.0
+    }
+  ],
+  "walmart-gt-21202": [
+    {
+      "fecha": null,
+      "precio": 215.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 200.0
+    }
+  ],
+  "walmart-gt-8178": [
+    {
+      "fecha": null,
+      "precio": 59.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 68.0
+    }
+  ],
+  "walmart-gt-75573": [
+    {
+      "fecha": null,
+      "precio": 72.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 72.0
+    }
+  ],
+  "walmart-gt-56762": [
+    {
+      "fecha": null,
+      "precio": 60.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 50.0
+    }
+  ],
+  "walmart-gt-41316": [
+    {
+      "fecha": null,
+      "precio": 91.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 107.0
+    }
+  ],
+  "walmart-gt-40201": [
+    {
+      "fecha": null,
+      "precio": 74.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 68.0
+    }
+  ],
+  "walmart-gt-21379": [
+    {
+      "fecha": null,
+      "precio": 177.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 180.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 177.5
+    }
+  ],
+  "walmart-gt-8451": [
+    {
+      "fecha": null,
+      "precio": 87.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 80.0
+    }
+  ],
+  "walmart-gt-8148": [
+    {
+      "fecha": null,
+      "precio": 275.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 250.0
+    }
+  ],
+  "walmart-gt-127912": [
+    {
+      "fecha": null,
+      "precio": 80.33
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 82.8
+    }
+  ],
+  "walmart-gt-127207": [
+    {
+      "fecha": null,
+      "precio": 80.33
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 82.8
+    }
+  ],
+  "walmart-gt-111295": [
+    {
+      "fecha": null,
+      "precio": 104.6
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 100.0
+    }
+  ],
+  "walmart-gt-100975": [
+    {
+      "fecha": null,
+      "precio": 677.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 660.0
+    }
+  ],
+  "walmart-gt-98986": [
+    {
+      "fecha": null,
+      "precio": 100.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 80.0
+    }
+  ],
+  "walmart-gt-90486": [
+    {
+      "fecha": null,
+      "precio": 8.6
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 8.5
+    }
+  ],
+  "walmart-gt-90484": [
+    {
+      "fecha": null,
+      "precio": 8.6
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 8.5
+    }
+  ],
+  "walmart-gt-90483": [
+    {
+      "fecha": null,
+      "precio": 8.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 8.5
+    }
+  ],
+  "walmart-gt-69621": [
+    {
+      "fecha": null,
+      "precio": 80.33
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 82.8
+    }
+  ],
+  "walmart-gt-69619": [
+    {
+      "fecha": null,
+      "precio": 89.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 92.0
+    }
+  ],
+  "walmart-gt-56763": [
+    {
+      "fecha": null,
+      "precio": 60.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 50.0
+    }
+  ],
+  "walmart-gt-56761": [
+    {
+      "fecha": null,
+      "precio": 60.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 50.0
+    }
+  ],
+  "walmart-gt-54205": [
+    {
+      "fecha": null,
+      "precio": 49.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 45.0
+    }
+  ],
+  "walmart-gt-54101": [
+    {
+      "fecha": null,
+      "precio": 92.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 75.0
+    }
+  ],
+  "walmart-gt-51123": [
+    {
+      "fecha": null,
+      "precio": 100.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 80.0
+    }
+  ],
+  "walmart-gt-49952": [
+    {
+      "fecha": null,
+      "precio": 382.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 350.0
+    }
+  ],
+  "walmart-gt-41568": [
+    {
+      "fecha": null,
+      "precio": 49.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 45.0
+    }
+  ],
+  "walmart-gt-41238": [
+    {
+      "fecha": null,
+      "precio": 69.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 70.0
+    }
+  ],
+  "walmart-gt-40509": [
+    {
+      "fecha": null,
+      "precio": 91.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 75.0
+    }
+  ],
+  "walmart-gt-40203": [
+    {
+      "fecha": null,
+      "precio": 74.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 68.0
+    }
+  ],
+  "walmart-gt-35457": [
+    {
+      "fecha": null,
+      "precio": 84.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 80.0
+    }
+  ],
+  "walmart-gt-13134": [
+    {
+      "fecha": null,
+      "precio": 518.4
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 400.0
+    }
+  ],
+  "walmart-gt-8294": [
+    {
+      "fecha": null,
+      "precio": 104.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 100.0
+    }
+  ],
+  "walmart-gt-8146": [
+    {
+      "fecha": null,
+      "precio": 390.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 365.0
+    }
+  ],
+  "walmart-gt-7931": [
+    {
+      "fecha": null,
+      "precio": 496.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 480.0
+    }
+  ],
+  "walmart-gt-7926": [
+    {
+      "fecha": null,
+      "precio": 835.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 800.0
+    }
+  ],
+  "walmart-gt-3924": [
+    {
+      "fecha": null,
+      "precio": 62.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 68.0
+    }
+  ],
+  "walmart-gt-3922": [
+    {
+      "fecha": null,
+      "precio": 62.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 68.0
+    }
+  ],
+  "walmart-gt-64232": [
+    {
+      "fecha": null,
+      "precio": 13.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 12.7
+    }
+  ],
+  "walmart-gt-63411": [
+    {
+      "fecha": null,
+      "precio": 29.9
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 27.6
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 29.75
+    }
+  ],
+  "walmart-gt-49320": [
+    {
+      "fecha": null,
+      "precio": 29.9
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 29.75
+    }
+  ],
+  "walmart-gt-48461": [
+    {
+      "fecha": null,
+      "precio": 49.75
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 42.0
+    }
+  ],
+  "walmart-gt-48084": [
+    {
+      "fecha": null,
+      "precio": 29.9
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 29.75
+    }
+  ],
+  "walmart-gt-48462": [
+    {
+      "fecha": null,
+      "precio": 49.75
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 42.0
+    }
+  ],
+  "walmart-gt-49322": [
+    {
+      "fecha": null,
+      "precio": 29.9
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 27.6
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 29.75
+    }
+  ],
+  "walmart-gt-49321": [
+    {
+      "fecha": null,
+      "precio": 29.9
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 27.6
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 29.75
+    }
+  ],
+  "walmart-gt-48460": [
+    {
+      "fecha": null,
+      "precio": 49.75
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 42.0
+    }
+  ],
+  "walmart-gt-98023": [
+    {
+      "fecha": null,
+      "precio": 45.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 42.0
+    }
+  ],
+  "walmart-gt-33709": [
+    {
+      "fecha": null,
+      "precio": 8.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 7.5
+    }
+  ],
+  "walmart-gt-33685": [
+    {
+      "fecha": null,
+      "precio": 11.45
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 11.5
+    }
+  ],
+  "walmart-gt-27879": [
+    {
+      "fecha": null,
+      "precio": 17.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 16.5
+    }
+  ],
+  "walmart-gt-27878": [
+    {
+      "fecha": null,
+      "precio": 26.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 24.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 26.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 24.0
+    }
+  ],
+  "walmart-gt-33712": [
+    {
+      "fecha": null,
+      "precio": 22.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 22.15
+    }
+  ],
+  "walmart-gt-27881": [
+    {
+      "fecha": null,
+      "precio": 23.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 22.75
+    }
+  ],
+  "walmart-gt-33657": [
+    {
+      "fecha": null,
+      "precio": 15.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 15.0
+    }
+  ],
+  "walmart-gt-33653": [
+    {
+      "fecha": null,
+      "precio": 18.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 18.45
+    }
+  ],
+  "walmart-gt-523": [
+    {
+      "fecha": null,
+      "precio": 10.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.7
+    }
+  ],
+  "walmart-gt-34163": [
+    {
+      "fecha": null,
+      "precio": 11.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 11.0
+    }
+  ],
+  "walmart-gt-56394": [
+    {
+      "fecha": null,
+      "precio": 12.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 12.2
+    }
+  ],
+  "walmart-gt-52939": [
+    {
+      "fecha": null,
+      "precio": 135.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 148.5
+    }
+  ],
+  "walmart-gt-50369": [
+    {
+      "fecha": null,
+      "precio": 162.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 155.21
+    }
+  ],
+  "walmart-gt-7808": [
+    {
+      "fecha": null,
+      "precio": 28.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 21.25
+    }
+  ],
+  "walmart-gt-99369": [
+    {
+      "fecha": null,
+      "precio": 16.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 15.5
+    }
+  ],
+  "walmart-gt-89394": [
+    {
+      "fecha": null,
+      "precio": 41.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 37.75
+    }
+  ],
+  "walmart-gt-57739": [
+    {
+      "fecha": null,
+      "precio": 11.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.0
+    }
+  ],
+  "walmart-gt-35839": [
+    {
+      "fecha": null,
+      "precio": 29.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 29.0
+    }
+  ],
+  "walmart-gt-33597": [
+    {
+      "fecha": null,
+      "precio": 169.58
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 142.65
+    }
+  ],
+  "walmart-gt-33222": [
+    {
+      "fecha": null,
+      "precio": 17.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 17.45
+    }
+  ],
+  "walmart-gt-64892": [
+    {
+      "fecha": null,
+      "precio": 38.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 35.0
+    }
+  ],
+  "walmart-gt-35836": [
+    {
+      "fecha": null,
+      "precio": 29.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 29.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 29.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 29.0
+    }
+  ],
+  "walmart-gt-34170": [
+    {
+      "fecha": null,
+      "precio": 10.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.7
+    }
+  ],
+  "walmart-gt-33863": [
+    {
+      "fecha": null,
+      "precio": 12.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 11.65
+    }
+  ],
+  "walmart-gt-33596": [
+    {
+      "fecha": null,
+      "precio": 157.5
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 166.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 157.5
+    }
+  ],
+  "walmart-gt-33589": [
+    {
+      "fecha": null,
+      "precio": 46.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 38.25
+    }
+  ],
+  "walmart-gt-33279": [
+    {
+      "fecha": null,
+      "precio": 103.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 100.5
+    }
+  ],
+  "walmart-gt-27987": [
+    {
+      "fecha": null,
+      "precio": 19.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 19.0
+    }
+  ],
+  "walmart-gt-15820": [
+    {
+      "fecha": null,
+      "precio": 4.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.35
+    }
+  ],
+  "walmart-gt-12292": [
+    {
+      "fecha": null,
+      "precio": 46.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 52.0
+    }
+  ],
+  "walmart-gt-100628": [
+    {
+      "fecha": null,
+      "precio": 14.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 13.75
+    }
+  ],
+  "walmart-gt-92279": [
+    {
+      "fecha": null,
+      "precio": 38.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 37.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 38.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 37.0
+    }
+  ],
+  "walmart-gt-79613": [
+    {
+      "fecha": null,
+      "precio": 40.9
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 44.75
+    }
+  ],
+  "walmart-gt-79608": [
+    {
+      "fecha": null,
+      "precio": 12.4
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 11.75
+    }
+  ],
+  "walmart-gt-75552": [
+    {
+      "fecha": null,
+      "precio": 153.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 149.2
+    }
+  ],
+  "walmart-gt-68319": [
+    {
+      "fecha": null,
+      "precio": 12.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 13.0
+    }
+  ],
+  "walmart-gt-60347": [
+    {
+      "fecha": null,
+      "precio": 35.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 36.0
+    }
+  ],
+  "walmart-gt-36079": [
+    {
+      "fecha": null,
+      "precio": 9.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.0
+    }
+  ],
+  "walmart-gt-35846": [
+    {
+      "fecha": null,
+      "precio": 6.6
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 7.0
+    }
+  ],
+  "walmart-gt-33626": [
+    {
+      "fecha": null,
+      "precio": 11.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 11.5
+    }
+  ],
+  "walmart-gt-30149": [
+    {
+      "fecha": null,
+      "precio": 24.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 29.0
+    }
+  ],
+  "walmart-gt-16595": [
+    {
+      "fecha": null,
+      "precio": 27.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 26.0
+    }
+  ],
+  "walmart-gt-16589": [
+    {
+      "fecha": null,
+      "precio": 9.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.2
+    }
+  ],
+  "walmart-gt-16577": [
+    {
+      "fecha": null,
+      "precio": 9.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.2
+    }
+  ],
+  "walmart-gt-16554": [
+    {
+      "fecha": null,
+      "precio": 4.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.35
+    }
+  ],
+  "walmart-gt-7450": [
+    {
+      "fecha": null,
+      "precio": 28.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 21.25
+    }
+  ],
+  "walmart-gt-100629": [
+    {
+      "fecha": null,
+      "precio": 14.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 13.75
+    }
+  ],
+  "walmart-gt-92275": [
+    {
+      "fecha": null,
+      "precio": 38.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 37.0
+    }
+  ],
+  "walmart-gt-79969": [
+    {
+      "fecha": null,
+      "precio": 55.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 52.0
+    }
+  ],
+  "walmart-gt-75568": [
+    {
+      "fecha": null,
+      "precio": 153.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 140.55
+    }
+  ],
+  "walmart-gt-71380": [
+    {
+      "fecha": null,
+      "precio": 31.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 30.0
+    }
+  ],
+  "walmart-gt-36075": [
+    {
+      "fecha": null,
+      "precio": 48.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 47.0
+    }
+  ],
+  "walmart-gt-35847": [
+    {
+      "fecha": null,
+      "precio": 6.6
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 7.0
+    }
+  ],
+  "walmart-gt-35815": [
+    {
+      "fecha": null,
+      "precio": 11.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.9
+    }
+  ],
+  "walmart-gt-33625": [
+    {
+      "fecha": null,
+      "precio": 11.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 11.5
+    }
+  ],
+  "walmart-gt-33327": [
+    {
+      "fecha": null,
+      "precio": 104.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 99.65
+    }
+  ],
+  "walmart-gt-30782": [
+    {
+      "fecha": null,
+      "precio": 121.85
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 113.2
+    }
+  ],
+  "walmart-gt-30152": [
+    {
+      "fecha": null,
+      "precio": 27.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 30.0
+    }
+  ],
+  "walmart-gt-16599": [
+    {
+      "fecha": null,
+      "precio": 4.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.35
+    }
+  ],
+  "walmart-gt-16576": [
+    {
+      "fecha": null,
+      "precio": 9.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.2
+    }
+  ],
+  "walmart-gt-16553": [
+    {
+      "fecha": null,
+      "precio": 4.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.35
+    }
+  ],
+  "walmart-gt-12089": [
+    {
+      "fecha": null,
+      "precio": 28.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 21.25
+    }
+  ],
+  "walmart-gt-7781": [
+    {
+      "fecha": null,
+      "precio": 28.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 21.25
+    }
+  ],
+  "walmart-gt-86919": [
+    {
+      "fecha": null,
+      "precio": 8.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.0
+    }
+  ],
+  "walmart-gt-79967": [
+    {
+      "fecha": null,
+      "precio": 55.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 52.0
+    }
+  ],
+  "walmart-gt-68320": [
+    {
+      "fecha": null,
+      "precio": 12.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 13.25
+    }
+  ],
+  "walmart-gt-56389": [
+    {
+      "fecha": null,
+      "precio": 37.8
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 36.5
+    }
+  ],
+  "walmart-gt-36272": [
+    {
+      "fecha": null,
+      "precio": 83.65
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 80.4
+    }
+  ],
+  "walmart-gt-35844": [
+    {
+      "fecha": null,
+      "precio": 6.6
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 7.0
+    }
+  ],
+  "walmart-gt-35837": [
+    {
+      "fecha": null,
+      "precio": 29.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 29.0
+    }
+  ],
+  "walmart-gt-35817": [
+    {
+      "fecha": null,
+      "precio": 11.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.9
+    }
+  ],
+  "walmart-gt-32452": [
+    {
+      "fecha": null,
+      "precio": 3.55
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 3.65
+    }
+  ],
+  "walmart-gt-30151": [
+    {
+      "fecha": null,
+      "precio": 27.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 30.0
+    }
+  ],
+  "walmart-gt-12279": [
+    {
+      "fecha": null,
+      "precio": 32.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 32.0
+    }
+  ],
+  "walmart-gt-102965": [
+    {
+      "fecha": null,
+      "precio": 170.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 155.0
+    }
+  ],
+  "walmart-gt-88096": [
+    {
+      "fecha": null,
+      "precio": 191.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 170.0
+    }
+  ],
+  "walmart-gt-68311": [
+    {
+      "fecha": null,
+      "precio": 31.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 30.0
+    }
+  ],
+  "walmart-gt-56392": [
+    {
+      "fecha": null,
+      "precio": 76.9
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 70.0
+    }
+  ],
+  "walmart-gt-56391": [
+    {
+      "fecha": null,
+      "precio": 84.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 70.0
+    }
+  ],
+  "walmart-gt-40959": [
+    {
+      "fecha": null,
+      "precio": 87.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 74.0
+    }
+  ],
+  "walmart-gt-36078": [
+    {
+      "fecha": null,
+      "precio": 8.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.0
+    }
+  ],
+  "walmart-gt-35816": [
+    {
+      "fecha": null,
+      "precio": 11.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.9
+    }
+  ],
+  "walmart-gt-33328": [
+    {
+      "fecha": null,
+      "precio": 101.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 99.65
+    }
+  ],
+  "walmart-gt-90926": [
+    {
+      "fecha": null,
+      "precio": 6.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.8
+    }
+  ],
+  "walmart-gt-89926": [
+    {
+      "fecha": null,
+      "precio": 6.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.8
+    }
+  ],
+  "walmart-gt-47164": [
+    {
+      "fecha": null,
+      "precio": 38.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 34.25
+    }
+  ],
+  "walmart-gt-36273": [
+    {
+      "fecha": null,
+      "precio": 159.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 145.0
+    }
+  ],
+  "walmart-gt-35855": [
+    {
+      "fecha": null,
+      "precio": 6.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5.7
+    }
+  ],
+  "walmart-gt-15436": [
+    {
+      "fecha": null,
+      "precio": 193.7
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 173.55
+    }
+  ],
+  "walmart-gt-89925": [
+    {
+      "fecha": null,
+      "precio": 6.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.8
+    }
+  ],
+  "walmart-gt-43961": [
+    {
+      "fecha": null,
+      "precio": 34.9
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 35.5
+    }
+  ],
+  "walmart-gt-49263": [
+    {
+      "fecha": null,
+      "precio": 27.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 24.25
+    }
+  ],
+  "walmart-gt-43905": [
+    {
+      "fecha": null,
+      "precio": 18.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 19.0
+    }
+  ],
+  "walmart-gt-67357": [
+    {
+      "fecha": null,
+      "precio": 25.9
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 23.5
+    }
+  ],
+  "walmart-gt-44043": [
+    {
+      "fecha": null,
+      "precio": 47.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 42.3
+    }
+  ],
+  "walmart-gt-28171": [
+    {
+      "fecha": null,
+      "precio": 11.75
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 12.0
+    }
+  ],
+  "walmart-gt-27039": [
+    {
+      "fecha": null,
+      "precio": 26.75
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 24.25
+    }
+  ],
+  "walmart-gt-27017": [
+    {
+      "fecha": null,
+      "precio": 13.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 13.4
+    }
+  ],
+  "walmart-gt-62514": [
+    {
+      "fecha": null,
+      "precio": 36.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 33.5
+    }
+  ],
+  "walmart-gt-60582": [
+    {
+      "fecha": null,
+      "precio": 22.5
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 20.3
+    }
+  ],
+  "walmart-gt-117034": [
+    {
+      "fecha": null,
+      "precio": 179.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 150.0
+    }
+  ],
+  "walmart-gt-35666": [
+    {
+      "fecha": null,
+      "precio": 34.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 37.0
+    }
+  ],
+  "walmart-gt-33560": [
+    {
+      "fecha": null,
+      "precio": 50.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 51.0
+    }
+  ],
+  "walmart-gt-33559": [
+    {
+      "fecha": null,
+      "precio": 50.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 51.0
+    }
+  ],
+  "walmart-gt-16600": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 4.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4.35
+    }
+  ],
+  "walmart-gt-85055": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 6.5
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 6.8
+    }
+  ],
+  "walmart-gt-6591": [
+    {
+      "fecha": "2026-10-29",
+      "precio": 11.25
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 9.8
+    }
+  ],
+  "cemaco-103533523": [
+    {
+      "fecha": null,
+      "precio": 599.99
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 479.99
+    }
+  ],
+  "cemaco-103541519": [
+    {
+      "fecha": null,
+      "precio": 4199.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4899.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 3799.0
+    }
+  ],
+  "cemaco-103537396": [
+    {
+      "fecha": null,
+      "precio": 1499.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1099.0
+    }
+  ],
+  "cemaco-103550310": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 67.49
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 124.99
+    }
+  ],
+  "cemaco-20326": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 528.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 468.99
+    }
+  ],
+  "cemaco-103533526": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 689.99
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 517.49
+    }
+  ],
+  "cemaco-103439944": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 398.99
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 299.24
+    }
+  ],
+  "cemaco-103533454": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 689.99
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 517.49
+    }
+  ],
+  "cemaco-103470905": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 129.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 64.99
+    }
+  ],
+  "cemaco-103432074": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 249.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 124.99
+    }
+  ],
+  "cemaco-24526": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 29.99
+    }
+  ],
+  "cemaco-103513744": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 34.99
+    }
+  ],
+  "cemaco-103509108": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 39.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 23.99
+    }
+  ],
+  "cemaco-103469616": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 44.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 22.5
+    }
+  ],
+  "cemaco-103542318": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 724.99
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 652.49
+    }
+  ],
+  "cemaco-103513742": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 34.99
+    }
+  ],
+  "cemaco-103484328": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 15.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 29.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 9.0
+    }
+  ],
+  "cemaco-25535": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 399.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 199.99
+    }
+  ],
+  "cemaco-17183": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 23.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 19.99
+    }
+  ],
+  "cemaco-103513743": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 34.99
+    }
+  ],
+  "cemaco-103513357": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 799.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 400.0
+    }
+  ],
+  "cemaco-103509007": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 39.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 23.99
+    }
+  ],
+  "cemaco-103488731": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 119.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 59.99
+    }
+  ],
+  "cemaco-103482176": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 399.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 239.99
+    }
+  ],
+  "cemaco-103418861": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 89.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 44.99
+    }
+  ],
+  "cemaco-55652": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 54.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 27.5
+    }
+  ],
+  "cemaco-25071": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 84.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 59.49
+    }
+  ],
+  "cemaco-23197": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 99.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 49.99
+    }
+  ],
+  "cemaco-17074": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 44.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 22.5
+    }
+  ],
+  "cemaco-103513536": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 34.99
+    }
+  ],
+  "cemaco-103509127": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 39.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 23.99
+    }
+  ],
+  "cemaco-103509126": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 69.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 48.99
+    }
+  ],
+  "cemaco-103509118": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 39.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 23.99
+    }
+  ],
+  "cemaco-103495072": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 16.99
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 17.99
+    }
+  ],
+  "cemaco-103494891": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 199.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 99.99
+    }
+  ],
+  "cemaco-103488700": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 139.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 69.99
+    }
+  ],
+  "cemaco-103487989": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 69.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 34.99
+    }
+  ],
+  "cemaco-103484561": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 79.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 39.99
+    }
+  ],
+  "cemaco-23323": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 23.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 22.99
+    }
+  ],
+  "cemaco-23223": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 44.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 31.49
+    }
+  ],
+  "cemaco-17407": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 23.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 19.99
+    }
+  ],
+  "cemaco-103521337": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 699.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 350.0
+    }
+  ],
+  "cemaco-103515820": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 99.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 69.99
+    }
+  ],
+  "cemaco-103515812": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 34.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 24.49
+    }
+  ],
+  "cemaco-103513534": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 34.99
+    }
+  ],
+  "cemaco-103513360": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 1499.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 1049.3
+    }
+  ],
+  "cemaco-103509258": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 69.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 41.99
+    }
+  ],
+  "cemaco-103509252": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 499.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 299.99
+    }
+  ],
+  "cemaco-103509248": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 34.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 20.99
+    }
+  ],
+  "cemaco-103509246": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 34.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 20.99
+    }
+  ],
+  "cemaco-103509130": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 34.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 20.99
+    }
+  ],
+  "cemaco-103509114": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 59.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 41.99
+    }
+  ],
+  "cemaco-103509100": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 34.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 20.99
+    }
+  ],
+  "cemaco-103505243": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 59.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 35.99
+    }
+  ],
+  "cemaco-103499006": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 29.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 14.99
+    }
+  ],
+  "cemaco-103492493": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 259.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 129.99
+    }
+  ],
+  "cemaco-103492490": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 299.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 150.0
+    }
+  ],
+  "cemaco-103491954": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 89.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 44.99
+    }
+  ],
+  "cemaco-103491805": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 299.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 149.99
+    }
+  ],
+  "cemaco-103491794": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 119.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 59.99
+    }
+  ],
+  "cemaco-103490283": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 149.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 74.99
+    }
+  ],
+  "cemaco-103487167": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 449.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 224.99
+    }
+  ],
+  "cemaco-103486837": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 499.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 249.99
+    }
+  ],
+  "cemaco-103484583": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 24.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 15.0
+    }
+  ],
+  "cemaco-103484557": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 2499.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 1249.5
+    }
+  ],
+  "cemaco-103484340": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 149.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 74.99
+    }
+  ],
+  "cemaco-103474230": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 369.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 184.99
+    }
+  ],
+  "cemaco-103474220": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 79.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 40.0
+    }
+  ],
+  "cemaco-103472021": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 139.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 69.99
+    }
+  ],
+  "cemaco-103470900": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 249.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 125.0
+    }
+  ],
+  "cemaco-103467808": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 159.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 79.99
+    }
+  ],
+  "cemaco-103445795": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 259.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 129.99
+    }
+  ],
+  "cemaco-103418938": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 54.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 27.5
+    }
+  ],
+  "cemaco-55661": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 44.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 22.5
+    }
+  ],
+  "cemaco-55657": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 59.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 29.99
+    }
+  ],
+  "cemaco-55654": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 54.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 27.5
+    }
+  ],
+  "cemaco-55458": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 24.99
+    }
+  ],
+  "cemaco-55401": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 229.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 114.99
+    }
+  ],
+  "cemaco-28710": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 299.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 179.99
+    }
+  ],
+  "cemaco-28709": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 399.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 200.0
+    }
+  ],
+  "cemaco-28705": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 129.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 64.99
+    }
+  ],
+  "cemaco-27587": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 249.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 124.99
+    }
+  ],
+  "cemaco-27489": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 299.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 149.99
+    }
+  ],
+  "cemaco-25531": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 499.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 250.0
+    }
+  ],
+  "cemaco-24099": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 64.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 32.5
+    }
+  ],
+  "cemaco-23435": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 129.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 64.99
+    }
+  ],
+  "cemaco-103440387": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 169.99
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 101.99
+    }
+  ],
+  "cemaco-103532544": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 499.99
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 299.99
+    }
+  ],
+  "cemaco-103531981": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 799.99
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 400.0
+    }
+  ],
+  "cemaco-103424307": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 109.99
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 139.99
+    }
+  ],
   "epa-GT-2442075 / 2412008": [
     {
       "fecha": "2026-10-28",
@@ -8395,6 +12527,16 @@
     {
       "fecha": "2026-10-29",
       "precio": 239.0
+    }
+  ],
+  "epa-GT-0948034 / 0948035": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 2398.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1878.0
     }
   ],
   "epa-GT-0429030/060/136/158/159": [
@@ -13295,6 +17437,36 @@
       "precio": 899.0
     }
   ],
+  "epa-GT-0948040 / 0948041": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 4749.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 3754.0
+    }
+  ],
+  "epa-GT-0948038 / 0948039": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 3799.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2999.0
+    }
+  ],
+  "epa-GT-0948036 / 0948037": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 3198.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2534.0
+    }
+  ],
   "epa-GT-0948032 / 0948033": [
     {
       "fecha": "2026-10-28",
@@ -13313,6 +17485,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 2749.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2158.0
     }
   ],
   "epa-GT-0948028 / 0948029": [
@@ -13323,6 +17499,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 2518.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1994.0
     }
   ],
   "epa-GT-0948026 / 0948027": [
@@ -13333,6 +17513,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 1508.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1198.0
     }
   ],
   "epa-GT-0948086": [
@@ -14079,4226 +18263,564 @@
       "precio": 165.0
     }
   ],
-  "walmart-gt-57793": [
-    {
-      "fecha": null,
-      "precio": 4.45
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.25
-    }
-  ],
-  "walmart-gt-59988": [
-    {
-      "fecha": null,
-      "precio": 2.55
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2.8
-    }
-  ],
-  "walmart-gt-22324": [
-    {
-      "fecha": null,
-      "precio": 7.6
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 7.8
-    }
-  ],
-  "walmart-gt-59987": [
-    {
-      "fecha": null,
-      "precio": 2.55
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2.8
-    }
-  ],
-  "walmart-gt-58440": [
-    {
-      "fecha": null,
-      "precio": 29.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 35.5
-    }
-  ],
-  "walmart-gt-31436": [
-    {
-      "fecha": null,
-      "precio": 19.25
-    },
+  "epa-GT-2442080 / 2412061": [
     {
       "fecha": "2026-10-28",
-      "precio": 20.0
-    }
-  ],
-  "walmart-gt-26955": [
-    {
-      "fecha": null,
-      "precio": 5.7
+      "precio": 2498.0
     },
     {
       "fecha": "2026-10-29",
-      "precio": 6.7
+      "precio": 1999.0
     }
   ],
-  "walmart-gt-26807": [
-    {
-      "fecha": null,
-      "precio": 17.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 16.5
-    }
-  ],
-  "walmart-gt-15413": [
-    {
-      "fecha": null,
-      "precio": 8.2
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 8.4
-    }
-  ],
-  "walmart-gt-14277": [
-    {
-      "fecha": null,
-      "precio": 21.1
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 22.5
-    }
-  ],
-  "walmart-gt-8319": [
-    {
-      "fecha": null,
-      "precio": 4.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.05
-    }
-  ],
-  "walmart-gt-86888": [
-    {
-      "fecha": null,
-      "precio": 2.15
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 1.9
-    }
-  ],
-  "walmart-gt-59986": [
-    {
-      "fecha": null,
-      "precio": 2.55
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2.8
-    }
-  ],
-  "walmart-gt-32944": [
-    {
-      "fecha": null,
-      "precio": 3.05
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2.6
-    }
-  ],
-  "walmart-gt-31433": [
-    {
-      "fecha": null,
-      "precio": 19.25
-    },
+  "pricesmart-3364": [
     {
       "fecha": "2026-10-28",
-      "precio": 20.0
-    }
-  ],
-  "walmart-gt-13923": [
-    {
-      "fecha": null,
-      "precio": 10.5
+      "precio": 424.95
     },
     {
       "fecha": "2026-10-29",
-      "precio": 10.0
+      "precio": 427.95
     }
   ],
-  "walmart-gt-8337": [
-    {
-      "fecha": null,
-      "precio": 9.85
-    },
+  "pricesmart-517826": [
     {
       "fecha": "2026-10-28",
+      "precio": 5199.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5299.95
+    }
+  ],
+  "pricesmart-517165": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 1449.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1499.95
+    }
+  ],
+  "pricesmart-497734": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 2299.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2499.95
+    }
+  ],
+  "pricesmart-428521": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 7999.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 8499.95
+    }
+  ],
+  "pricesmart-483770": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 349.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 329.95
+    }
+  ],
+  "pricesmart-515014": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 389.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 399.95
+    }
+  ],
+  "pricesmart-28033": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 279.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 289.95
+    }
+  ],
+  "pricesmart-497914": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 199.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 239.95
+    }
+  ],
+  "pricesmart-497917": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 1249.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1099.95
+    }
+  ],
+  "pricesmart-515213": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 2379.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2389.95
+    }
+  ],
+  "pricesmart-514235": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 849.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 824.95
+    }
+  ],
+  "pricesmart-524836": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 89.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 64.7
+    }
+  ],
+  "pricesmart-339183": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 219.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 229.95
+    }
+  ],
+  "pricesmart-360463": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 189.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 199.95
+    }
+  ],
+  "pricesmart-26532": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 184.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 174.95
+    }
+  ],
+  "pricesmart-334040": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 144.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 139.95
+    }
+  ],
+  "pricesmart-640328": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 99.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 94.95
+    }
+  ],
+  "pricesmart-505431": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 1199.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1149.95
+    }
+  ],
+  "pricesmart-410431": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 139.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 137.95
+    }
+  ],
+  "pricesmart-451736": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 114.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 109.95
+    }
+  ],
+  "pricesmart-844330": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 259.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 277.95
+    }
+  ],
+  "pricesmart-458563": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 137.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 134.95
+    }
+  ],
+  "pricesmart-473152": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 127.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 124.95
+    }
+  ],
+  "pricesmart-473158": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 139.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 137.95
+    }
+  ],
+  "pricesmart-777860": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 129.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 132.95
+    }
+  ],
+  "intelaf-19": [
+    {
+      "fecha": null,
+      "precio": 260.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 97.0
+    }
+  ],
+  "intelaf-20": [
+    {
+      "fecha": null,
+      "precio": 97.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 3245.0
+    }
+  ],
+  "intelaf-21": [
+    {
+      "fecha": null,
+      "precio": 3245.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 156.0
+    }
+  ],
+  "intelaf-23": [
+    {
+      "fecha": null,
+      "precio": 67.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 170.0
+    }
+  ],
+  "intelaf-24": [
+    {
+      "fecha": null,
+      "precio": 170.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 71.0
+    }
+  ],
+  "intelaf-25": [
+    {
+      "fecha": null,
+      "precio": 71.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 375.0
+    }
+  ],
+  "intelaf-26": [
+    {
+      "fecha": null,
+      "precio": 375.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 525.0
+    }
+  ],
+  "intelaf-27": [
+    {
+      "fecha": null,
+      "precio": 525.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 301.0
+    }
+  ],
+  "intelaf-28": [
+    {
+      "fecha": null,
+      "precio": 301.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 282.0
+    }
+  ],
+  "intelaf-29": [
+    {
+      "fecha": null,
+      "precio": 282.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 382.0
+    }
+  ],
+  "intelaf-30": [
+    {
+      "fecha": null,
+      "precio": 382.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 337.0
+    }
+  ],
+  "intelaf-31": [
+    {
+      "fecha": null,
+      "precio": 337.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 210.0
+    }
+  ],
+  "intelaf-32": [
+    {
+      "fecha": null,
+      "precio": 210.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 281.0
+    }
+  ],
+  "intelaf-33": [
+    {
+      "fecha": null,
+      "precio": 281.0
+    },
+    {
+      "fecha": "2026-10-29",
       "precio": 13.0
     }
   ],
-  "walmart-gt-8321": [
-    {
-      "fecha": null,
-      "precio": 4.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.05
-    }
-  ],
-  "walmart-gt-8318": [
-    {
-      "fecha": null,
-      "precio": 4.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.05
-    }
-  ],
-  "walmart-gt-8305": [
-    {
-      "fecha": null,
-      "precio": 2.4
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2.6
-    }
-  ],
-  "walmart-gt-6811": [
-    {
-      "fecha": null,
-      "precio": 4.45
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.55
-    }
-  ],
-  "walmart-gt-6809": [
-    {
-      "fecha": null,
-      "precio": 4.45
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.55
-    }
-  ],
-  "walmart-gt-57716": [
-    {
-      "fecha": null,
-      "precio": 5.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.55
-    }
-  ],
-  "walmart-gt-39366": [
-    {
-      "fecha": null,
-      "precio": 42.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 43.25
-    }
-  ],
-  "walmart-gt-39200": [
-    {
-      "fecha": null,
-      "precio": 18.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 20.0
-    }
-  ],
-  "walmart-gt-38980": [
-    {
-      "fecha": null,
-      "precio": 5.4
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5.1
-    }
-  ],
-  "walmart-gt-38923": [
-    {
-      "fecha": null,
-      "precio": 2.35
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2.6
-    }
-  ],
-  "walmart-gt-34004": [
-    {
-      "fecha": null,
-      "precio": 11.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 10.5
-    }
-  ],
-  "walmart-gt-34003": [
-    {
-      "fecha": null,
-      "precio": 6.6
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 6.1
-    }
-  ],
-  "walmart-gt-33997": [
-    {
-      "fecha": null,
-      "precio": 5.7
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5.8
-    }
-  ],
-  "walmart-gt-32949": [
-    {
-      "fecha": null,
-      "precio": 3.05
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2.6
-    }
-  ],
-  "walmart-gt-15266": [
-    {
-      "fecha": null,
-      "precio": 19.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 15.75
-    }
-  ],
-  "walmart-gt-14946": [
-    {
-      "fecha": null,
-      "precio": 16.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 15.25
-    }
-  ],
-  "walmart-gt-14480": [
-    {
-      "fecha": null,
-      "precio": 4.15
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.5
-    }
-  ],
-  "walmart-gt-8424": [
-    {
-      "fecha": null,
-      "precio": 4.7
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.5
-    }
-  ],
-  "walmart-gt-8320": [
-    {
-      "fecha": null,
-      "precio": 4.1
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.05
-    }
-  ],
-  "walmart-gt-8256": [
-    {
-      "fecha": null,
-      "precio": 17.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 18.0
-    }
-  ],
-  "walmart-gt-101078": [
-    {
-      "fecha": null,
-      "precio": 17.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 20.25
-    }
-  ],
-  "walmart-gt-87940": [
-    {
-      "fecha": null,
-      "precio": 17.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 15.75
-    }
-  ],
-  "walmart-gt-67348": [
-    {
-      "fecha": null,
-      "precio": 23.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 24.9
-    }
-  ],
-  "walmart-gt-66253": [
-    {
-      "fecha": null,
-      "precio": 23.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 24.9
-    }
-  ],
-  "walmart-gt-59788": [
-    {
-      "fecha": null,
-      "precio": 2.35
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2.6
-    }
-  ],
-  "walmart-gt-54847": [
-    {
-      "fecha": null,
-      "precio": 10.35
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 11.0
-    }
-  ],
-  "walmart-gt-54116": [
+  "intelaf-34": [
     {
       "fecha": null,
       "precio": 13.0
     },
     {
       "fecha": "2026-10-29",
-      "precio": 11.5
+      "precio": 1720.0
     }
   ],
-  "walmart-gt-39201": [
+  "intelaf-35": [
     {
       "fecha": null,
-      "precio": 18.5
+      "precio": 1720.0
     },
     {
       "fecha": "2026-10-29",
-      "precio": 20.0
+      "precio": 1283.0
     }
   ],
-  "walmart-gt-39190": [
+  "intelaf-36": [
     {
       "fecha": null,
-      "precio": 29.75
+      "precio": 1283.0
     },
     {
       "fecha": "2026-10-29",
-      "precio": 32.7
+      "precio": 830.0
     }
   ],
-  "walmart-gt-39161": [
+  "intelaf-37": [
     {
       "fecha": null,
-      "precio": 24.85
+      "precio": 830.0
     },
     {
       "fecha": "2026-10-29",
-      "precio": 20.0
+      "precio": 140.0
     }
   ],
-  "walmart-gt-38993": [
+  "intelaf-38": [
     {
       "fecha": null,
-      "precio": 5.4
+      "precio": 140.0
     },
     {
       "fecha": "2026-10-29",
-      "precio": 5.1
+      "precio": 136.0
     }
   ],
-  "walmart-gt-38982": [
+  "intelaf-39": [
     {
       "fecha": null,
-      "precio": 2.55
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2.7
-    }
-  ],
-  "walmart-gt-38922": [
-    {
-      "fecha": null,
-      "precio": 4.1
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.05
-    }
-  ],
-  "walmart-gt-38921": [
-    {
-      "fecha": null,
-      "precio": 4.1
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.05
-    }
-  ],
-  "walmart-gt-34005": [
-    {
-      "fecha": null,
-      "precio": 6.4
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 6.1
-    }
-  ],
-  "walmart-gt-32950": [
-    {
-      "fecha": null,
-      "precio": 2.7
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2.95
-    }
-  ],
-  "walmart-gt-32945": [
-    {
-      "fecha": null,
-      "precio": 3.05
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2.6
-    }
-  ],
-  "walmart-gt-31727": [
-    {
-      "fecha": null,
-      "precio": 7.1
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 6.3
-    }
-  ],
-  "walmart-gt-30531": [
-    {
-      "fecha": null,
-      "precio": 69.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 73.0
-    }
-  ],
-  "walmart-gt-14484": [
-    {
-      "fecha": null,
-      "precio": 5.7
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5.0
-    }
-  ],
-  "walmart-gt-8427": [
-    {
-      "fecha": null,
-      "precio": 5.05
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5.6
-    }
-  ],
-  "walmart-gt-8421": [
-    {
-      "fecha": null,
-      "precio": 4.7
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5.2
-    }
-  ],
-  "walmart-gt-7503": [
-    {
-      "fecha": null,
-      "precio": 29.25
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 30.0
-    }
-  ],
-  "walmart-gt-6810": [
-    {
-      "fecha": null,
-      "precio": 4.45
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.55
-    }
-  ],
-  "walmart-gt-102062": [
-    {
-      "fecha": null,
-      "precio": 25.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 18.75
-    }
-  ],
-  "walmart-gt-101080": [
-    {
-      "fecha": null,
-      "precio": 17.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 20.25
-    }
-  ],
-  "walmart-gt-99078": [
-    {
-      "fecha": null,
-      "precio": 15.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 11.25
-    }
-  ],
-  "walmart-gt-67902": [
-    {
-      "fecha": null,
-      "precio": 31.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 32.5
-    }
-  ],
-  "walmart-gt-66252": [
-    {
-      "fecha": null,
-      "precio": 23.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 24.9
-    }
-  ],
-  "walmart-gt-58323": [
-    {
-      "fecha": null,
-      "precio": 8.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 6.4
-    }
-  ],
-  "walmart-gt-39162": [
-    {
-      "fecha": null,
-      "precio": 19.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 25.0
-    }
-  ],
-  "walmart-gt-32948": [
-    {
-      "fecha": null,
-      "precio": 3.05
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2.6
-    }
-  ],
-  "walmart-gt-31877": [
-    {
-      "fecha": null,
-      "precio": 14.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 12.0
-    }
-  ],
-  "walmart-gt-16792": [
-    {
-      "fecha": null,
-      "precio": 68.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 61.0
-    }
-  ],
-  "walmart-gt-15318": [
-    {
-      "fecha": null,
-      "precio": 5.6
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 6.2
-    }
-  ],
-  "walmart-gt-15245": [
-    {
-      "fecha": null,
-      "precio": 12.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 13.75
-    }
-  ],
-  "walmart-gt-15241": [
-    {
-      "fecha": null,
-      "precio": 14.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 16.25
-    }
-  ],
-  "walmart-gt-14282": [
-    {
-      "fecha": null,
-      "precio": 3.6
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 3.95
-    }
-  ],
-  "walmart-gt-8306": [
-    {
-      "fecha": null,
-      "precio": 5.55
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5.8
-    }
-  ],
-  "walmart-gt-4906": [
-    {
-      "fecha": null,
-      "precio": 43.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 41.5
-    }
-  ],
-  "walmart-gt-4546": [
-    {
-      "fecha": null,
-      "precio": 27.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 28.25
-    }
-  ],
-  "walmart-gt-119072": [
-    {
-      "fecha": null,
-      "precio": 25.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 18.75
-    }
-  ],
-  "walmart-gt-114947": [
-    {
-      "fecha": null,
-      "precio": 15.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 11.25
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 11.0
-    }
-  ],
-  "walmart-gt-100718": [
-    {
-      "fecha": null,
-      "precio": 8.7
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 7.7
-    }
-  ],
-  "walmart-gt-66251": [
-    {
-      "fecha": null,
-      "precio": 23.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 24.9
-    }
-  ],
-  "walmart-gt-66249": [
-    {
-      "fecha": null,
-      "precio": 23.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 24.9
-    }
-  ],
-  "walmart-gt-63737": [
-    {
-      "fecha": null,
-      "precio": 15.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 16.0
-    }
-  ],
-  "walmart-gt-62193": [
-    {
-      "fecha": null,
-      "precio": 10.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 7.5
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 7.0
-    }
-  ],
-  "walmart-gt-62191": [
-    {
-      "fecha": null,
-      "precio": 10.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 7.5
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 7.0
-    }
-  ],
-  "walmart-gt-54685": [
-    {
-      "fecha": null,
-      "precio": 17.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 16.0
-    }
-  ],
-  "walmart-gt-50297": [
-    {
-      "fecha": null,
-      "precio": 57.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 60.75
-    }
-  ],
-  "walmart-gt-50112": [
-    {
-      "fecha": null,
-      "precio": 43.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 47.75
-    }
-  ],
-  "walmart-gt-49502": [
-    {
-      "fecha": null,
-      "precio": 14.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 16.5
-    }
-  ],
-  "walmart-gt-39189": [
-    {
-      "fecha": null,
-      "precio": 27.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 32.7
-    }
-  ],
-  "walmart-gt-38999": [
-    {
-      "fecha": null,
-      "precio": 5.4
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5.1
-    }
-  ],
-  "walmart-gt-36566": [
-    {
-      "fecha": null,
-      "precio": 11.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 12.25
-    }
-  ],
-  "walmart-gt-30800": [
-    {
-      "fecha": null,
-      "precio": 36.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 37.25
-    }
-  ],
-  "walmart-gt-15235": [
-    {
-      "fecha": null,
-      "precio": 13.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 14.5
-    }
-  ],
-  "walmart-gt-14283": [
-    {
-      "fecha": null,
-      "precio": 4.2
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.05
-    }
-  ],
-  "walmart-gt-10996": [
-    {
-      "fecha": null,
-      "precio": 24.7
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 25.5
-    }
-  ],
-  "walmart-gt-6589": [
-    {
-      "fecha": null,
-      "precio": 13.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 14.75
-    }
-  ],
-  "walmart-gt-6588": [
-    {
-      "fecha": null,
-      "precio": 10.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 10.0
-    }
-  ],
-  "walmart-gt-5417": [
-    {
-      "fecha": null,
-      "precio": 12.15
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.8
-    }
-  ],
-  "walmart-gt-1019": [
-    {
-      "fecha": null,
-      "precio": 17.45
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 16.0
-    }
-  ],
-  "walmart-gt-99080": [
-    {
-      "fecha": null,
-      "precio": 15.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 11.25
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 11.0
-    }
-  ],
-  "walmart-gt-99076": [
-    {
-      "fecha": null,
-      "precio": 13.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 9.75
-    }
-  ],
-  "walmart-gt-92754": [
-    {
-      "fecha": null,
-      "precio": 18.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 25.0
-    }
-  ],
-  "walmart-gt-88428": [
-    {
-      "fecha": null,
-      "precio": 35.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 27.5
-    }
-  ],
-  "walmart-gt-59266": [
-    {
-      "fecha": null,
-      "precio": 28.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 35.0
-    }
-  ],
-  "walmart-gt-49426": [
-    {
-      "fecha": null,
-      "precio": 33.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 35.0
-    }
-  ],
-  "walmart-gt-48191": [
-    {
-      "fecha": null,
-      "precio": 19.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 20.25
-    }
-  ],
-  "walmart-gt-39188": [
-    {
-      "fecha": null,
-      "precio": 24.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 28.0
-    }
-  ],
-  "walmart-gt-30534": [
-    {
-      "fecha": null,
-      "precio": 75.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 81.25
-    }
-  ],
-  "walmart-gt-15315": [
-    {
-      "fecha": null,
-      "precio": 6.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 6.7
-    }
-  ],
-  "walmart-gt-15308": [
-    {
-      "fecha": null,
-      "precio": 12.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 14.0
-    }
-  ],
-  "walmart-gt-33401": [
-    {
-      "fecha": null,
-      "precio": 4.41
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.5
-    }
-  ],
-  "walmart-gt-33396": [
-    {
-      "fecha": null,
-      "precio": 4.41
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.5
-    }
-  ],
-  "walmart-gt-99155": [
-    {
-      "fecha": null,
-      "precio": 4.41
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.5
-    }
-  ],
-  "walmart-gt-27543": [
-    {
-      "fecha": null,
-      "precio": 26.75
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 35.0
-    }
-  ],
-  "walmart-gt-27509": [
-    {
-      "fecha": null,
-      "precio": 6.3
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5.85
-    }
-  ],
-  "walmart-gt-27507": [
-    {
-      "fecha": null,
-      "precio": 3.74
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 3.92
-    }
-  ],
-  "walmart-gt-59976": [
-    {
-      "fecha": null,
-      "precio": 24.08
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 27.0
-    }
-  ],
-  "walmart-gt-58044": [
-    {
-      "fecha": null,
-      "precio": 14.4
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 14.49
-    }
-  ],
-  "walmart-gt-27540": [
-    {
-      "fecha": null,
-      "precio": 28.75
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 30.0
-    }
-  ],
-  "walmart-gt-90911": [
-    {
-      "fecha": null,
-      "precio": 6.2
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 6.3
-    }
-  ],
-  "walmart-gt-34554": [
-    {
-      "fecha": null,
-      "precio": 3.1
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 3.95
-    }
-  ],
-  "walmart-gt-34552": [
-    {
-      "fecha": null,
-      "precio": 3.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 3.95
-    }
-  ],
-  "walmart-gt-33915": [
-    {
-      "fecha": null,
-      "precio": 8.4
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 10.0
-    }
-  ],
-  "walmart-gt-33404": [
-    {
-      "fecha": null,
-      "precio": 4.9
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5.0
-    }
-  ],
-  "walmart-gt-31432": [
-    {
-      "fecha": null,
-      "precio": 19.15
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 18.25
-    }
-  ],
-  "walmart-gt-7990": [
-    {
-      "fecha": null,
-      "precio": 17.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 18.9
-    }
-  ],
-  "walmart-gt-4534": [
-    {
-      "fecha": null,
-      "precio": 2.85
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 3.2
-    }
-  ],
-  "walmart-gt-4533": [
-    {
-      "fecha": null,
-      "precio": 2.85
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 3.9
-    }
-  ],
-  "walmart-gt-90912": [
-    {
-      "fecha": null,
-      "precio": 6.2
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 6.3
-    }
-  ],
-  "walmart-gt-69886": [
-    {
-      "fecha": null,
-      "precio": 9.17
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 9.46
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.17
-    }
-  ],
-  "walmart-gt-34551": [
-    {
-      "fecha": null,
-      "precio": 3.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 3.95
-    }
-  ],
-  "walmart-gt-32306": [
-    {
-      "fecha": null,
-      "precio": 4.55
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.65
-    }
-  ],
-  "walmart-gt-32301": [
-    {
-      "fecha": null,
-      "precio": 9.6
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.15
-    }
-  ],
-  "walmart-gt-76706": [
-    {
-      "fecha": null,
-      "precio": 12.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 16.0
-    }
-  ],
-  "walmart-gt-75270": [
-    {
-      "fecha": null,
-      "precio": 12.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 16.0
-    }
-  ],
-  "walmart-gt-64174": [
-    {
-      "fecha": null,
-      "precio": 4.9
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5.0
-    }
-  ],
-  "walmart-gt-45458": [
-    {
-      "fecha": null,
-      "precio": 26.1
+      "precio": 136.0
     },
     {
       "fecha": "2026-10-29",
       "precio": 21.0
     }
   ],
-  "walmart-gt-34553": [
+  "intelaf-41": [
     {
-      "fecha": null,
-      "precio": 3.1
+      "fecha": "2026-10-27",
+      "precio": 97.0
     },
     {
       "fecha": "2026-10-29",
-      "precio": 3.95
+      "precio": 580.0
     }
   ],
-  "walmart-gt-75269": [
+  "intelaf-42": [
     {
-      "fecha": null,
-      "precio": 12.5
+      "fecha": "2026-10-27",
+      "precio": 580.0
     },
     {
       "fecha": "2026-10-29",
-      "precio": 16.0
+      "precio": 1369.0
     }
   ],
-  "walmart-gt-27525": [
+  "intelaf-43": [
     {
-      "fecha": null,
-      "precio": 5.4
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5.94
-    }
-  ],
-  "walmart-gt-27520": [
-    {
-      "fecha": null,
-      "precio": 5.4
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5.94
-    }
-  ],
-  "walmart-gt-4558": [
-    {
-      "fecha": null,
-      "precio": 116.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 115.0
-    }
-  ],
-  "walmart-gt-4559": [
-    {
-      "fecha": null,
-      "precio": 117.8
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 115.0
-    }
-  ],
-  "walmart-gt-4554": [
-    {
-      "fecha": null,
-      "precio": 117.8
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 115.0
-    }
-  ],
-  "walmart-gt-49226": [
-    {
-      "fecha": null,
-      "precio": 26.1
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 21.3
-    }
-  ],
-  "walmart-gt-84326": [
-    {
-      "fecha": null,
-      "precio": 12.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 16.0
-    }
-  ],
-  "walmart-gt-115232": [
-    {
-      "fecha": null,
-      "precio": 30.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 48.75
-    }
-  ],
-  "walmart-gt-75275": [
-    {
-      "fecha": null,
-      "precio": 12.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 16.0
-    }
-  ],
-  "walmart-gt-26628": [
-    {
-      "fecha": null,
-      "precio": 109.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 110.0
-    }
-  ],
-  "walmart-gt-26624": [
-    {
-      "fecha": null,
-      "precio": 160.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 170.0
-    }
-  ],
-  "walmart-gt-5389": [
-    {
-      "fecha": null,
-      "precio": 26.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 35.0
-    }
-  ],
-  "walmart-gt-93043": [
-    {
-      "fecha": null,
-      "precio": 4.8
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5.0
-    }
-  ],
-  "walmart-gt-62276": [
-    {
-      "fecha": null,
-      "precio": 303.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 310.0
-    }
-  ],
-  "walmart-gt-21210": [
-    {
-      "fecha": null,
-      "precio": 305.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 290.0
-    }
-  ],
-  "walmart-gt-40529": [
-    {
-      "fecha": null,
-      "precio": 35.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 40.0
-    }
-  ],
-  "walmart-gt-27097": [
-    {
-      "fecha": null,
-      "precio": 45.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 46.0
-    }
-  ],
-  "walmart-gt-26618": [
-    {
-      "fecha": null,
-      "precio": 5.8
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.7
-    }
-  ],
-  "walmart-gt-21263": [
-    {
-      "fecha": null,
-      "precio": 62.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 55.0
-    }
-  ],
-  "walmart-gt-19594": [
-    {
-      "fecha": null,
-      "precio": 40.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 45.0
-    }
-  ],
-  "walmart-gt-61349": [
-    {
-      "fecha": null,
-      "precio": 102.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 100.0
-    }
-  ],
-  "walmart-gt-26629": [
-    {
-      "fecha": null,
-      "precio": 8.9
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 8.5
-    }
-  ],
-  "walmart-gt-19616": [
-    {
-      "fecha": null,
-      "precio": 33.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 35.0
-    }
-  ],
-  "walmart-gt-59970": [
-    {
-      "fecha": null,
-      "precio": 62.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 55.0
-    }
-  ],
-  "walmart-gt-36001": [
-    {
-      "fecha": null,
-      "precio": 84.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 85.0
-    }
-  ],
-  "walmart-gt-27053": [
-    {
-      "fecha": null,
-      "precio": 41.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 40.0
-    }
-  ],
-  "walmart-gt-110399": [
-    {
-      "fecha": null,
-      "precio": 198.8
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 190.0
-    }
-  ],
-  "walmart-gt-41299": [
-    {
-      "fecha": null,
-      "precio": 14.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 13.0
-    }
-  ],
-  "walmart-gt-40531": [
-    {
-      "fecha": null,
-      "precio": 35.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 40.0
-    }
-  ],
-  "walmart-gt-21238": [
-    {
-      "fecha": null,
-      "precio": 129.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 120.0
-    }
-  ],
-  "walmart-gt-21202": [
-    {
-      "fecha": null,
-      "precio": 215.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 200.0
-    }
-  ],
-  "walmart-gt-8178": [
-    {
-      "fecha": null,
-      "precio": 59.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 68.0
-    }
-  ],
-  "walmart-gt-75573": [
-    {
-      "fecha": null,
-      "precio": 72.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 72.0
-    }
-  ],
-  "walmart-gt-56762": [
-    {
-      "fecha": null,
-      "precio": 60.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 50.0
-    }
-  ],
-  "walmart-gt-41316": [
-    {
-      "fecha": null,
-      "precio": 91.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 107.0
-    }
-  ],
-  "walmart-gt-40201": [
-    {
-      "fecha": null,
-      "precio": 74.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 68.0
-    }
-  ],
-  "walmart-gt-21379": [
-    {
-      "fecha": null,
-      "precio": 177.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 180.0
-    }
-  ],
-  "walmart-gt-8451": [
-    {
-      "fecha": null,
-      "precio": 87.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 80.0
-    }
-  ],
-  "walmart-gt-8148": [
-    {
-      "fecha": null,
-      "precio": 275.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 250.0
-    }
-  ],
-  "walmart-gt-127912": [
-    {
-      "fecha": null,
-      "precio": 80.33
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 82.8
-    }
-  ],
-  "walmart-gt-127207": [
-    {
-      "fecha": null,
-      "precio": 80.33
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 82.8
-    }
-  ],
-  "walmart-gt-111295": [
-    {
-      "fecha": null,
-      "precio": 104.6
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 100.0
-    }
-  ],
-  "walmart-gt-100975": [
-    {
-      "fecha": null,
-      "precio": 677.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 660.0
-    }
-  ],
-  "walmart-gt-98986": [
-    {
-      "fecha": null,
-      "precio": 100.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 80.0
-    }
-  ],
-  "walmart-gt-90486": [
-    {
-      "fecha": null,
-      "precio": 8.6
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 8.5
-    }
-  ],
-  "walmart-gt-90484": [
-    {
-      "fecha": null,
-      "precio": 8.6
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 8.5
-    }
-  ],
-  "walmart-gt-90483": [
-    {
-      "fecha": null,
-      "precio": 8.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 8.5
-    }
-  ],
-  "walmart-gt-69621": [
-    {
-      "fecha": null,
-      "precio": 80.33
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 82.8
-    }
-  ],
-  "walmart-gt-69619": [
-    {
-      "fecha": null,
-      "precio": 89.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 92.0
-    }
-  ],
-  "walmart-gt-56763": [
-    {
-      "fecha": null,
-      "precio": 60.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 50.0
-    }
-  ],
-  "walmart-gt-56761": [
-    {
-      "fecha": null,
-      "precio": 60.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 50.0
-    }
-  ],
-  "walmart-gt-54205": [
-    {
-      "fecha": null,
-      "precio": 49.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 45.0
-    }
-  ],
-  "walmart-gt-54101": [
-    {
-      "fecha": null,
-      "precio": 92.0
+      "fecha": "2026-10-27",
+      "precio": 1369.0
     },
     {
       "fecha": "2026-10-29",
       "precio": 75.0
     }
   ],
-  "walmart-gt-51123": [
+  "intelaf-44": [
     {
-      "fecha": null,
-      "precio": 100.0
+      "fecha": "2026-10-27",
+      "precio": 75.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 182.0
+    }
+  ],
+  "intelaf-46": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 182.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 98.0
+    }
+  ],
+  "intelaf-47": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 98.0
     },
     {
       "fecha": "2026-10-29",
       "precio": 80.0
     }
   ],
-  "walmart-gt-49952": [
+  "intelaf-48": [
     {
-      "fecha": null,
-      "precio": 382.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 350.0
-    }
-  ],
-  "walmart-gt-41568": [
-    {
-      "fecha": null,
-      "precio": 49.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 45.0
-    }
-  ],
-  "walmart-gt-41238": [
-    {
-      "fecha": null,
-      "precio": 69.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 70.0
-    }
-  ],
-  "walmart-gt-40509": [
-    {
-      "fecha": null,
-      "precio": 91.5
+      "fecha": "2026-10-27",
+      "precio": 80.0
     },
     {
       "fecha": "2026-10-29",
       "precio": 75.0
     }
   ],
-  "walmart-gt-40203": [
+  "intelaf-49": [
     {
-      "fecha": null,
-      "precio": 74.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 68.0
-    }
-  ],
-  "walmart-gt-35457": [
-    {
-      "fecha": null,
-      "precio": 84.5
+      "fecha": "2026-10-27",
+      "precio": 75.0
     },
     {
       "fecha": "2026-10-29",
       "precio": 80.0
     }
   ],
-  "walmart-gt-13134": [
+  "intelaf-50": [
     {
-      "fecha": null,
-      "precio": 518.4
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 400.0
-    }
-  ],
-  "walmart-gt-8294": [
-    {
-      "fecha": null,
-      "precio": 104.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 100.0
-    }
-  ],
-  "walmart-gt-8146": [
-    {
-      "fecha": null,
-      "precio": 390.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 365.0
-    }
-  ],
-  "walmart-gt-7931": [
-    {
-      "fecha": null,
-      "precio": 496.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 480.0
-    }
-  ],
-  "walmart-gt-7926": [
-    {
-      "fecha": null,
-      "precio": 835.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 800.0
-    }
-  ],
-  "walmart-gt-3924": [
-    {
-      "fecha": null,
-      "precio": 62.1
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 68.0
-    }
-  ],
-  "walmart-gt-3922": [
-    {
-      "fecha": null,
-      "precio": 62.1
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 68.0
-    }
-  ],
-  "walmart-gt-64232": [
-    {
-      "fecha": null,
-      "precio": 13.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 12.7
-    }
-  ],
-  "walmart-gt-63411": [
-    {
-      "fecha": null,
-      "precio": 29.9
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 27.6
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 29.75
-    }
-  ],
-  "walmart-gt-49320": [
-    {
-      "fecha": null,
-      "precio": 29.9
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 29.75
-    }
-  ],
-  "walmart-gt-48461": [
-    {
-      "fecha": null,
-      "precio": 49.75
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 42.0
-    }
-  ],
-  "walmart-gt-48084": [
-    {
-      "fecha": null,
-      "precio": 29.9
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 29.75
-    }
-  ],
-  "walmart-gt-48462": [
-    {
-      "fecha": null,
-      "precio": 49.75
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 42.0
-    }
-  ],
-  "walmart-gt-49322": [
-    {
-      "fecha": null,
-      "precio": 29.9
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 27.6
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 29.75
-    }
-  ],
-  "walmart-gt-49321": [
-    {
-      "fecha": null,
-      "precio": 29.9
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 27.6
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 29.75
-    }
-  ],
-  "walmart-gt-48460": [
-    {
-      "fecha": null,
-      "precio": 49.75
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 42.0
-    }
-  ],
-  "walmart-gt-98023": [
-    {
-      "fecha": null,
-      "precio": 45.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 42.0
-    }
-  ],
-  "walmart-gt-33709": [
-    {
-      "fecha": null,
-      "precio": 8.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 7.5
-    }
-  ],
-  "walmart-gt-33685": [
-    {
-      "fecha": null,
-      "precio": 11.45
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 11.5
-    }
-  ],
-  "walmart-gt-27879": [
-    {
-      "fecha": null,
-      "precio": 17.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 16.5
-    }
-  ],
-  "walmart-gt-27878": [
-    {
-      "fecha": null,
-      "precio": 26.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 24.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 26.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 24.0
-    }
-  ],
-  "walmart-gt-33712": [
-    {
-      "fecha": null,
-      "precio": 22.1
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 22.15
-    }
-  ],
-  "walmart-gt-27881": [
-    {
-      "fecha": null,
-      "precio": 23.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 22.75
-    }
-  ],
-  "walmart-gt-33657": [
-    {
-      "fecha": null,
-      "precio": 15.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 15.0
-    }
-  ],
-  "walmart-gt-33653": [
-    {
-      "fecha": null,
-      "precio": 18.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 18.45
-    }
-  ],
-  "walmart-gt-523": [
-    {
-      "fecha": null,
-      "precio": 10.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.7
-    }
-  ],
-  "walmart-gt-34163": [
-    {
-      "fecha": null,
-      "precio": 11.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 11.0
-    }
-  ],
-  "walmart-gt-56394": [
-    {
-      "fecha": null,
-      "precio": 12.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 12.2
-    }
-  ],
-  "walmart-gt-52939": [
-    {
-      "fecha": null,
-      "precio": 135.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 148.5
-    }
-  ],
-  "walmart-gt-50369": [
-    {
-      "fecha": null,
-      "precio": 162.1
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 155.21
-    }
-  ],
-  "walmart-gt-7808": [
-    {
-      "fecha": null,
-      "precio": 28.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 21.25
-    }
-  ],
-  "walmart-gt-99369": [
-    {
-      "fecha": null,
-      "precio": 16.1
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 15.5
-    }
-  ],
-  "walmart-gt-89394": [
-    {
-      "fecha": null,
-      "precio": 41.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 37.75
-    }
-  ],
-  "walmart-gt-57739": [
-    {
-      "fecha": null,
-      "precio": 11.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.0
-    }
-  ],
-  "walmart-gt-35839": [
-    {
-      "fecha": null,
-      "precio": 29.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 29.0
-    }
-  ],
-  "walmart-gt-33597": [
-    {
-      "fecha": null,
-      "precio": 169.58
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 142.65
-    }
-  ],
-  "walmart-gt-33222": [
-    {
-      "fecha": null,
-      "precio": 17.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 17.45
-    }
-  ],
-  "walmart-gt-64892": [
-    {
-      "fecha": null,
-      "precio": 38.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 35.0
-    }
-  ],
-  "walmart-gt-35836": [
-    {
-      "fecha": null,
-      "precio": 29.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 29.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 29.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 29.0
-    }
-  ],
-  "walmart-gt-34170": [
-    {
-      "fecha": null,
-      "precio": 10.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.7
-    }
-  ],
-  "walmart-gt-33863": [
-    {
-      "fecha": null,
-      "precio": 12.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 11.65
-    }
-  ],
-  "walmart-gt-33596": [
-    {
-      "fecha": null,
-      "precio": 157.5
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 166.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 157.5
-    }
-  ],
-  "walmart-gt-33589": [
-    {
-      "fecha": null,
-      "precio": 46.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 38.25
-    }
-  ],
-  "walmart-gt-33279": [
-    {
-      "fecha": null,
-      "precio": 103.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 100.5
-    }
-  ],
-  "walmart-gt-27987": [
-    {
-      "fecha": null,
-      "precio": 19.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 19.0
-    }
-  ],
-  "walmart-gt-15820": [
-    {
-      "fecha": null,
-      "precio": 4.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.35
-    }
-  ],
-  "walmart-gt-12292": [
-    {
-      "fecha": null,
-      "precio": 46.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 52.0
-    }
-  ],
-  "walmart-gt-100628": [
-    {
-      "fecha": null,
-      "precio": 14.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 13.75
-    }
-  ],
-  "walmart-gt-92279": [
-    {
-      "fecha": null,
-      "precio": 38.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 37.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 38.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 37.0
-    }
-  ],
-  "walmart-gt-79613": [
-    {
-      "fecha": null,
-      "precio": 40.9
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 44.75
-    }
-  ],
-  "walmart-gt-79608": [
-    {
-      "fecha": null,
-      "precio": 12.4
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 11.75
-    }
-  ],
-  "walmart-gt-75552": [
-    {
-      "fecha": null,
-      "precio": 153.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 149.2
-    }
-  ],
-  "walmart-gt-68319": [
-    {
-      "fecha": null,
-      "precio": 12.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 13.0
-    }
-  ],
-  "walmart-gt-60347": [
-    {
-      "fecha": null,
-      "precio": 35.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 36.0
-    }
-  ],
-  "walmart-gt-36079": [
-    {
-      "fecha": null,
-      "precio": 9.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.0
-    }
-  ],
-  "walmart-gt-35846": [
-    {
-      "fecha": null,
-      "precio": 6.6
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 7.0
-    }
-  ],
-  "walmart-gt-33626": [
-    {
-      "fecha": null,
-      "precio": 11.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 11.5
-    }
-  ],
-  "walmart-gt-30149": [
-    {
-      "fecha": null,
-      "precio": 24.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 29.0
-    }
-  ],
-  "walmart-gt-16595": [
-    {
-      "fecha": null,
-      "precio": 27.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 26.0
-    }
-  ],
-  "walmart-gt-16589": [
-    {
-      "fecha": null,
-      "precio": 9.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.2
-    }
-  ],
-  "walmart-gt-16577": [
-    {
-      "fecha": null,
-      "precio": 9.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.2
-    }
-  ],
-  "walmart-gt-16554": [
-    {
-      "fecha": null,
-      "precio": 4.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.35
-    }
-  ],
-  "walmart-gt-7450": [
-    {
-      "fecha": null,
-      "precio": 28.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 21.25
-    }
-  ],
-  "walmart-gt-100629": [
-    {
-      "fecha": null,
-      "precio": 14.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 13.75
-    }
-  ],
-  "walmart-gt-92275": [
-    {
-      "fecha": null,
-      "precio": 38.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 37.0
-    }
-  ],
-  "walmart-gt-79969": [
-    {
-      "fecha": null,
-      "precio": 55.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 52.0
-    }
-  ],
-  "walmart-gt-75568": [
-    {
-      "fecha": null,
-      "precio": 153.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 140.55
-    }
-  ],
-  "walmart-gt-71380": [
-    {
-      "fecha": null,
-      "precio": 31.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 30.0
-    }
-  ],
-  "walmart-gt-36075": [
-    {
-      "fecha": null,
-      "precio": 48.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 47.0
-    }
-  ],
-  "walmart-gt-35847": [
-    {
-      "fecha": null,
-      "precio": 6.6
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 7.0
-    }
-  ],
-  "walmart-gt-35815": [
-    {
-      "fecha": null,
-      "precio": 11.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.9
-    }
-  ],
-  "walmart-gt-33625": [
-    {
-      "fecha": null,
-      "precio": 11.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 11.5
-    }
-  ],
-  "walmart-gt-33327": [
-    {
-      "fecha": null,
-      "precio": 104.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 99.65
-    }
-  ],
-  "walmart-gt-30782": [
-    {
-      "fecha": null,
-      "precio": 121.85
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 113.2
-    }
-  ],
-  "walmart-gt-30152": [
-    {
-      "fecha": null,
-      "precio": 27.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 30.0
-    }
-  ],
-  "walmart-gt-16599": [
-    {
-      "fecha": null,
-      "precio": 4.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.35
-    }
-  ],
-  "walmart-gt-16576": [
-    {
-      "fecha": null,
-      "precio": 9.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.2
-    }
-  ],
-  "walmart-gt-16553": [
-    {
-      "fecha": null,
-      "precio": 4.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.35
-    }
-  ],
-  "walmart-gt-12089": [
-    {
-      "fecha": null,
-      "precio": 28.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 21.25
-    }
-  ],
-  "walmart-gt-7781": [
-    {
-      "fecha": null,
-      "precio": 28.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 21.25
-    }
-  ],
-  "walmart-gt-86919": [
-    {
-      "fecha": null,
-      "precio": 8.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.0
-    }
-  ],
-  "walmart-gt-79967": [
-    {
-      "fecha": null,
-      "precio": 55.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 52.0
-    }
-  ],
-  "walmart-gt-68320": [
-    {
-      "fecha": null,
-      "precio": 12.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 13.25
-    }
-  ],
-  "walmart-gt-56389": [
-    {
-      "fecha": null,
-      "precio": 37.8
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 36.5
-    }
-  ],
-  "walmart-gt-36272": [
-    {
-      "fecha": null,
-      "precio": 83.65
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 80.4
-    }
-  ],
-  "walmart-gt-35844": [
-    {
-      "fecha": null,
-      "precio": 6.6
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 7.0
-    }
-  ],
-  "walmart-gt-35837": [
-    {
-      "fecha": null,
-      "precio": 29.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 29.0
-    }
-  ],
-  "walmart-gt-35817": [
-    {
-      "fecha": null,
-      "precio": 11.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.9
-    }
-  ],
-  "walmart-gt-32452": [
-    {
-      "fecha": null,
-      "precio": 3.55
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 3.65
-    }
-  ],
-  "walmart-gt-30151": [
-    {
-      "fecha": null,
-      "precio": 27.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 30.0
-    }
-  ],
-  "walmart-gt-12279": [
-    {
-      "fecha": null,
-      "precio": 32.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 32.0
-    }
-  ],
-  "walmart-gt-102965": [
-    {
-      "fecha": null,
-      "precio": 170.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 155.0
-    }
-  ],
-  "walmart-gt-88096": [
-    {
-      "fecha": null,
-      "precio": 191.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 170.0
-    }
-  ],
-  "walmart-gt-68311": [
-    {
-      "fecha": null,
-      "precio": 31.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 30.0
-    }
-  ],
-  "walmart-gt-56392": [
-    {
-      "fecha": null,
-      "precio": 76.9
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 70.0
-    }
-  ],
-  "walmart-gt-56391": [
-    {
-      "fecha": null,
-      "precio": 84.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 70.0
-    }
-  ],
-  "walmart-gt-40959": [
-    {
-      "fecha": null,
-      "precio": 87.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 74.0
-    }
-  ],
-  "walmart-gt-36078": [
-    {
-      "fecha": null,
-      "precio": 8.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.0
-    }
-  ],
-  "walmart-gt-35816": [
-    {
-      "fecha": null,
-      "precio": 11.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.9
-    }
-  ],
-  "walmart-gt-33328": [
-    {
-      "fecha": null,
-      "precio": 101.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 99.65
-    }
-  ],
-  "walmart-gt-90926": [
-    {
-      "fecha": null,
-      "precio": 6.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.8
-    }
-  ],
-  "walmart-gt-89926": [
-    {
-      "fecha": null,
-      "precio": 6.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.8
-    }
-  ],
-  "walmart-gt-47164": [
-    {
-      "fecha": null,
-      "precio": 38.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 34.25
-    }
-  ],
-  "walmart-gt-36273": [
-    {
-      "fecha": null,
-      "precio": 159.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 145.0
-    }
-  ],
-  "walmart-gt-35855": [
-    {
-      "fecha": null,
-      "precio": 6.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5.7
-    }
-  ],
-  "walmart-gt-15436": [
-    {
-      "fecha": null,
-      "precio": 193.7
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 173.55
-    }
-  ],
-  "walmart-gt-89925": [
-    {
-      "fecha": null,
-      "precio": 6.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.8
-    }
-  ],
-  "walmart-gt-43961": [
-    {
-      "fecha": null,
-      "precio": 34.9
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 35.5
-    }
-  ],
-  "walmart-gt-49263": [
-    {
-      "fecha": null,
-      "precio": 27.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 24.25
-    }
-  ],
-  "walmart-gt-43905": [
-    {
-      "fecha": null,
-      "precio": 18.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 19.0
-    }
-  ],
-  "walmart-gt-67357": [
-    {
-      "fecha": null,
-      "precio": 25.9
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 23.5
-    }
-  ],
-  "walmart-gt-44043": [
-    {
-      "fecha": null,
-      "precio": 47.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 42.3
-    }
-  ],
-  "walmart-gt-28171": [
-    {
-      "fecha": null,
-      "precio": 11.75
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 12.0
-    }
-  ],
-  "walmart-gt-27039": [
-    {
-      "fecha": null,
-      "precio": 26.75
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 24.25
-    }
-  ],
-  "walmart-gt-27017": [
-    {
-      "fecha": null,
-      "precio": 13.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 13.4
-    }
-  ],
-  "walmart-gt-62514": [
-    {
-      "fecha": null,
-      "precio": 36.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 33.5
-    }
-  ],
-  "walmart-gt-60582": [
-    {
-      "fecha": null,
-      "precio": 22.5
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 20.3
-    }
-  ],
-  "walmart-gt-117034": [
-    {
-      "fecha": null,
-      "precio": 179.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 150.0
-    }
-  ],
-  "walmart-gt-35666": [
-    {
-      "fecha": null,
-      "precio": 34.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 37.0
-    }
-  ],
-  "walmart-gt-33560": [
-    {
-      "fecha": null,
-      "precio": 50.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 51.0
-    }
-  ],
-  "walmart-gt-33559": [
-    {
-      "fecha": null,
-      "precio": 50.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 51.0
-    }
-  ],
-  "walmart-gt-16600": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 4.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4.35
-    }
-  ],
-  "walmart-gt-85055": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 6.5
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 6.8
-    }
-  ],
-  "walmart-gt-6591": [
-    {
-      "fecha": "2026-10-29",
-      "precio": 11.25
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 9.8
-    }
-  ],
-  "cemaco-103533523": [
-    {
-      "fecha": null,
-      "precio": 599.99
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 479.99
-    }
-  ],
-  "cemaco-103541519": [
-    {
-      "fecha": null,
-      "precio": 4199.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4899.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 3799.0
-    }
-  ],
-  "cemaco-103537396": [
-    {
-      "fecha": null,
-      "precio": 1499.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 1099.0
-    }
-  ],
-  "cemaco-103550310": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 67.49
-    },
-    {
-      "fecha": "2026-10-27",
-      "precio": 124.99
-    }
-  ],
-  "cemaco-20326": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 528.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 468.99
-    }
-  ],
-  "cemaco-103533526": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 689.99
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 517.49
-    }
-  ],
-  "cemaco-103439944": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 398.99
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 299.24
-    }
-  ],
-  "cemaco-103533454": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 689.99
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 517.49
-    }
-  ],
-  "cemaco-103470905": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 129.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 64.99
-    }
-  ],
-  "cemaco-103432074": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 249.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 124.99
-    }
-  ],
-  "cemaco-24526": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 29.99
-    }
-  ],
-  "cemaco-103513744": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 34.99
-    }
-  ],
-  "cemaco-103509108": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 39.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 23.99
-    }
-  ],
-  "cemaco-103469616": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 44.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 22.5
-    }
-  ],
-  "cemaco-103542318": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 724.99
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 652.49
-    }
-  ],
-  "cemaco-103513742": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 34.99
-    }
-  ],
-  "cemaco-103484328": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 15.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 29.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 9.0
-    }
-  ],
-  "cemaco-25535": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 399.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 199.99
-    }
-  ],
-  "cemaco-17183": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 23.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 19.99
-    }
-  ],
-  "cemaco-103513743": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 34.99
-    }
-  ],
-  "cemaco-103513357": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 799.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 400.0
-    }
-  ],
-  "cemaco-103509007": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 39.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 23.99
-    }
-  ],
-  "cemaco-103488731": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 119.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 59.99
-    }
-  ],
-  "cemaco-103482176": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 399.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 239.99
-    }
-  ],
-  "cemaco-103418861": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 89.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 44.99
-    }
-  ],
-  "cemaco-55652": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 54.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 27.5
-    }
-  ],
-  "cemaco-25071": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 84.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 59.49
-    }
-  ],
-  "cemaco-23197": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 99.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 49.99
-    }
-  ],
-  "cemaco-17074": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 44.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 22.5
-    }
-  ],
-  "cemaco-103513536": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 34.99
-    }
-  ],
-  "cemaco-103509127": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 39.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 23.99
-    }
-  ],
-  "cemaco-103509126": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 69.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 48.99
-    }
-  ],
-  "cemaco-103509118": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 39.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 23.99
-    }
-  ],
-  "cemaco-103495072": [
-    {
       "fecha": "2026-10-27",
-      "precio": 16.99
+      "precio": 80.0
     },
     {
       "fecha": "2026-10-29",
-      "precio": 17.99
-    }
-  ],
-  "cemaco-103494891": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 199.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 99.99
-    }
-  ],
-  "cemaco-103488700": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 139.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 69.99
-    }
-  ],
-  "cemaco-103487989": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 69.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 34.99
-    }
-  ],
-  "cemaco-103484561": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 79.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 39.99
-    }
-  ],
-  "cemaco-23323": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 23.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 22.99
-    }
-  ],
-  "cemaco-23223": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 44.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 31.49
-    }
-  ],
-  "cemaco-17407": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 23.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 19.99
-    }
-  ],
-  "cemaco-103521337": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 699.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 350.0
-    }
-  ],
-  "cemaco-103515820": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 99.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 69.99
-    }
-  ],
-  "cemaco-103515812": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 34.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 24.49
-    }
-  ],
-  "cemaco-103513534": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 34.99
-    }
-  ],
-  "cemaco-103513360": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 1499.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 1049.3
-    }
-  ],
-  "cemaco-103509258": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 69.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 41.99
-    }
-  ],
-  "cemaco-103509252": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 499.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 299.99
-    }
-  ],
-  "cemaco-103509248": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 34.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 20.99
-    }
-  ],
-  "cemaco-103509246": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 34.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 20.99
-    }
-  ],
-  "cemaco-103509130": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 34.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 20.99
-    }
-  ],
-  "cemaco-103509114": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 59.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 41.99
-    }
-  ],
-  "cemaco-103509100": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 34.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 20.99
-    }
-  ],
-  "cemaco-103505243": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 59.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 35.99
-    }
-  ],
-  "cemaco-103499006": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 29.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 14.99
-    }
-  ],
-  "cemaco-103492493": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 259.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 129.99
-    }
-  ],
-  "cemaco-103492490": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 299.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 150.0
-    }
-  ],
-  "cemaco-103491954": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 89.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 44.99
-    }
-  ],
-  "cemaco-103491805": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 299.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 149.99
-    }
-  ],
-  "cemaco-103491794": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 119.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 59.99
-    }
-  ],
-  "cemaco-103490283": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 149.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 74.99
-    }
-  ],
-  "cemaco-103487167": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 449.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 224.99
-    }
-  ],
-  "cemaco-103486837": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 499.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 249.99
-    }
-  ],
-  "cemaco-103484583": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 24.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 15.0
-    }
-  ],
-  "cemaco-103484557": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 2499.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 1249.5
-    }
-  ],
-  "cemaco-103484340": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 149.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 74.99
-    }
-  ],
-  "cemaco-103474230": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 369.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 184.99
-    }
-  ],
-  "cemaco-103474220": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 79.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 40.0
-    }
-  ],
-  "cemaco-103472021": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 139.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 69.99
-    }
-  ],
-  "cemaco-103470900": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 249.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 125.0
-    }
-  ],
-  "cemaco-103467808": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 159.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 79.99
-    }
-  ],
-  "cemaco-103445795": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 259.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 129.99
-    }
-  ],
-  "cemaco-103418938": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 54.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 27.5
-    }
-  ],
-  "cemaco-55661": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 44.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 22.5
-    }
-  ],
-  "cemaco-55657": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 59.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 29.99
-    }
-  ],
-  "cemaco-55654": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 54.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 27.5
-    }
-  ],
-  "cemaco-55458": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 24.99
-    }
-  ],
-  "cemaco-55401": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 229.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 114.99
-    }
-  ],
-  "cemaco-28710": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 299.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 179.99
-    }
-  ],
-  "cemaco-28709": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 399.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 200.0
-    }
-  ],
-  "cemaco-28705": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 129.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 64.99
-    }
-  ],
-  "cemaco-27587": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 249.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 124.99
-    }
-  ],
-  "cemaco-27489": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 299.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 149.99
-    }
-  ],
-  "cemaco-25531": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 499.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 250.0
-    }
-  ],
-  "cemaco-24099": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 64.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 32.5
-    }
-  ],
-  "cemaco-23435": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 129.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 64.99
-    }
-  ],
-  "cemaco-103440387": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 169.99
-    },
-    {
-      "fecha": "2026-10-27",
-      "precio": 101.99
-    }
-  ],
-  "cemaco-103532544": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 499.99
-    },
-    {
-      "fecha": "2026-10-27",
-      "precio": 299.99
-    }
-  ],
-  "cemaco-103531981": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 799.99
-    },
-    {
-      "fecha": "2026-10-27",
-      "precio": 400.0
-    }
-  ],
-  "cemaco-103424307": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 109.99
-    },
-    {
-      "fecha": "2026-10-27",
-      "precio": 139.99
+      "precio": 265.0
     }
   ],
   "intelaf-51": [
@@ -18313,6 +18835,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 265.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 785.0
     }
   ],
   "intelaf-52": [
@@ -18327,6 +18853,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 785.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1805.0
     }
   ],
   "intelaf-53": [
@@ -18341,6 +18871,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 1805.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 82.0
     }
   ],
   "intelaf-54": [
@@ -18355,6 +18889,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 82.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 67.0
     }
   ],
   "intelaf-56": [
@@ -18379,6 +18917,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 124.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 255.0
     }
   ],
   "intelaf-59": [
@@ -18403,6 +18945,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 56.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 221.0
     }
   ],
   "intelaf-66": [
@@ -18569,6 +19115,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 94.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 103.0
     }
   ],
   "intelaf-79": [
@@ -18591,6 +19141,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 103.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 126.0
     }
   ],
   "intelaf-80": [
@@ -18613,6 +19167,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 126.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 670.0
     }
   ],
   "intelaf-81": [
@@ -18635,6 +19193,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 670.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 235.0
     }
   ],
   "intelaf-82": [
@@ -18657,6 +19219,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 235.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 885.0
     }
   ],
   "intelaf-83": [
@@ -18679,6 +19245,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 885.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 28.0
     }
   ],
   "intelaf-84": [
@@ -18701,6 +19271,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 28.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 540.0
     }
   ],
   "intelaf-85": [
@@ -18723,6 +19297,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 540.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 335.0
     }
   ],
   "intelaf-86": [
@@ -18745,6 +19323,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 335.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 38.0
     }
   ],
   "intelaf-87": [
@@ -18767,6 +19349,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 38.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2695.0
     }
   ],
   "intelaf-88": [
@@ -18789,6 +19375,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 2695.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 150.0
     }
   ],
   "intelaf-89": [
@@ -18811,6 +19401,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 150.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 97.0
     }
   ],
   "intelaf-90": [
@@ -18833,6 +19427,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 97.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 109.0
     }
   ],
   "intelaf-91": [
@@ -18855,6 +19453,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 109.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 35.0
     }
   ],
   "intelaf-92": [
@@ -18909,6 +19511,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 80.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 10.1
     }
   ],
   "intelaf-95": [
@@ -18931,6 +19537,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 10.1
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 162.0
     }
   ],
   "intelaf-96": [
@@ -18953,6 +19563,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 162.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 150.0
     }
   ],
   "intelaf-97": [
@@ -18975,6 +19589,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 150.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 430.0
     }
   ],
   "intelaf-98": [
@@ -18997,6 +19615,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 430.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 980.0
     }
   ],
   "intelaf-99": [
@@ -19019,6 +19641,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 980.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 20.0
     }
   ],
   "intelaf-100": [
@@ -19073,6 +19699,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 104.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1925.0
     }
   ],
   "intelaf-103": [
@@ -19127,6 +19757,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 35.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 170.0
     }
   ],
   "intelaf-106": [
@@ -19149,6 +19783,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 170.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 121.0
     }
   ],
   "intelaf-107": [
@@ -19171,6 +19809,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 121.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 445.0
     }
   ],
   "intelaf-108": [
@@ -21499,6 +22141,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 1099.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 989.1
     }
   ],
   "siman-3029292": [
@@ -21599,6 +22245,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 1899.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1709.1
     }
   ],
   "siman-8094162": [
@@ -21697,6 +22347,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 2699.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2429.1
     }
   ],
   "siman-8407519": [
@@ -21911,6 +22565,16 @@
       "precio": 1484.1
     }
   ],
+  "siman-8800900": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 1529.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1376.1
+    }
+  ],
   "siman-8742531": [
     {
       "fecha": "2026-10-27",
@@ -21973,6 +22637,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 699.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 629.1
     }
   ],
   "siman-8143057": [
@@ -22129,6 +22797,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 799.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 719.1
     }
   ],
   "siman-8479195": [
@@ -22345,6 +23017,16 @@
       "precio": 899.0
     }
   ],
+  "siman-8800901": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 739.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 665.1
+    }
+  ],
   "siman-8742537": [
     {
       "fecha": "2026-10-27",
@@ -22353,6 +23035,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 349.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 431.1
     }
   ],
   "siman-8731211": [
@@ -22517,6 +23203,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 399.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 359.1
     }
   ],
   "siman-8217554": [
@@ -22649,6 +23339,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 279.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 449.1
     }
   ],
   "siman-7795457": [
@@ -22669,6 +23363,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 599.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 539.1
     }
   ],
   "siman-7686610": [
@@ -22679,6 +23377,16 @@
     {
       "fecha": "2026-10-28",
       "precio": 799.0
+    }
+  ],
+  "siman-7686609": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 239.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 359.1
     }
   ],
   "siman-7603814": [
@@ -23671,6 +24379,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 399.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 339.15
     }
   ],
   "siman-8967989": [
@@ -23761,6 +24473,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 10000000.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 8500000.0
     }
   ],
   "siman-8609084": [
@@ -24049,6 +24765,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 649.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 551.65
     }
   ],
   "siman-7048949": [
@@ -24357,6 +25077,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 499.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 424.15
     }
   ],
   "siman-2118629": [
@@ -24387,6 +25111,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 249.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 211.65
     }
   ],
   "siman-2083435": [
@@ -24615,6 +25343,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 10000000.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 8500000.0
     }
   ],
   "siman-8424625": [
@@ -24963,6 +25695,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 699.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 594.15
     }
   ],
   "siman-5422839": [
@@ -25017,6 +25753,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 79.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 67.15
     }
   ],
   "siman-4686112": [
@@ -25041,6 +25781,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 159.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 135.15
     }
   ],
   "siman-4429356": [
@@ -25051,6 +25795,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 649.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 551.65
     }
   ],
   "siman-4383087": [
@@ -25263,6 +26011,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 199.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 169.15
     }
   ],
   "siman-2394943": [
@@ -25607,6 +26359,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 10000000.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 8500000.0
     }
   ],
   "siman-8414345": [
@@ -25729,6 +26485,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 699.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 594.15
     }
   ],
   "siman-8219021": [
@@ -25787,6 +26547,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 399.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 339.15
     }
   ],
   "siman-7957115": [
@@ -25805,6 +26569,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 349.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 296.65
     }
   ],
   "siman-7946947": [
@@ -25981,6 +26749,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 159.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 143.1
     }
   ],
   "siman-7313887": [
@@ -26077,6 +26849,16 @@
       "precio": 88.0
     }
   ],
+  "siman-7079489": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 749.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 674.1
+    }
+  ],
   "siman-7000203": [
     {
       "fecha": "2026-10-27",
@@ -26095,6 +26877,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 1149.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 976.65
     }
   ],
   "siman-6911786": [
@@ -26145,6 +26931,16 @@
     {
       "fecha": "2026-10-29",
       "precio": 144.0
+    }
+  ],
+  "siman-6470734": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 499.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 449.1
     }
   ],
   "siman-6330338": [
@@ -26205,6 +27001,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 499.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 424.15
     }
   ],
   "siman-5728287": [
@@ -26349,6 +27149,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 479.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 407.15
     }
   ],
   "siman-3569860": [
@@ -26379,6 +27183,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 499.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 424.15
     }
   ],
   "siman-3249479": [
@@ -26801,6 +27609,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 579.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 492.15
     }
   ],
   "siman-8137275": [
@@ -26819,6 +27631,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 259.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 220.15
     }
   ],
   "siman-8033274": [
@@ -26839,6 +27655,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 699.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 594.15
     }
   ],
   "siman-7951092": [
@@ -27531,6 +28351,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 749.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 711.55
     }
   ],
   "siman-8920316": [
@@ -27665,6 +28489,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 399.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 319.2
     }
   ],
   "siman-8902431": [
@@ -27777,6 +28605,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 750.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 600.0
     }
   ],
   "siman-8783387": [
@@ -27921,6 +28753,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 499.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 424.15
     }
   ],
   "siman-8744813": [
@@ -27977,6 +28813,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 168.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 134.4
     }
   ],
   "siman-8722950": [
@@ -28311,6 +29151,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 10000000.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 8500000.0
     }
   ],
   "siman-8551599": [
@@ -28321,6 +29165,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 1299.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1104.15
     }
   ],
   "siman-8526321": [
@@ -29071,6 +29919,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 329.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 279.65
     }
   ],
   "siman-8055699": [
@@ -29765,6 +30617,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 60.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 75.0
     }
   ],
   "siman-7413902": [
@@ -30471,6 +31327,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 319.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 424.15
     }
   ],
   "siman-6960775": [
@@ -30955,6 +31815,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 449.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 381.65
     }
   ],
   "siman-6001535": [
@@ -31105,6 +31969,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 429.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 364.65
     }
   ],
   "siman-5799923": [
@@ -31341,6 +32209,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 759.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 645.15
     }
   ],
   "siman-4227545": [
@@ -31395,6 +32267,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 399.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 339.15
     }
   ],
   "siman-3941767": [
@@ -34719,6 +35595,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 449.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 381.65
     }
   ],
   "siman-9024083": [
@@ -34789,6 +35669,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 1190.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 952.0
     }
   ],
   "siman-9024086": [
@@ -34859,6 +35743,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 189.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 160.65
     }
   ],
   "siman-7268476": [
@@ -37993,6 +38881,16 @@
       "precio": 296.0
     }
   ],
+  "tecnofacil-JBLQTUM250BLK": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 449.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 356.0
+    }
+  ],
   "tecnofacil-PBH360BK": [
     {
       "fecha": "2026-10-28",
@@ -38747,6 +39645,16 @@
     {
       "fecha": "2026-10-29",
       "precio": 3696.0
+    }
+  ],
+  "tecnofacil-RT35DG5224S9": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 3899.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 3896.0
     }
   ],
   "tecnofacil-MEQW4AMA": [
