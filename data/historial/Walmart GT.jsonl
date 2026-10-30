@@ -4968,7 +4968,7 @@
 {"id": "walmart-gt-72143", "fecha": "2026-10-27", "precio": 40.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:39-06:00", "visto_hasta": "2026-10-30"}
 {"id": "walmart-gt-71351", "fecha": "2026-10-27", "precio": 135.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:39-06:00", "visto_hasta": "2026-10-30"}
 {"id": "walmart-gt-71350", "fecha": "2026-10-27", "precio": 135.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:39-06:00", "visto_hasta": "2026-10-30"}
-{"id": "walmart-gt-69988", "fecha": "2026-10-27", "precio": 37.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:39-06:00", "visto_hasta": "2026-10-29"}
+{"id": "walmart-gt-69988", "fecha": "2026-10-27", "precio": 37.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:39-06:00", "visto_hasta": "2026-10-30"}
 {"id": "walmart-gt-69987", "fecha": "2026-10-27", "precio": 37.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:39-06:00", "visto_hasta": "2026-10-30"}
 {"id": "walmart-gt-69789", "fecha": "2026-10-27", "precio": 14.5, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:39-06:00", "visto_hasta": "2026-10-30"}
 {"id": "walmart-gt-67960", "fecha": "2026-10-27", "precio": 33.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:39-06:00", "visto_hasta": "2026-10-30"}
@@ -6939,3 +6939,5 @@
 {"id": "walmart-gt-41212", "fecha_inicio": "2026-10-30", "precio": 96.0, "visto_hasta": "2026-10-30", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-41209", "fecha_inicio": "2026-10-30", "precio": 69.9, "visto_hasta": "2026-10-30", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-41208", "fecha_inicio": "2026-10-30", "precio": 115.75, "visto_hasta": "2026-10-30", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-22599", "fecha_inicio": "2026-10-30", "precio": 18.75, "visto_hasta": "2026-10-30", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-70343", "fecha_inicio": "2026-10-30", "precio": 14.0, "visto_hasta": "2026-10-30", "precio_unidad": null, "unidad": null}
