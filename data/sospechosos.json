@@ -145,14 +145,6 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "SET CAVALIER BOTELLA MAS",
-    "precio": 24.0,
-    "antes": 96.0,
-    "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/SET-CAVALIER-BOTELLA-MAS/p/1218000437"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "SET CAVALIER ASTRONAUTA PARA",
     "precio": 26.0,
     "antes": 104.0,
@@ -1856,11 +1848,27 @@
     "url": "https://gt.siman.com/carrete-de-nylon-104027474/p"
   },
   {
+    "tienda": "Simán",
+    "nombre": "Cortador de uñas de mascotas surtido",
+    "precio": 9.0,
+    "antes": 59.0,
+    "descuento": 0.847,
+    "url": "https://gt.siman.com/cortador-de-uas-de-mascotas-surtido-103677411/p"
+  },
+  {
     "tienda": "Tecnofácil",
     "nombre": "Silla de comedor moderna de Polipropileno",
     "precio": 150.0,
     "antes": 550.0,
     "descuento": 0.727,
     "url": "https://www.tecnofacil.com.gt/silla-de-comedor-moderna-7d366bf0"
+  },
+  {
+    "tienda": "Max",
+    "nombre": "Silla de comedor moderna de Polipropileno",
+    "precio": 150.0,
+    "antes": 550.0,
+    "descuento": 0.727,
+    "url": "https://www.max.com.gt/silla-de-comedor-moderna-7d366bf0"
   }
 ]
