@@ -100,7 +100,7 @@
 {"id": "lacuracao-472386600011", "fecha": "2026-10-27", "precio": 1438.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:17-06:00", "visto_hasta": "2026-10-29"}
 {"id": "lacuracao-472386700018", "fecha": "2026-10-27", "precio": 3898.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:17-06:00", "visto_hasta": "2026-10-29"}
 {"id": "lacuracao-472935100016", "fecha": "2026-10-27", "precio": 3708.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:17-06:00", "visto_hasta": "2026-10-29"}
-{"id": "lacuracao-473460000017", "fecha": "2026-10-27", "precio": 4888.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:17-06:00", "visto_hasta": "2026-10-28"}
+{"id": "lacuracao-473460000017", "fecha": "2026-10-27", "precio": 4888.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:17-06:00", "visto_hasta": "2026-10-29"}
 {"id": "lacuracao-4863129806411442937", "fecha": "2026-10-27", "precio": 2998.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:22-06:00"}
 {"id": "lacuracao-465278600015", "fecha": "2026-10-27", "precio": 4298.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:22-06:00", "visto_hasta": "2026-10-29"}
 {"id": "lacuracao-468037900012", "fecha": "2026-10-27", "precio": 2898.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:22-06:00", "visto_hasta": "2026-10-29"}
@@ -697,3 +697,12 @@
 {"id": "lacuracao-2211618363861069733", "fecha_inicio": "2026-10-29", "precio": 350.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "lacuracao-3710746640674567956", "fecha_inicio": "2026-10-29", "precio": 100.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "lacuracao-4567428442574689828", "fecha_inicio": "2026-10-29", "precio": 50.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "lacuracao-1691292928040071968", "fecha_inicio": "2026-10-29", "precio": 3798.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "lacuracao-6915672070492212408", "fecha_inicio": "2026-10-29", "precio": 2998.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "lacuracao-3852872135931061725", "fecha_inicio": "2026-10-29", "precio": 9999.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "lacuracao-8712260560960179178", "fecha_inicio": "2026-10-29", "precio": 1500.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "lacuracao-8144681284861801484", "fecha_inicio": "2026-10-29", "precio": 1000.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "lacuracao-9018106864990758808", "fecha_inicio": "2026-10-29", "precio": 500.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "lacuracao-5904076066590340309", "fecha_inicio": "2026-10-29", "precio": 350.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "lacuracao-1008757440930043418", "fecha_inicio": "2026-10-29", "precio": 100.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "lacuracao-3407482548480976034", "fecha_inicio": "2026-10-29", "precio": 50.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
