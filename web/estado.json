@@ -1,16 +1,16 @@
 {
-  "ultima_corrida": "2026-10-30T10:46:23-06:00",
-  "duracion_seg": 437.1,
-  "productos_leidos": 44939,
+  "ultima_corrida": "2026-10-30T11:41:23-06:00",
+  "duracion_seg": 441.7,
+  "productos_leidos": 45145,
   "dias_historial": 4,
   "con_ean": {
-    "Elektra GT": 677,
-    "La Torre": 5621,
-    "Cemaco": 2775,
-    "Walmart GT": 5949,
+    "Elektra GT": 678,
+    "La Torre": 5626,
+    "Cemaco": 2774,
+    "Walmart GT": 5952,
     "Simán": 2338,
-    "Max": 1091,
-    "Tecnofácil": 889
+    "Tecnofácil": 950,
+    "Max": 1011
   },
   "reporte_tiendas": {
     "Click": {
@@ -19,12 +19,12 @@
       "dias_historial": 2
     },
     "Elektra GT": {
-      "productos": 986,
-      "con_ean": 677,
+      "productos": 987,
+      "con_ean": 678,
       "dias_historial": 4
     },
     "Office Depot": {
-      "productos": 3560,
+      "productos": 3490,
       "con_ean": 0,
       "dias_historial": 2
     },
@@ -39,32 +39,27 @@
       "dias_historial": 2
     },
     "La Torre": {
-      "productos": 5988,
-      "con_ean": 5621,
+      "productos": 5993,
+      "con_ean": 5626,
       "dias_historial": 4
-    },
-    "PriceSmart": {
-      "productos": 457,
-      "con_ean": 0,
-      "dias_historial": 3
     },
     "Cemaco": {
       "productos": 5876,
-      "con_ean": 2775,
+      "con_ean": 2774,
       "dias_historial": 4
     },
     "Walmart GT": {
-      "productos": 5949,
-      "con_ean": 5949,
+      "productos": 5952,
+      "con_ean": 5952,
       "dias_historial": 4
-    },
-    "Intelaf": {
-      "productos": 163,
-      "con_ean": 0,
-      "dias_historial": 3
     },
     "EPA": {
       "productos": 9424,
+      "con_ean": 0,
+      "dias_historial": 3
+    },
+    "Intelaf": {
+      "productos": 172,
       "con_ean": 0,
       "dias_historial": 3
     },
@@ -73,19 +68,29 @@
       "con_ean": 2338,
       "dias_historial": 4
     },
-    "Max": {
-      "productos": 2778,
-      "con_ean": 1091,
+    "PriceSmart": {
+      "productos": 762,
+      "con_ean": 0,
       "dias_historial": 3
     },
     "Tecnofácil": {
-      "productos": 2149,
-      "con_ean": 889,
+      "productos": 2390,
+      "con_ean": 950,
+      "dias_historial": 3
+    },
+    "Max": {
+      "productos": 2430,
+      "con_ean": 1011,
+      "dias_historial": 3
+    },
+    "Novex": {
+      "productos": 60,
+      "con_ean": 0,
       "dias_historial": 3
     }
   },
-  "coincidencias": 3863,
-  "antes_inflado": 1126,
+  "coincidencias": 3820,
+  "antes_inflado": 1089,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -123,16 +128,16 @@
       "nombre": "Minicomponente Vertical LG, RNC9, Woofer Dual para Graves, S",
       "tienda": "Elektra GT",
       "antes": 4299.0,
-      "precio": 2999.0,
+      "precio": 2995.0,
       "max_otro": 2996.0,
       "url": "https://www.elektra.com.gt/minicomponente-vertical-lg-rnc9-5004423/p"
     }
   ],
   "ofertas_por_nivel": {
     "loca": 1,
-    "muy_buena": 17,
-    "buena": 5,
-    "agotado": 3
+    "muy_buena": 22,
+    "buena": 6,
+    "agotado": 2
   },
   "fuentes": {
     "recolectores.click": {
@@ -140,11 +145,11 @@
       "estado": "OK"
     },
     "recolectores.elektra": {
-      "productos": 1060,
+      "productos": 1062,
       "estado": "OK"
     },
     "recolectores.officedepot": {
-      "productos": 3814,
+      "productos": 3740,
       "estado": "OK"
     },
     "recolectores.lacuracao": {
@@ -156,11 +161,7 @@
       "estado": "OK"
     },
     "recolectores.la_torre": {
-      "productos": 6001,
-      "estado": "OK"
-    },
-    "recolectores.pricesmart": {
-      "productos": 478,
+      "productos": 6006,
       "estado": "OK"
     },
     "recolectores.cemaco": {
@@ -168,32 +169,36 @@
       "estado": "OK"
     },
     "recolectores.walmart": {
-      "productos": 6016,
-      "estado": "OK"
-    },
-    "recolectores.intelaf": {
-      "productos": 223,
+      "productos": 6019,
       "estado": "OK"
     },
     "recolectores.epa": {
       "productos": 9735,
       "estado": "OK"
     },
+    "recolectores.intelaf": {
+      "productos": 234,
+      "estado": "OK"
+    },
     "recolectores.siman": {
       "productos": 6015,
       "estado": "OK"
     },
-    "recolectores.max_gt": {
-      "productos": 2919,
+    "recolectores.pricesmart": {
+      "productos": 780,
       "estado": "OK"
     },
     "recolectores.tecnofacil": {
-      "productos": 2287,
+      "productos": 2533,
+      "estado": "OK"
+    },
+    "recolectores.max_gt": {
+      "productos": 2582,
       "estado": "OK"
     },
     "recolectores.novex": {
-      "productos": 0,
-      "estado": "ROTA"
+      "productos": 60,
+      "estado": "OK"
     }
   },
   "fallos": []
