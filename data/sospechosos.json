@@ -264,46 +264,6 @@
     "url": "https://www.cemaco.com/qmazo-de-12-lbs-663516b/p"
   },
   {
-    "tienda": "Simán",
-    "nombre": "Celular Samsung Galaxy S25 Ultra SM-S938BZTKGTO 12GB RAM 256GB SSD Pantalla 6.9\" (17.53 cm) Snapdragon 8 Elite Cámara avanzada Cámara Posterior 200 MP",
-    "precio": 2999.0,
-    "antes": 11999.0,
-    "descuento": 0.75,
-    "url": "https://gt.siman.com/celular-samsung-galaxy-s25-ultra-sm-s938bztkgto-12gb-ram-256gb-ssd-pantalla-6-9---17-53-cm--snapdragon-8-elite-camara-avanzada-camara-posterior-200-mp/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Soporte de auto para celular",
-    "precio": 1.0,
-    "antes": 49.0,
-    "descuento": 0.98,
-    "url": "https://gt.siman.com/soporte-de-auto-para-celular-100114848/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Mouse óptico inalámbrico Xtech Galos",
-    "precio": 1.0,
-    "antes": 59.0,
-    "descuento": 0.983,
-    "url": "https://gt.siman.com/mouse-optico-inalambrico-de-4-botones-azul-103134053/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Carrete de nylon",
-    "precio": 9.0,
-    "antes": 39.0,
-    "descuento": 0.769,
-    "url": "https://gt.siman.com/carrete-de-nylon-104027474/p"
-  },
-  {
     "tienda": "EPA",
     "nombre": "Zapato de seguridad dieléctrico varias tallas con puntera y plantilla de composite gargas",
     "precio": 149.0,
@@ -1848,6 +1808,46 @@
     "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
   },
   {
+    "tienda": "Simán",
+    "nombre": "Celular Samsung Galaxy S25 Ultra SM-S938BZTKGTO 12GB RAM 256GB SSD Pantalla 6.9\" (17.53 cm) Snapdragon 8 Elite Cámara avanzada Cámara Posterior 200 MP",
+    "precio": 2999.0,
+    "antes": 11999.0,
+    "descuento": 0.75,
+    "url": "https://gt.siman.com/celular-samsung-galaxy-s25-ultra-sm-s938bztkgto-12gb-ram-256gb-ssd-pantalla-6-9---17-53-cm--snapdragon-8-elite-camara-avanzada-camara-posterior-200-mp/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Soporte de auto para celular",
+    "precio": 1.0,
+    "antes": 49.0,
+    "descuento": 0.98,
+    "url": "https://gt.siman.com/soporte-de-auto-para-celular-100114848/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Mouse óptico inalámbrico Xtech Galos",
+    "precio": 1.0,
+    "antes": 59.0,
+    "descuento": 0.983,
+    "url": "https://gt.siman.com/mouse-optico-inalambrico-de-4-botones-azul-103134053/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Carrete de nylon",
+    "precio": 9.0,
+    "antes": 39.0,
+    "descuento": 0.769,
+    "url": "https://gt.siman.com/carrete-de-nylon-104027474/p"
+  },
+  {
     "tienda": "Tecnofácil",
     "nombre": "Silla de comedor moderna de Polipropileno",
     "precio": 150.0,
@@ -1856,35 +1856,11 @@
     "url": "https://www.tecnofacil.com.gt/silla-de-comedor-moderna-7d366bf0"
   },
   {
-    "tienda": "Novex",
-    "nombre": "Broca para encaje de bisagra escondida 35 mm",
-    "precio": 35.49,
-    "antes": 120.0,
-    "descuento": 0.704,
-    "url": "https://www.novex.com.gt/producto/169223/Broca-para-encaje-de-bisagra-escondida-35-mm.html"
-  },
-  {
-    "tienda": "Novex",
-    "nombre": "Disco de corte concreto 7 x 1/8 x 7/8 pulgadas",
-    "precio": 2.59,
-    "antes": 11.0,
-    "descuento": 0.765,
-    "url": "https://www.novex.com.gt/producto/130585/Disco-de-corte-concreto-7-x-1|8-x-7|8-pulgadas.html"
-  },
-  {
-    "tienda": "Novex",
-    "nombre": "Disco de corte metal/acero inoxidable 7 x 1/8 x 7/8 pulgadas",
-    "precio": 6.59,
-    "antes": 22.0,
-    "descuento": 0.7,
-    "url": "https://www.novex.com.gt/producto/169055/Disco-de-corte-metal|acero-inoxidable-7-x-1|8-x-7|8-pulgadas.html"
-  },
-  {
-    "tienda": "Novex",
-    "nombre": "Disco de corte concreto 7 x 1/8 x 7/8 pulgadas",
-    "precio": 3.89,
-    "antes": 13.0,
-    "descuento": 0.701,
-    "url": "https://www.novex.com.gt/producto/169062/Disco-de-corte-concreto-7-x-1|8-x-7|8-pulgadas.html"
+    "tienda": "Max",
+    "nombre": "Silla de comedor moderna de Polipropileno",
+    "precio": 150.0,
+    "antes": 550.0,
+    "descuento": 0.727,
+    "url": "https://www.max.com.gt/silla-de-comedor-moderna-7d366bf0"
   }
 ]
