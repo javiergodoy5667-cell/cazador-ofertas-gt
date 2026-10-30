@@ -27,8 +27,39 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T08:47:14-06:00",
+    "visto_en": "2026-10-30T09:41:06-06:00",
     "alerta_nueva": false
+  },
+  {
+    "id": "pricesmart-522889",
+    "tienda": "PriceSmart",
+    "nombre": "Eucerin pH5 Aceite y Gel de Ducha 2 Unidades / 400 mL",
+    "categoria": "💄 Belleza y cuidado personal",
+    "url": "https://www.pricesmart.com/es-gt/producto/eucerin-ph5-aceite-y-gel-de-ducha-2-unidades-400-ml-522889/522889",
+    "imagen": null,
+    "moneda": "GTQ",
+    "precio_actual": 54.7,
+    "precio_referencia": 116.7,
+    "precio_antes_tienda": null,
+    "descuento_real": 0.5313,
+    "ahorro_q": 62.0,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 64.4,
+    "disponible": true,
+    "modo_compra": "club",
+    "fin_oferta": null,
+    "visto_en": "2026-10-30T09:43:28-06:00",
+    "alerta_nueva": true
   },
   {
     "id": "cemaco-6357",
@@ -57,8 +88,8 @@
     "puntaje": 59.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T14:47:26Z",
-    "visto_en": "2026-10-30T08:47:27-06:00",
+    "fin_oferta": "2027-10-30T00:00:00Z",
+    "visto_en": "2026-10-30T09:41:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -88,8 +119,8 @@
     "puntaje": 58.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T14:47:27Z",
-    "visto_en": "2026-10-30T08:47:27-06:00",
+    "fin_oferta": "2027-10-30T15:40:25Z",
+    "visto_en": "2026-10-30T09:41:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -120,7 +151,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T08:47:12-06:00",
+    "visto_en": "2026-10-30T09:41:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -151,7 +182,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T08:47:12-06:00",
+    "visto_en": "2026-10-30T09:41:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -182,7 +213,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T08:47:15-06:00",
+    "visto_en": "2026-10-30T09:41:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -222,14 +253,14 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T08:49:05-06:00",
+    "visto_en": "2026-10-30T09:42:47-06:00",
     "alerta_nueva": true
   },
   {
     "id": "tecnofacil-D2400",
     "tienda": "Tecnofácil",
     "nombre": "Secador de Cabello Compacto Con Mango Plegable para Viajes",
-    "categoria": "💄 Belleza y cuidado personal",
+    "categoria": "🧊 Línea blanca",
     "url": "https://www.tecnofacil.com.gt/secador-de-cabello-compacto-con-mango-plegable-para-viajes-remington-d2400",
     "imagen": "https://backoffice.max.com.gt/media/catalog/product/d/2/d2400_2.jpg",
     "moneda": "GTQ",
@@ -253,7 +284,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-30T08:52:00-06:00",
+    "visto_en": "2026-10-30T09:45:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -284,7 +315,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-30T08:52:00-06:00",
+    "visto_en": "2026-10-30T09:45:46-06:00",
     "alerta_nueva": true
   },
   {
@@ -315,7 +346,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-30T08:47:42-06:00",
+    "visto_en": "2026-10-30T09:41:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -346,7 +377,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T08:49:08-06:00",
+    "visto_en": "2026-10-30T09:42:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -377,7 +408,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T08:49:08-06:00",
+    "visto_en": "2026-10-30T09:42:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -407,8 +438,8 @@
     "puntaje": 35.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T14:48:33Z",
-    "visto_en": "2026-10-30T08:49:08-06:00",
+    "fin_oferta": "2027-10-30T00:00:00Z",
+    "visto_en": "2026-10-30T09:42:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -439,7 +470,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T08:49:08-06:00",
+    "visto_en": "2026-10-30T09:42:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -470,7 +501,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-30T08:49:19-06:00",
+    "visto_en": "2026-10-30T09:42:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -501,7 +532,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-30T08:49:08-06:00",
+    "visto_en": "2026-10-30T09:42:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -531,8 +562,8 @@
     "puntaje": 30.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T14:51:54Z",
-    "visto_en": "2026-10-30T08:51:55-06:00",
+    "fin_oferta": "2027-10-30T15:45:10Z",
+    "visto_en": "2026-10-30T09:45:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -562,8 +593,39 @@
     "puntaje": 30.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T14:51:54Z",
-    "visto_en": "2026-10-30T08:51:55-06:00",
+    "fin_oferta": "2027-10-30T15:45:10Z",
+    "visto_en": "2026-10-30T09:45:12-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-4fe67dd0",
+    "tienda": "Max",
+    "nombre": "Cables pasadores de corriente 600a con lampara led ingco",
+    "categoria": "🔌 Eléctrico",
+    "url": "https://www.max.com.gt/cables-pasadores-de-corriente-600a-con-lampara-led-ingco-4fe67dd0",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/f/8/f8b3c878a5456eb7.png",
+    "moneda": "GTQ",
+    "precio_actual": 143.48,
+    "precio_referencia": 179.4,
+    "precio_antes_tienda": 179.4,
+    "descuento_real": 0.2002,
+    "ahorro_q": 35.92,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 30.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-30T09:46:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -594,47 +656,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-12-01T00:00:00Z",
-    "visto_en": "2026-10-30T08:48:25-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "max-gt-WATCHGT6O",
-    "tienda": "Max",
-    "nombre": "Huawei Watch GT 6 41mm oro",
-    "categoria": "🍷 Licores",
-    "url": "https://www.max.com.gt/huawei-watch-gt-6-41mm-oro-huawei-watchgt6o",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/W/A/WATCHGT6O_1_17062026124805.png",
-    "moneda": "GTQ",
-    "precio_actual": 1799.0,
-    "precio_referencia": 2196.0,
-    "precio_antes_tienda": 2495.0,
-    "descuento_real": 0.1808,
-    "ahorro_q": 397.0,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Tecnofácil",
-        "precio": 2196.0,
-        "url": "https://www.tecnofacil.com.gt/huawei-watch-gt-6-41mm-oro-huawei-watchgt6o"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Tecnofácil",
-      "precio": 2196.0
-    },
-    "etiqueta": "Más barato que Tecnofácil",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 26.0,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-10-30T08:47:16-06:00",
+    "visto_en": "2026-10-30T09:42:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -674,7 +696,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-22T00:00:00Z",
-    "visto_en": "2026-10-30T08:48:18-06:00",
+    "visto_en": "2026-10-30T09:42:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -713,8 +735,8 @@
     "puntaje": 24.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T14:47:49Z",
-    "visto_en": "2026-10-30T08:47:50-06:00",
+    "fin_oferta": "2027-10-30T15:41:35Z",
+    "visto_en": "2026-10-30T09:41:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -754,7 +776,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-30T08:48:04-06:00",
+    "visto_en": "2026-10-30T09:41:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -794,7 +816,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T08:47:29-06:00",
+    "visto_en": "2026-10-30T09:41:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -834,7 +856,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T08:49:52-06:00",
+    "visto_en": "2026-10-30T09:43:29-06:00",
     "alerta_nueva": true
   },
   {
@@ -865,7 +887,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T08:49:14-06:00",
+    "visto_en": "2026-10-30T09:42:54-06:00",
     "alerta_nueva": true
   },
   {
@@ -895,8 +917,8 @@
     "puntaje": 35.3,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T14:49:14Z",
-    "visto_en": "2026-10-30T08:49:14-06:00",
+    "fin_oferta": "2027-10-30T00:00:00Z",
+    "visto_en": "2026-10-30T09:42:54-06:00",
     "alerta_nueva": true
   }
 ]
