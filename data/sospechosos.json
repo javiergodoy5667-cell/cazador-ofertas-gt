@@ -280,6 +280,30 @@
     "url": "https://www.cemaco.com/qmazo-de-12-lbs-663516b/p"
   },
   {
+    "tienda": "Simán",
+    "nombre": "Celular Samsung Galaxy S25 Ultra SM-S938BZTKGTO 12GB RAM 256GB SSD Pantalla 6.9\" (17.53 cm) Snapdragon 8 Elite Cámara avanzada Cámara Posterior 200 MP",
+    "precio": 2999.0,
+    "antes": 11999.0,
+    "descuento": 0.75,
+    "url": "https://gt.siman.com/celular-samsung-galaxy-s25-ultra-sm-s938bztkgto-12gb-ram-256gb-ssd-pantalla-6-9---17-53-cm--snapdragon-8-elite-camara-avanzada-camara-posterior-200-mp/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Carrete de nylon",
+    "precio": 9.0,
+    "antes": 39.0,
+    "descuento": 0.769,
+    "url": "https://gt.siman.com/carrete-de-nylon-104027474/p"
+  },
+  {
     "tienda": "EPA",
     "nombre": "Zapato de seguridad dieléctrico varias tallas con puntera y plantilla de composite gargas",
     "precio": 149.0,
@@ -1824,35 +1848,19 @@
     "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
   },
   {
-    "tienda": "Simán",
-    "nombre": "Celular Samsung Galaxy S25 Ultra SM-S938BZTKGTO 12GB RAM 256GB SSD Pantalla 6.9\" (17.53 cm) Snapdragon 8 Elite Cámara avanzada Cámara Posterior 200 MP",
-    "precio": 2999.0,
-    "antes": 11999.0,
-    "descuento": 0.75,
-    "url": "https://gt.siman.com/celular-samsung-galaxy-s25-ultra-sm-s938bztkgto-12gb-ram-256gb-ssd-pantalla-6-9---17-53-cm--snapdragon-8-elite-camara-avanzada-camara-posterior-200-mp/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Carrete de nylon",
-    "precio": 9.0,
-    "antes": 39.0,
-    "descuento": 0.769,
-    "url": "https://gt.siman.com/carrete-de-nylon-104027474/p"
-  },
-  {
     "tienda": "Tecnofácil",
     "nombre": "Silla de comedor moderna de Polipropileno",
     "precio": 150.0,
     "antes": 550.0,
     "descuento": 0.727,
     "url": "https://www.tecnofacil.com.gt/silla-de-comedor-moderna-7d366bf0"
+  },
+  {
+    "tienda": "Novex",
+    "nombre": "Broca para concreto 5/32 x 3 pulgadas",
+    "precio": 0.99,
+    "antes": 3.6,
+    "descuento": 0.725,
+    "url": "https://www.novex.com.gt/producto/19411/Broca-para-concreto-5|32-x-3-pulgadas.html"
   }
 ]

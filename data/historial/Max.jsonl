@@ -1734,10 +1734,10 @@
 {"id": "max-gt-3298dc6b", "fecha_inicio": "2026-10-28", "precio": 65.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-30c37215", "fecha_inicio": "2026-10-28", "precio": 35.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-820bdd18", "fecha_inicio": "2026-10-28", "precio": 160.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
-{"id": "max-gt-5778aa53", "fecha_inicio": "2026-10-28", "precio": 72.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
-{"id": "max-gt-0c783ebc", "fecha_inicio": "2026-10-28", "precio": 180.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
-{"id": "max-gt-512340b6", "fecha_inicio": "2026-10-28", "precio": 650.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
-{"id": "max-gt-ab630b89", "fecha_inicio": "2026-10-28", "precio": 295.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "max-gt-5778aa53", "fecha_inicio": "2026-10-28", "precio": 72.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "max-gt-0c783ebc", "fecha_inicio": "2026-10-28", "precio": 180.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "max-gt-512340b6", "fecha_inicio": "2026-10-28", "precio": 650.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "max-gt-ab630b89", "fecha_inicio": "2026-10-28", "precio": 295.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-9f46f2e4", "fecha_inicio": "2026-10-28", "precio": 360.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-93d7c90b", "fecha_inicio": "2026-10-28", "precio": 150.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-30550121", "fecha_inicio": "2026-10-28", "precio": 29.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
@@ -2628,7 +2628,7 @@
 {"id": "max-gt-8a0db870", "fecha_inicio": "2026-10-28", "precio": 12852.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-aa2ca3af", "fecha_inicio": "2026-10-28", "precio": 3499.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-d5ebcfb9", "fecha_inicio": "2026-10-28", "precio": 1000.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
-{"id": "max-gt-990e36c9", "fecha_inicio": "2026-10-28", "precio": 4500.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "max-gt-990e36c9", "fecha_inicio": "2026-10-28", "precio": 4500.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-4510986", "fecha_inicio": "2026-10-28", "precio": 95.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-4510987", "fecha_inicio": "2026-10-28", "precio": 95.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-4510984", "fecha_inicio": "2026-10-28", "precio": 245.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
@@ -5876,7 +5876,7 @@
 {"id": "max-gt-11d26ac7", "fecha_inicio": "2026-10-28", "precio": 115.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-fb7418db", "fecha_inicio": "2026-10-28", "precio": 95.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-db9357e9", "fecha_inicio": "2026-10-28", "precio": 1425.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
-{"id": "max-gt-f4a86097", "fecha_inicio": "2026-10-28", "precio": 490.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
+{"id": "max-gt-f4a86097", "fecha_inicio": "2026-10-28", "precio": 490.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-9d32bf19", "fecha_inicio": "2026-10-28", "precio": 95.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-49c19cd3", "fecha_inicio": "2026-10-28", "precio": 229.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-e9bb9ad0", "fecha_inicio": "2026-10-28", "precio": 75.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
@@ -6525,3 +6525,5 @@
 {"id": "max-gt-3867", "fecha_inicio": "2026-10-29", "precio": 2000.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-9b81c9a7", "fecha_inicio": "2026-10-29", "precio": 2595.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "max-gt-789759a2", "fecha_inicio": "2026-10-29", "precio": 2390.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "max-gt-c2693cb6", "fecha_inicio": "2026-10-29", "precio": 155.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "max-gt-17d7162f", "fecha_inicio": "2026-10-29", "precio": 39.94, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
