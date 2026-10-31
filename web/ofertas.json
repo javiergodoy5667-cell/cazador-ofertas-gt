@@ -27,7 +27,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T14:25:25-06:00",
+    "visto_en": "2026-10-31T15:27:21-06:00",
     "alerta_nueva": false
   },
   {
@@ -58,7 +58,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:57-06:00",
+    "visto_en": "2026-10-31T15:29:43-06:00",
     "alerta_nueva": false
   },
   {
@@ -89,7 +89,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:26-06:00",
+    "visto_en": "2026-10-31T15:29:13-06:00",
     "alerta_nueva": false
   },
   {
@@ -120,7 +120,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:48-06:00",
+    "visto_en": "2026-10-31T15:29:32-06:00",
     "alerta_nueva": false
   },
   {
@@ -150,8 +150,8 @@
     "puntaje": 72.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T14:27:53-06:00",
+    "fin_oferta": "2027-01-01T00:00:00Z",
+    "visto_en": "2026-10-31T15:29:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -181,8 +181,8 @@
     "puntaje": 69.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T14:27:53-06:00",
+    "fin_oferta": "2027-01-01T00:00:00Z",
+    "visto_en": "2026-10-31T15:29:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -213,7 +213,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:56-06:00",
+    "visto_en": "2026-10-31T15:29:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -244,7 +244,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:54-06:00",
+    "visto_en": "2026-10-31T15:29:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -275,7 +275,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:54-06:00",
+    "visto_en": "2026-10-31T15:29:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -306,7 +306,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:57-06:00",
+    "visto_en": "2026-10-31T15:29:43-06:00",
     "alerta_nueva": false
   },
   {
@@ -336,8 +336,8 @@
     "puntaje": 59.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T20:22:05Z",
-    "visto_en": "2026-10-31T14:25:39-06:00",
+    "fin_oferta": "2027-10-31T21:27:35Z",
+    "visto_en": "2026-10-31T15:27:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -368,7 +368,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-31T14:26:05-06:00",
+    "visto_en": "2026-10-31T15:28:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -398,8 +398,8 @@
     "puntaje": 58.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T20:17:45Z",
-    "visto_en": "2026-10-31T14:25:39-06:00",
+    "fin_oferta": "2027-10-31T21:27:35Z",
+    "visto_en": "2026-10-31T15:27:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -429,8 +429,8 @@
     "puntaje": 56.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T14:27:24-06:00",
+    "fin_oferta": "2027-01-01T00:00:00Z",
+    "visto_en": "2026-10-31T15:29:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -460,39 +460,8 @@
     "puntaje": 55.4,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T14:27:50-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "max-gt-58R6E5",
-    "tienda": "Max",
-    "nombre": "Televisor Hisense 58 pulgadas LED Ultra UHD-4K",
-    "categoria": "📺 TV y audio",
-    "url": "https://www.max.com.gt/televisor-hisense-58-pulgadas-led-ultra-uhd-4k-hisense-58r6e5",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/5/8/58r6e_1600x1200.jpg?optimize=high&fit=bounds&height=&width=",
-    "moneda": "GTQ",
-    "precio_actual": 2996.0,
-    "precio_referencia": 3995.5,
-    "precio_antes_tienda": 4995.0,
-    "descuento_real": 0.2502,
-    "ahorro_q": 999.5,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "muy_buena",
-    "nivel_emoji": "⚡",
-    "nivel_label": "MUY BUENA",
-    "puntaje": 55.0,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-10-31T14:26:10-06:00",
+    "fin_oferta": "2027-01-01T00:00:00Z",
+    "visto_en": "2026-10-31T15:29:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -522,8 +491,8 @@
     "puntaje": 53.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T14:27:53-06:00",
+    "fin_oferta": "2027-01-01T00:00:00Z",
+    "visto_en": "2026-10-31T15:29:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -554,7 +523,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:33-06:00",
+    "visto_en": "2026-10-31T15:29:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -584,8 +553,8 @@
     "puntaje": 52.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:50-06:00",
+    "fin_oferta": "2027-01-01T06:00:00Z",
+    "visto_en": "2026-10-31T15:29:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -616,7 +585,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T14:27:33-06:00",
+    "visto_en": "2026-10-31T15:29:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -647,7 +616,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:42-06:00",
+    "visto_en": "2026-10-31T15:29:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -678,7 +647,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T14:27:40-06:00",
+    "visto_en": "2026-10-31T15:29:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -709,7 +678,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T14:27:40-06:00",
+    "visto_en": "2026-10-31T15:29:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -740,7 +709,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T14:27:32-06:00",
+    "visto_en": "2026-10-31T15:29:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -771,7 +740,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:49-06:00",
+    "visto_en": "2026-10-31T15:29:32-06:00",
     "alerta_nueva": true
   },
   {
@@ -811,7 +780,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:29-06:00",
+    "visto_en": "2026-10-31T15:29:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -842,7 +811,38 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:29-06:00",
+    "visto_en": "2026-10-31T15:29:16-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "pricesmart-522889",
+    "tienda": "PriceSmart",
+    "nombre": "Eucerin pH5 Aceite y Gel de Ducha 2 Unidades / 400 mL",
+    "categoria": "💄 Belleza y cuidado personal",
+    "url": "https://www.pricesmart.com/es-gt/producto/eucerin-ph5-aceite-y-gel-de-ducha-2-unidades-400-ml-522889/522889",
+    "imagen": null,
+    "moneda": "GTQ",
+    "precio_actual": 54.7,
+    "precio_referencia": 85.7,
+    "precio_antes_tienda": null,
+    "descuento_real": 0.3617,
+    "ahorro_q": 31.0,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 46.8,
+    "disponible": true,
+    "modo_compra": "club",
+    "fin_oferta": null,
+    "visto_en": "2026-10-31T15:29:26-06:00",
     "alerta_nueva": true
   },
   {
@@ -873,7 +873,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T14:25:52-06:00",
+    "visto_en": "2026-10-31T15:27:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -904,7 +904,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:56-06:00",
+    "visto_en": "2026-10-31T15:29:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -934,8 +934,8 @@
     "puntaje": 44.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T14:25:22-06:00",
+    "fin_oferta": "2027-10-31T21:22:13Z",
+    "visto_en": "2026-10-31T15:27:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -966,7 +966,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:29-06:00",
+    "visto_en": "2026-10-31T15:29:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -997,7 +997,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2029-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:44-06:00",
+    "visto_en": "2026-10-31T15:29:28-06:00",
     "alerta_nueva": true
   },
   {
@@ -1027,8 +1027,8 @@
     "puntaje": 42.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:57-06:00",
+    "fin_oferta": "2027-01-01T06:00:00Z",
+    "visto_en": "2026-10-31T15:29:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -1059,7 +1059,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T14:25:53-06:00",
+    "visto_en": "2026-10-31T15:27:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -1089,8 +1089,8 @@
     "puntaje": 41.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T20:25:21Z",
-    "visto_en": "2026-10-31T14:25:22-06:00",
+    "fin_oferta": "2027-10-30T00:00:00Z",
+    "visto_en": "2026-10-31T15:27:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -1121,7 +1121,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T14:25:28-06:00",
+    "visto_en": "2026-10-31T15:27:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -1151,8 +1151,8 @@
     "puntaje": 41.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:27-06:00",
+    "fin_oferta": "2027-01-01T06:00:00Z",
+    "visto_en": "2026-10-31T15:29:14-06:00",
     "alerta_nueva": true
   },
   {
@@ -1183,7 +1183,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:33-06:00",
+    "visto_en": "2026-10-31T15:29:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -1214,7 +1214,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T14:25:18-06:00",
+    "visto_en": "2026-10-31T15:27:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -1245,7 +1245,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-31T14:25:56-06:00",
+    "visto_en": "2026-10-31T15:28:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -1276,7 +1276,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:27:24-06:00",
+    "visto_en": "2026-10-31T15:29:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -1306,8 +1306,8 @@
     "puntaje": 31.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T20:27:26Z",
-    "visto_en": "2026-10-31T14:27:28-06:00",
+    "fin_oferta": "2027-10-31T21:29:06Z",
+    "visto_en": "2026-10-31T15:29:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -1338,7 +1338,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-12-01T00:00:00Z",
-    "visto_en": "2026-10-31T14:26:32-06:00",
+    "visto_en": "2026-10-31T15:28:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -1377,8 +1377,288 @@
     "puntaje": 24.5,
     "disponible": true,
     "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T21:27:50Z",
+    "visto_en": "2026-10-31T15:27:50-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "walmart-gt-41512",
+    "tienda": "Walmart GT",
+    "nombre": "Galleta Gullon Doradas Sin Azúcar - 330 g",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.walmart.com.gt/galleta-gullon-sin-azucar-dorada-330gr/p",
+    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/590846/41503_01.jpg?v=638609718698470000",
+    "moneda": "GTQ",
+    "precio_actual": 23.5,
+    "precio_referencia": 30.4,
+    "precio_antes_tienda": 27.75,
+    "descuento_real": 0.227,
+    "ahorro_q": 6.9,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "La Torre",
+        "precio": 30.4,
+        "url": "https://www.latorre.com.gt/galletas-doradas-al-horno-sin-azucar-gullon-37820/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "La Torre",
+      "precio": 30.4
+    },
+    "etiqueta": "Más barato que La Torre",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 22.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T21:27:45Z",
+    "visto_en": "2026-10-31T15:27:45-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-21274",
+    "tienda": "La Torre",
+    "nombre": "Torta De Carne Sabor Chimichurri El Corte Sano",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/torta-de-carne-sabor-chimichurri-el-corte-sano-2060609/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/205348/2060609-frontal.png?v=639263193818700000",
+    "moneda": "GTQ",
+    "precio_actual": 44.75,
+    "precio_referencia": 56.5,
+    "precio_antes_tienda": 44.75,
+    "descuento_real": 0.208,
+    "ahorro_q": 11.75,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 56.5,
+        "url": "https://www.walmart.com.gt/torta-res-chimichurri-corte-sano/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 56.5
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T14:25:59-06:00",
+    "visto_en": "2026-10-31T15:28:57-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-21273",
+    "tienda": "La Torre",
+    "nombre": "Torta De Carne Sabor Cheddar El Corte Sano",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/torta-de-carne-sabor-cheddar-el-corte-sano-2060608/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/205344/2060608-frontal.png?v=639263193461670000",
+    "moneda": "GTQ",
+    "precio_actual": 44.75,
+    "precio_referencia": 56.5,
+    "precio_antes_tienda": 44.75,
+    "descuento_real": 0.208,
+    "ahorro_q": 11.75,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 56.5,
+        "url": "https://www.walmart.com.gt/torta-res-cheddar-corte-sano/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 56.5
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-30T00:00:00Z",
+    "visto_en": "2026-10-31T15:28:57-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-4415",
+    "tienda": "La Torre",
+    "nombre": "Galletas Oreo Coockies & Cream 12 Pack",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/galletas-oreo-coockies---cream-12-pack-106688/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/179803/106688-frontal.jpg?v=637983575518470000",
+    "moneda": "GTQ",
+    "precio_actual": 20.8,
+    "precio_referencia": 26.25,
+    "precio_antes_tienda": 20.8,
+    "descuento_real": 0.2076,
+    "ahorro_q": 5.45,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 26.25,
+        "url": "https://www.walmart.com.gt/galleta-oreo-cookies-nabisco-cream-432gr/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 26.25
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 20.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T21:29:05Z",
+    "visto_en": "2026-10-31T15:29:06-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-5860",
+    "tienda": "La Torre",
+    "nombre": "Oreo Chocolate 12 Pack",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/oreo-chocolate-12-pack-98288/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/179802/98288-frontal.jpg?v=637983575174870000",
+    "moneda": "GTQ",
+    "precio_actual": 20.8,
+    "precio_referencia": 26.25,
+    "precio_antes_tienda": 20.8,
+    "descuento_real": 0.2076,
+    "ahorro_q": 5.45,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 26.25,
+        "url": "https://www.walmart.com.gt/galleta-oreo-nabisco-chocolate-432-g-0-7-0-3-4-5/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 26.25
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 20.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-31T15:29:15-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-4607",
+    "tienda": "La Torre",
+    "nombre": "Galletas Oreo Vainilla 12 Pack",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/galletas-oreo-vainilla-12-pack-107698/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/179804/107698-frontal.jpg?v=637983575839430000",
+    "moneda": "GTQ",
+    "precio_actual": 20.8,
+    "precio_referencia": 26.0,
+    "precio_antes_tienda": 20.8,
+    "descuento_real": 0.2,
+    "ahorro_q": 5.2,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 26.0,
+        "url": "https://www.walmart.com.gt/galleta-oreo-golden-432gr/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 26.0
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 20.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T00:00:00Z",
+    "visto_en": "2026-10-31T15:29:10-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-6998",
+    "tienda": "La Torre",
+    "nombre": "Poporopo Salt Bang Bang Pop",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/poporopo-salt-bang-bang-pop-2004526/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/167301/2004526-frontal.jpg?v=637680291293030000",
+    "moneda": "GTQ",
+    "precio_actual": 25.85,
+    "precio_referencia": 31.85,
+    "precio_antes_tienda": 25.85,
+    "descuento_real": 0.1884,
+    "ahorro_q": 6.0,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 31.85,
+        "url": "https://www.walmart.com.gt/palomitas-jolly-time-bang-bang-pop-sal-de-mar-80gr/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 31.85
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 19.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T00:00:00Z",
+    "visto_en": "2026-10-31T15:29:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -1418,7 +1698,127 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T14:25:37-06:00",
+    "visto_en": "2026-10-31T15:27:30-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-19001",
+    "tienda": "La Torre",
+    "nombre": "Chicle Menta Trident Bote",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/chicle-menta-trident-bote-2055730/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/187188/2055730-frontal.jpg?v=638368188602430000",
+    "moneda": "GTQ",
+    "precio_actual": 21.9,
+    "precio_referencia": 26.5,
+    "precio_antes_tienda": 21.9,
+    "descuento_real": 0.1736,
+    "ahorro_q": 4.6,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 26.5,
+        "url": "https://www.walmart.com.gt/chicle-trident-sin-azucar-sabor-menta-35-uds-45-5-g/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 26.5
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 17.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-27T00:00:00Z",
+    "visto_en": "2026-10-31T15:29:11-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-14979",
+    "tienda": "La Torre",
+    "nombre": "Lindt Excellence Chocolate Dark Orange Intense",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/lindt-excellence-chocolate-dark-orange-intense-110878/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/179108/110878-frontal.jpg?v=637955786956430000",
+    "moneda": "GTQ",
+    "precio_actual": 54.45,
+    "precio_referencia": 65.0,
+    "precio_antes_tienda": 54.45,
+    "descuento_real": 0.1623,
+    "ahorro_q": 10.55,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 65.0,
+        "url": "https://www.walmart.com.gt/chocolate-lindt-orange-intense-100-g-5/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 65.0
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 16.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-21T00:00:00Z",
+    "visto_en": "2026-10-31T15:29:18-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-4946",
+    "tienda": "La Torre",
+    "nombre": "Tosh Limón Té Verde Sin Azúcar 9 Pack",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/tosh-limon-te-verde-sin-azucar-9-pack-104400/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/163892/104400-frontal.jpg?v=637240657640570000",
+    "moneda": "GTQ",
+    "precio_actual": 22.7,
+    "precio_referencia": 26.75,
+    "precio_antes_tienda": 22.7,
+    "descuento_real": 0.1514,
+    "ahorro_q": 4.05,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 26.75,
+        "url": "https://www.walmart.com.gt/galleta-tosh-pozuelo-limon-con-te-verde-202-5-g/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 26.75
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 15.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-30T00:00:00Z",
+    "visto_en": "2026-10-31T15:29:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -1458,7 +1858,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T14:28:11-06:00",
+    "visto_en": "2026-10-31T15:29:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -1489,7 +1889,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T14:25:19-06:00",
+    "visto_en": "2026-10-31T15:27:16-06:00",
     "alerta_nueva": true
   }
 ]

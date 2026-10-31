@@ -8,14 +8,6 @@
     "url": "https://www.click.gt/products/porta-llaves-s-biner-krg2-11-r3"
   },
   {
-    "tienda": "Office Depot",
-    "nombre": "MOUSE PRIMUS GAMING AHSOKA",
-    "precio": 92.25,
-    "antes": 369.0,
-    "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Mouse-inal%C3%A1mbrico/MOUSE-PRIMUS-GAMING-AHSOKA/p/1303000630"
-  },
-  {
     "tienda": "Elektra GT",
     "nombre": "Regulador Automático de Voltaje Forza 1000VA 500W 4 Salidas AC 2 USB FVR-1011USB Negro",
     "precio": 149.0,
@@ -134,6 +126,38 @@
     "antes": 695.0,
     "descuento": 0.714,
     "url": "https://www.elektra.com.gt/audifonos-bt-klip-knh300bk-negro-30004203/p"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "MOUSE PRIMUS GAMING AHSOKA",
+    "precio": 92.25,
+    "antes": 369.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Mouse-inal%C3%A1mbrico/MOUSE-PRIMUS-GAMING-AHSOKA/p/1303000630"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "SET CAVALIER BOTELLA MAS",
+    "precio": 24.0,
+    "antes": 96.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/SET-CAVALIER-BOTELLA-MAS/p/1218000437"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "SET CAVALIER ASTRONAUTA PARA",
+    "precio": 26.0,
+    "antes": 104.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/SET-CAVALIER-ASTRONAUTA-PARA/p/1218000439"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "STATIONERY CAVALIER KIDS SET",
+    "precio": 19.75,
+    "antes": 79.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/STATIONERY-CAVALIER-KIDS-SET/p/1218000438"
   },
   {
     "tienda": "Cemaco",
