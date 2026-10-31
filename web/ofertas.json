@@ -27,7 +27,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T22:34:52-06:00",
+    "visto_en": "2026-10-30T23:31:13-06:00",
     "alerta_nueva": false
   },
   {
@@ -67,7 +67,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-30T22:35:39-06:00",
+    "visto_en": "2026-10-30T23:32:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -98,38 +98,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-30T22:35:32-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "pricesmart-522889",
-    "tienda": "PriceSmart",
-    "nombre": "Eucerin pH5 Aceite y Gel de Ducha 2 Unidades / 400 mL",
-    "categoria": "💄 Belleza y cuidado personal",
-    "url": "https://www.pricesmart.com/es-gt/producto/eucerin-ph5-aceite-y-gel-de-ducha-2-unidades-400-ml-522889/522889",
-    "imagen": null,
-    "moneda": "GTQ",
-    "precio_actual": 54.7,
-    "precio_referencia": 116.7,
-    "precio_antes_tienda": null,
-    "descuento_real": 0.5313,
-    "ahorro_q": 62.0,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "loca",
-    "nivel_emoji": "🔥",
-    "nivel_label": "LOCA",
-    "puntaje": 64.4,
-    "disponible": true,
-    "modo_compra": "club",
-    "fin_oferta": null,
-    "visto_en": "2026-10-30T22:37:14-06:00",
+    "visto_en": "2026-10-30T23:31:56-06:00",
     "alerta_nueva": true
   },
   {
@@ -160,7 +129,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-30T22:35:50-06:00",
+    "visto_en": "2026-10-30T23:32:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -191,7 +160,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-30T22:35:23-06:00",
+    "visto_en": "2026-10-30T23:31:54-06:00",
     "alerta_nueva": true
   },
   {
@@ -222,7 +191,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T22:35:02-06:00",
+    "visto_en": "2026-10-30T23:31:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -252,8 +221,8 @@
     "puntaje": 58.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T04:33:24Z",
-    "visto_en": "2026-10-30T22:35:02-06:00",
+    "fin_oferta": "2027-10-31T05:21:39Z",
+    "visto_en": "2026-10-30T23:31:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -284,7 +253,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-30T22:37:53-06:00",
+    "visto_en": "2026-10-30T23:34:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -315,38 +284,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-30T22:35:18-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "tecnofacil-S8001P",
-    "tienda": "Tecnofácil",
-    "nombre": "Plancha Remington para Cabello Húmedo o Seco que Evita el Daño del Cabello",
-    "categoria": "📦 Otros",
-    "url": "https://www.tecnofacil.com.gt/plancha-remington-para-cabello-humedo-o-seco-que-evita-el-dano-del-cabello-remington-s8001p",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/s/8/s8001p-3.jpg",
-    "moneda": "GTQ",
-    "precio_actual": 396.0,
-    "precio_referencia": 575.0,
-    "precio_antes_tienda": 575.0,
-    "descuento_real": 0.3113,
-    "ahorro_q": 179.0,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "muy_buena",
-    "nivel_emoji": "⚡",
-    "nivel_label": "MUY BUENA",
-    "puntaje": 44.7,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-10-30T22:38:47-06:00",
+    "visto_en": "2026-10-30T23:31:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -376,8 +314,39 @@
     "puntaje": 44.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T04:32:55Z",
-    "visto_en": "2026-10-30T22:34:50-06:00",
+    "fin_oferta": "2027-10-31T05:31:12Z",
+    "visto_en": "2026-10-30T23:31:12-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-1ec17bec",
+    "tienda": "Max",
+    "nombre": "Lentes De Ciclismo Con Tecnología Fotocromática",
+    "categoria": "⚽ Deportes, bicis y motos",
+    "url": "https://www.max.com.gt/lentes-de-ciclismo-con-tecnologia-fotocromatica-1ec17bec",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/1/d/1d49de0aca9ce4cf.jpg?optimize=high&fit=bounds&height=&width=",
+    "moneda": "GTQ",
+    "precio_actual": 175.0,
+    "precio_referencia": 250.0,
+    "precio_antes_tienda": 250.0,
+    "descuento_real": 0.3,
+    "ahorro_q": 75.0,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 41.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-30T23:35:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -408,7 +377,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T22:34:49-06:00",
+    "visto_en": "2026-10-30T23:31:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -439,7 +408,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T22:34:52-06:00",
+    "visto_en": "2026-10-30T23:31:14-06:00",
     "alerta_nueva": true
   },
   {
@@ -469,8 +438,8 @@
     "puntaje": 40.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T04:30:14Z",
-    "visto_en": "2026-10-30T22:34:45-06:00",
+    "fin_oferta": "2027-10-30T00:00:00Z",
+    "visto_en": "2026-10-30T23:31:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -509,39 +478,8 @@
     "puntaje": 38.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T22:36:26-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "tecnofacil-S9980",
-    "tienda": "Tecnofácil",
-    "nombre": "Plancha de Cabello con Placas Anchas con Extracto de Aguacate y Macadamia",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.tecnofacil.com.gt/plancha-de-cabello-con-placas-anchas-con-extracto-de-aguacate-y-macadamia-remington-s9980",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/s/9/s9980_5.jpg",
-    "moneda": "GTQ",
-    "precio_actual": 596.0,
-    "precio_referencia": 775.0,
-    "precio_antes_tienda": 825.0,
-    "descuento_real": 0.231,
-    "ahorro_q": 179.0,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "muy_buena",
-    "nivel_emoji": "⚡",
-    "nivel_label": "MUY BUENA",
-    "puntaje": 36.7,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-10-30T22:38:47-06:00",
+    "fin_oferta": "2027-10-31T05:30:40Z",
+    "visto_en": "2026-10-30T23:32:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -572,7 +510,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-30T22:35:12-06:00",
+    "visto_en": "2026-10-30T23:31:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -603,7 +541,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-30T22:36:28-06:00",
+    "visto_en": "2026-10-30T23:32:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -634,7 +572,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T22:36:28-06:00",
+    "visto_en": "2026-10-30T23:32:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -664,8 +602,8 @@
     "puntaje": 35.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T04:34:22Z",
-    "visto_en": "2026-10-30T22:36:28-06:00",
+    "fin_oferta": "2027-10-30T00:00:00Z",
+    "visto_en": "2026-10-30T23:32:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -695,8 +633,8 @@
     "puntaje": 35.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T04:36:21Z",
-    "visto_en": "2026-10-30T22:36:30-06:00",
+    "fin_oferta": "2027-10-30T00:00:00Z",
+    "visto_en": "2026-10-30T23:32:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -726,8 +664,8 @@
     "puntaje": 33.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-30T22:36:27-06:00",
+    "fin_oferta": "2027-01-01T06:00:00Z",
+    "visto_en": "2026-10-30T23:32:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -758,7 +696,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-30T22:37:16-06:00",
+    "visto_en": "2026-10-30T23:33:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -789,7 +727,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-30T22:35:15-06:00",
+    "visto_en": "2026-10-30T23:31:46-06:00",
     "alerta_nueva": true
   },
   {
@@ -819,70 +757,8 @@
     "puntaje": 30.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-30T22:36:28-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "max-gt-94a5df25",
-    "tienda": "Max",
-    "nombre": "Set de herramientas manuales 8 pzs ingco",
-    "categoria": "🔧 Ferretería y herramientas",
-    "url": "https://www.max.com.gt/set-de-herramientas-manuales-8-pzs-ingco-94a5df25",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/6/0/6088146c597b6ed1.png",
-    "moneda": "GTQ",
-    "precio_actual": 161.41,
-    "precio_referencia": 201.8,
-    "precio_antes_tienda": 201.8,
-    "descuento_real": 0.2001,
-    "ahorro_q": 40.39,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "muy_buena",
-    "nivel_emoji": "⚡",
-    "nivel_label": "MUY BUENA",
-    "puntaje": 30.8,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-10-30T22:39:21-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "max-gt-4fe67dd0",
-    "tienda": "Max",
-    "nombre": "Cables pasadores de corriente 600a con lampara led ingco",
-    "categoria": "🔌 Eléctrico",
-    "url": "https://www.max.com.gt/cables-pasadores-de-corriente-600a-con-lampara-led-ingco-4fe67dd0",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/f/8/f8b3c878a5456eb7.png",
-    "moneda": "GTQ",
-    "precio_actual": 143.48,
-    "precio_referencia": 179.4,
-    "precio_antes_tienda": 179.4,
-    "descuento_real": 0.2002,
-    "ahorro_q": 35.92,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "muy_buena",
-    "nivel_emoji": "⚡",
-    "nivel_label": "MUY BUENA",
-    "puntaje": 30.7,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-10-30T22:39:50-06:00",
+    "fin_oferta": "2027-10-31T05:30:57Z",
+    "visto_en": "2026-10-30T23:32:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -913,7 +789,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-12-01T00:00:00Z",
-    "visto_en": "2026-10-30T22:35:44-06:00",
+    "visto_en": "2026-10-30T23:32:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -953,7 +829,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-30T22:34:50-06:00",
+    "visto_en": "2026-10-30T23:31:13-06:00",
     "alerta_nueva": true
   },
   {
@@ -992,8 +868,8 @@
     "puntaje": 25.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T04:35:43Z",
-    "visto_en": "2026-10-30T22:35:43-06:00",
+    "fin_oferta": "2027-10-22T00:00:00Z",
+    "visto_en": "2026-10-30T23:32:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -1032,8 +908,8 @@
     "puntaje": 24.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T04:35:18Z",
-    "visto_en": "2026-10-30T22:35:18-06:00",
+    "fin_oferta": "2027-10-30T00:00:00Z",
+    "visto_en": "2026-10-30T23:31:41-06:00",
     "alerta_nueva": true
   },
   {
@@ -1073,7 +949,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-30T22:35:29-06:00",
+    "visto_en": "2026-10-30T23:31:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -1113,7 +989,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T22:35:01-06:00",
+    "visto_en": "2026-10-30T23:31:25-06:00",
     "alerta_nueva": true
   },
   {
@@ -1153,38 +1029,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-30T22:37:02-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "elektra-gt-31062158",
-    "tienda": "Elektra GT",
-    "nombre": "Xiaomi Redmi Note 14 Liberado Verde 8GB RAM 256GB ROM",
-    "categoria": "📱 Celulares y tablets",
-    "url": "https://www.elektra.com.gt/xiaomi-redmi-note-14-256gb-8gb-ram-verde-31062158/p",
-    "imagen": "https://elektragt.vteximg.com.br/arquivos/ids/205516/lifestyle--3-.jpg?v=639056533352170000",
-    "moneda": "GTQ",
-    "precio_actual": 899.0,
-    "precio_referencia": 1385.0,
-    "precio_antes_tienda": 1799.0,
-    "descuento_real": 0.3509,
-    "ahorro_q": 486.0,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "agotado",
-    "nivel_emoji": "·",
-    "nivel_label": "agotado",
-    "puntaje": 54.8,
-    "disponible": false,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T04:34:56Z",
-    "visto_en": "2026-10-30T22:34:56-06:00",
+    "visto_en": "2026-10-30T23:33:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -1214,8 +1059,8 @@
     "puntaje": 35.3,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T22:36:35-06:00",
+    "fin_oferta": "2027-10-31T05:32:47Z",
+    "visto_en": "2026-10-30T23:32:48-06:00",
     "alerta_nueva": true
   },
   {
@@ -1246,7 +1091,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-30T22:36:35-06:00",
+    "visto_en": "2026-10-30T23:32:48-06:00",
     "alerta_nueva": true
   }
 ]
