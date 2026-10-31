@@ -26,8 +26,8 @@
     "puntaje": 102.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T15:27:21-06:00",
+    "fin_oferta": "2027-10-31T22:27:09Z",
+    "visto_en": "2026-10-31T16:27:09-06:00",
     "alerta_nueva": false
   },
   {
@@ -58,7 +58,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:43-06:00",
+    "visto_en": "2026-10-31T16:29:22-06:00",
     "alerta_nueva": false
   },
   {
@@ -89,7 +89,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:13-06:00",
+    "visto_en": "2026-10-31T16:28:56-06:00",
     "alerta_nueva": false
   },
   {
@@ -120,7 +120,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:32-06:00",
+    "visto_en": "2026-10-31T16:29:14-06:00",
     "alerta_nueva": false
   },
   {
@@ -151,7 +151,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:38-06:00",
+    "visto_en": "2026-10-31T16:29:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -182,7 +182,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:38-06:00",
+    "visto_en": "2026-10-31T16:29:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -213,7 +213,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:41-06:00",
+    "visto_en": "2026-10-31T16:29:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -244,7 +244,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:41-06:00",
+    "visto_en": "2026-10-31T16:29:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -274,8 +274,8 @@
     "puntaje": 61.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:39-06:00",
+    "fin_oferta": "2027-01-01T06:00:00Z",
+    "visto_en": "2026-10-31T16:29:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -306,7 +306,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:43-06:00",
+    "visto_en": "2026-10-31T16:29:22-06:00",
     "alerta_nueva": false
   },
   {
@@ -336,8 +336,8 @@
     "puntaje": 59.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T21:27:35Z",
-    "visto_en": "2026-10-31T15:27:35-06:00",
+    "fin_oferta": "2027-10-30T00:00:00Z",
+    "visto_en": "2026-10-31T16:27:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -368,7 +368,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-31T15:28:06-06:00",
+    "visto_en": "2026-10-31T16:27:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -398,8 +398,8 @@
     "puntaje": 58.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T21:27:35Z",
-    "visto_en": "2026-10-31T15:27:35-06:00",
+    "fin_oferta": "2027-10-31T22:27:24Z",
+    "visto_en": "2026-10-31T16:27:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -429,8 +429,8 @@
     "puntaje": 56.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:12-06:00",
+    "fin_oferta": "2027-01-01T06:00:00Z",
+    "visto_en": "2026-10-31T16:28:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -461,7 +461,38 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:33-06:00",
+    "visto_en": "2026-10-31T16:29:15-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-58R6E5",
+    "tienda": "Max",
+    "nombre": "Televisor Hisense 58 pulgadas LED Ultra UHD-4K",
+    "categoria": "📺 TV y audio",
+    "url": "https://www.max.com.gt/televisor-hisense-58-pulgadas-led-ultra-uhd-4k-hisense-58r6e5",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/5/8/58r6e_1600x1200.jpg?optimize=high&fit=bounds&height=&width=",
+    "moneda": "GTQ",
+    "precio_actual": 2996.0,
+    "precio_referencia": 3995.5,
+    "precio_antes_tienda": 4995.0,
+    "descuento_real": 0.2502,
+    "ahorro_q": 999.5,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 55.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-31T16:27:54-06:00",
     "alerta_nueva": true
   },
   {
@@ -492,7 +523,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:38-06:00",
+    "visto_en": "2026-10-31T16:29:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -523,7 +554,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:21-06:00",
+    "visto_en": "2026-10-31T16:29:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -553,8 +584,8 @@
     "puntaje": 52.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T15:29:33-06:00",
+    "fin_oferta": "2027-01-01T00:00:00Z",
+    "visto_en": "2026-10-31T16:29:15-06:00",
     "alerta_nueva": true
   },
   {
@@ -585,7 +616,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T15:29:21-06:00",
+    "visto_en": "2026-10-31T16:29:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -616,7 +647,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:27-06:00",
+    "visto_en": "2026-10-31T16:29:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -647,7 +678,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T15:29:25-06:00",
+    "visto_en": "2026-10-31T16:29:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -678,7 +709,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T15:29:25-06:00",
+    "visto_en": "2026-10-31T16:29:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -709,7 +740,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T15:29:20-06:00",
+    "visto_en": "2026-10-31T16:29:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -740,7 +771,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:32-06:00",
+    "visto_en": "2026-10-31T16:29:14-06:00",
     "alerta_nueva": true
   },
   {
@@ -780,7 +811,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:16-06:00",
+    "visto_en": "2026-10-31T16:28:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -811,38 +842,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:16-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "pricesmart-522889",
-    "tienda": "PriceSmart",
-    "nombre": "Eucerin pH5 Aceite y Gel de Ducha 2 Unidades / 400 mL",
-    "categoria": "💄 Belleza y cuidado personal",
-    "url": "https://www.pricesmart.com/es-gt/producto/eucerin-ph5-aceite-y-gel-de-ducha-2-unidades-400-ml-522889/522889",
-    "imagen": null,
-    "moneda": "GTQ",
-    "precio_actual": 54.7,
-    "precio_referencia": 85.7,
-    "precio_antes_tienda": null,
-    "descuento_real": 0.3617,
-    "ahorro_q": 31.0,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "muy_buena",
-    "nivel_emoji": "⚡",
-    "nivel_label": "MUY BUENA",
-    "puntaje": 46.8,
-    "disponible": true,
-    "modo_compra": "club",
-    "fin_oferta": null,
-    "visto_en": "2026-10-31T15:29:26-06:00",
+    "visto_en": "2026-10-31T16:28:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -872,8 +872,48 @@
     "puntaje": 46.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T15:27:40-06:00",
+    "fin_oferta": "2027-10-31T22:23:25Z",
+    "visto_en": "2026-10-31T16:27:28-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-24521",
+    "tienda": "La Torre",
+    "nombre": "Tequila Tradicional Cristalino Jose Cuervo",
+    "categoria": "🍷 Licores",
+    "url": "https://www.latorre.com.gt/tequila-tradicional-cristalino-jose-cuervo-2083078/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/202405/2083078-frontal.jpg?v=639090348738200000",
+    "moneda": "GTQ",
+    "precio_actual": 199.9,
+    "precio_referencia": 302.65,
+    "precio_antes_tienda": 302.65,
+    "descuento_real": 0.3395,
+    "ahorro_q": 102.75,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 345.5,
+        "url": "https://www.walmart.com.gt/tequila-jose-cuervo-tradicional-cristalino-750ml-8/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 345.5
+    },
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 46.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T22:25:48Z",
+    "visto_en": "2026-10-31T16:29:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -904,7 +944,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:41-06:00",
+    "visto_en": "2026-10-31T16:29:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -934,8 +974,8 @@
     "puntaje": 44.3,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T21:22:13Z",
-    "visto_en": "2026-10-31T15:27:18-06:00",
+    "fin_oferta": "2027-10-30T00:00:00Z",
+    "visto_en": "2026-10-31T16:27:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -966,7 +1006,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:16-06:00",
+    "visto_en": "2026-10-31T16:28:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -997,7 +1037,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2029-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:28-06:00",
+    "visto_en": "2026-10-31T16:29:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -1028,7 +1068,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T15:29:43-06:00",
+    "visto_en": "2026-10-31T16:29:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -1059,7 +1099,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T15:27:42-06:00",
+    "visto_en": "2026-10-31T16:27:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -1090,7 +1130,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T15:27:18-06:00",
+    "visto_en": "2026-10-31T16:27:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1121,7 +1161,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T15:27:22-06:00",
+    "visto_en": "2026-10-31T16:27:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -1151,8 +1191,48 @@
     "puntaje": 41.2,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T15:29:14-06:00",
+    "fin_oferta": "2027-01-01T00:00:00Z",
+    "visto_en": "2026-10-31T16:28:57-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-19400",
+    "tienda": "La Torre",
+    "nombre": "43 Horchata",
+    "categoria": "🍷 Licores",
+    "url": "https://www.latorre.com.gt/43-horchata-2059216/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/187960/2059216-frontal.jpg?v=638395083984930000",
+    "moneda": "GTQ",
+    "precio_actual": 208.9,
+    "precio_referencia": 338.8,
+    "precio_antes_tienda": 319.2,
+    "descuento_real": 0.3834,
+    "ahorro_q": 129.9,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 338.8,
+        "url": "https://www.walmart.com.gt/licor-43-horchata-750ml/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 338.8
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 40.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-31T16:29:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -1183,7 +1263,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:21-06:00",
+    "visto_en": "2026-10-31T16:29:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -1214,7 +1294,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T15:27:18-06:00",
+    "visto_en": "2026-10-31T16:27:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -1245,7 +1325,100 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-31T15:28:00-06:00",
+    "visto_en": "2026-10-31T16:27:42-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-2548",
+    "tienda": "La Torre",
+    "nombre": "Vino Zinfandel White Beringer",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/vino-zinfandel-white-beringer-87094/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/158287/87094-frontal.jpg?v=637191048850470000",
+    "moneda": "GTQ",
+    "precio_actual": 66.8,
+    "precio_referencia": 91.45,
+    "precio_antes_tienda": 66.8,
+    "descuento_real": 0.2695,
+    "ahorro_q": 24.65,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 37.4,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T00:00:00Z",
+    "visto_en": "2026-10-31T16:29:04-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-03ea3693",
+    "tienda": "Max",
+    "nombre": "Lentes Kingseven sport polarizados con protección UV400 Categoría 3",
+    "categoria": "👟 Moda y zapatos",
+    "url": "https://www.max.com.gt/lentes-kingseven-sport-polarizados-con-proteccion-uv400-categoria-3-03ea3693",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/1/1/11b9397084811aa7.png?optimize=high&fit=bounds&height=&width=&format=jpeg",
+    "moneda": "GTQ",
+    "precio_actual": 299.0,
+    "precio_referencia": 395.0,
+    "precio_antes_tienda": 445.0,
+    "descuento_real": 0.243,
+    "ahorro_q": 96.0,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 36.2,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-31T16:32:58-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-24889",
+    "tienda": "La Torre",
+    "nombre": "Vino Rosado Paradise Frontera",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/vino-rosado-paradise-frontera-2085874/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/203199/2085874-frontal.jpg?v=639144658265100000",
+    "moneda": "GTQ",
+    "precio_actual": 44.95,
+    "precio_referencia": 60.3,
+    "precio_antes_tienda": 60.3,
+    "descuento_real": 0.2546,
+    "ahorro_q": 15.35,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 35.8,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T00:00:00Z",
+    "visto_en": "2026-10-31T16:28:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -1276,7 +1449,331 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:12-06:00",
+    "visto_en": "2026-10-31T16:28:55-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-7149",
+    "tienda": "La Torre",
+    "nombre": "Vino Cabernet Sauvignon ClassicViña Maipo",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/vino-cabernet-sauvignon-classicviña-maipo-88516/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/168037/88516-frontal.jpg?v=637680270698130000",
+    "moneda": "GTQ",
+    "precio_actual": 41.55,
+    "precio_referencia": 53.45,
+    "precio_antes_tienda": 41.55,
+    "descuento_real": 0.2226,
+    "ahorro_q": 11.9,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 39.95,
+        "url": "https://www.walmart.com.gt/vino-maipo-varietal-cabernet-sauvignon-750ml/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 39.95
+    },
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 32.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-31T16:29:02-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-103",
+    "tienda": "La Torre",
+    "nombre": "Vino Carmenere Viña Maipo",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/vino-carmenere-viña-maipo-62112/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/161288/62112-frontal.jpg?v=637680273168500000",
+    "moneda": "GTQ",
+    "precio_actual": 41.55,
+    "precio_referencia": 53.45,
+    "precio_antes_tienda": 41.55,
+    "descuento_real": 0.2226,
+    "ahorro_q": 11.9,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 39.95,
+        "url": "https://www.walmart.com.gt/vino-vina-maipo-varietal-carmener-750-ml/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 39.95
+    },
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 32.5,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-31T16:29:04-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-4423",
+    "tienda": "La Torre",
+    "nombre": "Vino Blend Red Casillero Del Diablo",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/vino-blend-red-casillero-del-diablo-114894/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/161255/114894-frontal.jpg?v=637680279221670000",
+    "moneda": "GTQ",
+    "precio_actual": 79.6,
+    "precio_referencia": 101.4,
+    "precio_antes_tienda": 79.6,
+    "descuento_real": 0.215,
+    "ahorro_q": 21.8,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 31.9,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T00:00:00Z",
+    "visto_en": "2026-10-31T16:29:03-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-19407",
+    "tienda": "La Torre",
+    "nombre": "Vino Spritzer Rosé Frontera",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/vino-spritzer-rose-frontera-2056528/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/187966/2056528-frontal.jpg?v=638395084004300000",
+    "moneda": "GTQ",
+    "precio_actual": 53.85,
+    "precio_referencia": 68.5,
+    "precio_antes_tienda": 53.85,
+    "descuento_real": 0.2139,
+    "ahorro_q": 14.65,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 31.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T00:00:00Z",
+    "visto_en": "2026-10-31T16:28:59-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-5020",
+    "tienda": "La Torre",
+    "nombre": "Vino Chardonnay Blanco Frontera",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.latorre.com.gt/vino-chardonnay-blanco-frontera-16700/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/162104/16700-frontal.jpg?v=637680272201000000",
+    "moneda": "GTQ",
+    "precio_actual": 53.85,
+    "precio_referencia": 68.5,
+    "precio_antes_tienda": 53.85,
+    "descuento_real": 0.2139,
+    "ahorro_q": 14.65,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 31.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T00:00:00Z",
+    "visto_en": "2026-10-31T16:29:02-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-3313",
+    "tienda": "La Torre",
+    "nombre": "Vino Merlot Frontera",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/vino-merlot-frontera-82147/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/173822/82147-frontal.jpg?v=637727709307200000",
+    "moneda": "GTQ",
+    "precio_actual": 53.85,
+    "precio_referencia": 68.5,
+    "precio_antes_tienda": 53.85,
+    "descuento_real": 0.2139,
+    "ahorro_q": 14.65,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 49.95,
+        "url": "https://www.walmart.com.gt/vino-tinto-frontera-merlot-750-ml/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 49.95
+    },
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 31.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T00:00:00Z",
+    "visto_en": "2026-10-31T16:29:03-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-2950",
+    "tienda": "La Torre",
+    "nombre": "Vino Moscato Frontera",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.latorre.com.gt/vino-moscato-frontera-80370/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/173821/80370-frontal.jpg?v=637727708900200000",
+    "moneda": "GTQ",
+    "precio_actual": 53.85,
+    "precio_referencia": 68.5,
+    "precio_antes_tienda": 53.85,
+    "descuento_real": 0.2139,
+    "ahorro_q": 14.65,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 49.95,
+        "url": "https://www.walmart.com.gt/vino-frontera-moscato-750-ml/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 49.95
+    },
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 31.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T22:28:30Z",
+    "visto_en": "2026-10-31T16:29:03-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-5017",
+    "tienda": "La Torre",
+    "nombre": "Vino Cabernet Sauvignon Frontera",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/vino-cabernet-sauvignon-frontera-16693/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/173819/16693-frontal.jpg?v=637727708261970000",
+    "moneda": "GTQ",
+    "precio_actual": 53.85,
+    "precio_referencia": 68.5,
+    "precio_antes_tienda": 53.85,
+    "descuento_real": 0.2139,
+    "ahorro_q": 14.65,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 49.95,
+        "url": "https://www.walmart.com.gt/vino-frontera-cabernet-sauvignon-750ml/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 49.95
+    },
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 31.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-31T16:29:04-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-18589",
+    "tienda": "La Torre",
+    "nombre": "Vino Rosé Frontera",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/vino-rose-frontera-2053315/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/185780/2053315-frontal.jpg?v=638281041902570000",
+    "moneda": "GTQ",
+    "precio_actual": 53.85,
+    "precio_referencia": 68.5,
+    "precio_antes_tienda": 53.85,
+    "descuento_real": 0.2139,
+    "ahorro_q": 14.65,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 31.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T22:29:11Z",
+    "visto_en": "2026-10-31T16:29:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -1306,8 +1803,39 @@
     "puntaje": 31.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T21:29:06Z",
-    "visto_en": "2026-10-31T15:29:09-06:00",
+    "fin_oferta": "2027-10-31T22:28:56Z",
+    "visto_en": "2026-10-31T16:28:57-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "pricesmart-525136",
+    "tienda": "PriceSmart",
+    "nombre": "Termogreen Vasos PET de Temporada 160 Unidades / 473 mL",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.pricesmart.com/es-gt/producto/termogreen-vasos-pet-de-temporada-160-unidades-473-ml-525136/525136",
+    "imagen": null,
+    "moneda": "GTQ",
+    "precio_actual": 89.7,
+    "precio_referencia": 112.95,
+    "precio_antes_tienda": null,
+    "descuento_real": 0.2058,
+    "ahorro_q": 23.25,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 31.0,
+    "disponible": true,
+    "modo_compra": "club",
+    "fin_oferta": null,
+    "visto_en": "2026-10-31T16:30:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -1338,7 +1866,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-12-01T00:00:00Z",
-    "visto_en": "2026-10-31T15:28:27-06:00",
+    "visto_en": "2026-10-31T16:28:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -1377,48 +1905,88 @@
     "puntaje": 24.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T21:27:50Z",
-    "visto_en": "2026-10-31T15:27:50-06:00",
+    "fin_oferta": "2027-10-30T00:00:00Z",
+    "visto_en": "2026-10-31T16:27:42-06:00",
     "alerta_nueva": true
   },
   {
-    "id": "walmart-gt-41512",
-    "tienda": "Walmart GT",
-    "nombre": "Galleta Gullon Doradas Sin Azúcar - 330 g",
+    "id": "latorre-22626",
+    "tienda": "La Torre",
+    "nombre": "Vino Rosé Tarapacá",
     "categoria": "🛒 Supermercado",
-    "url": "https://www.walmart.com.gt/galleta-gullon-sin-azucar-dorada-330gr/p",
-    "imagen": "https://walmartgt.vteximg.com.br/arquivos/ids/590846/41503_01.jpg?v=638609718698470000",
+    "url": "https://www.latorre.com.gt/vino-rose-tarapaca-2078200/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/197765/2078200-1.jpg?v=638826853566370000",
     "moneda": "GTQ",
-    "precio_actual": 23.5,
-    "precio_referencia": 30.4,
-    "precio_antes_tienda": 27.75,
-    "descuento_real": 0.227,
-    "ahorro_q": 6.9,
+    "precio_actual": 45.9,
+    "precio_referencia": 58.5,
+    "precio_antes_tienda": 64.05,
+    "descuento_real": 0.2154,
+    "ahorro_q": 12.6,
     "minimo_historico": false,
     "sin_historial": true,
     "fuente_referencia": "mercado",
     "mercado": [
       {
-        "tienda": "La Torre",
-        "precio": 30.4,
-        "url": "https://www.latorre.com.gt/galletas-doradas-al-horno-sin-azucar-gullon-37820/p"
+        "tienda": "Walmart GT",
+        "precio": 58.5,
+        "url": "https://www.walmart.com.gt/tarapaca-varietal-rose-750ml-0/p"
       }
     ],
     "antes_inflado": false,
     "mas_barato_que": {
-      "tienda": "La Torre",
-      "precio": 30.4
+      "tienda": "Walmart GT",
+      "precio": 58.5
     },
-    "etiqueta": "Más barato que La Torre",
+    "etiqueta": "Más barato que Walmart GT",
     "relampago": false,
     "nivel": "buena",
     "nivel_emoji": "✅",
     "nivel_label": "BUENA",
-    "puntaje": 22.8,
+    "puntaje": 21.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T21:27:45Z",
-    "visto_en": "2026-10-31T15:27:45-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-31T16:29:07-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-19408",
+    "tienda": "La Torre",
+    "nombre": "Vino Blanco Spritzer Frontera",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.latorre.com.gt/vino-blanco-spritzer-frontera-2056523/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/192027/2056523-frontal.jpg?v=638581741002800000",
+    "moneda": "GTQ",
+    "precio_actual": 53.85,
+    "precio_referencia": 68.55,
+    "precio_antes_tienda": 53.85,
+    "descuento_real": 0.2144,
+    "ahorro_q": 14.7,
+    "minimo_historico": false,
+    "sin_historial": true,
+    "fuente_referencia": "mercado",
+    "mercado": [
+      {
+        "tienda": "Walmart GT",
+        "precio": 68.55,
+        "url": "https://www.walmart.com.gt/vino-blanco-frontera-spritzer-chardonnay-eldelflower-750-ml-1-3-0-1-0-5/p"
+      }
+    ],
+    "antes_inflado": false,
+    "mas_barato_que": {
+      "tienda": "Walmart GT",
+      "precio": 68.55
+    },
+    "etiqueta": "Más barato que Walmart GT",
+    "relampago": false,
+    "nivel": "buena",
+    "nivel_emoji": "✅",
+    "nivel_label": "BUENA",
+    "puntaje": 21.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T22:29:09Z",
+    "visto_en": "2026-10-31T16:29:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -1457,8 +2025,8 @@
     "puntaje": 21.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T15:28:57-06:00",
+    "fin_oferta": "2027-10-31T22:29:28Z",
+    "visto_en": "2026-10-31T16:29:29-06:00",
     "alerta_nueva": true
   },
   {
@@ -1498,167 +2066,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T15:28:57-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "latorre-4415",
-    "tienda": "La Torre",
-    "nombre": "Galletas Oreo Coockies & Cream 12 Pack",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.latorre.com.gt/galletas-oreo-coockies---cream-12-pack-106688/p",
-    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/179803/106688-frontal.jpg?v=637983575518470000",
-    "moneda": "GTQ",
-    "precio_actual": 20.8,
-    "precio_referencia": 26.25,
-    "precio_antes_tienda": 20.8,
-    "descuento_real": 0.2076,
-    "ahorro_q": 5.45,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Walmart GT",
-        "precio": 26.25,
-        "url": "https://www.walmart.com.gt/galleta-oreo-cookies-nabisco-cream-432gr/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Walmart GT",
-      "precio": 26.25
-    },
-    "etiqueta": "Más barato que Walmart GT",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 20.9,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T21:29:05Z",
-    "visto_en": "2026-10-31T15:29:06-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "latorre-5860",
-    "tienda": "La Torre",
-    "nombre": "Oreo Chocolate 12 Pack",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.latorre.com.gt/oreo-chocolate-12-pack-98288/p",
-    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/179802/98288-frontal.jpg?v=637983575174870000",
-    "moneda": "GTQ",
-    "precio_actual": 20.8,
-    "precio_referencia": 26.25,
-    "precio_antes_tienda": 20.8,
-    "descuento_real": 0.2076,
-    "ahorro_q": 5.45,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Walmart GT",
-        "precio": 26.25,
-        "url": "https://www.walmart.com.gt/galleta-oreo-nabisco-chocolate-432-g-0-7-0-3-4-5/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Walmart GT",
-      "precio": 26.25
-    },
-    "etiqueta": "Más barato que Walmart GT",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 20.9,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:15-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "latorre-4607",
-    "tienda": "La Torre",
-    "nombre": "Galletas Oreo Vainilla 12 Pack",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.latorre.com.gt/galletas-oreo-vainilla-12-pack-107698/p",
-    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/179804/107698-frontal.jpg?v=637983575839430000",
-    "moneda": "GTQ",
-    "precio_actual": 20.8,
-    "precio_referencia": 26.0,
-    "precio_antes_tienda": 20.8,
-    "descuento_real": 0.2,
-    "ahorro_q": 5.2,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Walmart GT",
-        "precio": 26.0,
-        "url": "https://www.walmart.com.gt/galleta-oreo-golden-432gr/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Walmart GT",
-      "precio": 26.0
-    },
-    "etiqueta": "Más barato que Walmart GT",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 20.1,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:10-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "latorre-6998",
-    "tienda": "La Torre",
-    "nombre": "Poporopo Salt Bang Bang Pop",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.latorre.com.gt/poporopo-salt-bang-bang-pop-2004526/p",
-    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/167301/2004526-frontal.jpg?v=637680291293030000",
-    "moneda": "GTQ",
-    "precio_actual": 25.85,
-    "precio_referencia": 31.85,
-    "precio_antes_tienda": 25.85,
-    "descuento_real": 0.1884,
-    "ahorro_q": 6.0,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Walmart GT",
-        "precio": 31.85,
-        "url": "https://www.walmart.com.gt/palomitas-jolly-time-bang-bang-pop-sal-de-mar-80gr/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Walmart GT",
-      "precio": 31.85
-    },
-    "etiqueta": "Más barato que Walmart GT",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 19.0,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:22-06:00",
+    "visto_en": "2026-10-31T16:29:29-06:00",
     "alerta_nueva": true
   },
   {
@@ -1698,127 +2106,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T15:27:30-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "latorre-19001",
-    "tienda": "La Torre",
-    "nombre": "Chicle Menta Trident Bote",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.latorre.com.gt/chicle-menta-trident-bote-2055730/p",
-    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/187188/2055730-frontal.jpg?v=638368188602430000",
-    "moneda": "GTQ",
-    "precio_actual": 21.9,
-    "precio_referencia": 26.5,
-    "precio_antes_tienda": 21.9,
-    "descuento_real": 0.1736,
-    "ahorro_q": 4.6,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Walmart GT",
-        "precio": 26.5,
-        "url": "https://www.walmart.com.gt/chicle-trident-sin-azucar-sabor-menta-35-uds-45-5-g/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Walmart GT",
-      "precio": 26.5
-    },
-    "etiqueta": "Más barato que Walmart GT",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 17.5,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-27T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:11-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "latorre-14979",
-    "tienda": "La Torre",
-    "nombre": "Lindt Excellence Chocolate Dark Orange Intense",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.latorre.com.gt/lindt-excellence-chocolate-dark-orange-intense-110878/p",
-    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/179108/110878-frontal.jpg?v=637955786956430000",
-    "moneda": "GTQ",
-    "precio_actual": 54.45,
-    "precio_referencia": 65.0,
-    "precio_antes_tienda": 54.45,
-    "descuento_real": 0.1623,
-    "ahorro_q": 10.55,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Walmart GT",
-        "precio": 65.0,
-        "url": "https://www.walmart.com.gt/chocolate-lindt-orange-intense-100-g-5/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Walmart GT",
-      "precio": 65.0
-    },
-    "etiqueta": "Más barato que Walmart GT",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 16.4,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-21T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:18-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "latorre-4946",
-    "tienda": "La Torre",
-    "nombre": "Tosh Limón Té Verde Sin Azúcar 9 Pack",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.latorre.com.gt/tosh-limon-te-verde-sin-azucar-9-pack-104400/p",
-    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/163892/104400-frontal.jpg?v=637240657640570000",
-    "moneda": "GTQ",
-    "precio_actual": 22.7,
-    "precio_referencia": 26.75,
-    "precio_antes_tienda": 22.7,
-    "descuento_real": 0.1514,
-    "ahorro_q": 4.05,
-    "minimo_historico": false,
-    "sin_historial": true,
-    "fuente_referencia": "mercado",
-    "mercado": [
-      {
-        "tienda": "Walmart GT",
-        "precio": 26.75,
-        "url": "https://www.walmart.com.gt/galleta-tosh-pozuelo-limon-con-te-verde-202-5-g/p"
-      }
-    ],
-    "antes_inflado": false,
-    "mas_barato_que": {
-      "tienda": "Walmart GT",
-      "precio": 26.75
-    },
-    "etiqueta": "Más barato que Walmart GT",
-    "relampago": false,
-    "nivel": "buena",
-    "nivel_emoji": "✅",
-    "nivel_label": "BUENA",
-    "puntaje": 15.2,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:06-06:00",
+    "visto_en": "2026-10-31T16:27:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -1858,7 +2146,38 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T15:29:47-06:00",
+    "visto_en": "2026-10-31T16:29:39-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "latorre-12285",
+    "tienda": "La Torre",
+    "nombre": "Vino Malbec Frontera",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.latorre.com.gt/vino-malbec-frontera-2026015/p",
+    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/173777/2026015-frontal.jpg?v=637726069267400000",
+    "moneda": "GTQ",
+    "precio_actual": 53.85,
+    "precio_referencia": 68.5,
+    "precio_antes_tienda": 53.85,
+    "descuento_real": 0.2139,
+    "ahorro_q": 14.65,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "agotado",
+    "nivel_emoji": "·",
+    "nivel_label": "agotado",
+    "puntaje": 31.7,
+    "disponible": false,
+    "modo_compra": "en_linea",
+    "fin_oferta": "2027-10-31T00:00:00Z",
+    "visto_en": "2026-10-31T16:29:22-06:00",
     "alerta_nueva": true
   },
   {
@@ -1889,7 +2208,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T15:27:16-06:00",
+    "visto_en": "2026-10-31T16:27:03-06:00",
     "alerta_nueva": true
   }
 ]

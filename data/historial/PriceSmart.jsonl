@@ -1593,16 +1593,16 @@
 {"id": "pricesmart-255660", "fecha_inicio": "2026-10-28", "precio": 202.25, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-648846", "fecha_inicio": "2026-10-28", "precio": 69.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-441772", "fecha_inicio": "2026-10-28", "precio": 42.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
-{"id": "pricesmart-495165", "fecha_inicio": "2026-10-28", "precio": 94.95, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "pricesmart-495165", "fecha_inicio": "2026-10-28", "precio": 94.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-261886", "fecha_inicio": "2026-10-28", "precio": 214.95, "visto_hasta": "2026-10-30", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-99903", "fecha_inicio": "2026-10-28", "precio": 66.95, "visto_hasta": "2026-10-30", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-302681", "fecha_inicio": "2026-10-28", "precio": 129.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-515932", "fecha_inicio": "2026-10-28", "precio": 39.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-23654", "fecha_inicio": "2026-10-28", "precio": 199.95, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
-{"id": "pricesmart-338650", "fecha_inicio": "2026-10-28", "precio": 79.95, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "pricesmart-338650", "fecha_inicio": "2026-10-28", "precio": 79.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-344194", "fecha_inicio": "2026-10-28", "precio": 67.95, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-446079", "fecha_inicio": "2026-10-28", "precio": 209.95, "visto_hasta": "2026-10-30", "precio_unidad": null, "unidad": null}
-{"id": "pricesmart-21110", "fecha_inicio": "2026-10-28", "precio": 239.95, "visto_hasta": "2026-10-30", "precio_unidad": null, "unidad": null}
+{"id": "pricesmart-21110", "fecha_inicio": "2026-10-28", "precio": 239.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-504051", "fecha_inicio": "2026-10-28", "precio": 1599.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-362346", "fecha_inicio": "2026-10-28", "precio": 109.95, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-99908", "fecha_inicio": "2026-10-28", "precio": 112.95, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
@@ -1700,7 +1700,7 @@
 {"id": "pricesmart-419092", "fecha_inicio": "2026-10-30", "precio": 104.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-466279", "fecha_inicio": "2026-10-30", "precio": 74.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-307123", "fecha_inicio": "2026-10-30", "precio": 32.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
-{"id": "pricesmart-325558", "fecha_inicio": "2026-10-30", "precio": 39.95, "visto_hasta": "2026-10-30", "precio_unidad": null, "unidad": null}
+{"id": "pricesmart-325558", "fecha_inicio": "2026-10-30", "precio": 39.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-416007", "fecha_inicio": "2026-10-30", "precio": 104.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-479091", "fecha_inicio": "2026-10-30", "precio": 54.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-407926", "fecha_inicio": "2026-10-30", "precio": 89.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
@@ -1713,3 +1713,5 @@
 {"id": "pricesmart-525006", "fecha_inicio": "2026-10-31", "precio": 54.7, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-525136", "fecha_inicio": "2026-10-31", "precio": 89.7, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "pricesmart-420380", "fecha_inicio": "2026-10-31", "precio": 134.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
+{"id": "pricesmart-343211", "fecha_inicio": "2026-10-31", "precio": 84.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
+{"id": "pricesmart-3778", "fecha_inicio": "2026-10-31", "precio": 54.95, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
