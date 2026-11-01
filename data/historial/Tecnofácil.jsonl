@@ -4558,8 +4558,8 @@
 {"id": "tecnofacil-f4ac821c", "fecha_inicio": "2026-11-01", "precio": 950.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "tecnofacil-27848ae9", "fecha_inicio": "2026-11-01", "precio": 1750.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "tecnofacil-95419dc4", "fecha_inicio": "2026-11-01", "precio": 1750.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
-{"id": "tecnofacil-56a92322", "fecha_inicio": "2026-11-01", "precio": 2034.29, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
-{"id": "tecnofacil-621f9b6a", "fecha_inicio": "2026-11-01", "precio": 2628.57, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
+{"id": "tecnofacil-56a92322", "fecha_inicio": "2026-11-01", "precio": 2034.29, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
+{"id": "tecnofacil-621f9b6a", "fecha_inicio": "2026-11-01", "precio": 2628.57, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "tecnofacil-SMX133NZA", "fecha_inicio": "2026-11-01", "precio": 1495.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "tecnofacil-SMX400NZA", "fecha_inicio": "2026-11-01", "precio": 3295.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "tecnofacil-SMX230NZA", "fecha_inicio": "2026-11-01", "precio": 2395.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
@@ -4671,8 +4671,8 @@
 {"id": "tecnofacil-3813", "fecha_inicio": "2026-11-01", "precio": 2896.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "tecnofacil-ILCE7RM6", "fecha_inicio": "2026-11-01", "precio": 34999.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "tecnofacil-8ab45a48", "fecha_inicio": "2026-11-01", "precio": 770.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
-{"id": "tecnofacil-815f6a6a", "fecha_inicio": "2026-11-01", "precio": 1071.5, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
-{"id": "tecnofacil-6937e17a", "fecha_inicio": "2026-11-01", "precio": 453.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
+{"id": "tecnofacil-815f6a6a", "fecha_inicio": "2026-11-01", "precio": 1071.5, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
+{"id": "tecnofacil-6937e17a", "fecha_inicio": "2026-11-01", "precio": 453.0, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "tecnofacil-5641e482", "fecha_inicio": "2026-11-01", "precio": 550.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "tecnofacil-c88d66d5", "fecha_inicio": "2026-11-01", "precio": 550.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "tecnofacil-2615d6dd", "fecha_inicio": "2026-11-01", "precio": 550.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
@@ -4688,3 +4688,7 @@
 {"id": "tecnofacil-9eaf892f", "fecha_inicio": "2026-11-01", "precio": 1995.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "tecnofacil-38271bd0", "fecha_inicio": "2026-11-01", "precio": 1995.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "tecnofacil-947a2d4d", "fecha_inicio": "2026-11-01", "precio": 4495.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
+{"id": "tecnofacil-56a92322", "fecha_inicio": "2026-11-01", "precio": 1424.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
+{"id": "tecnofacil-621f9b6a", "fecha_inicio": "2026-11-01", "precio": 1840.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
+{"id": "tecnofacil-815f6a6a", "fecha_inicio": "2026-11-01", "precio": 750.05, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
+{"id": "tecnofacil-6937e17a", "fecha_inicio": "2026-11-01", "precio": 317.1, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
