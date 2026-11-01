@@ -129,6 +129,14 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Marcadores marca Office Depot con tinta de alta cobertura y colores vibrantes. Versátiles para escuela, oficina, arte y manualidades.",
+    "precio": 2.59,
+    "antes": 25.9,
+    "descuento": 0.9,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-de-colores/Marcadores-marca-Office-Depot-con-tinta-de-alta-cobertura-y-colores-vibrantes-Vers%C3%A1tiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214001602"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Marcadores marca Staedtler con tinta de alta cobertura y colores vibrantes. Versátiles para escuela, oficina, arte y manualidades.",
     "precio": 16.47,
     "antes": 54.9,
@@ -161,27 +169,19 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Borrador marca iStudy de goma suave que elimina trazos de lápiz sin maltratar el papel. Ideal para escuela, oficina y dibujo.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Borradores/Borrador-marca-iStudy-de-goma-suave-que-elimina-trazos-de-l%C3%A1piz-sin-maltratar-el-papel-Ideal-para-escuela%2C-oficina-y-dibujo-/p/1214002878"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Set escolar marca Staedtler con útiles complementarios listos para usar. Ahorra tiempo y dinero con productos coordinados para escuela, oficina o regalo.",
     "precio": 149.7,
     "antes": 499.0,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/Set-escolar-marca-Staedtler-con-%C3%BAtiles-complementarios-listos-para-usar-Ahorra-tiempo-y-dinero-con-productos-coordinados-para-escuela%2C-oficina-o-regalo-/p/1214003940"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Marcadores marca Office Depot con tinta de alta cobertura y colores vibrantes. Versátiles para escuela, oficina, arte y manualidades.",
-    "precio": 2.59,
-    "antes": 25.9,
-    "descuento": 0.9,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-de-colores/Marcadores-marca-Office-Depot-con-tinta-de-alta-cobertura-y-colores-vibrantes-Vers%C3%A1tiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214001602"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Marcador permanente marca Office Depot de tinta resistente al agua y al desvanecimiento. Escribe sobre papel, carton, plastico, metal, vidrio y madera. Ideal para etiquetar y rotular.",
-    "precio": 4.62,
-    "antes": 15.4,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-permanentes/Marcador-permanente-marca-Office-Depot-de-tinta-resistente-al-agua-y-al-desvanecimiento-Escribe-sobre-papel%2C-carton%2C-plastico%2C-metal%2C-vidrio-y-madera-Ideal-para-etiquetar-y-rotular-/p/1214000101"
   },
   {
     "tienda": "Office Depot",
@@ -206,30 +206,6 @@
     "antes": 19.9,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Notas adhesivas marca Top Team reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
-    "precio": 11.97,
-    "antes": 39.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Top-Team-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000403"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Notas adhesivas marca Top Team reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
-    "precio": 20.97,
-    "antes": 69.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Top-Team-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000405"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Notas adhesivas marca Top Team reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
-    "precio": 23.97,
-    "antes": 79.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Top-Team-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000406"
   },
   {
     "tienda": "Cemaco",
@@ -1926,5 +1902,13 @@
     "antes": 39.0,
     "descuento": 0.769,
     "url": "https://gt.siman.com/carrete-de-nylon-104027474/p"
+  },
+  {
+    "tienda": "Novex",
+    "nombre": "Llave combinada 9 mm",
+    "precio": 12.89,
+    "antes": 46.0,
+    "descuento": 0.72,
+    "url": "https://www.novex.com.gt/producto/410639/Llave-combinada-9-mm.html"
   }
 ]
