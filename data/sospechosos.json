@@ -137,6 +137,14 @@
   },
   {
     "tienda": "Cemaco",
+    "nombre": "Filtro Seco/Húmedo para Aspiradora",
+    "precio": 11.99,
+    "antes": 59.99,
+    "descuento": 0.8,
+    "url": "https://www.cemaco.com/filtro-secohumedo-para-aspiradora-stanley-807584/p"
+  },
+  {
+    "tienda": "Cemaco",
     "nombre": "Filtro Reusable de Tela para Aspirar en Seco 2.5 Gal",
     "precio": 15.0,
     "antes": 66.99,
@@ -158,14 +166,6 @@
     "antes": 59.99,
     "descuento": 0.858,
     "url": "https://www.cemaco.com/filtro-de-tela-polvo-cl104121-makita-1025646/p"
-  },
-  {
-    "tienda": "Cemaco",
-    "nombre": "Filtro Seco/Húmedo para Aspiradora",
-    "precio": 11.99,
-    "antes": 59.99,
-    "descuento": 0.8,
-    "url": "https://www.cemaco.com/filtro-secohumedo-para-aspiradora-stanley-807584/p"
   },
   {
     "tienda": "Cemaco",
@@ -193,19 +193,19 @@
   },
   {
     "tienda": "Cemaco",
-    "nombre": "Lámpara de Emergencia Recargable LED de 1 W Color Blanca",
-    "precio": 59.99,
-    "antes": 299.99,
-    "descuento": 0.8,
-    "url": "https://www.cemaco.com/lampara-de-emergencia-recargable-tecnolite-1040784/p"
-  },
-  {
-    "tienda": "Cemaco",
     "nombre": "Bombilla Globo Led 10W 800Lm - Ace",
     "precio": 17.99,
     "antes": 59.99,
     "descuento": 0.7,
     "url": "https://www.cemaco.com/bombilla-globo-led-10w-800lm-ace-1045463/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Lámpara de Emergencia Recargable LED de 1 W Color Blanca",
+    "precio": 59.99,
+    "antes": 299.99,
+    "descuento": 0.8,
+    "url": "https://www.cemaco.com/lampara-de-emergencia-recargable-tecnolite-1040784/p"
   },
   {
     "tienda": "Cemaco",
