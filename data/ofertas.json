@@ -27,7 +27,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T17:27:03-06:00",
+    "visto_en": "2026-10-31T18:40:43-06:00",
     "alerta_nueva": false
   },
   {
@@ -58,7 +58,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:59-06:00",
+    "visto_en": "2026-10-31T18:43:11-06:00",
     "alerta_nueva": false
   },
   {
@@ -89,7 +89,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:32-06:00",
+    "visto_en": "2026-10-31T18:42:36-06:00",
     "alerta_nueva": false
   },
   {
@@ -120,7 +120,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:51-06:00",
+    "visto_en": "2026-10-31T18:42:59-06:00",
     "alerta_nueva": false
   },
   {
@@ -150,8 +150,8 @@
     "puntaje": 72.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:55-06:00",
+    "fin_oferta": "2027-01-01T06:00:00Z",
+    "visto_en": "2026-10-31T18:43:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -182,7 +182,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:55-06:00",
+    "visto_en": "2026-10-31T18:43:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -213,7 +213,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:57-06:00",
+    "visto_en": "2026-10-31T18:43:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -244,7 +244,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:57-06:00",
+    "visto_en": "2026-10-31T18:43:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -275,7 +275,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:57-06:00",
+    "visto_en": "2026-10-31T18:43:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -305,8 +305,8 @@
     "puntaje": 61.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T17:28:59-06:00",
+    "fin_oferta": "2027-01-01T00:00:00Z",
+    "visto_en": "2026-10-31T18:43:11-06:00",
     "alerta_nueva": false
   },
   {
@@ -337,7 +337,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T17:27:14-06:00",
+    "visto_en": "2026-10-31T18:40:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -368,7 +368,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-31T17:27:55-06:00",
+    "visto_en": "2026-10-31T18:41:27-06:00",
     "alerta_nueva": true
   },
   {
@@ -399,7 +399,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T23:27:13Z",
-    "visto_en": "2026-10-31T17:27:14-06:00",
+    "visto_en": "2026-10-31T18:40:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -429,8 +429,8 @@
     "puntaje": 56.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:31-06:00",
+    "fin_oferta": "2027-01-01T06:00:00Z",
+    "visto_en": "2026-10-31T18:42:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -461,38 +461,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:52-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "max-gt-58R6E5",
-    "tienda": "Max",
-    "nombre": "Televisor Hisense 58 pulgadas LED Ultra UHD-4K",
-    "categoria": "📺 TV y audio",
-    "url": "https://www.max.com.gt/televisor-hisense-58-pulgadas-led-ultra-uhd-4k-hisense-58r6e5",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/5/8/58r6e_1600x1200.jpg?optimize=high&fit=bounds&height=&width=",
-    "moneda": "GTQ",
-    "precio_actual": 2996.0,
-    "precio_referencia": 3995.5,
-    "precio_antes_tienda": 4995.0,
-    "descuento_real": 0.2502,
-    "ahorro_q": 999.5,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "muy_buena",
-    "nivel_emoji": "⚡",
-    "nivel_label": "MUY BUENA",
-    "puntaje": 55.0,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-10-31T17:28:00-06:00",
+    "visto_en": "2026-10-31T18:43:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -523,7 +492,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:55-06:00",
+    "visto_en": "2026-10-31T18:43:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -554,7 +523,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:41-06:00",
+    "visto_en": "2026-10-31T18:42:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -585,7 +554,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:52-06:00",
+    "visto_en": "2026-10-31T18:43:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -616,7 +585,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T17:28:41-06:00",
+    "visto_en": "2026-10-31T18:42:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -646,8 +615,8 @@
     "puntaje": 52.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:46-06:00",
+    "fin_oferta": "2027-01-01T06:00:00Z",
+    "visto_en": "2026-10-31T18:42:52-06:00",
     "alerta_nueva": true
   },
   {
@@ -678,7 +647,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T17:28:45-06:00",
+    "visto_en": "2026-10-31T18:42:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -709,7 +678,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T17:28:45-06:00",
+    "visto_en": "2026-10-31T18:42:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -740,7 +709,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T17:28:40-06:00",
+    "visto_en": "2026-10-31T18:42:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -771,7 +740,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:51-06:00",
+    "visto_en": "2026-10-31T18:42:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -810,8 +779,8 @@
     "puntaje": 51.0,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-10-31T17:28:38-06:00",
+    "fin_oferta": "2027-01-01T00:00:00Z",
+    "visto_en": "2026-10-31T18:42:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -842,7 +811,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:38-06:00",
+    "visto_en": "2026-10-31T18:42:42-06:00",
     "alerta_nueva": true
   },
   {
@@ -873,7 +842,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T17:27:20-06:00",
+    "visto_en": "2026-10-31T18:41:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -913,7 +882,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:57-06:00",
+    "visto_en": "2026-10-31T18:43:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -944,7 +913,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:57-06:00",
+    "visto_en": "2026-10-31T18:43:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -975,7 +944,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T17:27:02-06:00",
+    "visto_en": "2026-10-31T18:40:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -1006,7 +975,38 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:38-06:00",
+    "visto_en": "2026-10-31T18:42:42-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "max-gt-4c0b605d",
+    "tienda": "Max",
+    "nombre": "Luz Trasera Magene con Sensor de Acercamiento",
+    "categoria": "⚽ Deportes, bicis y motos",
+    "url": "https://www.max.com.gt/luz-trasera-magene-con-sensor-de-acercamiento-4c0b605d",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/a/7/a71578c1cef60a35.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 1199.0,
+    "precio_referencia": 1599.0,
+    "precio_antes_tienda": 1999.0,
+    "descuento_real": 0.2502,
+    "ahorro_q": 400.0,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 43.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-10-31T18:47:26-06:00",
     "alerta_nueva": true
   },
   {
@@ -1037,7 +1037,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2029-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:47-06:00",
+    "visto_en": "2026-10-31T18:42:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -1068,7 +1068,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:59-06:00",
+    "visto_en": "2026-10-31T18:43:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -1099,7 +1099,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T17:27:21-06:00",
+    "visto_en": "2026-10-31T18:41:06-06:00",
     "alerta_nueva": true
   },
   {
@@ -1130,7 +1130,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T17:27:02-06:00",
+    "visto_en": "2026-10-31T18:40:40-06:00",
     "alerta_nueva": true
   },
   {
@@ -1161,7 +1161,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T17:27:05-06:00",
+    "visto_en": "2026-10-31T18:40:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -1192,7 +1192,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:33-06:00",
+    "visto_en": "2026-10-31T18:42:39-06:00",
     "alerta_nueva": true
   },
   {
@@ -1232,7 +1232,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-31T17:29:04-06:00",
+    "visto_en": "2026-10-31T18:43:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -1263,7 +1263,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:41-06:00",
+    "visto_en": "2026-10-31T18:42:45-06:00",
     "alerta_nueva": true
   },
   {
@@ -1294,7 +1294,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T17:26:57-06:00",
+    "visto_en": "2026-10-31T18:40:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -1325,7 +1325,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-10-31T17:27:45-06:00",
+    "visto_en": "2026-10-31T18:41:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -1356,7 +1356,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:59-06:00",
+    "visto_en": "2026-10-31T18:43:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -1386,8 +1386,8 @@
     "puntaje": 35.8,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T23:24:09Z",
-    "visto_en": "2026-10-31T17:28:53-06:00",
+    "fin_oferta": "2027-11-01T00:00:00Z",
+    "visto_en": "2026-10-31T18:42:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -1418,7 +1418,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:31-06:00",
+    "visto_en": "2026-10-31T18:42:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -1457,8 +1457,8 @@
     "puntaje": 32.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T23:28:43Z",
-    "visto_en": "2026-10-31T17:28:55-06:00",
+    "fin_oferta": "2027-10-29T00:00:00Z",
+    "visto_en": "2026-10-31T18:43:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -1498,7 +1498,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:59-06:00",
+    "visto_en": "2026-10-31T18:43:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -1529,7 +1529,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:57-06:00",
+    "visto_en": "2026-10-31T18:43:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -1560,7 +1560,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:54-06:00",
+    "visto_en": "2026-10-31T18:42:57-06:00",
     "alerta_nueva": true
   },
   {
@@ -1591,7 +1591,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:55-06:00",
+    "visto_en": "2026-10-31T18:43:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -1631,7 +1631,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:57-06:00",
+    "visto_en": "2026-10-31T18:43:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -1671,7 +1671,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:57-06:00",
+    "visto_en": "2026-10-31T18:43:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -1711,7 +1711,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-31T17:28:58-06:00",
+    "visto_en": "2026-10-31T18:43:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -1742,7 +1742,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T17:29:05-06:00",
+    "visto_en": "2026-10-31T18:43:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -1772,8 +1772,39 @@
     "puntaje": 31.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T23:20:52Z",
-    "visto_en": "2026-10-31T17:28:35-06:00",
+    "fin_oferta": "2027-11-01T00:42:36Z",
+    "visto_en": "2026-10-31T18:42:37-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "pricesmart-525136",
+    "tienda": "PriceSmart",
+    "nombre": "Termogreen Vasos PET de Temporada 160 Unidades / 473 mL",
+    "categoria": "🛏️ Hogar y muebles",
+    "url": "https://www.pricesmart.com/es-gt/producto/termogreen-vasos-pet-de-temporada-160-unidades-473-ml-525136/525136",
+    "imagen": null,
+    "moneda": "GTQ",
+    "precio_actual": 89.7,
+    "precio_referencia": 112.95,
+    "precio_antes_tienda": null,
+    "descuento_real": 0.2058,
+    "ahorro_q": 23.25,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 31.0,
+    "disponible": true,
+    "modo_compra": "club",
+    "fin_oferta": null,
+    "visto_en": "2026-10-31T18:43:29-06:00",
     "alerta_nueva": true
   },
   {
@@ -1804,7 +1835,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2026-12-01T00:00:00Z",
-    "visto_en": "2026-10-31T17:27:56-06:00",
+    "visto_en": "2026-10-31T18:41:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -1844,7 +1875,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T17:27:31-06:00",
+    "visto_en": "2026-10-31T18:41:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -1884,7 +1915,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-10-31T17:29:02-06:00",
+    "visto_en": "2026-10-31T18:43:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -1923,8 +1954,8 @@
     "puntaje": 21.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T17:29:04-06:00",
+    "fin_oferta": "2027-11-01T00:43:10Z",
+    "visto_en": "2026-10-31T18:43:10-06:00",
     "alerta_nueva": true
   },
   {
@@ -1963,8 +1994,8 @@
     "puntaje": 18.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-10-31T17:27:14-06:00",
+    "fin_oferta": "2027-11-01T00:31:34Z",
+    "visto_en": "2026-10-31T18:40:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -2004,38 +2035,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T17:29:23-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "latorre-12285",
-    "tienda": "La Torre",
-    "nombre": "Vino Malbec Frontera",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.latorre.com.gt/vino-malbec-frontera-2026015/p",
-    "imagen": "https://latorremx.vteximg.com.br/arquivos/ids/173777/2026015-frontal.jpg?v=637726069267400000",
-    "moneda": "GTQ",
-    "precio_actual": 53.85,
-    "precio_referencia": 68.5,
-    "precio_antes_tienda": 53.85,
-    "descuento_real": 0.2139,
-    "ahorro_q": 14.65,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "agotado",
-    "nivel_emoji": "·",
-    "nivel_label": "agotado",
-    "puntaje": 31.7,
-    "disponible": false,
-    "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-10-31T17:29:15-06:00",
+    "visto_en": "2026-10-31T18:43:12-06:00",
     "alerta_nueva": true
   },
   {
@@ -2065,8 +2065,8 @@
     "puntaje": 39.1,
     "disponible": false,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-10-31T23:26:58Z",
-    "visto_en": "2026-10-31T17:26:59-06:00",
+    "fin_oferta": "2027-10-31T00:00:00Z",
+    "visto_en": "2026-10-31T18:40:35-06:00",
     "alerta_nueva": true
   }
 ]
