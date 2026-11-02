@@ -1995,6 +1995,16 @@
       "precio": 60.0
     }
   ],
+  "officedepot-1310000154": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 39.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 49.0
+    }
+  ],
   "officedepot-1303000136": [
     {
       "fecha": "2026-10-28",
@@ -3265,6 +3275,26 @@
     {
       "fecha": "2026-11-01",
       "precio": 7999.0
+    }
+  ],
+  "officedepot-1305000297": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 1899.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2199.0
+    }
+  ],
+  "officedepot-1305000298": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 999.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 1299.0
     }
   ],
   "officedepot-1301000616": [
@@ -7469,6 +7499,186 @@
       "precio": 13.95
     }
   ],
+  "lacuracao-470938700011": [
+    {
+      "fecha": null,
+      "precio": 12998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 16999.0
+    }
+  ],
+  "lacuracao-472653600010": [
+    {
+      "fecha": null,
+      "precio": 4998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 7199.0
+    }
+  ],
+  "lacuracao-472128200011": [
+    {
+      "fecha": null,
+      "precio": 3148.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5199.0
+    }
+  ],
+  "lacuracao-472395900010": [
+    {
+      "fecha": null,
+      "precio": 5998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 9999.0
+    }
+  ],
+  "lacuracao-426953200005": [
+    {
+      "fecha": null,
+      "precio": 3497.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 7139.0
+    }
+  ],
+  "lacuracao-463211000014": [
+    {
+      "fecha": null,
+      "precio": 9697.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 10599.0
+    }
+  ],
+  "lacuracao-468853800015": [
+    {
+      "fecha": null,
+      "precio": 3398.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4799.0
+    }
+  ],
+  "lacuracao-455901200019": [
+    {
+      "fecha": null,
+      "precio": 3298.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4899.0
+    }
+  ],
+  "lacuracao-469318600003": [
+    {
+      "fecha": null,
+      "precio": 3978.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4549.0
+    }
+  ],
+  "lacuracao-419134500001": [
+    {
+      "fecha": null,
+      "precio": 3957.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5029.0
+    }
+  ],
+  "lacuracao-472475100019": [
+    {
+      "fecha": null,
+      "precio": 5248.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 9999.0
+    }
+  ],
+  "lacuracao-456204600018": [
+    {
+      "fecha": null,
+      "precio": 3698.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5199.0
+    }
+  ],
+  "lacuracao-469059800014": [
+    {
+      "fecha": null,
+      "precio": 7298.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 7999.0
+    }
+  ],
+  "lacuracao-472041200013": [
+    {
+      "fecha": null,
+      "precio": 3398.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5799.0
+    }
+  ],
+  "lacuracao-465335500012": [
+    {
+      "fecha": null,
+      "precio": 3298.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5799.0
+    }
+  ],
+  "lacuracao-437754700007": [
+    {
+      "fecha": null,
+      "precio": 3398.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5299.0
+    }
+  ],
+  "lacuracao-419134400004": [
+    {
+      "fecha": null,
+      "precio": 3418.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4389.0
+    }
+  ],
+  "lacuracao-469582900014": [
+    {
+      "fecha": null,
+      "precio": 8198.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 9899.0
+    }
+  ],
   "lacuracao-462417700018": [
     {
       "fecha": null,
@@ -7477,6 +7687,530 @@
     {
       "fecha": "2026-10-28",
       "precio": 1998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3299.0
+    }
+  ],
+  "lacuracao-473264400013": [
+    {
+      "fecha": null,
+      "precio": 3998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4999.0
+    }
+  ],
+  "lacuracao-473264300016": [
+    {
+      "fecha": null,
+      "precio": 3998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4999.0
+    }
+  ],
+  "lacuracao-473265600016": [
+    {
+      "fecha": null,
+      "precio": 2698.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3499.0
+    }
+  ],
+  "lacuracao-473265500019": [
+    {
+      "fecha": null,
+      "precio": 2698.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3499.0
+    }
+  ],
+  "lacuracao-473265800010": [
+    {
+      "fecha": null,
+      "precio": 2598.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2999.0
+    }
+  ],
+  "lacuracao-473265700013": [
+    {
+      "fecha": null,
+      "precio": 2598.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2999.0
+    }
+  ],
+  "lacuracao-472386800015": [
+    {
+      "fecha": null,
+      "precio": 3898.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5999.0
+    }
+  ],
+  "lacuracao-472386900012": [
+    {
+      "fecha": null,
+      "precio": 7798.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 11999.0
+    }
+  ],
+  "lacuracao-472387700017": [
+    {
+      "fecha": null,
+      "precio": 1248.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 1909.0
+    }
+  ],
+  "lacuracao-473162200012": [
+    {
+      "fecha": null,
+      "precio": 7498.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 8999.0
+    }
+  ],
+  "lacuracao-472051200010": [
+    {
+      "fecha": null,
+      "precio": 2198.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3299.0
+    }
+  ],
+  "lacuracao-473506600010": [
+    {
+      "fecha": null,
+      "precio": 2498.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2999.0
+    }
+  ],
+  "lacuracao-473509400013": [
+    {
+      "fecha": null,
+      "precio": 2498.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2999.0
+    }
+  ],
+  "lacuracao-473512100016": [
+    {
+      "fecha": null,
+      "precio": 3598.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3999.0
+    }
+  ],
+  "lacuracao-473520900011": [
+    {
+      "fecha": null,
+      "precio": 3598.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3999.0
+    }
+  ],
+  "lacuracao-473522400014": [
+    {
+      "fecha": null,
+      "precio": 5298.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5999.0
+    }
+  ],
+  "lacuracao-473523000015": [
+    {
+      "fecha": null,
+      "precio": 5298.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5999.0
+    }
+  ],
+  "lacuracao-473465400010": [
+    {
+      "fecha": null,
+      "precio": 1498.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 1799.0
+    }
+  ],
+  "lacuracao-473492300017": [
+    {
+      "fecha": null,
+      "precio": 1498.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 1799.0
+    }
+  ],
+  "lacuracao-472543200016": [
+    {
+      "fecha": null,
+      "precio": 5798.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 8999.0
+    }
+  ],
+  "lacuracao-472541000014": [
+    {
+      "fecha": null,
+      "precio": 4098.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 6499.0
+    }
+  ],
+  "lacuracao-472543000012": [
+    {
+      "fecha": null,
+      "precio": 19998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 23499.0
+    }
+  ],
+  "lacuracao-472540700014": [
+    {
+      "fecha": null,
+      "precio": 1198.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 1699.0
+    }
+  ],
+  "lacuracao-472540800011": [
+    {
+      "fecha": null,
+      "precio": 1848.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2499.0
+    }
+  ],
+  "lacuracao-472540900018": [
+    {
+      "fecha": null,
+      "precio": 2148.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3099.0
+    }
+  ],
+  "lacuracao-473056400016": [
+    {
+      "fecha": null,
+      "precio": 2798.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4199.0
+    }
+  ],
+  "lacuracao-473056500013": [
+    {
+      "fecha": null,
+      "precio": 2598.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3499.0
+    }
+  ],
+  "lacuracao-473056600010": [
+    {
+      "fecha": null,
+      "precio": 1698.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2599.0
+    }
+  ],
+  "lacuracao-473058100013": [
+    {
+      "fecha": null,
+      "precio": 1548.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2299.0
+    }
+  ],
+  "lacuracao-473056700017": [
+    {
+      "fecha": null,
+      "precio": 1048.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 1699.0
+    }
+  ],
+  "lacuracao-471959200016": [
+    {
+      "fecha": null,
+      "precio": 3398.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5199.0
+    }
+  ],
+  "lacuracao-472039600016": [
+    {
+      "fecha": null,
+      "precio": 2798.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4799.0
+    }
+  ],
+  "lacuracao-472396200010": [
+    {
+      "fecha": null,
+      "precio": 4998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 7549.0
+    }
+  ],
+  "lacuracao-472395800013": [
+    {
+      "fecha": null,
+      "precio": 4148.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 6999.0
+    }
+  ],
+  "lacuracao-472395700016": [
+    {
+      "fecha": null,
+      "precio": 3248.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4999.0
+    }
+  ],
+  "lacuracao-472395600019": [
+    {
+      "fecha": null,
+      "precio": 2798.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4699.0
+    }
+  ],
+  "lacuracao-460357000014": [
+    {
+      "fecha": null,
+      "precio": 2938.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3569.0
+    }
+  ],
+  "lacuracao-460356500010": [
+    {
+      "fecha": null,
+      "precio": 1928.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2349.0
+    }
+  ],
+  "lacuracao-460356900018": [
+    {
+      "fecha": null,
+      "precio": 2578.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3149.0
+    }
+  ],
+  "lacuracao-460357100011": [
+    {
+      "fecha": null,
+      "precio": 3728.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4549.0
+    }
+  ],
+  "lacuracao-451492300008": [
+    {
+      "fecha": null,
+      "precio": 4488.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5119.0
+    }
+  ],
+  "lacuracao-451492000007": [
+    {
+      "fecha": null,
+      "precio": 3858.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4409.0
+    }
+  ],
+  "lacuracao-425197800002": [
+    {
+      "fecha": null,
+      "precio": 3048.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3779.0
+    }
+  ],
+  "lacuracao-425198100002": [
+    {
+      "fecha": null,
+      "precio": 4088.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5049.0
+    }
+  ],
+  "lacuracao-425197700005": [
+    {
+      "fecha": null,
+      "precio": 2688.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3419.0
+    }
+  ],
+  "lacuracao-439615200008": [
+    {
+      "fecha": null,
+      "precio": 2518.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2959.0
+    }
+  ],
+  "lacuracao-439614500000": [
+    {
+      "fecha": null,
+      "precio": 1618.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 1899.0
+    }
+  ],
+  "lacuracao-439615000004": [
+    {
+      "fecha": null,
+      "precio": 2178.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2559.0
+    }
+  ],
+  "lacuracao-439614800001": [
+    {
+      "fecha": null,
+      "precio": 3558.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4179.0
+    }
+  ],
+  "lacuracao-451492600009": [
+    {
+      "fecha": null,
+      "precio": 5998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 7299.0
+    }
+  ],
+  "lacuracao-466786800003": [
+    {
+      "fecha": null,
+      "precio": 5118.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 6199.0
+    }
+  ],
+  "lacuracao-466787100003": [
+    {
+      "fecha": null,
+      "precio": 6888.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 8399.0
     }
   ],
   "lacuracao-473462300016": [
@@ -7499,6 +8233,246 @@
       "precio": 9599.0
     }
   ],
+  "lacuracao-473527800017": [
+    {
+      "fecha": null,
+      "precio": 2698.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3499.0
+    }
+  ],
+  "lacuracao-473905800011": [
+    {
+      "fecha": null,
+      "precio": 6898.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 7999.0
+    }
+  ],
+  "lacuracao-473905700014": [
+    {
+      "fecha": null,
+      "precio": 6898.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 7999.0
+    }
+  ],
+  "lacuracao-471423600014": [
+    {
+      "fecha": null,
+      "precio": 3898.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4799.0
+    }
+  ],
+  "lacuracao-471423400010": [
+    {
+      "fecha": null,
+      "precio": 3898.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4799.0
+    }
+  ],
+  "lacuracao-471360500019": [
+    {
+      "fecha": null,
+      "precio": 4198.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5099.0
+    }
+  ],
+  "lacuracao-472968900010": [
+    {
+      "fecha": null,
+      "precio": 698.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 839.0
+    }
+  ],
+  "lacuracao-473233300016": [
+    {
+      "fecha": null,
+      "precio": 698.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 839.0
+    }
+  ],
+  "lacuracao-473233400013": [
+    {
+      "fecha": null,
+      "precio": 698.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 839.0
+    }
+  ],
+  "lacuracao-473992300012": [
+    {
+      "fecha": null,
+      "precio": 13998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 16399.0
+    }
+  ],
+  "lacuracao-456497400012": [
+    {
+      "fecha": null,
+      "precio": 1498.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2599.0
+    }
+  ],
+  "lacuracao-467577900018": [
+    {
+      "fecha": null,
+      "precio": 2048.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2399.0
+    }
+  ],
+  "lacuracao-470044900015": [
+    {
+      "fecha": null,
+      "precio": 1498.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2399.0
+    }
+  ],
+  "lacuracao-471386900015": [
+    {
+      "fecha": null,
+      "precio": 1948.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3199.0
+    }
+  ],
+  "lacuracao-472928600011": [
+    {
+      "fecha": null,
+      "precio": 2498.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3599.0
+    }
+  ],
+  "lacuracao-472387900011": [
+    {
+      "fecha": null,
+      "precio": 598.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 909.0
+    }
+  ],
+  "lacuracao-471387200015": [
+    {
+      "fecha": null,
+      "precio": 5988.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 8999.0
+    }
+  ],
+  "lacuracao-472388900010": [
+    {
+      "fecha": null,
+      "precio": 608.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 929.0
+    }
+  ],
+  "lacuracao-472388100014": [
+    {
+      "fecha": null,
+      "precio": 608.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 929.0
+    }
+  ],
+  "lacuracao-472389200010": [
+    {
+      "fecha": null,
+      "precio": 338.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 509.0
+    }
+  ],
+  "lacuracao-472389000016": [
+    {
+      "fecha": null,
+      "precio": 338.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 509.0
+    }
+  ],
+  "lacuracao-472386600011": [
+    {
+      "fecha": null,
+      "precio": 1438.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2209.0
+    }
+  ],
+  "lacuracao-472386700018": [
+    {
+      "fecha": null,
+      "precio": 3898.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5999.0
+    }
+  ],
+  "lacuracao-472935100016": [
+    {
+      "fecha": null,
+      "precio": 3708.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5699.0
+    }
+  ],
   "lacuracao-473460000017": [
     {
       "fecha": null,
@@ -7509,6 +8483,16 @@
       "precio": 7139.0
     }
   ],
+  "lacuracao-465278600015": [
+    {
+      "fecha": null,
+      "precio": 4298.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 6299.0
+    }
+  ],
   "lacuracao-468037900012": [
     {
       "fecha": null,
@@ -7516,6 +8500,16 @@
     },
     {
       "fecha": "2026-10-31",
+      "precio": 4299.0
+    }
+  ],
+  "lacuracao-468888700014": [
+    {
+      "fecha": null,
+      "precio": 3098.0
+    },
+    {
+      "fecha": "2026-11-02",
       "precio": 4299.0
     }
   ],
@@ -7529,6 +8523,26 @@
       "precio": 7999.0
     }
   ],
+  "lacuracao-468670000018": [
+    {
+      "fecha": null,
+      "precio": 1298.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 1499.0
+    }
+  ],
+  "lacuracao-470783700013": [
+    {
+      "fecha": null,
+      "precio": 1798.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2499.0
+    }
+  ],
   "lacuracao-472394900011": [
     {
       "fecha": null,
@@ -7537,6 +8551,16 @@
     {
       "fecha": "2026-10-31",
       "precio": 3499.0
+    }
+  ],
+  "lacuracao-446201000003": [
+    {
+      "fecha": null,
+      "precio": 6998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 8999.0
     }
   ],
   "lacuracao-463601700012": [
@@ -7549,6 +8573,26 @@
       "precio": 5899.0
     }
   ],
+  "lacuracao-464187600017": [
+    {
+      "fecha": null,
+      "precio": 2698.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3999.0
+    }
+  ],
+  "lacuracao-471145000017": [
+    {
+      "fecha": null,
+      "precio": 5498.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 7299.0
+    }
+  ],
   "lacuracao-456211200010": [
     {
       "fecha": null,
@@ -7559,6 +8603,36 @@
       "precio": 5299.0
     }
   ],
+  "lacuracao-472379800015": [
+    {
+      "fecha": null,
+      "precio": 4998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5999.0
+    }
+  ],
+  "lacuracao-464304800016": [
+    {
+      "fecha": null,
+      "precio": 2898.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4299.0
+    }
+  ],
+  "lacuracao-468906100017": [
+    {
+      "fecha": null,
+      "precio": 2998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4599.0
+    }
+  ],
   "lacuracao-468913700019": [
     {
       "fecha": null,
@@ -7567,6 +8641,176 @@
     {
       "fecha": "2026-10-31",
       "precio": 6999.0
+    }
+  ],
+  "lacuracao-461431000012": [
+    {
+      "fecha": null,
+      "precio": 2298.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3399.0
+    }
+  ],
+  "lacuracao-468739300011": [
+    {
+      "fecha": null,
+      "precio": 118.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 149.0
+    }
+  ],
+  "lacuracao-148061": [
+    {
+      "fecha": null,
+      "precio": 148.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 179.0
+    }
+  ],
+  "lacuracao-464010200018": [
+    {
+      "fecha": null,
+      "precio": 148.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 169.0
+    }
+  ],
+  "lacuracao-464009900011": [
+    {
+      "fecha": null,
+      "precio": 118.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 149.0
+    }
+  ],
+  "lacuracao-464018300017": [
+    {
+      "fecha": null,
+      "precio": 118.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 149.0
+    }
+  ],
+  "lacuracao-463986800017": [
+    {
+      "fecha": null,
+      "precio": 218.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 269.0
+    }
+  ],
+  "lacuracao-440689000005": [
+    {
+      "fecha": null,
+      "precio": 158.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 199.0
+    }
+  ],
+  "lacuracao-464016200012": [
+    {
+      "fecha": null,
+      "precio": 128.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 159.0
+    }
+  ],
+  "lacuracao-471353400012": [
+    {
+      "fecha": null,
+      "precio": 288.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 359.0
+    }
+  ],
+  "lacuracao-464012300013": [
+    {
+      "fecha": null,
+      "precio": 128.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 169.0
+    }
+  ],
+  "lacuracao-464015800015": [
+    {
+      "fecha": null,
+      "precio": 358.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 449.0
+    }
+  ],
+  "lacuracao-463986700010": [
+    {
+      "fecha": null,
+      "precio": 198.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 249.0
+    }
+  ],
+  "lacuracao-464011500018": [
+    {
+      "fecha": null,
+      "precio": 598.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 749.0
+    }
+  ],
+  "lacuracao-464011200017": [
+    {
+      "fecha": null,
+      "precio": 158.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 199.0
+    }
+  ],
+  "lacuracao-463987200014": [
+    {
+      "fecha": null,
+      "precio": 638.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 789.0
+    }
+  ],
+  "lacuracao-148058": [
+    {
+      "fecha": null,
+      "precio": 98.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 119.0
     }
   ],
   "lacuracao-470342600013": [
@@ -7607,6 +8851,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 13299.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 14899.0
     }
   ],
   "lacuracao-472653900011": [
@@ -7617,6 +8865,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 26549.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 26999.0
     }
   ],
   "lacuracao-472643700010": [
@@ -7627,6 +8879,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 23049.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 23499.0
     }
   ],
   "lacuracao-470031500013": [
@@ -7679,6 +8935,326 @@
       "precio": 10599.0
     }
   ],
+  "lacuracao-472248000010": [
+    {
+      "fecha": null,
+      "precio": 2698.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3199.0
+    }
+  ],
+  "lacuracao-472247900014": [
+    {
+      "fecha": null,
+      "precio": 1868.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2199.0
+    }
+  ],
+  "lacuracao-472247800017": [
+    {
+      "fecha": null,
+      "precio": 1298.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 1599.0
+    }
+  ],
+  "lacuracao-472248200014": [
+    {
+      "fecha": null,
+      "precio": 3198.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3799.0
+    }
+  ],
+  "lacuracao-472248300011": [
+    {
+      "fecha": null,
+      "precio": 3948.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4599.0
+    }
+  ],
+  "lacuracao-472248400018": [
+    {
+      "fecha": null,
+      "precio": 4848.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5699.0
+    }
+  ],
+  "lacuracao-472483700010": [
+    {
+      "fecha": null,
+      "precio": 3948.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 6599.0
+    }
+  ],
+  "lacuracao-472483800017": [
+    {
+      "fecha": null,
+      "precio": 3598.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 5199.0
+    }
+  ],
+  "lacuracao-471863100013": [
+    {
+      "fecha": null,
+      "precio": 3498.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4499.0
+    }
+  ],
+  "lacuracao-469050300018": [
+    {
+      "fecha": null,
+      "precio": 5998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 8999.0
+    }
+  ],
+  "lacuracao-469437300013": [
+    {
+      "fecha": null,
+      "precio": 2998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 3499.0
+    }
+  ],
+  "lacuracao-419146700000": [
+    {
+      "fecha": null,
+      "precio": 1225.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 1879.0
+    }
+  ],
+  "lacuracao-470261100014": [
+    {
+      "fecha": null,
+      "precio": 748.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 829.0
+    }
+  ],
+  "lacuracao-469278800017": [
+    {
+      "fecha": null,
+      "precio": 2378.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2639.0
+    }
+  ],
+  "lacuracao-469278900014": [
+    {
+      "fecha": null,
+      "precio": 2318.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2569.0
+    }
+  ],
+  "lacuracao-469279000010": [
+    {
+      "fecha": null,
+      "precio": 2168.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 2409.0
+    }
+  ],
+  "lacuracao-468926500019": [
+    {
+      "fecha": null,
+      "precio": 748.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 829.0
+    }
+  ],
+  "lacuracao-471279400011": [
+    {
+      "fecha": null,
+      "precio": 98.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 99.0
+    }
+  ],
+  "lacuracao-471353600016": [
+    {
+      "fecha": null,
+      "precio": 788.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 929.0
+    }
+  ],
+  "lacuracao-469337800019": [
+    {
+      "fecha": null,
+      "precio": 515.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 799.0
+    }
+  ],
+  "lacuracao-469336900017": [
+    {
+      "fecha": null,
+      "precio": 645.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 999.0
+    }
+  ],
+  "lacuracao-469337000013": [
+    {
+      "fecha": null,
+      "precio": 475.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 729.0
+    }
+  ],
+  "lacuracao-468382400014": [
+    {
+      "fecha": null,
+      "precio": 475.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 729.0
+    }
+  ],
+  "lacuracao-467736900019": [
+    {
+      "fecha": null,
+      "precio": 385.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 599.0
+    }
+  ],
+  "lacuracao-468786900011": [
+    {
+      "fecha": null,
+      "precio": 585.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 899.0
+    }
+  ],
+  "lacuracao-467242200016": [
+    {
+      "fecha": null,
+      "precio": 185.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 289.0
+    }
+  ],
+  "lacuracao-468148200018": [
+    {
+      "fecha": null,
+      "precio": 598.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 789.0
+    }
+  ],
+  "lacuracao-436273400009": [
+    {
+      "fecha": null,
+      "precio": 775.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 1199.0
+    }
+  ],
+  "lacuracao-417638100000": [
+    {
+      "fecha": null,
+      "precio": 248.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 299.0
+    }
+  ],
+  "lacuracao-462705600013": [
+    {
+      "fecha": null,
+      "precio": 298.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 539.0
+    }
+  ],
+  "lacuracao-462820200013": [
+    {
+      "fecha": null,
+      "precio": 455.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 699.0
+    }
+  ],
+  "lacuracao-461220200012": [
+    {
+      "fecha": null,
+      "precio": 398.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 539.0
+    }
+  ],
   "lacuracao-473105800019": [
     {
       "fecha": null,
@@ -7687,6 +9263,56 @@
     {
       "fecha": "2026-10-29",
       "precio": 2399.0
+    }
+  ],
+  "lacuracao-472474900016": [
+    {
+      "fecha": null,
+      "precio": 3598.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 4999.0
+    }
+  ],
+  "lacuracao-473992600013": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 12998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 14799.0
+    }
+  ],
+  "lacuracao-469054200017": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 798.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 879.0
+    }
+  ],
+  "lacuracao-473992800017": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 12998.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 14799.0
+    }
+  ],
+  "lacuracao-462820100016": [
+    {
+      "fecha": "2026-10-29",
+      "precio": 515.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 799.0
     }
   ],
   "lacuracao-472046700013": [
@@ -15461,6 +17087,10 @@
     {
       "fecha": "2026-11-01",
       "precio": 15.15
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 15.9
     }
   ],
   "latorre-12451": [
@@ -17135,2368 +18765,6 @@
     {
       "fecha": "2026-10-31",
       "precio": 8.65
-    }
-  ],
-  "cemaco-103533523": [
-    {
-      "fecha": null,
-      "precio": 599.99
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 479.99
-    }
-  ],
-  "cemaco-103509682": [
-    {
-      "fecha": null,
-      "precio": 4099.0
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 3499.0
-    }
-  ],
-  "cemaco-103467532": [
-    {
-      "fecha": null,
-      "precio": 1845.0
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 1995.0
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 1876.0
-    }
-  ],
-  "cemaco-103462369": [
-    {
-      "fecha": null,
-      "precio": 2495.0
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 2599.0
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 2522.0
-    }
-  ],
-  "cemaco-103541519": [
-    {
-      "fecha": null,
-      "precio": 4199.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 4899.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 3799.0
-    }
-  ],
-  "cemaco-103537396": [
-    {
-      "fecha": null,
-      "precio": 1499.0
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 1099.0
-    }
-  ],
-  "cemaco-6358": [
-    {
-      "fecha": null,
-      "precio": 94.99
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 49.99
-    }
-  ],
-  "cemaco-6357": [
-    {
-      "fecha": null,
-      "precio": 97.99
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 49.99
-    }
-  ],
-  "cemaco-103506801": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 297.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 349.99
-    }
-  ],
-  "cemaco-103486232": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 105.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 119.99
-    }
-  ],
-  "cemaco-103486207": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 114.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 129.99
-    }
-  ],
-  "cemaco-103486166": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 105.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 119.99
-    }
-  ],
-  "cemaco-103486132": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 105.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 119.99
-    }
-  ],
-  "cemaco-103486071": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 87.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 99.99
-    }
-  ],
-  "cemaco-1032161": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 76.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 89.99
-    }
-  ],
-  "cemaco-20076": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 131.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 154.99
-    }
-  ],
-  "cemaco-103550310": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 67.49
-    },
-    {
-      "fecha": "2026-10-27",
-      "precio": 124.99
-    }
-  ],
-  "cemaco-103486256": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 105.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 119.99
-    }
-  ],
-  "cemaco-103486177": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 105.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 119.99
-    }
-  ],
-  "cemaco-103486057": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 105.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 119.99
-    }
-  ],
-  "cemaco-1032160": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 54.99
-    }
-  ],
-  "cemaco-103486142": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 123.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 139.99
-    }
-  ],
-  "cemaco-20326": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 528.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 468.99
-    }
-  ],
-  "cemaco-103486249": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 105.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 119.99
-    }
-  ],
-  "cemaco-1032159": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 70.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 79.99
-    }
-  ],
-  "cemaco-20071": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 123.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 144.99
-    }
-  ],
-  "cemaco-103533526": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 689.99
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 517.49
-    }
-  ],
-  "cemaco-103439944": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 398.99
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 299.24
-    }
-  ],
-  "cemaco-103533454": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 689.99
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 517.49
-    }
-  ],
-  "cemaco-103452171": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 419.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 489.99
-    }
-  ],
-  "cemaco-24456": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 3.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 4.99
-    }
-  ],
-  "cemaco-103470905": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 129.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 64.99
-    }
-  ],
-  "cemaco-103432074": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 249.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 124.99
-    }
-  ],
-  "cemaco-10327598": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 419.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 489.99
-    }
-  ],
-  "cemaco-24526": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 29.99
-    }
-  ],
-  "cemaco-103513744": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 34.99
-    }
-  ],
-  "cemaco-103509108": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 39.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 23.99
-    }
-  ],
-  "cemaco-103469616": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 44.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 22.5
-    }
-  ],
-  "cemaco-24455": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 5.59
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 7.99
-    }
-  ],
-  "cemaco-103542318": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 724.99
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 652.49
-    }
-  ],
-  "cemaco-103513742": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 34.99
-    }
-  ],
-  "cemaco-103484328": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 15.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 29.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 9.0
-    }
-  ],
-  "cemaco-25535": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 399.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 199.99
-    }
-  ],
-  "cemaco-17183": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 23.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 19.99
-    }
-  ],
-  "cemaco-103521190": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 119.99
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 95.99
-    }
-  ],
-  "cemaco-103513743": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 34.99
-    }
-  ],
-  "cemaco-103513357": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 799.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 400.0
-    }
-  ],
-  "cemaco-103509007": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 39.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 23.99
-    }
-  ],
-  "cemaco-103507281": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 139.99
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 114.99
-    }
-  ],
-  "cemaco-103494501": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 42.49
-    }
-  ],
-  "cemaco-103488731": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 119.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 59.99
-    }
-  ],
-  "cemaco-103487427": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 42.49
-    }
-  ],
-  "cemaco-103482176": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 399.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 239.99
-    }
-  ],
-  "cemaco-103418861": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 89.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 44.99
-    }
-  ],
-  "cemaco-55652": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 54.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 27.5
-    }
-  ],
-  "cemaco-25071": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 84.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 59.49
-    }
-  ],
-  "cemaco-23347": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 13.29
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 18.99
-    }
-  ],
-  "cemaco-23197": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 99.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 49.99
-    }
-  ],
-  "cemaco-17074": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 44.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 22.5
-    }
-  ],
-  "cemaco-103513536": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 34.99
-    }
-  ],
-  "cemaco-103509127": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 39.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 23.99
-    }
-  ],
-  "cemaco-103509126": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 69.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 48.99
-    }
-  ],
-  "cemaco-103509118": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 39.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 23.99
-    }
-  ],
-  "cemaco-103509085": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 129.99
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 114.99
-    }
-  ],
-  "cemaco-103495072": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 16.99
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 17.99
-    }
-  ],
-  "cemaco-103494891": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 199.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 99.99
-    }
-  ],
-  "cemaco-103488700": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 139.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 69.99
-    }
-  ],
-  "cemaco-103487989": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 69.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 34.99
-    }
-  ],
-  "cemaco-103484561": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 79.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 39.99
-    }
-  ],
-  "cemaco-24454": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 6.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 9.99
-    }
-  ],
-  "cemaco-23351": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 8.39
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 11.99
-    }
-  ],
-  "cemaco-23323": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 23.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 22.99
-    }
-  ],
-  "cemaco-23223": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 44.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 31.49
-    }
-  ],
-  "cemaco-17407": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 23.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 19.99
-    }
-  ],
-  "cemaco-15232": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 42.49
-    }
-  ],
-  "cemaco-103521337": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 699.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 350.0
-    }
-  ],
-  "cemaco-103515820": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 99.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 69.99
-    }
-  ],
-  "cemaco-103515812": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 34.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 24.49
-    }
-  ],
-  "cemaco-103513534": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 34.99
-    }
-  ],
-  "cemaco-103513360": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 1499.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 1049.3
-    }
-  ],
-  "cemaco-103509258": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 69.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 41.99
-    }
-  ],
-  "cemaco-103509252": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 499.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 299.99
-    }
-  ],
-  "cemaco-103509248": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 34.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 20.99
-    }
-  ],
-  "cemaco-103509246": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 34.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 20.99
-    }
-  ],
-  "cemaco-103509130": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 34.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 20.99
-    }
-  ],
-  "cemaco-103509114": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 59.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 41.99
-    }
-  ],
-  "cemaco-103509100": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 34.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 20.99
-    }
-  ],
-  "cemaco-103505243": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 59.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 35.99
-    }
-  ],
-  "cemaco-103499006": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 29.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 14.99
-    }
-  ],
-  "cemaco-103492493": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 259.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 129.99
-    }
-  ],
-  "cemaco-103492490": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 299.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 150.0
-    }
-  ],
-  "cemaco-103491954": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 89.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 44.99
-    }
-  ],
-  "cemaco-103491805": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 299.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 149.99
-    }
-  ],
-  "cemaco-103491794": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 119.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 59.99
-    }
-  ],
-  "cemaco-103490283": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 149.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 74.99
-    }
-  ],
-  "cemaco-103487167": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 449.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 224.99
-    }
-  ],
-  "cemaco-103486837": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 499.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 249.99
-    }
-  ],
-  "cemaco-103484583": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 24.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 15.0
-    }
-  ],
-  "cemaco-103484557": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 2499.0
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 1249.5
-    }
-  ],
-  "cemaco-103484340": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 149.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 74.99
-    }
-  ],
-  "cemaco-103474230": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 369.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 184.99
-    }
-  ],
-  "cemaco-103474220": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 79.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 40.0
-    }
-  ],
-  "cemaco-103472021": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 139.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 69.99
-    }
-  ],
-  "cemaco-103470900": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 249.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 125.0
-    }
-  ],
-  "cemaco-103467808": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 159.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 79.99
-    }
-  ],
-  "cemaco-103445795": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 259.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 129.99
-    }
-  ],
-  "cemaco-103418938": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 54.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 27.5
-    }
-  ],
-  "cemaco-55661": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 44.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 22.5
-    }
-  ],
-  "cemaco-55657": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 59.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 29.99
-    }
-  ],
-  "cemaco-55654": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 54.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 27.5
-    }
-  ],
-  "cemaco-55458": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 24.99
-    }
-  ],
-  "cemaco-55401": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 229.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 114.99
-    }
-  ],
-  "cemaco-28710": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 299.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 179.99
-    }
-  ],
-  "cemaco-28709": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 399.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 200.0
-    }
-  ],
-  "cemaco-28705": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 129.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 64.99
-    }
-  ],
-  "cemaco-27587": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 249.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 124.99
-    }
-  ],
-  "cemaco-27489": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 299.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 149.99
-    }
-  ],
-  "cemaco-25531": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 499.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 250.0
-    }
-  ],
-  "cemaco-24099": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 64.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 32.5
-    }
-  ],
-  "cemaco-23435": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 129.99
-    },
-    {
-      "fecha": "2026-10-28",
-      "precio": 64.99
-    }
-  ],
-  "cemaco-15398": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 42.49
-    }
-  ],
-  "cemaco-103433926": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 63.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 319.99
-    }
-  ],
-  "cemaco-103516598": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 100.0
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 90.0
-    }
-  ],
-  "cemaco-103489939": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 129.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 199.99
-    }
-  ],
-  "cemaco-30708": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 125.0
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 109.99
-    }
-  ],
-  "cemaco-103466790": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 149.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 186.0
-    }
-  ],
-  "cemaco-103425655": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 175.0
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 159.99
-    }
-  ],
-  "cemaco-103540354": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 119.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 109.99
-    }
-  ],
-  "cemaco-103540353": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 49.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 44.95
-    }
-  ],
-  "cemaco-103516880": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 329.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 369.99
-    }
-  ],
-  "cemaco-103516597": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 70.0
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 59.99
-    }
-  ],
-  "cemaco-103509240": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 84.49
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 64.99
-    }
-  ],
-  "cemaco-103466106": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 71.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 109.99
-    }
-  ],
-  "cemaco-103458210": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 89.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 109.0
-    }
-  ],
-  "cemaco-103433833": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 154.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 129.99
-    }
-  ],
-  "cemaco-103546604": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 279.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 239.99
-    }
-  ],
-  "cemaco-103542209": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 289.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 319.99
-    }
-  ],
-  "cemaco-103542206": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 479.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 429.99
-    }
-  ],
-  "cemaco-103534157": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 579.99
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 679.99
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 509.99
-    }
-  ],
-  "cemaco-103529628": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 209.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 229.99
-    }
-  ],
-  "cemaco-103529592": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 764.49
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 689.99
-    }
-  ],
-  "cemaco-103516411": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 149.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 186.0
-    }
-  ],
-  "cemaco-103501755": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 74.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 64.95
-    }
-  ],
-  "cemaco-103490145": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 120.0
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 108.0
-    }
-  ],
-  "cemaco-103485104": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 84.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 129.99
-    }
-  ],
-  "cemaco-103485093": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 73.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 39.99
-    }
-  ],
-  "cemaco-103472634": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 94.0
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 84.6
-    }
-  ],
-  "cemaco-103471876": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 239.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 96.0
-    }
-  ],
-  "cemaco-103447614": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 57.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 54.95
-    }
-  ],
-  "cemaco-32479": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 199.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 139.99
-    }
-  ],
-  "cemaco-32345": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 79.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 23.99
-    }
-  ],
-  "cemaco-103545459": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 429.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 469.99
-    }
-  ],
-  "cemaco-103529632": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 899.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 999.99
-    }
-  ],
-  "cemaco-103528108": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 399.99
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 449.0
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 399.99
-    }
-  ],
-  "cemaco-103522676": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 211.24
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 324.99
-    }
-  ],
-  "cemaco-103513594": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 809.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 899.99
-    }
-  ],
-  "cemaco-103507660": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 44.45
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 49.99
-    }
-  ],
-  "cemaco-103507640": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 549.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 499.99
-    }
-  ],
-  "cemaco-103496514": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 859.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 949.99
-    }
-  ],
-  "cemaco-103494778": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 899.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 999.99
-    }
-  ],
-  "cemaco-103491485": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 499.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 549.99
-    }
-  ],
-  "cemaco-103485114": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 52.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 31.79
-    }
-  ],
-  "cemaco-103483769": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 599.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 419.99
-    }
-  ],
-  "cemaco-103466111": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 849.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 552.49
-    }
-  ],
-  "cemaco-103454686": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 159.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 143.99
-    }
-  ],
-  "cemaco-103441973": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 359.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 399.99
-    }
-  ],
-  "cemaco-103441971": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 154.45
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 175.0
-    }
-  ],
-  "cemaco-103440786": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 359.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 215.99
-    }
-  ],
-  "cemaco-103440387": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 169.99
-    },
-    {
-      "fecha": "2026-10-27",
-      "precio": 101.99
-    }
-  ],
-  "cemaco-103425985": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 129.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 65.0
-    }
-  ],
-  "cemaco-103425217": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 207.74
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 329.99
-    }
-  ],
-  "cemaco-103542210": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 739.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 819.99
-    }
-  ],
-  "cemaco-103532544": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 499.99
-    },
-    {
-      "fecha": "2026-10-27",
-      "precio": 299.99
-    }
-  ],
-  "cemaco-103503955": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 207.74
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 329.99
-    }
-  ],
-  "cemaco-103457757": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 47.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 33.59
-    }
-  ],
-  "cemaco-103425229": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 100.74
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 154.99
-    }
-  ],
-  "cemaco-103424215": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 249.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 149.99
-    }
-  ],
-  "cemaco-103550131": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 494.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 549.99
-    }
-  ],
-  "cemaco-103545388": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 509.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 569.99
-    }
-  ],
-  "cemaco-103545364": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 499.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 549.99
-    }
-  ],
-  "cemaco-103544738": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 919.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 829.99
-    }
-  ],
-  "cemaco-103542205": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 479.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 429.99
-    }
-  ],
-  "cemaco-103536989": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 229.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 137.99
-    }
-  ],
-  "cemaco-103536988": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 229.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 137.99
-    }
-  ],
-  "cemaco-103536105": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 559.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 629.99
-    }
-  ],
-  "cemaco-103534294": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 249.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 149.99
-    }
-  ],
-  "cemaco-103531981": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 799.99
-    },
-    {
-      "fecha": "2026-10-27",
-      "precio": 400.0
-    }
-  ],
-  "cemaco-103529633": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 899.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 999.99
-    }
-  ],
-  "cemaco-103529630": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 149.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 169.99
-    }
-  ],
-  "cemaco-103529591": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 764.49
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 689.99
-    }
-  ],
-  "cemaco-103528006": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 149.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 89.99
-    }
-  ],
-  "cemaco-103522681": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 909.35
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 1399.0
-    }
-  ],
-  "cemaco-103522680": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 500.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 769.99
-    }
-  ],
-  "cemaco-103522679": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 506.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 779.99
-    }
-  ],
-  "cemaco-103516878": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 329.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 229.99
-    }
-  ],
-  "cemaco-103513588": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 1079.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 1199.0
-    }
-  ],
-  "cemaco-103513554": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 899.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 999.99
-    }
-  ],
-  "cemaco-103502109": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 689.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 619.99
-    }
-  ],
-  "cemaco-103502108": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 899.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 999.0
-    }
-  ],
-  "cemaco-103501754": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 120.0
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 108.0
-    }
-  ],
-  "cemaco-103489805": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 120.0
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 108.0
-    }
-  ],
-  "cemaco-103486391": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 1199.0
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 599.5
-    }
-  ],
-  "cemaco-103486376": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 139.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 83.99
-    }
-  ],
-  "cemaco-103485315": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 279.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 167.99
-    }
-  ],
-  "cemaco-103485083": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 71.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 109.99
-    }
-  ],
-  "cemaco-103470543": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 349.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 209.99
-    }
-  ],
-  "cemaco-103457777": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 42.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 23.64
-    }
-  ],
-  "cemaco-103455332": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 159.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 143.99
-    }
-  ],
-  "cemaco-103454718": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 159.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 143.99
-    }
-  ],
-  "cemaco-103445007": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 52.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 29.99
-    }
-  ],
-  "cemaco-103445003": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 101.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 39.99
-    }
-  ],
-  "cemaco-103445001": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 83.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 34.95
-    }
-  ],
-  "cemaco-103444346": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 739.99
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 819.99
-    }
-  ],
-  "cemaco-103440270": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 229.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 68.99
-    }
-  ],
-  "cemaco-103433892": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 175.0
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 159.99
-    }
-  ],
-  "cemaco-103433840": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 253.3
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 349.99
-    }
-  ],
-  "cemaco-103433466": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 61.74
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 94.99
-    }
-  ],
-  "cemaco-103425112": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 309.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 155.0
-    }
-  ],
-  "cemaco-103424307": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 109.99
-    },
-    {
-      "fecha": "2026-10-27",
-      "precio": 139.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 90.99
-    }
-  ],
-  "cemaco-32781": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 139.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 41.99
-    }
-  ],
-  "cemaco-32439": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 499.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 250.0
-    }
-  ],
-  "cemaco-31149": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 344.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 241.49
-    }
-  ],
-  "cemaco-31053": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 109.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 54.99
-    }
-  ],
-  "cemaco-30627": [
-    {
-      "fecha": "2026-10-27",
-      "precio": 59.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 19.99
-    }
-  ],
-  "cemaco-103479365": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 204.49
-    },
-    {
-      "fecha": "2026-11-01",
-      "precio": 399.99
-    }
-  ],
-  "cemaco-103535512": [
-    {
-      "fecha": "2026-10-29",
-      "precio": 179.99
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 199.99
-    }
-  ],
-  "cemaco-103535386": [
-    {
-      "fecha": "2026-10-29",
-      "precio": 179.99
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 199.99
-    }
-  ],
-  "cemaco-103548822": [
-    {
-      "fecha": "2026-10-30",
-      "precio": 144.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 72.5
-    }
-  ],
-  "cemaco-103548825": [
-    {
-      "fecha": "2026-10-30",
-      "precio": 144.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 72.5
-    }
-  ],
-  "cemaco-103548812": [
-    {
-      "fecha": "2026-10-30",
-      "precio": 114.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 57.5
-    }
-  ],
-  "cemaco-103548801": [
-    {
-      "fecha": "2026-10-30",
-      "precio": 144.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 72.5
-    }
-  ],
-  "cemaco-103548786": [
-    {
-      "fecha": "2026-10-30",
-      "precio": 144.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 72.5
-    }
-  ],
-  "cemaco-103544737": [
-    {
-      "fecha": "2026-10-30",
-      "precio": 639.99
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 579.99
     }
   ],
   "walmart-gt-57793": [
@@ -24827,656 +24095,6 @@
     {
       "fecha": "2026-11-01",
       "precio": 73.75
-    }
-  ],
-  "pricesmart-3364": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 424.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 427.95
-    }
-  ],
-  "pricesmart-517826": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 5199.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 5299.95
-    }
-  ],
-  "pricesmart-517165": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 1449.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 1499.95
-    }
-  ],
-  "pricesmart-507311": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 1499.95
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 1699.95
-    }
-  ],
-  "pricesmart-497734": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 2299.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2499.95
-    }
-  ],
-  "pricesmart-428521": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 7999.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 8499.95
-    }
-  ],
-  "pricesmart-483770": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 349.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 329.95
-    }
-  ],
-  "pricesmart-515014": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 389.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 399.95
-    }
-  ],
-  "pricesmart-28033": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 279.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 289.95
-    }
-  ],
-  "pricesmart-497914": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 199.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 239.95
-    }
-  ],
-  "pricesmart-641181": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 569.95
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 599.95
-    }
-  ],
-  "pricesmart-497917": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 1249.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 1099.95
-    }
-  ],
-  "pricesmart-515213": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 2379.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 2389.95
-    }
-  ],
-  "pricesmart-514235": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 849.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 824.95
-    }
-  ],
-  "pricesmart-524836": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 89.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 64.7
-    }
-  ],
-  "pricesmart-339183": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 219.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 229.95
-    }
-  ],
-  "pricesmart-360463": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 189.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 199.95
-    }
-  ],
-  "pricesmart-26532": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 184.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 174.95
-    }
-  ],
-  "pricesmart-334040": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 144.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 139.95
-    }
-  ],
-  "pricesmart-640328": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 99.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 94.95
-    }
-  ],
-  "pricesmart-505431": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 1199.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 1149.95
-    }
-  ],
-  "pricesmart-410431": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 139.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 137.95
-    }
-  ],
-  "pricesmart-451736": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 114.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 109.95
-    }
-  ],
-  "pricesmart-844330": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 259.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 277.95
-    }
-  ],
-  "pricesmart-458563": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 137.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 134.95
-    }
-  ],
-  "pricesmart-473152": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 127.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 124.95
-    }
-  ],
-  "pricesmart-522889": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 116.7
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 54.7
-    }
-  ],
-  "pricesmart-473158": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 139.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 137.95
-    }
-  ],
-  "pricesmart-777860": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 129.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 132.95
-    }
-  ],
-  "pricesmart-413198": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 61.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 64.95
-    }
-  ],
-  "pricesmart-3825": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 87.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 92.95
-    }
-  ],
-  "pricesmart-240158": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 149.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 157.95
-    }
-  ],
-  "pricesmart-7683": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 309.95
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 329.95
-    }
-  ],
-  "pricesmart-240159": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 97.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 99.95
-    }
-  ],
-  "pricesmart-551259": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 469.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 519.95
-    }
-  ],
-  "pricesmart-481872": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 1299.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 1399.95
-    }
-  ],
-  "pricesmart-467384": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 244.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 239.95
-    }
-  ],
-  "pricesmart-504032": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 3799.95
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 3999.95
-    }
-  ],
-  "pricesmart-481783": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 3399.95
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 3499.95
-    }
-  ],
-  "pricesmart-482038": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 7399.95
-    },
-    {
-      "fecha": "2026-10-30",
-      "precio": 7499.95
-    }
-  ],
-  "pricesmart-490200": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 104.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 109.95
-    }
-  ],
-  "pricesmart-514698": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 114.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 117.95
-    }
-  ],
-  "pricesmart-465216": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 134.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 139.95
-    }
-  ],
-  "pricesmart-505935": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 319.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 329.95
-    }
-  ],
-  "pricesmart-490124": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 239.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 249.95
-    }
-  ],
-  "pricesmart-493189": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 139.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 144.95
-    }
-  ],
-  "pricesmart-732580": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 139.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 144.95
-    }
-  ],
-  "pricesmart-494327": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 189.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 199.95
-    }
-  ],
-  "pricesmart-377590": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 179.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 169.95
-    }
-  ],
-  "pricesmart-377591": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 139.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 134.95
-    }
-  ],
-  "pricesmart-525006": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 67.95
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 54.7
-    }
-  ],
-  "pricesmart-461343": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 114.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 109.95
-    }
-  ],
-  "pricesmart-702009": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 132.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 134.95
-    }
-  ],
-  "pricesmart-236917": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 124.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 122.95
-    }
-  ],
-  "pricesmart-525136": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 112.95
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 89.7
-    }
-  ],
-  "pricesmart-508080": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 129.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 134.95
-    }
-  ],
-  "pricesmart-374919": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 224.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 229.95
-    }
-  ],
-  "pricesmart-465281": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 134.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 139.95
-    }
-  ],
-  "pricesmart-389596": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 194.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 214.95
-    }
-  ],
-  "pricesmart-459004": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 104.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 103.95
-    }
-  ],
-  "pricesmart-323390": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 172.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 169.95
-    }
-  ],
-  "pricesmart-468106": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 89.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 88.95
-    }
-  ],
-  "pricesmart-347261": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 69.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 67.95
-    }
-  ],
-  "pricesmart-420380": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 129.95
-    },
-    {
-      "fecha": "2026-10-31",
-      "precio": 134.95
-    }
-  ],
-  "pricesmart-99908": [
-    {
-      "fecha": "2026-10-28",
-      "precio": 112.95
-    },
-    {
-      "fecha": "2026-10-29",
-      "precio": 117.95
     }
   ],
   "epa-GT-2442075 / 2412008": [
@@ -31689,6 +30307,3018 @@
       "precio": 159.0
     }
   ],
+  "cemaco-103533523": [
+    {
+      "fecha": null,
+      "precio": 599.99
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 479.99
+    }
+  ],
+  "cemaco-103509682": [
+    {
+      "fecha": null,
+      "precio": 4099.0
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 3499.0
+    }
+  ],
+  "cemaco-103467532": [
+    {
+      "fecha": null,
+      "precio": 1845.0
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 1995.0
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 1876.0
+    }
+  ],
+  "cemaco-103462369": [
+    {
+      "fecha": null,
+      "precio": 2495.0
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 2599.0
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 2522.0
+    }
+  ],
+  "cemaco-103541519": [
+    {
+      "fecha": null,
+      "precio": 4199.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 4899.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 3799.0
+    }
+  ],
+  "cemaco-103537396": [
+    {
+      "fecha": null,
+      "precio": 1499.0
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1099.0
+    }
+  ],
+  "cemaco-6358": [
+    {
+      "fecha": null,
+      "precio": 94.99
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 49.99
+    }
+  ],
+  "cemaco-6357": [
+    {
+      "fecha": null,
+      "precio": 97.99
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 49.99
+    }
+  ],
+  "cemaco-103506801": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 297.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 349.99
+    }
+  ],
+  "cemaco-103486232": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 105.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 119.99
+    }
+  ],
+  "cemaco-103486207": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 114.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 129.99
+    }
+  ],
+  "cemaco-103486166": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 105.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 119.99
+    }
+  ],
+  "cemaco-103486132": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 105.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 119.99
+    }
+  ],
+  "cemaco-103486071": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 87.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 99.99
+    }
+  ],
+  "cemaco-1032161": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 76.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 89.99
+    }
+  ],
+  "cemaco-20076": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 131.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 154.99
+    }
+  ],
+  "cemaco-103550310": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 67.49
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 124.99
+    }
+  ],
+  "cemaco-103486256": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 105.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 119.99
+    }
+  ],
+  "cemaco-103486177": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 105.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 119.99
+    }
+  ],
+  "cemaco-103486057": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 105.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 119.99
+    }
+  ],
+  "cemaco-1032160": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 54.99
+    }
+  ],
+  "cemaco-103486142": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 123.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 139.99
+    }
+  ],
+  "cemaco-20326": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 528.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 468.99
+    }
+  ],
+  "cemaco-103486249": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 105.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 119.99
+    }
+  ],
+  "cemaco-1032159": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 70.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 79.99
+    }
+  ],
+  "cemaco-20071": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 123.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 144.99
+    }
+  ],
+  "cemaco-103533526": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 689.99
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 517.49
+    }
+  ],
+  "cemaco-103439944": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 398.99
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 299.24
+    }
+  ],
+  "cemaco-103533454": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 689.99
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 517.49
+    }
+  ],
+  "cemaco-103452171": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 419.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 489.99
+    }
+  ],
+  "cemaco-24456": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 3.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 4.99
+    }
+  ],
+  "cemaco-103470905": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 129.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 64.99
+    }
+  ],
+  "cemaco-103432074": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 249.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 124.99
+    }
+  ],
+  "cemaco-10327598": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 419.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 489.99
+    }
+  ],
+  "cemaco-24526": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 29.99
+    }
+  ],
+  "cemaco-103513744": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 34.99
+    }
+  ],
+  "cemaco-103509108": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 39.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 23.99
+    }
+  ],
+  "cemaco-103469616": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 44.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 22.5
+    }
+  ],
+  "cemaco-24455": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 5.59
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 7.99
+    }
+  ],
+  "cemaco-103542318": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 724.99
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 652.49
+    }
+  ],
+  "cemaco-103513742": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 34.99
+    }
+  ],
+  "cemaco-103484328": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 15.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 29.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 9.0
+    }
+  ],
+  "cemaco-25535": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 399.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 199.99
+    }
+  ],
+  "cemaco-17183": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 23.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 19.99
+    }
+  ],
+  "cemaco-103521190": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 119.99
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 95.99
+    }
+  ],
+  "cemaco-103513743": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 34.99
+    }
+  ],
+  "cemaco-103513357": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 799.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 400.0
+    }
+  ],
+  "cemaco-103509007": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 39.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 23.99
+    }
+  ],
+  "cemaco-103507281": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 139.99
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 114.99
+    }
+  ],
+  "cemaco-103494501": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 42.49
+    }
+  ],
+  "cemaco-103488731": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 119.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 59.99
+    }
+  ],
+  "cemaco-103487427": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 42.49
+    }
+  ],
+  "cemaco-103482176": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 399.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 239.99
+    }
+  ],
+  "cemaco-103418861": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 89.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 44.99
+    }
+  ],
+  "cemaco-55652": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 54.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 27.5
+    }
+  ],
+  "cemaco-25071": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 84.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 59.49
+    }
+  ],
+  "cemaco-23347": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 13.29
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 18.99
+    }
+  ],
+  "cemaco-23197": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 99.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 49.99
+    }
+  ],
+  "cemaco-17074": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 44.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 22.5
+    }
+  ],
+  "cemaco-103513536": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 34.99
+    }
+  ],
+  "cemaco-103509127": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 39.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 23.99
+    }
+  ],
+  "cemaco-103509126": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 69.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 48.99
+    }
+  ],
+  "cemaco-103509118": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 39.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 23.99
+    }
+  ],
+  "cemaco-103509085": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 129.99
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 114.99
+    }
+  ],
+  "cemaco-103495072": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 16.99
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 17.99
+    }
+  ],
+  "cemaco-103494891": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 199.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 99.99
+    }
+  ],
+  "cemaco-103488700": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 139.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 69.99
+    }
+  ],
+  "cemaco-103487989": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 69.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 34.99
+    }
+  ],
+  "cemaco-103484561": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 79.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 39.99
+    }
+  ],
+  "cemaco-24454": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 6.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 9.99
+    }
+  ],
+  "cemaco-23351": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 8.39
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 11.99
+    }
+  ],
+  "cemaco-23323": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 23.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 22.99
+    }
+  ],
+  "cemaco-23223": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 44.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 31.49
+    }
+  ],
+  "cemaco-17407": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 23.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 19.99
+    }
+  ],
+  "cemaco-15232": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 42.49
+    }
+  ],
+  "cemaco-103521337": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 699.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 350.0
+    }
+  ],
+  "cemaco-103515820": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 99.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 69.99
+    }
+  ],
+  "cemaco-103515812": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 34.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 24.49
+    }
+  ],
+  "cemaco-103513534": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 34.99
+    }
+  ],
+  "cemaco-103513360": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 1499.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 1049.3
+    }
+  ],
+  "cemaco-103509258": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 69.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 41.99
+    }
+  ],
+  "cemaco-103509252": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 499.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 299.99
+    }
+  ],
+  "cemaco-103509248": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 34.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 20.99
+    }
+  ],
+  "cemaco-103509246": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 34.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 20.99
+    }
+  ],
+  "cemaco-103509130": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 34.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 20.99
+    }
+  ],
+  "cemaco-103509114": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 59.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 41.99
+    }
+  ],
+  "cemaco-103509100": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 34.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 20.99
+    }
+  ],
+  "cemaco-103505243": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 59.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 35.99
+    }
+  ],
+  "cemaco-103499006": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 29.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 14.99
+    }
+  ],
+  "cemaco-103492493": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 259.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 129.99
+    }
+  ],
+  "cemaco-103492490": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 299.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 150.0
+    }
+  ],
+  "cemaco-103491954": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 89.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 44.99
+    }
+  ],
+  "cemaco-103491805": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 299.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 149.99
+    }
+  ],
+  "cemaco-103491794": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 119.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 59.99
+    }
+  ],
+  "cemaco-103490283": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 149.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 74.99
+    }
+  ],
+  "cemaco-103487167": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 449.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 224.99
+    }
+  ],
+  "cemaco-103486837": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 499.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 249.99
+    }
+  ],
+  "cemaco-103484583": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 24.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 15.0
+    }
+  ],
+  "cemaco-103484557": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 2499.0
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 1249.5
+    }
+  ],
+  "cemaco-103484340": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 149.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 74.99
+    }
+  ],
+  "cemaco-103474230": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 369.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 184.99
+    }
+  ],
+  "cemaco-103474220": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 79.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 40.0
+    }
+  ],
+  "cemaco-103472021": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 139.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 69.99
+    }
+  ],
+  "cemaco-103470900": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 249.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 125.0
+    }
+  ],
+  "cemaco-103467808": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 159.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 79.99
+    }
+  ],
+  "cemaco-103445795": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 259.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 129.99
+    }
+  ],
+  "cemaco-103418938": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 54.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 27.5
+    }
+  ],
+  "cemaco-55661": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 44.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 22.5
+    }
+  ],
+  "cemaco-55657": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 59.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 29.99
+    }
+  ],
+  "cemaco-55654": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 54.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 27.5
+    }
+  ],
+  "cemaco-55458": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 24.99
+    }
+  ],
+  "cemaco-55401": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 229.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 114.99
+    }
+  ],
+  "cemaco-28710": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 299.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 179.99
+    }
+  ],
+  "cemaco-28709": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 399.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 200.0
+    }
+  ],
+  "cemaco-28705": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 129.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 64.99
+    }
+  ],
+  "cemaco-27587": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 249.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 124.99
+    }
+  ],
+  "cemaco-27489": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 299.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 149.99
+    }
+  ],
+  "cemaco-25531": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 499.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 250.0
+    }
+  ],
+  "cemaco-24099": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 64.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 32.5
+    }
+  ],
+  "cemaco-23435": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 129.99
+    },
+    {
+      "fecha": "2026-10-28",
+      "precio": 64.99
+    }
+  ],
+  "cemaco-15398": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 42.49
+    }
+  ],
+  "cemaco-103433926": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 63.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 319.99
+    }
+  ],
+  "cemaco-103516598": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 100.0
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 90.0
+    }
+  ],
+  "cemaco-103489939": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 129.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 199.99
+    }
+  ],
+  "cemaco-30708": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 125.0
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 109.99
+    }
+  ],
+  "cemaco-103466790": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 149.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 186.0
+    }
+  ],
+  "cemaco-103425655": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 175.0
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 159.99
+    }
+  ],
+  "cemaco-103540354": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 119.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 109.99
+    }
+  ],
+  "cemaco-103540353": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 49.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 44.95
+    }
+  ],
+  "cemaco-103516880": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 329.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 369.99
+    }
+  ],
+  "cemaco-103516597": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 70.0
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 59.99
+    }
+  ],
+  "cemaco-103509240": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 84.49
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 64.99
+    }
+  ],
+  "cemaco-103466106": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 71.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 109.99
+    }
+  ],
+  "cemaco-103458210": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 89.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 109.0
+    }
+  ],
+  "cemaco-103433833": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 154.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 129.99
+    }
+  ],
+  "cemaco-103546604": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 279.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 239.99
+    }
+  ],
+  "cemaco-103542209": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 289.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 319.99
+    }
+  ],
+  "cemaco-103542206": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 479.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 429.99
+    }
+  ],
+  "cemaco-103534157": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 579.99
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 679.99
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 509.99
+    }
+  ],
+  "cemaco-103529628": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 209.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 229.99
+    }
+  ],
+  "cemaco-103529592": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 764.49
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 689.99
+    }
+  ],
+  "cemaco-103516411": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 149.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 186.0
+    }
+  ],
+  "cemaco-103501755": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 74.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 64.95
+    }
+  ],
+  "cemaco-103490145": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 120.0
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 108.0
+    }
+  ],
+  "cemaco-103485104": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 84.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 129.99
+    }
+  ],
+  "cemaco-103485093": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 73.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 39.99
+    }
+  ],
+  "cemaco-103472634": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 94.0
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 84.6
+    }
+  ],
+  "cemaco-103471876": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 239.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 96.0
+    }
+  ],
+  "cemaco-103447614": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 57.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 54.95
+    }
+  ],
+  "cemaco-32479": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 199.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 139.99
+    }
+  ],
+  "cemaco-32345": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 79.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 23.99
+    }
+  ],
+  "cemaco-103545459": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 429.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 469.99
+    }
+  ],
+  "cemaco-103529632": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 899.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 999.99
+    }
+  ],
+  "cemaco-103528108": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 399.99
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 449.0
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 399.99
+    }
+  ],
+  "cemaco-103522676": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 211.24
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 324.99
+    }
+  ],
+  "cemaco-103513594": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 809.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 899.99
+    }
+  ],
+  "cemaco-103507660": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 44.45
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 49.99
+    }
+  ],
+  "cemaco-103507640": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 549.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 499.99
+    }
+  ],
+  "cemaco-103496514": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 859.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 949.99
+    }
+  ],
+  "cemaco-103494778": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 899.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 999.99
+    }
+  ],
+  "cemaco-103491485": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 499.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 549.99
+    }
+  ],
+  "cemaco-103485114": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 52.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 31.79
+    }
+  ],
+  "cemaco-103483769": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 599.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 419.99
+    }
+  ],
+  "cemaco-103466111": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 849.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 552.49
+    }
+  ],
+  "cemaco-103454686": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 159.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 143.99
+    }
+  ],
+  "cemaco-103441973": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 359.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 399.99
+    }
+  ],
+  "cemaco-103441971": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 154.45
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 175.0
+    }
+  ],
+  "cemaco-103440786": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 359.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 215.99
+    }
+  ],
+  "cemaco-103440387": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 169.99
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 101.99
+    }
+  ],
+  "cemaco-103425985": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 129.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 65.0
+    }
+  ],
+  "cemaco-103425217": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 207.74
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 329.99
+    }
+  ],
+  "cemaco-103542210": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 739.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 819.99
+    }
+  ],
+  "cemaco-103532544": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 499.99
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 299.99
+    }
+  ],
+  "cemaco-103503955": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 207.74
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 329.99
+    }
+  ],
+  "cemaco-103457757": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 47.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 33.59
+    }
+  ],
+  "cemaco-103425229": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 100.74
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 154.99
+    }
+  ],
+  "cemaco-103424215": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 249.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 149.99
+    }
+  ],
+  "cemaco-103550131": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 494.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 549.99
+    }
+  ],
+  "cemaco-103545388": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 509.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 569.99
+    }
+  ],
+  "cemaco-103545364": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 499.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 549.99
+    }
+  ],
+  "cemaco-103544738": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 919.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 829.99
+    }
+  ],
+  "cemaco-103542205": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 479.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 429.99
+    }
+  ],
+  "cemaco-103536989": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 229.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 137.99
+    }
+  ],
+  "cemaco-103536988": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 229.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 137.99
+    }
+  ],
+  "cemaco-103536105": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 559.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 629.99
+    }
+  ],
+  "cemaco-103534294": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 249.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 149.99
+    }
+  ],
+  "cemaco-103531981": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 799.99
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 400.0
+    }
+  ],
+  "cemaco-103529633": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 899.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 999.99
+    }
+  ],
+  "cemaco-103529630": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 149.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 169.99
+    }
+  ],
+  "cemaco-103529591": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 764.49
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 689.99
+    }
+  ],
+  "cemaco-103528006": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 149.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 89.99
+    }
+  ],
+  "cemaco-103522681": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 909.35
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 1399.0
+    }
+  ],
+  "cemaco-103522680": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 500.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 769.99
+    }
+  ],
+  "cemaco-103522679": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 506.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 779.99
+    }
+  ],
+  "cemaco-103516878": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 329.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 229.99
+    }
+  ],
+  "cemaco-103513588": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 1079.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 1199.0
+    }
+  ],
+  "cemaco-103513554": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 899.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 999.99
+    }
+  ],
+  "cemaco-103502109": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 689.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 619.99
+    }
+  ],
+  "cemaco-103502108": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 899.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 999.0
+    }
+  ],
+  "cemaco-103501754": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 120.0
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 108.0
+    }
+  ],
+  "cemaco-103489805": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 120.0
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 108.0
+    }
+  ],
+  "cemaco-103486391": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 1199.0
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 599.5
+    }
+  ],
+  "cemaco-103486376": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 139.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 83.99
+    }
+  ],
+  "cemaco-103485315": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 279.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 167.99
+    }
+  ],
+  "cemaco-103485083": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 71.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 109.99
+    }
+  ],
+  "cemaco-103470543": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 349.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 209.99
+    }
+  ],
+  "cemaco-103457777": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 42.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 23.64
+    }
+  ],
+  "cemaco-103455332": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 159.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 143.99
+    }
+  ],
+  "cemaco-103454718": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 159.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 143.99
+    }
+  ],
+  "cemaco-103445007": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 52.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 29.99
+    }
+  ],
+  "cemaco-103445003": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 101.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 39.99
+    }
+  ],
+  "cemaco-103445001": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 83.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 34.95
+    }
+  ],
+  "cemaco-103444346": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 739.99
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 819.99
+    }
+  ],
+  "cemaco-103440270": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 229.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 68.99
+    }
+  ],
+  "cemaco-103433892": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 175.0
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 159.99
+    }
+  ],
+  "cemaco-103433840": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 253.3
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 349.99
+    }
+  ],
+  "cemaco-103433466": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 61.74
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 94.99
+    }
+  ],
+  "cemaco-103425112": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 309.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 155.0
+    }
+  ],
+  "cemaco-103424307": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 109.99
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio": 139.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 90.99
+    }
+  ],
+  "cemaco-32781": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 139.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 41.99
+    }
+  ],
+  "cemaco-32439": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 499.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 250.0
+    }
+  ],
+  "cemaco-31149": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 344.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 241.49
+    }
+  ],
+  "cemaco-31053": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 109.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 54.99
+    }
+  ],
+  "cemaco-30627": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 59.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 19.99
+    }
+  ],
+  "cemaco-103479365": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 204.49
+    },
+    {
+      "fecha": "2026-11-01",
+      "precio": 399.99
+    }
+  ],
+  "cemaco-103535512": [
+    {
+      "fecha": "2026-10-29",
+      "precio": 179.99
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 199.99
+    }
+  ],
+  "cemaco-103535386": [
+    {
+      "fecha": "2026-10-29",
+      "precio": 179.99
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 199.99
+    }
+  ],
+  "cemaco-103548822": [
+    {
+      "fecha": "2026-10-30",
+      "precio": 144.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 72.5
+    }
+  ],
+  "cemaco-103548825": [
+    {
+      "fecha": "2026-10-30",
+      "precio": 144.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 72.5
+    }
+  ],
+  "cemaco-103548812": [
+    {
+      "fecha": "2026-10-30",
+      "precio": 114.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 57.5
+    }
+  ],
+  "cemaco-103548801": [
+    {
+      "fecha": "2026-10-30",
+      "precio": 144.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 72.5
+    }
+  ],
+  "cemaco-103548786": [
+    {
+      "fecha": "2026-10-30",
+      "precio": 144.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 72.5
+    }
+  ],
+  "cemaco-103544737": [
+    {
+      "fecha": "2026-10-30",
+      "precio": 639.99
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 579.99
+    }
+  ],
+  "pricesmart-3364": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 424.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 427.95
+    }
+  ],
+  "pricesmart-517826": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 5199.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 5299.95
+    }
+  ],
+  "pricesmart-517165": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 1449.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1499.95
+    }
+  ],
+  "pricesmart-507311": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 1499.95
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 1699.95
+    }
+  ],
+  "pricesmart-497734": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 2299.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2499.95
+    }
+  ],
+  "pricesmart-428521": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 7999.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 8499.95
+    }
+  ],
+  "pricesmart-483770": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 349.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 329.95
+    }
+  ],
+  "pricesmart-515014": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 389.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 399.95
+    }
+  ],
+  "pricesmart-28033": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 279.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 289.95
+    }
+  ],
+  "pricesmart-497914": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 199.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 239.95
+    }
+  ],
+  "pricesmart-641181": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 569.95
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 599.95
+    }
+  ],
+  "pricesmart-497917": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 1249.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1099.95
+    }
+  ],
+  "pricesmart-515213": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 2379.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 2389.95
+    }
+  ],
+  "pricesmart-514235": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 849.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 824.95
+    }
+  ],
+  "pricesmart-524836": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 89.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 64.7
+    }
+  ],
+  "pricesmart-339183": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 219.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 229.95
+    }
+  ],
+  "pricesmart-360463": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 189.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 199.95
+    }
+  ],
+  "pricesmart-26532": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 184.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 174.95
+    }
+  ],
+  "pricesmart-334040": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 144.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 139.95
+    }
+  ],
+  "pricesmart-640328": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 99.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 94.95
+    }
+  ],
+  "pricesmart-505431": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 1199.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1149.95
+    }
+  ],
+  "pricesmart-410431": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 139.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 137.95
+    }
+  ],
+  "pricesmart-451736": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 114.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 109.95
+    }
+  ],
+  "pricesmart-844330": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 259.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 277.95
+    }
+  ],
+  "pricesmart-458563": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 137.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 134.95
+    }
+  ],
+  "pricesmart-473152": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 127.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 124.95
+    }
+  ],
+  "pricesmart-522889": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 116.7
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 54.7
+    }
+  ],
+  "pricesmart-473158": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 139.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 137.95
+    }
+  ],
+  "pricesmart-777860": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 129.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 132.95
+    }
+  ],
+  "pricesmart-413198": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 61.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 64.95
+    }
+  ],
+  "pricesmart-3825": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 87.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 92.95
+    }
+  ],
+  "pricesmart-240158": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 149.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 157.95
+    }
+  ],
+  "pricesmart-7683": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 309.95
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 329.95
+    }
+  ],
+  "pricesmart-240159": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 97.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 99.95
+    }
+  ],
+  "pricesmart-551259": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 469.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 519.95
+    }
+  ],
+  "pricesmart-481872": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 1299.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 1399.95
+    }
+  ],
+  "pricesmart-467384": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 244.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 239.95
+    }
+  ],
+  "pricesmart-504032": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 3799.95
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 3999.95
+    }
+  ],
+  "pricesmart-481783": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 3399.95
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 3499.95
+    }
+  ],
+  "pricesmart-482038": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 7399.95
+    },
+    {
+      "fecha": "2026-10-30",
+      "precio": 7499.95
+    }
+  ],
+  "pricesmart-490200": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 104.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 109.95
+    }
+  ],
+  "pricesmart-514698": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 114.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 117.95
+    }
+  ],
+  "pricesmart-465216": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 134.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 139.95
+    }
+  ],
+  "pricesmart-505935": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 319.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 329.95
+    }
+  ],
+  "pricesmart-490124": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 239.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 249.95
+    }
+  ],
+  "pricesmart-493189": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 139.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 144.95
+    }
+  ],
+  "pricesmart-732580": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 139.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 144.95
+    }
+  ],
+  "pricesmart-494327": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 189.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 199.95
+    }
+  ],
+  "pricesmart-377590": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 179.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 169.95
+    }
+  ],
+  "pricesmart-377591": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 139.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 134.95
+    }
+  ],
+  "pricesmart-525006": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 67.95
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 54.7
+    }
+  ],
+  "pricesmart-461343": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 114.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 109.95
+    }
+  ],
+  "pricesmart-702009": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 132.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 134.95
+    }
+  ],
+  "pricesmart-236917": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 124.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 122.95
+    }
+  ],
+  "pricesmart-525136": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 112.95
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 89.7
+    }
+  ],
+  "pricesmart-508080": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 129.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 134.95
+    }
+  ],
+  "pricesmart-374919": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 224.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 229.95
+    }
+  ],
+  "pricesmart-465281": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 134.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 139.95
+    }
+  ],
+  "pricesmart-389596": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 194.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 214.95
+    }
+  ],
+  "pricesmart-459004": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 104.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 103.95
+    }
+  ],
+  "pricesmart-323390": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 172.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 169.95
+    }
+  ],
+  "pricesmart-468106": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 89.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 88.95
+    }
+  ],
+  "pricesmart-347261": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 69.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 67.95
+    }
+  ],
+  "pricesmart-420380": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 129.95
+    },
+    {
+      "fecha": "2026-10-31",
+      "precio": 134.95
+    }
+  ],
+  "pricesmart-99908": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 112.95
+    },
+    {
+      "fecha": "2026-10-29",
+      "precio": 117.95
+    }
+  ],
   "siman-8910811": [
     {
       "fecha": "2026-10-27",
@@ -34195,6 +35825,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 199.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 299.0
     }
   ],
   "siman-2213218": [
@@ -34725,6 +36359,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 649.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 1099.0
     }
   ],
   "siman-7447728": [
@@ -44223,6 +45861,10 @@
     {
       "fecha": "2026-10-31",
       "precio": 195.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 156.0
     }
   ],
   "siman-6818773": [
@@ -44701,6 +46343,10 @@
     {
       "fecha": "2026-10-30",
       "precio": 39.2
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 49.0
     }
   ],
   "siman-5703468": [
@@ -44865,6 +46511,16 @@
     {
       "fecha": "2026-10-29",
       "precio": 904.0
+    }
+  ],
+  "siman-4999963": [
+    {
+      "fecha": "2026-10-27",
+      "precio": 94.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 145.0
     }
   ],
   "siman-4955256": [
@@ -48501,6 +50157,10 @@
     {
       "fecha": "2026-10-28",
       "precio": 999.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 1899.0
     }
   ],
   "siman-9002728": [
@@ -49031,6 +50691,10 @@
     {
       "fecha": "2026-10-29",
       "precio": 97.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 65.0
     }
   ],
   "intelaf-21": [
@@ -49853,6 +51517,10 @@
     {
       "fecha": "2026-11-01",
       "precio": 100.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 115.0
     }
   ],
   "intelaf-77": [
@@ -49887,6 +51555,10 @@
     {
       "fecha": "2026-11-01",
       "precio": 100.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 115.0
     }
   ],
   "intelaf-78": [
@@ -49931,6 +51603,10 @@
     {
       "fecha": "2026-11-01",
       "precio": 110.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 115.0
     }
   ],
   "intelaf-80": [
@@ -57213,6 +58889,16 @@
     {
       "fecha": "2026-10-31",
       "precio": 2700.0
+    }
+  ],
+  "max-gt-db4b454b": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 931.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 980.0
     }
   ],
   "max-gt-5eed3606": [
@@ -69757,6 +71443,46 @@
       "precio": 1069.0
     }
   ],
+  "tecnofacil-8e511010": [
+    {
+      "fecha": "2026-10-31",
+      "precio": 219.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 275.0
+    }
+  ],
+  "tecnofacil-b7899f38": [
+    {
+      "fecha": "2026-10-31",
+      "precio": 219.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 275.0
+    }
+  ],
+  "tecnofacil-a6c5e05c": [
+    {
+      "fecha": "2026-10-31",
+      "precio": 219.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 275.0
+    }
+  ],
+  "tecnofacil-1286e5c8": [
+    {
+      "fecha": "2026-10-31",
+      "precio": 219.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 275.0
+    }
+  ],
   "novex-122488": [
     {
       "fecha": "2026-10-28",
@@ -74425,6 +76151,136 @@
     {
       "fecha": "2026-11-01",
       "precio": 80.0
+    }
+  ],
+  "novex-18051": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 234.6
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 255.0
+    }
+  ],
+  "novex-73368": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 110.4
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 120.0
+    }
+  ],
+  "novex-73369": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 184.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 200.0
+    }
+  ],
+  "novex-73370": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 110.4
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 120.0
+    }
+  ],
+  "novex-88054": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 420.75
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 495.0
+    }
+  ],
+  "novex-88055": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 165.6
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 180.0
+    }
+  ],
+  "novex-88056": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 165.6
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 180.0
+    }
+  ],
+  "novex-1231": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 138.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 150.0
+    }
+  ],
+  "novex-148769": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 87.4
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 95.0
+    }
+  ],
+  "novex-148770": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 230.0
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 250.0
+    }
+  ],
+  "novex-148771": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 297.5
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 350.0
+    }
+  ],
+  "novex-446806": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 73.6
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 80.0
+    }
+  ],
+  "novex-460184": [
+    {
+      "fecha": "2026-10-28",
+      "precio": 59.8
+    },
+    {
+      "fecha": "2026-11-02",
+      "precio": 65.0
     }
   ],
   "novex-1007": [
