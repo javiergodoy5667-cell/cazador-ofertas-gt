@@ -185,6 +185,14 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Yeso marca Crayola para escultura, manualidades y proyectos artisticos. Mezcla y aplicacion sencillas para crear figuras, moldes y acabados decorativos.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Yeso/Yeso-marca-Crayola-para-escultura%2C-manualidades-y-proyectos-artisticos-Mezcla-y-aplicacion-sencillas-para-crear-figuras%2C-moldes-y-acabados-decorativos-/p/1214003759"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Lapices de colores marca Staedtler con mina pigmentada y resistente. Trazos suaves, intensos y mezclables, ideales para dibujo, coloreado y proyectos escolares.",
     "precio": 188.7,
     "antes": 629.0,
@@ -278,6 +286,14 @@
     "antes": 139.99,
     "descuento": 0.8,
     "url": "https://www.cemaco.com/luminaria-de-sobreponer-1-luz-linea-bari-voltech-956766/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Lámpara de Emergencia Recargable LED de 1 W Color Blanca",
+    "precio": 59.99,
+    "antes": 299.99,
+    "descuento": 0.8,
+    "url": "https://www.cemaco.com/lampara-de-emergencia-recargable-tecnolite-1040784/p"
   },
   {
     "tienda": "Cemaco",
