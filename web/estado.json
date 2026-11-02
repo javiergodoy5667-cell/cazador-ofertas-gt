@@ -1,30 +1,30 @@
 {
-  "ultima_corrida": "2026-11-02T12:53:56-06:00",
-  "duracion_seg": 456.5,
-  "productos_leidos": 44342,
+  "ultima_corrida": "2026-11-02T13:53:17-06:00",
+  "duracion_seg": 459.9,
+  "productos_leidos": 44289,
   "dias_historial": 7,
   "con_ean": {
-    "Elektra GT": 677,
-    "La Torre": 5690,
+    "Elektra GT": 680,
+    "La Torre": 5689,
     "Walmart GT": 5975,
     "Cemaco": 2788,
     "Simán": 2344,
-    "Tecnofácil": 954,
-    "Max": 1130
+    "Tecnofácil": 972,
+    "Max": 996
   },
   "reporte_tiendas": {
     "Click": {
-      "productos": 1471,
+      "productos": 1457,
       "con_ean": 0,
       "dias_historial": 3
     },
     "Elektra GT": {
-      "productos": 988,
-      "con_ean": 677,
+      "productos": 991,
+      "con_ean": 680,
       "dias_historial": 7
     },
     "Office Depot": {
-      "productos": 3323,
+      "productos": 3433,
       "con_ean": 0,
       "dias_historial": 6
     },
@@ -39,22 +39,22 @@
       "dias_historial": 4
     },
     "La Torre": {
-      "productos": 6019,
-      "con_ean": 5690,
+      "productos": 6018,
+      "con_ean": 5689,
       "dias_historial": 7
-    },
-    "PriceSmart": {
-      "productos": 317,
-      "con_ean": 0,
-      "dias_historial": 6
     },
     "Walmart GT": {
       "productos": 5975,
       "con_ean": 5975,
       "dias_historial": 7
     },
+    "PriceSmart": {
+      "productos": 454,
+      "con_ean": 0,
+      "dias_historial": 6
+    },
     "Cemaco": {
-      "productos": 5890,
+      "productos": 5894,
       "con_ean": 2788,
       "dias_historial": 7
     },
@@ -69,28 +69,28 @@
       "dias_historial": 7
     },
     "Simán": {
-      "productos": 5830,
+      "productos": 5831,
       "con_ean": 2344,
       "dias_historial": 7
     },
     "Tecnofácil": {
-      "productos": 2060,
-      "con_ean": 954,
+      "productos": 2310,
+      "con_ean": 972,
       "dias_historial": 6
     },
     "Max": {
-      "productos": 2450,
-      "con_ean": 1130,
+      "productos": 1883,
+      "con_ean": 996,
       "dias_historial": 6
     },
     "Novex": {
-      "productos": 113,
+      "productos": 137,
       "con_ean": 0,
       "dias_historial": 6
     }
   },
-  "coincidencias": 4264,
-  "antes_inflado": 1224,
+  "coincidencias": 4101,
+  "antes_inflado": 1118,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -104,7 +104,7 @@
       "nombre": "Samsung Galaxy Watch 7 40mm verde",
       "tienda": "Elektra GT",
       "antes": 1799.0,
-      "precio": 1599.0,
+      "precio": 1699.0,
       "max_otro": 1296.0,
       "url": "https://www.elektra.com.gt/samsung-galaxy-watch-7-32011506/p"
     },
@@ -134,22 +134,22 @@
     }
   ],
   "ofertas_por_nivel": {
-    "error": 5,
-    "loca": 52,
-    "muy_buena": 968,
-    "agotado": 4
+    "error": 4,
+    "loca": 97,
+    "muy_buena": 969,
+    "agotado": 5
   },
   "fuentes": {
     "recolectores.click": {
-      "productos": 1670,
+      "productos": 1656,
       "estado": "OK"
     },
     "recolectores.elektra": {
-      "productos": 1063,
+      "productos": 1066,
       "estado": "OK"
     },
     "recolectores.officedepot": {
-      "productos": 3557,
+      "productos": 3678,
       "estado": "OK"
     },
     "recolectores.lacuracao": {
@@ -161,19 +161,19 @@
       "estado": "OK"
     },
     "recolectores.la_torre": {
-      "productos": 6036,
-      "estado": "OK"
-    },
-    "recolectores.pricesmart": {
-      "productos": 332,
+      "productos": 6035,
       "estado": "OK"
     },
     "recolectores.walmart": {
-      "productos": 6044,
+      "productos": 6045,
+      "estado": "OK"
+    },
+    "recolectores.pricesmart": {
+      "productos": 478,
       "estado": "OK"
     },
     "recolectores.cemaco": {
-      "productos": 6041,
+      "productos": 6045,
       "estado": "OK"
     },
     "recolectores.epa": {
@@ -181,23 +181,23 @@
       "estado": "OK"
     },
     "recolectores.intelaf": {
-      "productos": 235,
+      "productos": 236,
       "estado": "OK"
     },
     "recolectores.siman": {
-      "productos": 6023,
+      "productos": 6024,
       "estado": "OK"
     },
     "recolectores.tecnofacil": {
-      "productos": 2220,
+      "productos": 2453,
       "estado": "OK"
     },
     "recolectores.max_gt": {
-      "productos": 2615,
+      "productos": 2008,
       "estado": "OK"
     },
     "recolectores.novex": {
-      "productos": 113,
+      "productos": 137,
       "estado": "OK"
     }
   },
