@@ -27,7 +27,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-11-01T20:43:31-06:00",
+    "visto_en": "2026-11-01T21:45:36-06:00",
     "alerta_nueva": false
   },
   {
@@ -58,7 +58,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:57-06:00",
+    "visto_en": "2026-11-01T21:46:03-06:00",
     "alerta_nueva": false
   },
   {
@@ -89,7 +89,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:41-06:00",
+    "visto_en": "2026-11-01T21:45:44-06:00",
     "alerta_nueva": false
   },
   {
@@ -120,7 +120,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:17-06:00",
+    "visto_en": "2026-11-01T21:46:24-06:00",
     "alerta_nueva": false
   },
   {
@@ -151,7 +151,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:48-06:00",
+    "visto_en": "2026-11-01T21:45:53-06:00",
     "alerta_nueva": false
   },
   {
@@ -181,8 +181,8 @@
     "puntaje": 77.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:35-06:00",
+    "fin_oferta": "2027-01-01T06:00:00Z",
+    "visto_en": "2026-11-01T21:48:24-06:00",
     "alerta_nueva": false
   },
   {
@@ -213,8 +213,39 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:11-06:00",
+    "visto_en": "2026-11-01T21:47:47-06:00",
     "alerta_nueva": false
+  },
+  {
+    "id": "officedepot-1214006450",
+    "tienda": "Office Depot",
+    "nombre": "Marcadores de caligrafia marca Zebra con punta tipo pincel para lettering y caligrafia artistica. Tinta de alta pigmentacion y trazos expresivos.",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/Marcadores-de-caligrafia-marca-Zebra-con-punta-tipo-pincel-para-lettering-y-caligrafia-artistica-Tinta-de-alta-pigmentacion-y-trazos-expresivos-/p/1214006450",
+    "imagen": null,
+    "moneda": "GTQ",
+    "precio_actual": 91.6,
+    "precio_referencia": 229.0,
+    "precio_antes_tienda": 229.0,
+    "descuento_real": 0.6,
+    "ahorro_q": 137.4,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 72.7,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-11-01T21:46:09-06:00",
+    "alerta_nueva": true
   },
   {
     "id": "officedepot-1214005789",
@@ -244,7 +275,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -275,69 +306,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:25-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "officedepot-1214006448",
-    "tienda": "Office Depot",
-    "nombre": "Set Oficina Incluye: 1 Corrector Cinta / 4 Mckies / 2 J-Roller Hl / 2 2ink / 1 Portamina Z-Grip / 1 Minas Hb / 2 J-Roller Rx / 1 Estuche marca Zebra. Producto de calidad para uso escolar, de oficina y",
-    "categoria": "📦 Otros",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/Set-Oficina-Incluye%3A-1-Corrector-Cinta-4-Mckies-2-J-Roller-Hl-2-2ink-1-Portamina-Z-Grip-1-Minas-Hb-2-J-Roller-Rx-1-Estuche-marca-Zebra-Producto-de-calidad-para-uso-escolar%2C-de-oficina-y/p/1214006448",
-    "imagen": null,
-    "moneda": "GTQ",
-    "precio_actual": 71.6,
-    "precio_referencia": 179.0,
-    "precio_antes_tienda": 179.0,
-    "descuento_real": 0.6,
-    "ahorro_q": 107.4,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "loca",
-    "nivel_emoji": "🔥",
-    "nivel_label": "LOCA",
-    "puntaje": 72.1,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:02-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "officedepot-1214006447",
-    "tienda": "Office Depot",
-    "nombre": "Set escolar marca Zebra con utiles complementarios listos para usar. Ahorra tiempo y dinero con productos coordinados para escuela, oficina o regalo.",
-    "categoria": "📦 Otros",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/Set-escolar-marca-Zebra-con-utiles-complementarios-listos-para-usar-Ahorra-tiempo-y-dinero-con-productos-coordinados-para-escuela%2C-oficina-o-regalo-/p/1214006447",
-    "imagen": null,
-    "moneda": "GTQ",
-    "precio_actual": 71.6,
-    "precio_referencia": 179.0,
-    "precio_antes_tienda": 179.0,
-    "descuento_real": 0.6,
-    "ahorro_q": 107.4,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "loca",
-    "nivel_emoji": "🔥",
-    "nivel_label": "LOCA",
-    "puntaje": 72.1,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:02-06:00",
+    "visto_en": "2026-11-01T21:46:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -368,7 +337,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:02-06:00",
+    "visto_en": "2026-11-01T21:46:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -399,7 +368,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:02-06:00",
+    "visto_en": "2026-11-01T21:46:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -430,7 +399,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:28-06:00",
+    "visto_en": "2026-11-01T21:48:14-06:00",
     "alerta_nueva": false
   },
   {
@@ -461,7 +430,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:31-06:00",
+    "visto_en": "2026-11-01T21:48:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -492,7 +461,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -523,7 +492,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -554,7 +523,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -585,7 +554,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -616,7 +585,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -647,38 +616,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:02-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "officedepot-1214006205",
-    "tienda": "Office Depot",
-    "nombre": "Cuaderno con espiral marca Sólidos de hojas de calidad para apuntes, tareas y notas. Espiral metálica resistente que permite girar las páginas 360°. Tipo de rayado: Punteado.",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Cuadernos-profesionales/Cuaderno-con-espiral-marca-S%C3%B3lidos-de-hojas-de-calidad-para-apuntes%2C-tareas-y-notas-Espiral-met%C3%A1lica-resistente-que-permite-girar-las-p%C3%A1ginas-360%C2%B0-Tipo-de-rayado%3A-Punteado-/p/1214006205",
-    "imagen": null,
-    "moneda": "GTQ",
-    "precio_actual": 27.56,
-    "precio_referencia": 68.9,
-    "precio_antes_tienda": 68.9,
-    "descuento_real": 0.6,
-    "ahorro_q": 41.34,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "loca",
-    "nivel_emoji": "🔥",
-    "nivel_label": "LOCA",
-    "puntaje": 70.8,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:02-06:00",
+    "visto_en": "2026-11-01T21:46:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -709,7 +647,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:57-06:00",
+    "visto_en": "2026-11-01T21:46:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -740,38 +678,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "officedepot-1214006188",
-    "tienda": "Office Depot",
-    "nombre": "Cuaderno con espiral marca Sólidos de hojas de calidad para apuntes, tareas y notas. Espiral metálica resistente que permite girar las páginas 360°. Tipo de rayado: Líneas.",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Cuadernos-profesionales/Cuaderno-con-espiral-marca-S%C3%B3lidos-de-hojas-de-calidad-para-apuntes%2C-tareas-y-notas-Espiral-met%C3%A1lica-resistente-que-permite-girar-las-p%C3%A1ginas-360%C2%B0-Tipo-de-rayado%3A-L%C3%ADneas-/p/1214006188",
-    "imagen": null,
-    "moneda": "GTQ",
-    "precio_actual": 23.56,
-    "precio_referencia": 58.9,
-    "precio_antes_tienda": 58.9,
-    "descuento_real": 0.6,
-    "ahorro_q": 35.34,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "loca",
-    "nivel_emoji": "🔥",
-    "nivel_label": "LOCA",
-    "puntaje": 70.7,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:02-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -802,7 +709,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:02-06:00",
+    "visto_en": "2026-11-01T21:46:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -833,38 +740,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:02-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "officedepot-1214006210",
-    "tienda": "Office Depot",
-    "nombre": "Cuaderno con espiral marca Sólidos de hojas de calidad para apuntes, tareas y notas. Espiral metálica resistente que permite girar las páginas 360°. Tipo de rayado: Punteado.",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Cuadernos-profesionales/Cuaderno-con-espiral-marca-S%C3%B3lidos-de-hojas-de-calidad-para-apuntes%2C-tareas-y-notas-Espiral-met%C3%A1lica-resistente-que-permite-girar-las-p%C3%A1ginas-360%C2%B0-Tipo-de-rayado%3A-Punteado-/p/1214006210",
-    "imagen": null,
-    "moneda": "GTQ",
-    "precio_actual": 23.56,
-    "precio_referencia": 58.9,
-    "precio_antes_tienda": 58.9,
-    "descuento_real": 0.6,
-    "ahorro_q": 35.34,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "loca",
-    "nivel_emoji": "🔥",
-    "nivel_label": "LOCA",
-    "puntaje": 70.7,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:02-06:00",
+    "visto_en": "2026-11-01T21:46:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -895,7 +771,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:02-06:00",
+    "visto_en": "2026-11-01T21:46:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -926,7 +802,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -957,7 +833,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -988,7 +864,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1019,7 +895,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1050,7 +926,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1081,7 +957,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1112,7 +988,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1143,7 +1019,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1174,7 +1050,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:44-06:00",
+    "visto_en": "2026-11-01T21:45:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -1205,7 +1081,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:59-06:00",
+    "visto_en": "2026-11-01T21:46:05-06:00",
     "alerta_nueva": true
   },
   {
@@ -1236,7 +1112,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:44-06:00",
+    "visto_en": "2026-11-01T21:45:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -1267,7 +1143,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:59-06:00",
+    "visto_en": "2026-11-01T21:46:05-06:00",
     "alerta_nueva": true
   },
   {
@@ -1298,7 +1174,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:59-06:00",
+    "visto_en": "2026-11-01T21:46:05-06:00",
     "alerta_nueva": true
   },
   {
@@ -1329,7 +1205,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1360,7 +1236,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1391,7 +1267,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1422,7 +1298,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1453,7 +1329,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1484,7 +1360,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1515,7 +1391,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1546,7 +1422,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:28-06:00",
+    "visto_en": "2026-11-01T21:46:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -1577,7 +1453,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:47-06:00",
+    "visto_en": "2026-11-01T21:45:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -1608,7 +1484,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:59-06:00",
+    "visto_en": "2026-11-01T21:46:05-06:00",
     "alerta_nueva": true
   },
   {
@@ -1639,7 +1515,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1670,7 +1546,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1701,38 +1577,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "officedepot-1214006365",
-    "tienda": "Office Depot",
-    "nombre": "Lapices de colores marca Paper Mate con mina pigmentada y resistente. Trazos suaves, intensos y mezclables, ideales para dibujo, coloreado y proyectos escolares.",
-    "categoria": "🛒 Supermercado",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Lapices-de-colores/Lapices-de-colores-marca-Paper-Mate-con-mina-pigmentada-y-resistente-Trazos-suaves%2C-intensos-y-mezclables%2C-ideales-para-dibujo%2C-coloreado-y-proyectos-escolares-/p/1214006365",
-    "imagen": null,
-    "moneda": "GTQ",
-    "precio_actual": 9.56,
-    "precio_referencia": 23.9,
-    "precio_antes_tienda": 23.9,
-    "descuento_real": 0.6,
-    "ahorro_q": 14.34,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "loca",
-    "nivel_emoji": "🔥",
-    "nivel_label": "LOCA",
-    "puntaje": 70.3,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:02-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1763,7 +1608,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:55-06:00",
+    "visto_en": "2026-11-01T21:46:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -1794,7 +1639,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:55-06:00",
+    "visto_en": "2026-11-01T21:46:01-06:00",
     "alerta_nueva": true
   },
   {
@@ -1825,7 +1670,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1856,7 +1701,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1887,7 +1732,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -1918,7 +1763,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:26-06:00",
+    "visto_en": "2026-11-01T21:46:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -1949,7 +1794,38 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "officedepot-1214006422",
+    "tienda": "Office Depot",
+    "nombre": "Marcatextos marca Zebra con tinta fluorescente para resaltar informacion clave en libros, apuntes y documentos. Trazo uniforme que no traspasa el papel.",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Resaltador/Marcatextos-marca-Zebra-con-tinta-fluorescente-para-resaltar-informacion-clave-en-libros%2C-apuntes-y-documentos-Trazo-uniforme-que-no-traspasa-el-papel-/p/1214006422",
+    "imagen": null,
+    "moneda": "GTQ",
+    "precio_actual": 3.96,
+    "precio_referencia": 9.9,
+    "precio_antes_tienda": 9.9,
+    "descuento_real": 0.6,
+    "ahorro_q": 5.94,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 70.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-11-01T21:46:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -1980,7 +1856,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:08-06:00",
+    "visto_en": "2026-11-01T21:47:43-06:00",
     "alerta_nueva": true
   },
   {
@@ -2011,7 +1887,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:35-06:00",
+    "visto_en": "2026-11-01T21:46:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -2042,7 +1918,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:35-06:00",
+    "visto_en": "2026-11-01T21:46:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -2073,7 +1949,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:33-06:00",
+    "visto_en": "2026-11-01T21:48:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -2104,7 +1980,69 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:33-06:00",
+    "visto_en": "2026-11-01T21:48:21-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "officedepot-1214006803",
+    "tienda": "Office Depot",
+    "nombre": "Lápices de colores marca Milan con mina pigmentada y resistente. Trazos suaves, intensos y mezclables, ideales para dibujo, coloreado y proyectos escolares.",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Lapices-de-colores/L%C3%A1pices-de-colores-marca-Milan-con-mina-pigmentada-y-resistente-Trazos-suaves%2C-intensos-y-mezclables%2C-ideales-para-dibujo%2C-coloreado-y-proyectos-escolares-/p/1214006803",
+    "imagen": null,
+    "moneda": "GTQ",
+    "precio_actual": 114.5,
+    "precio_referencia": 229.0,
+    "precio_antes_tienda": 229.0,
+    "descuento_real": 0.5,
+    "ahorro_q": 114.5,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 62.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-11-01T21:46:11-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "officedepot-1214006806",
+    "tienda": "Office Depot",
+    "nombre": "Lapices de colores marca Milan con mina pigmentada y resistente. Trazos suaves, intensos y mezclables, ideales para dibujo, coloreado y proyectos escolares.",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Lapices-de-colores/Lapices-de-colores-marca-Milan-con-mina-pigmentada-y-resistente-Trazos-suaves%2C-intensos-y-mezclables%2C-ideales-para-dibujo%2C-coloreado-y-proyectos-escolares-/p/1214006806",
+    "imagen": null,
+    "moneda": "GTQ",
+    "precio_actual": 104.5,
+    "precio_referencia": 209.0,
+    "precio_antes_tienda": 209.0,
+    "descuento_real": 0.5,
+    "ahorro_q": 104.5,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "loca",
+    "nivel_emoji": "🔥",
+    "nivel_label": "LOCA",
+    "puntaje": 62.1,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-11-01T21:46:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -2135,7 +2073,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:32-06:00",
+    "visto_en": "2026-11-01T21:48:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -2166,7 +2104,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:50-06:00",
+    "visto_en": "2026-11-01T21:45:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -2197,7 +2135,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:16-06:00",
+    "visto_en": "2026-11-01T21:47:54-06:00",
     "alerta_nueva": false
   },
   {
@@ -2228,7 +2166,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2259,7 +2197,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2290,7 +2228,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2321,22 +2259,22 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:02-06:00",
+    "visto_en": "2026-11-01T21:46:09-06:00",
     "alerta_nueva": true
   },
   {
-    "id": "officedepot-1214006877",
+    "id": "officedepot-1214006792",
     "tienda": "Office Depot",
-    "nombre": "Marcadores marca Artesco con tinta de alta cobertura y colores vibrantes. Versatiles para escuela, oficina, arte y manualidades.",
+    "nombre": "Plastilina marca Milan suave y maleable, facil de moldear. Colores vivos que se mezclan entre si, no se seca con el uso. Estimula la creatividad y motricidad fina.",
     "categoria": "🛒 Supermercado",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-de-colores/Marcadores-marca-Artesco-con-tinta-de-alta-cobertura-y-colores-vibrantes-Versatiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214006877",
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Plastilina/Plastilina-marca-Milan-suave-y-maleable%2C-facil-de-moldear-Colores-vivos-que-se-mezclan-entre-si%2C-no-se-seca-con-el-uso-Estimula-la-creatividad-y-motricidad-fina-/p/1214006792",
     "imagen": null,
     "moneda": "GTQ",
-    "precio_actual": 33.95,
-    "precio_referencia": 67.9,
-    "precio_antes_tienda": 67.9,
+    "precio_actual": 32.95,
+    "precio_referencia": 65.9,
+    "precio_antes_tienda": 65.9,
     "descuento_real": 0.5,
-    "ahorro_q": 33.95,
+    "ahorro_q": 32.95,
     "minimo_historico": true,
     "sin_historial": false,
     "fuente_referencia": "historial",
@@ -2352,7 +2290,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:03-06:00",
+    "visto_en": "2026-11-01T21:46:11-06:00",
     "alerta_nueva": true
   },
   {
@@ -2383,7 +2321,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2414,7 +2352,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2445,7 +2383,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2476,7 +2414,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2507,7 +2445,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2538,39 +2476,8 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
-  },
-  {
-    "id": "officedepot-1214006896",
-    "tienda": "Office Depot",
-    "nombre": "Temperas marca Artesco de colores vibrantes y aplicacion cremosa. Lavables, ideales para proyectos escolares, manualidades y arte infantil.",
-    "categoria": "🔧 Ferretería y herramientas",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Pinturas/Temperas-marca-Artesco-de-colores-vibrantes-y-aplicacion-cremosa-Lavables%2C-ideales-para-proyectos-escolares%2C-manualidades-y-arte-infantil-/p/1214006896",
-    "imagen": null,
-    "moneda": "GTQ",
-    "precio_actual": 27.95,
-    "precio_referencia": 55.9,
-    "precio_antes_tienda": 55.9,
-    "descuento_real": 0.5,
-    "ahorro_q": 27.95,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "loca",
-    "nivel_emoji": "🔥",
-    "nivel_label": "LOCA",
-    "puntaje": 60.6,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:03-06:00",
-    "alerta_nueva": false
   },
   {
     "id": "officedepot-1214002099",
@@ -2600,7 +2507,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2631,7 +2538,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2662,7 +2569,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2693,7 +2600,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2724,7 +2631,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2755,22 +2662,22 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
-    "id": "officedepot-1214006892",
+    "id": "officedepot-1214006800",
     "tienda": "Office Depot",
-    "nombre": "Ceramica en frio marca Artesco para esculpir figuras decorativas. Se endurece al aire y permite acabados detallados, ideal para manualidades y arte.",
-    "categoria": "💻 Computación y videojuegos",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Plastilina/Ceramica-en-frio-marca-Artesco-para-esculpir-figuras-decorativas-Se-endurece-al-aire-y-permite-acabados-detallados%2C-ideal-para-manualidades-y-arte-/p/1214006892",
+    "nombre": "Lapices de colores marca Milan con mina pigmentada y resistente. Trazos suaves, intensos y mezclables, ideales para dibujo, coloreado y proyectos escolares.",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Lapices-de-colores/Lapices-de-colores-marca-Milan-con-mina-pigmentada-y-resistente-Trazos-suaves%2C-intensos-y-mezclables%2C-ideales-para-dibujo%2C-coloreado-y-proyectos-escolares-/p/1214006800",
     "imagen": null,
     "moneda": "GTQ",
-    "precio_actual": 24.45,
-    "precio_referencia": 48.9,
-    "precio_antes_tienda": 48.9,
+    "precio_actual": 26.95,
+    "precio_referencia": 53.9,
+    "precio_antes_tienda": 53.9,
     "descuento_real": 0.5,
-    "ahorro_q": 24.45,
+    "ahorro_q": 26.95,
     "minimo_historico": true,
     "sin_historial": false,
     "fuente_referencia": "historial",
@@ -2786,22 +2693,22 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:03-06:00",
-    "alerta_nueva": false
+    "visto_en": "2026-11-01T21:46:11-06:00",
+    "alerta_nueva": true
   },
   {
-    "id": "officedepot-1214006890",
+    "id": "officedepot-1214006801",
     "tienda": "Office Depot",
-    "nombre": "Ceramica en frio marca Artesco para esculpir figuras decorativas. Se endurece al aire y permite acabados detallados, ideal para manualidades y arte.",
-    "categoria": "💻 Computación y videojuegos",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Plastilina/Ceramica-en-frio-marca-Artesco-para-esculpir-figuras-decorativas-Se-endurece-al-aire-y-permite-acabados-detallados%2C-ideal-para-manualidades-y-arte-/p/1214006890",
+    "nombre": "Lapices de colores marca Milan con mina pigmentada y resistente. Trazos suaves, intensos y mezclables, ideales para dibujo, coloreado y proyectos escolares.",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Lapices-de-colores/Lapices-de-colores-marca-Milan-con-mina-pigmentada-y-resistente-Trazos-suaves%2C-intensos-y-mezclables%2C-ideales-para-dibujo%2C-coloreado-y-proyectos-escolares-/p/1214006801",
     "imagen": null,
     "moneda": "GTQ",
-    "precio_actual": 24.45,
-    "precio_referencia": 48.9,
-    "precio_antes_tienda": 48.9,
+    "precio_actual": 27.45,
+    "precio_referencia": 54.9,
+    "precio_antes_tienda": 54.9,
     "descuento_real": 0.5,
-    "ahorro_q": 24.45,
+    "ahorro_q": 27.45,
     "minimo_historico": true,
     "sin_historial": false,
     "fuente_referencia": "historial",
@@ -2817,22 +2724,22 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:03-06:00",
-    "alerta_nueva": false
+    "visto_en": "2026-11-01T21:46:11-06:00",
+    "alerta_nueva": true
   },
   {
-    "id": "officedepot-1214006893",
+    "id": "officedepot-1214006810",
     "tienda": "Office Depot",
-    "nombre": "Ceramica en frio marca Artesco para esculpir figuras decorativas. Se endurece al aire y permite acabados detallados, ideal para manualidades y arte.",
-    "categoria": "💻 Computación y videojuegos",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Plastilina/Ceramica-en-frio-marca-Artesco-para-esculpir-figuras-decorativas-Se-endurece-al-aire-y-permite-acabados-detallados%2C-ideal-para-manualidades-y-arte-/p/1214006893",
+    "nombre": "Regla marca Milan de medición precisa con escala clara y resistente. Indispensable para tareas escolares, dibujo técnico y oficina.",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Juegos-de-geometr%C3%ADa/Regla-marca-Milan-de-medici%C3%B3n-precisa-con-escala-clara-y-resistente-Indispensable-para-tareas-escolares%2C-dibujo-t%C3%A9cnico-y-oficina-/p/1214006810",
     "imagen": null,
     "moneda": "GTQ",
-    "precio_actual": 24.45,
-    "precio_referencia": 48.9,
-    "precio_antes_tienda": 48.9,
+    "precio_actual": 25.45,
+    "precio_referencia": 50.9,
+    "precio_antes_tienda": 50.9,
     "descuento_real": 0.5,
-    "ahorro_q": 24.45,
+    "ahorro_q": 25.45,
     "minimo_historico": true,
     "sin_historial": false,
     "fuente_referencia": "historial",
@@ -2848,39 +2755,8 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:03-06:00",
-    "alerta_nueva": false
-  },
-  {
-    "id": "officedepot-1214006897",
-    "tienda": "Office Depot",
-    "nombre": "Témperas marca Artesco de colores vibrantes y aplicación cremosa. Lavables, ideales para proyectos escolares, manualidades y arte infantil.",
-    "categoria": "🔧 Ferretería y herramientas",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Pinturas/T%C3%A9mperas-marca-Artesco-de-colores-vibrantes-y-aplicaci%C3%B3n-cremosa-Lavables%2C-ideales-para-proyectos-escolares%2C-manualidades-y-arte-infantil-/p/1214006897",
-    "imagen": null,
-    "moneda": "GTQ",
-    "precio_actual": 26.45,
-    "precio_referencia": 52.9,
-    "precio_antes_tienda": 52.9,
-    "descuento_real": 0.5,
-    "ahorro_q": 26.45,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "loca",
-    "nivel_emoji": "🔥",
-    "nivel_label": "LOCA",
-    "puntaje": 60.5,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:03-06:00",
-    "alerta_nueva": false
+    "visto_en": "2026-11-01T21:46:11-06:00",
+    "alerta_nueva": true
   },
   {
     "id": "officedepot-1214000898",
@@ -2910,7 +2786,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -2941,7 +2817,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:42-06:00",
+    "visto_en": "2026-11-01T21:45:46-06:00",
     "alerta_nueva": true
   },
   {
@@ -2971,8 +2847,8 @@
     "puntaje": 56.6,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-11-01T20:45:11-06:00",
+    "fin_oferta": "2027-01-01T00:00:00Z",
+    "visto_en": "2026-11-01T21:47:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -3003,7 +2879,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:02-06:00",
+    "visto_en": "2026-11-01T21:46:09-06:00",
     "alerta_nueva": true
   },
   {
@@ -3034,7 +2910,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:34-06:00",
+    "visto_en": "2026-11-01T21:45:35-06:00",
     "alerta_nueva": true
   },
   {
@@ -3064,8 +2940,8 @@
     "puntaje": 55.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-11-02T02:45:19Z",
-    "visto_en": "2026-11-01T20:45:19-06:00",
+    "fin_oferta": "2027-11-01T00:00:00Z",
+    "visto_en": "2026-11-01T21:47:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -3096,7 +2972,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:29-06:00",
+    "visto_en": "2026-11-01T21:48:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -3127,7 +3003,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:31-06:00",
+    "visto_en": "2026-11-01T21:48:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -3157,8 +3033,8 @@
     "puntaje": 53.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:22-06:00",
+    "fin_oferta": "2027-11-02T03:47:50Z",
+    "visto_en": "2026-11-01T21:47:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -3189,7 +3065,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:07-06:00",
+    "visto_en": "2026-11-01T21:47:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -3219,8 +3095,8 @@
     "puntaje": 52.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-11-01T20:45:18-06:00",
+    "fin_oferta": "2027-01-01T00:00:00Z",
+    "visto_en": "2026-11-01T21:47:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -3251,7 +3127,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:29-06:00",
+    "visto_en": "2026-11-01T21:48:16-06:00",
     "alerta_nueva": true
   },
   {
@@ -3282,7 +3158,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:13-06:00",
+    "visto_en": "2026-11-01T21:46:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -3313,7 +3189,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:28-06:00",
+    "visto_en": "2026-11-01T21:48:14-06:00",
     "alerta_nueva": true
   },
   {
@@ -3344,7 +3220,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-11-01T20:45:19-06:00",
+    "visto_en": "2026-11-01T21:48:00-06:00",
     "alerta_nueva": true
   },
   {
@@ -3375,7 +3251,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:23-06:00",
+    "visto_en": "2026-11-01T21:48:04-06:00",
     "alerta_nueva": true
   },
   {
@@ -3406,7 +3282,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-11-01T20:45:22-06:00",
+    "visto_en": "2026-11-01T21:48:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -3437,7 +3313,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-11-01T20:45:22-06:00",
+    "visto_en": "2026-11-01T21:48:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -3468,7 +3344,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:50-06:00",
+    "visto_en": "2026-11-01T21:45:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -3499,7 +3375,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:50-06:00",
+    "visto_en": "2026-11-01T21:45:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -3530,7 +3406,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:50-06:00",
+    "visto_en": "2026-11-01T21:45:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -3561,7 +3437,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T06:00:00Z",
-    "visto_en": "2026-11-01T20:45:17-06:00",
+    "visto_en": "2026-11-01T21:47:58-06:00",
     "alerta_nueva": true
   },
   {
@@ -3591,8 +3467,8 @@
     "puntaje": 51.1,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:28-06:00",
+    "fin_oferta": "2027-01-01T06:00:00Z",
+    "visto_en": "2026-11-01T21:48:14-06:00",
     "alerta_nueva": true
   },
   {
@@ -3623,7 +3499,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:47-06:00",
+    "visto_en": "2026-11-01T21:45:51-06:00",
     "alerta_nueva": true
   },
   {
@@ -3663,7 +3539,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:11-06:00",
+    "visto_en": "2026-11-01T21:47:50-06:00",
     "alerta_nueva": true
   },
   {
@@ -3694,7 +3570,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:57-06:00",
+    "visto_en": "2026-11-01T21:46:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -3725,7 +3601,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:57-06:00",
+    "visto_en": "2026-11-01T21:46:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -3756,7 +3632,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:50-06:00",
+    "visto_en": "2026-11-01T21:45:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -3787,7 +3663,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:57-06:00",
+    "visto_en": "2026-11-01T21:46:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -3818,7 +3694,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:44-06:00",
+    "visto_en": "2026-11-01T21:45:47-06:00",
     "alerta_nueva": true
   },
   {
@@ -3849,7 +3725,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:48-06:00",
+    "visto_en": "2026-11-01T21:45:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -3880,7 +3756,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:50-06:00",
+    "visto_en": "2026-11-01T21:45:55-06:00",
     "alerta_nueva": true
   },
   {
@@ -3911,7 +3787,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:57-06:00",
+    "visto_en": "2026-11-01T21:46:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -3942,38 +3818,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:57-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "novex-443094",
-    "tienda": "Novex",
-    "nombre": "Bomba de transferencia de varilla agua m12",
-    "categoria": "🔧 Ferretería y herramientas",
-    "url": "https://www.novex.com.gt/producto/443094/Bomba-de-transferencia-de-varilla-agua-m12.html",
-    "imagen": "https://ferreteriavidri.com/images/items/large/443094.jpg?v=126919",
-    "moneda": "GTQ",
-    "precio_actual": 2332.5,
-    "precio_referencia": 3110.0,
-    "precio_antes_tienda": 3110.0,
-    "descuento_real": 0.25,
-    "ahorro_q": 777.5,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "muy_buena",
-    "nivel_emoji": "⚡",
-    "nivel_label": "MUY BUENA",
-    "puntaje": 50.5,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-11-01T20:46:07-06:00",
+    "visto_en": "2026-11-01T21:46:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -4004,7 +3849,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:57-06:00",
+    "visto_en": "2026-11-01T21:46:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -4035,7 +3880,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:57-06:00",
+    "visto_en": "2026-11-01T21:46:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -4066,7 +3911,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:28-06:00",
+    "visto_en": "2026-11-01T21:46:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -4097,7 +3942,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:28-06:00",
+    "visto_en": "2026-11-01T21:46:36-06:00",
     "alerta_nueva": true
   },
   {
@@ -4128,7 +3973,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:15-06:00",
+    "visto_en": "2026-11-01T21:47:53-06:00",
     "alerta_nueva": true
   },
   {
@@ -4159,7 +4004,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:57-06:00",
+    "visto_en": "2026-11-01T21:46:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -4190,7 +4035,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:57-06:00",
+    "visto_en": "2026-11-01T21:46:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -4221,7 +4066,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:57-06:00",
+    "visto_en": "2026-11-01T21:46:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -4252,7 +4097,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:57-06:00",
+    "visto_en": "2026-11-01T21:46:03-06:00",
     "alerta_nueva": true
   },
   {
@@ -4283,7 +4128,38 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:57-06:00",
+    "visto_en": "2026-11-01T21:46:03-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "novex-456922",
+    "tienda": "Novex",
+    "nombre": "Pulidora 110 v 1400 w 7 pulgadas",
+    "categoria": "🔧 Ferretería y herramientas",
+    "url": "https://www.novex.com.gt/producto/456922/Pulidora-110-v-1400-w-7-pulgadas.html",
+    "imagen": "https://ferreteriavidri.com/images/items/large/456922.jpg?v=126919",
+    "moneda": "GTQ",
+    "precio_actual": 461.5,
+    "precio_referencia": 710.0,
+    "precio_antes_tienda": 710.0,
+    "descuento_real": 0.35,
+    "ahorro_q": 248.5,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 50.0,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-11-01T21:49:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -4323,7 +4199,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:44:57-06:00",
+    "visto_en": "2026-11-01T21:47:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -4353,8 +4229,8 @@
     "puntaje": 46.7,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "fin_oferta": "2027-11-02T03:45:23Z",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -4394,7 +4270,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-29T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:47-06:00",
+    "visto_en": "2026-11-01T21:48:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -4425,7 +4301,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:33-06:00",
+    "visto_en": "2026-11-01T21:48:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -4456,7 +4332,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:07-06:00",
+    "visto_en": "2026-11-01T21:47:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -4487,7 +4363,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:28-06:00",
+    "visto_en": "2026-11-01T21:48:14-06:00",
     "alerta_nueva": true
   },
   {
@@ -4518,22 +4394,22 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-30T00:00:00Z",
-    "visto_en": "2026-11-01T20:43:47-06:00",
+    "visto_en": "2026-11-01T21:45:49-06:00",
     "alerta_nueva": true
   },
   {
-    "id": "officedepot-1204000082",
-    "tienda": "Office Depot",
-    "nombre": "ETIQUETA AUTOLAMINADA FÁCIL ALINEACIÓN 11.4 X 8.9 CM LÁSER/INK JET PAQ 50",
-    "categoria": "🚗 Automotriz",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Etiquetas-inkjet-y-l%C3%A1ser/ETIQUETA-AUTOLAMINADA-F%C3%81CIL-ALINEACI%C3%93N-11-4-X-8-9-CM-L%C3%81SER-INK-JET-PAQ-50/p/1204000082",
-    "imagen": null,
+    "id": "novex-470609",
+    "tienda": "Novex",
+    "nombre": "Esmeriladora angular 4 ½ pulgadas",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.novex.com.gt/producto/470609/Esmeriladora-angular-4-½-pulgadas.html",
+    "imagen": "https://ferreteriavidri.com/images/items/large/470609.jpg?v=126919",
     "moneda": "GTQ",
-    "precio_actual": 298.2,
-    "precio_referencia": 426.0,
-    "precio_antes_tienda": 426.0,
+    "precio_actual": 297.5,
+    "precio_referencia": 425.0,
+    "precio_antes_tienda": 425.0,
     "descuento_real": 0.3,
-    "ahorro_q": 127.8,
+    "ahorro_q": 127.5,
     "minimo_historico": true,
     "sin_historial": false,
     "fuente_referencia": "historial",
@@ -4545,11 +4421,11 @@
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
     "nivel_label": "MUY BUENA",
-    "puntaje": 42.6,
+    "puntaje": 42.5,
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:24-06:00",
+    "visto_en": "2026-11-01T21:50:13-06:00",
     "alerta_nueva": true
   },
   {
@@ -4580,7 +4456,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:35-06:00",
+    "visto_en": "2026-11-01T21:48:24-06:00",
     "alerta_nueva": true
   },
   {
@@ -4611,7 +4487,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-11-01T20:43:54-06:00",
+    "visto_en": "2026-11-01T21:45:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -4641,39 +4517,8 @@
     "puntaje": 41.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-11-02T02:37:00Z",
-    "visto_en": "2026-11-01T20:43:47-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "officedepot-1204000080",
-    "tienda": "Office Depot",
-    "nombre": "ETIQUETA AUTOLAMINADA CON BORDE GRIS 7 X 9.5 CM PAQ 8",
-    "categoria": "🚗 Automotriz",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Etiquetas/ETIQUETA-AUTOLAMINADA-CON-BORDE-GRIS-7-X-9-5-CM-PAQ-8/p/1204000080",
-    "imagen": null,
-    "moneda": "GTQ",
-    "precio_actual": 148.4,
-    "precio_referencia": 212.0,
-    "precio_antes_tienda": 212.0,
-    "descuento_real": 0.3,
-    "ahorro_q": 63.6,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "muy_buena",
-    "nivel_emoji": "⚡",
-    "nivel_label": "MUY BUENA",
-    "puntaje": 41.3,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:24-06:00",
+    "fin_oferta": "2027-11-02T03:36:29Z",
+    "visto_en": "2026-11-01T21:45:49-06:00",
     "alerta_nueva": true
   },
   {
@@ -4704,7 +4549,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:16-06:00",
+    "visto_en": "2026-11-01T21:47:54-06:00",
     "alerta_nueva": true
   },
   {
@@ -4735,22 +4580,22 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:25-06:00",
+    "visto_en": "2026-11-01T21:46:33-06:00",
     "alerta_nueva": true
   },
   {
-    "id": "officedepot-1204000078",
-    "tienda": "Office Depot",
-    "nombre": "ETIQUETA AUTOLAMINADA CON BORDE GRIS 1.7 X 8.6 CM PAQ 24",
-    "categoria": "🚗 Automotriz",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Etiquetas/ETIQUETA-AUTOLAMINADA-CON-BORDE-GRIS-1-7-X-8-6-CM-PAQ-24/p/1204000078",
-    "imagen": null,
+    "id": "novex-455368",
+    "tienda": "Novex",
+    "nombre": "Esmeriladora angular 4 ½ pulgadas (11.5 cm) 110v 850w",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.novex.com.gt/producto/455368/Esmeriladora-angular-4-½-pulgadas-(115-cm)-110v-850w.html",
+    "imagen": "https://ferreteriavidri.com/images/items/large/455368.jpg?v=126919",
     "moneda": "GTQ",
-    "precio_actual": 96.6,
-    "precio_referencia": 138.0,
-    "precio_antes_tienda": 138.0,
-    "descuento_real": 0.3,
-    "ahorro_q": 41.4,
+    "precio_actual": 195.0,
+    "precio_referencia": 275.0,
+    "precio_antes_tienda": 325.0,
+    "descuento_real": 0.2909,
+    "ahorro_q": 80.0,
     "minimo_historico": true,
     "sin_historial": false,
     "fuente_referencia": "historial",
@@ -4762,42 +4607,11 @@
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
     "nivel_label": "MUY BUENA",
-    "puntaje": 40.8,
+    "puntaje": 40.7,
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:24-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "officedepot-1204000079",
-    "tienda": "Office Depot",
-    "nombre": "ETIQUETA AUTOLAMINADA CON BORDE GRIS 9.5 X 14.6 CM PAQ 4",
-    "categoria": "🚗 Automotriz",
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Etiquetas-escolares-y-separadoras/ETIQUETA-AUTOLAMINADA-CON-BORDE-GRIS-9-5-X-14-6-CM-PAQ-4/p/1204000079",
-    "imagen": null,
-    "moneda": "GTQ",
-    "precio_actual": 69.93,
-    "precio_referencia": 99.9,
-    "precio_antes_tienda": 99.9,
-    "descuento_real": 0.3,
-    "ahorro_q": 29.97,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "muy_buena",
-    "nivel_emoji": "⚡",
-    "nivel_label": "MUY BUENA",
-    "puntaje": 40.6,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:24-06:00",
+    "visto_en": "2026-11-01T21:50:13-06:00",
     "alerta_nueva": true
   },
   {
@@ -4828,7 +4642,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:35-06:00",
+    "visto_en": "2026-11-01T21:46:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -4859,7 +4673,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:30-06:00",
+    "visto_en": "2026-11-01T21:46:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -4890,7 +4704,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:25-06:00",
+    "visto_en": "2026-11-01T21:46:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -4921,7 +4735,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:30-06:00",
+    "visto_en": "2026-11-01T21:46:38-06:00",
     "alerta_nueva": true
   },
   {
@@ -4952,7 +4766,38 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:35-06:00",
+    "visto_en": "2026-11-01T21:46:44-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "officedepot-1209000191",
+    "tienda": "Office Depot",
+    "nombre": "Sujeta documentos Eagle de 51 mm en acabado plateado, caja con 12 unidades. Tamaño grande con máxima capacidad de sujeción. Pinzas metálicas de alta resistencia con palancas abatibles. Ideal para documentos voluminosos.",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Clips/Sujeta-documentos-Eagle-de-51-mm-en-acabado-plateado%2C-caja-con-12-unidades-Tama%C3%B1o-grande-con-m%C3%A1xima-capacidad-de-sujeci%C3%B3n-Pinzas-met%C3%A1licas-de-alta-resistencia-con-palancas-abatibles-Ideal-para-documentos-voluminosos-/p/1209000191",
+    "imagen": null,
+    "moneda": "GTQ",
+    "precio_actual": 32.13,
+    "precio_referencia": 45.9,
+    "precio_antes_tienda": 45.9,
+    "descuento_real": 0.3,
+    "ahorro_q": 13.77,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 40.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-11-01T21:46:44-06:00",
     "alerta_nueva": true
   },
   {
@@ -4983,7 +4828,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-01-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:18-06:00",
+    "visto_en": "2026-11-01T21:47:59-06:00",
     "alerta_nueva": true
   },
   {
@@ -5014,22 +4859,22 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:53-06:00",
+    "visto_en": "2026-11-01T21:46:55-06:00",
     "alerta_nueva": true
   },
   {
-    "id": "max-gt-b1bcf5d4",
-    "tienda": "Max",
-    "nombre": "Árbol de navidad artificial pino detroit 225 cm (7.5 pies) 1145 puntas",
-    "categoria": "🛏️ Hogar y muebles",
-    "url": "https://www.max.com.gt/arbol-de-navidad-artificial-pino-detroit-225-cm-7-5-pies-1145-puntas-b1bcf5d4",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/c/8/c8a0e07a2331d385.jpg",
+    "id": "tecnofacil-72080f0a",
+    "tienda": "Tecnofácil",
+    "nombre": "Exfoliante Luminosidad Ultra- Frescor Pure Algue 75ml",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.tecnofacil.com.gt/exfoliante-luminosidad-ultra-frescor-pure-algue-72080f0a",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/2/e/2eb174b2d0608c78.jpg",
     "moneda": "GTQ",
-    "precio_actual": 1099.0,
-    "precio_referencia": 1399.0,
-    "precio_antes_tienda": 1399.0,
-    "descuento_real": 0.2144,
-    "ahorro_q": 300.0,
+    "precio_actual": 149.0,
+    "precio_referencia": 200.0,
+    "precio_antes_tienda": 200.0,
+    "descuento_real": 0.255,
+    "ahorro_q": 51.0,
     "minimo_historico": true,
     "sin_historial": false,
     "fuente_referencia": "historial",
@@ -5041,11 +4886,11 @@
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
     "nivel_label": "MUY BUENA",
-    "puntaje": 37.4,
+    "puntaje": 36.5,
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:50:01-06:00",
+    "visto_en": "2026-11-01T21:51:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -5076,7 +4921,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:44-06:00",
+    "visto_en": "2026-11-01T21:48:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -5116,7 +4961,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:45-06:00",
+    "visto_en": "2026-11-01T21:48:18-06:00",
     "alerta_nueva": true
   },
   {
@@ -5147,7 +4992,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:43:30-06:00",
+    "visto_en": "2026-11-01T21:45:31-06:00",
     "alerta_nueva": true
   },
   {
@@ -5178,38 +5023,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:38-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "novex-456912",
-    "tienda": "Novex",
-    "nombre": "Rotomartillo 1 1/16 pulgada (26 mm) 800w 110v sds plus",
-    "categoria": "🔧 Ferretería y herramientas",
-    "url": "https://www.novex.com.gt/producto/456912/Rotomartillo-1-1|16-pulgada-(26-mm)-800w-110v-sds-plus.html",
-    "imagen": "https://ferreteriavidri.com/images/items/large/456912.jpg?v=126919",
-    "moneda": "GTQ",
-    "precio_actual": 422.5,
-    "precio_referencia": 550.0,
-    "precio_antes_tienda": 650.0,
-    "descuento_real": 0.2318,
-    "ahorro_q": 127.5,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "muy_buena",
-    "nivel_emoji": "⚡",
-    "nivel_label": "MUY BUENA",
-    "puntaje": 35.7,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-11-01T20:49:54-06:00",
+    "visto_en": "2026-11-01T21:48:08-06:00",
     "alerta_nueva": true
   },
   {
@@ -5240,7 +5054,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:47-06:00",
+    "visto_en": "2026-11-01T21:48:19-06:00",
     "alerta_nueva": true
   },
   {
@@ -5271,7 +5085,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:44-06:00",
+    "visto_en": "2026-11-01T21:48:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -5302,7 +5116,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-11-02T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:48-06:00",
+    "visto_en": "2026-11-01T21:48:21-06:00",
     "alerta_nueva": true
   },
   {
@@ -5333,7 +5147,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:46:27-06:00",
+    "visto_en": "2026-11-01T21:48:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -5364,7 +5178,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:46:27-06:00",
+    "visto_en": "2026-11-01T21:48:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -5394,8 +5208,8 @@
     "puntaje": 31.9,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:00-06:00",
+    "fin_oferta": "2027-11-02T03:41:05Z",
+    "visto_en": "2026-11-01T21:47:20-06:00",
     "alerta_nueva": true
   },
   {
@@ -5425,8 +5239,8 @@
     "puntaje": 31.5,
     "disponible": true,
     "modo_compra": "en_linea",
-    "fin_oferta": "2027-11-02T02:45:10Z",
-    "visto_en": "2026-11-01T20:45:11-06:00",
+    "fin_oferta": "2027-11-02T03:47:25Z",
+    "visto_en": "2026-11-01T21:47:26-06:00",
     "alerta_nueva": true
   },
   {
@@ -5457,7 +5271,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:44-06:00",
+    "visto_en": "2026-11-01T21:48:17-06:00",
     "alerta_nueva": true
   },
   {
@@ -5488,7 +5302,38 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:47-06:00",
+    "visto_en": "2026-11-01T21:48:19-06:00",
+    "alerta_nueva": true
+  },
+  {
+    "id": "tecnofacil-0e3cf37d",
+    "tienda": "Tecnofácil",
+    "nombre": "Exfoliante Purificante Pure Menthe – Limpieza Profunda 75 ml",
+    "categoria": "📦 Otros",
+    "url": "https://www.tecnofacil.com.gt/exfoliante-purificante-pure-menthe-75ml-0e3cf37d",
+    "imagen": "https://backoffice.max.com.gt/media/catalog/product/c/b/cbf68bd119b64f77.jpg",
+    "moneda": "GTQ",
+    "precio_actual": 159.0,
+    "precio_referencia": 200.0,
+    "precio_antes_tienda": 200.0,
+    "descuento_real": 0.205,
+    "ahorro_q": 41.0,
+    "minimo_historico": true,
+    "sin_historial": false,
+    "fuente_referencia": "historial",
+    "mercado": [],
+    "antes_inflado": false,
+    "mas_barato_que": null,
+    "etiqueta": "",
+    "relampago": false,
+    "nivel": "muy_buena",
+    "nivel_emoji": "⚡",
+    "nivel_label": "MUY BUENA",
+    "puntaje": 31.3,
+    "disponible": true,
+    "modo_compra": "en_linea",
+    "fin_oferta": null,
+    "visto_en": "2026-11-01T21:51:02-06:00",
     "alerta_nueva": true
   },
   {
@@ -5519,7 +5364,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:43:33-06:00",
+    "visto_en": "2026-11-01T21:45:33-06:00",
     "alerta_nueva": true
   },
   {
@@ -5550,22 +5395,22 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:45:45-06:00",
+    "visto_en": "2026-11-01T21:48:18-06:00",
     "alerta_nueva": true
   },
   {
-    "id": "max-gt-4f4ab7f0",
-    "tienda": "Max",
-    "nombre": "Set de 51 puntas de impacto para desatornillador y barreno ingco",
-    "categoria": "🔧 Ferretería y herramientas",
-    "url": "https://www.max.com.gt/set-de-51-puntas-de-impacto-para-desatornillador-y-barreno-ingco-4f4ab7f0",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/8/c/8cbaba72e62c60fc.png",
+    "id": "officedepot-1209000495",
+    "tienda": "Office Depot",
+    "nombre": "Tijeras de acero con diseños decorativos, set con 3 unidades. Hojas de acero inoxidable con mangos de diseños variados. Ideales para manualidades, scrapbooking y proyectos creativos.",
+    "categoria": "🛒 Supermercado",
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Tijeras/Tijeras-de-acero-con-dise%C3%B1os-decorativos%2C-set-con-3-unidades-Hojas-de-acero-inoxidable-con-mangos-de-dise%C3%B1os-variados-Ideales-para-manualidades%2C-scrapbooking-y-proyectos-creativos-/p/1209000495",
+    "imagen": null,
     "moneda": "GTQ",
-    "precio_actual": 161.41,
-    "precio_referencia": 201.8,
-    "precio_antes_tienda": 201.8,
-    "descuento_real": 0.2001,
-    "ahorro_q": 40.39,
+    "precio_actual": 54.32,
+    "precio_referencia": 67.9,
+    "precio_antes_tienda": 67.9,
+    "descuento_real": 0.2,
+    "ahorro_q": 13.58,
     "minimo_historico": true,
     "sin_historial": false,
     "fuente_referencia": "historial",
@@ -5577,42 +5422,11 @@
     "nivel": "muy_buena",
     "nivel_emoji": "⚡",
     "nivel_label": "MUY BUENA",
-    "puntaje": 30.8,
+    "puntaje": 30.3,
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:48:42-06:00",
-    "alerta_nueva": true
-  },
-  {
-    "id": "max-gt-bc1692ab",
-    "tienda": "Max",
-    "nombre": "Set de 49 puntas de impacto para desatornillador y barreno ingco",
-    "categoria": "🔧 Ferretería y herramientas",
-    "url": "https://www.max.com.gt/set-de-49-puntas-de-impacto-para-desatornillador-y-barreno-ingco-bc1692ab",
-    "imagen": "https://backoffice.max.com.gt/media/catalog/product/c/8/c8f73c6b298c64b9.png",
-    "moneda": "GTQ",
-    "precio_actual": 161.41,
-    "precio_referencia": 201.8,
-    "precio_antes_tienda": 201.8,
-    "descuento_real": 0.2001,
-    "ahorro_q": 40.39,
-    "minimo_historico": true,
-    "sin_historial": false,
-    "fuente_referencia": "historial",
-    "mercado": [],
-    "antes_inflado": false,
-    "mas_barato_que": null,
-    "etiqueta": "",
-    "relampago": false,
-    "nivel": "muy_buena",
-    "nivel_emoji": "⚡",
-    "nivel_label": "MUY BUENA",
-    "puntaje": 30.8,
-    "disponible": true,
-    "modo_compra": "en_linea",
-    "fin_oferta": null,
-    "visto_en": "2026-11-01T20:48:42-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -5643,7 +5457,7 @@
     "disponible": true,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:44:00-06:00",
+    "visto_en": "2026-11-01T21:46:07-06:00",
     "alerta_nueva": true
   },
   {
@@ -5674,7 +5488,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-10-31T00:00:00Z",
-    "visto_en": "2026-11-01T20:44:22-06:00",
+    "visto_en": "2026-11-01T21:46:34-06:00",
     "alerta_nueva": true
   },
   {
@@ -5705,7 +5519,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": null,
-    "visto_en": "2026-11-01T20:46:27-06:00",
+    "visto_en": "2026-11-01T21:48:23-06:00",
     "alerta_nueva": true
   },
   {
@@ -5736,7 +5550,7 @@
     "disponible": false,
     "modo_compra": "en_linea",
     "fin_oferta": "2027-11-01T00:00:00Z",
-    "visto_en": "2026-11-01T20:43:28-06:00",
+    "visto_en": "2026-11-01T21:45:29-06:00",
     "alerta_nueva": true
   }
 ]
