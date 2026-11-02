@@ -1,26 +1,31 @@
 {
-  "ultima_corrida": "2026-11-02T08:10:23-06:00",
-  "duracion_seg": 453.6,
-  "productos_leidos": 44799,
+  "ultima_corrida": "2026-11-02T09:58:35-06:00",
+  "duracion_seg": 432.8,
+  "productos_leidos": 44958,
   "dias_historial": 7,
   "con_ean": {
     "Elektra GT": 674,
-    "La Torre": 5690,
-    "Walmart GT": 5933,
-    "Cemaco": 2596,
-    "Simán": 2344,
-    "Tecnofácil": 964,
-    "Max": 1079
+    "La Torre": 5689,
+    "Walmart GT": 5937,
+    "Cemaco": 2784,
+    "Simán": 2342,
+    "Tecnofácil": 957,
+    "Max": 1026
   },
   "reporte_tiendas": {
     "Click": {
-      "productos": 1468,
+      "productos": 1469,
       "con_ean": 0,
       "dias_historial": 3
     },
     "Elektra GT": {
       "productos": 985,
       "con_ean": 674,
+      "dias_historial": 7
+    },
+    "Office Depot": {
+      "productos": 3420,
+      "con_ean": 0,
       "dias_historial": 6
     },
     "La Curacao": {
@@ -28,69 +33,64 @@
       "con_ean": 0,
       "dias_historial": 7
     },
-    "Office Depot": {
-      "productos": 3283,
-      "con_ean": 0,
-      "dias_historial": 6
-    },
     "El Gallo más Gallo": {
       "productos": 53,
       "con_ean": 0,
       "dias_historial": 4
     },
     "PriceSmart": {
-      "productos": 298,
+      "productos": 507,
       "con_ean": 0,
       "dias_historial": 6
+    },
+    "La Torre": {
+      "productos": 6019,
+      "con_ean": 5689,
+      "dias_historial": 7
     },
     "EPA": {
       "productos": 9425,
       "con_ean": 0,
       "dias_historial": 6
     },
-    "La Torre": {
-      "productos": 6020,
-      "con_ean": 5690,
-      "dias_historial": 7
-    },
     "Walmart GT": {
-      "productos": 5933,
-      "con_ean": 5933,
-      "dias_historial": 7
-    },
-    "Intelaf": {
-      "productos": 173,
-      "con_ean": 0,
+      "productos": 5937,
+      "con_ean": 5937,
       "dias_historial": 7
     },
     "Cemaco": {
-      "productos": 5891,
-      "con_ean": 2596,
+      "productos": 5893,
+      "con_ean": 2784,
+      "dias_historial": 7
+    },
+    "Intelaf": {
+      "productos": 147,
+      "con_ean": 0,
       "dias_historial": 7
     },
     "Simán": {
-      "productos": 5829,
-      "con_ean": 2344,
+      "productos": 5827,
+      "con_ean": 2342,
       "dias_historial": 7
     },
     "Tecnofácil": {
-      "productos": 2432,
-      "con_ean": 964,
+      "productos": 2373,
+      "con_ean": 957,
       "dias_historial": 6
     },
     "Max": {
-      "productos": 2633,
-      "con_ean": 1079,
+      "productos": 2539,
+      "con_ean": 1026,
       "dias_historial": 6
     },
     "Novex": {
-      "productos": 121,
+      "productos": 109,
       "con_ean": 0,
       "dias_historial": 6
     }
   },
-  "coincidencias": 4133,
-  "antes_inflado": 1156,
+  "coincidencias": 4086,
+  "antes_inflado": 1105,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -135,26 +135,25 @@
   ],
   "ofertas_por_nivel": {
     "error": 5,
-    "loca": 85,
-    "muy_buena": 1065,
-    "buena": 6,
-    "agotado": 4
+    "loca": 92,
+    "muy_buena": 982,
+    "agotado": 5
   },
   "fuentes": {
     "recolectores.click": {
-      "productos": 1667,
+      "productos": 1668,
       "estado": "OK"
     },
     "recolectores.elektra": {
       "productos": 1060,
       "estado": "OK"
     },
-    "recolectores.lacuracao": {
-      "productos": 271,
+    "recolectores.officedepot": {
+      "productos": 3664,
       "estado": "OK"
     },
-    "recolectores.officedepot": {
-      "productos": 3519,
+    "recolectores.lacuracao": {
+      "productos": 271,
       "estado": "OK"
     },
     "recolectores.elgallo": {
@@ -162,43 +161,43 @@
       "estado": "OK"
     },
     "recolectores.pricesmart": {
-      "productos": 313,
-      "estado": "OK"
-    },
-    "recolectores.epa": {
-      "productos": 9733,
+      "productos": 528,
       "estado": "OK"
     },
     "recolectores.la_torre": {
-      "productos": 6037,
+      "productos": 6036,
+      "estado": "OK"
+    },
+    "recolectores.epa": {
+      "productos": 9735,
       "estado": "OK"
     },
     "recolectores.walmart": {
-      "productos": 6000,
-      "estado": "OK"
-    },
-    "recolectores.intelaf": {
-      "productos": 237,
+      "productos": 6004,
       "estado": "OK"
     },
     "recolectores.cemaco": {
-      "productos": 6047,
+      "productos": 6043,
+      "estado": "OK"
+    },
+    "recolectores.intelaf": {
+      "productos": 201,
       "estado": "OK"
     },
     "recolectores.siman": {
-      "productos": 6022,
+      "productos": 6020,
       "estado": "OK"
     },
     "recolectores.tecnofacil": {
-      "productos": 2580,
+      "productos": 2537,
       "estado": "OK"
     },
     "recolectores.max_gt": {
-      "productos": 2781,
+      "productos": 2686,
       "estado": "OK"
     },
     "recolectores.novex": {
-      "productos": 121,
+      "productos": 109,
       "estado": "OK"
     }
   },
