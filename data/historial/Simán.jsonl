@@ -10844,7 +10844,7 @@
 {"id": "siman-9036805", "fecha_inicio": "2026-11-02", "precio": 89.25, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "siman-9034823", "fecha_inicio": "2026-11-02", "precio": 95.2, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "siman-9034822", "fecha_inicio": "2026-11-02", "precio": 63.2, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
-{"id": "siman-9034820", "fecha_inicio": "2026-11-02", "precio": 103.2, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
+{"id": "siman-9034820", "fecha_inicio": "2026-11-02", "precio": 103.2, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "siman-9034819", "fecha_inicio": "2026-11-02", "precio": 95.2, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "siman-9034818", "fecha_inicio": "2026-11-02", "precio": 79.2, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "siman-9034814", "fecha_inicio": "2026-11-02", "precio": 71.2, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
@@ -12158,4 +12158,6 @@
 {"id": "siman-8853941", "fecha_inicio": "2026-11-02", "precio": 263.2, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "siman-7845361", "fecha_inicio": "2026-11-02", "precio": 263.2, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "siman-9033199", "fecha_inicio": "2026-11-02", "precio": 263.2, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
-{"id": "siman-8913575", "fecha_inicio": "2026-11-02", "precio": 74.25, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
+{"id": "siman-8913575", "fecha_inicio": "2026-11-02", "precio": 74.25, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
+{"id": "siman-9034820", "fecha_inicio": "2026-11-02", "precio": 129.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
+{"id": "siman-8913575", "fecha_inicio": "2026-11-02", "precio": 99.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
