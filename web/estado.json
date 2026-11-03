@@ -1,113 +1,92 @@
 {
-  "ultima_corrida": "2026-11-03T00:56:17-06:00",
-  "duracion_seg": 429.1,
-  "productos_leidos": 45277,
+  "ultima_corrida": "2026-11-03T10:53:49-06:00",
+  "duracion_seg": 436.6,
+  "productos_leidos": 26398,
   "dias_historial": 8,
   "con_ean": {
-    "Elektra GT": 686,
-    "La Torre": 5693,
-    "Walmart GT": 5934,
-    "Cemaco": 2782,
-    "Simán": 2317,
-    "Max": 1029,
-    "Tecnofácil": 958
+    "Elektra GT": 467,
+    "Cemaco": 184,
+    "La Torre": 1728,
+    "Walmart GT": 1301,
+    "Simán": 619,
+    "Tecnofácil": 895,
+    "Max": 1097
   },
   "reporte_tiendas": {
     "Click": {
       "productos": 1462,
       "con_ean": 0,
-      "dias_historial": 6
+      "dias_historial": 7
+    },
+    "Office Depot": {
+      "productos": 2587,
+      "con_ean": 0,
+      "dias_historial": 7
     },
     "Elektra GT": {
-      "productos": 995,
-      "con_ean": 686,
+      "productos": 576,
+      "con_ean": 467,
       "dias_historial": 8
     },
     "La Curacao": {
-      "productos": 256,
+      "productos": 261,
       "con_ean": 0,
       "dias_historial": 8
-    },
-    "Office Depot": {
-      "productos": 3116,
-      "con_ean": 0,
-      "dias_historial": 7
     },
     "El Gallo más Gallo": {
       "productos": 53,
       "con_ean": 0,
       "dias_historial": 4
     },
+    "Cemaco": {
+      "productos": 569,
+      "con_ean": 184,
+      "dias_historial": 8
+    },
     "La Torre": {
-      "productos": 6021,
-      "con_ean": 5693,
+      "productos": 1921,
+      "con_ean": 1728,
       "dias_historial": 8
     },
     "Walmart GT": {
-      "productos": 5934,
-      "con_ean": 5934,
-      "dias_historial": 8
-    },
-    "Cemaco": {
-      "productos": 5852,
-      "con_ean": 2782,
+      "productos": 1301,
+      "con_ean": 1301,
       "dias_historial": 8
     },
     "EPA": {
-      "productos": 9436,
-      "con_ean": 0,
-      "dias_historial": 6
-    },
-    "Simán": {
-      "productos": 5828,
-      "con_ean": 2317,
-      "dias_historial": 8
-    },
-    "Intelaf": {
-      "productos": 172,
+      "productos": 9438,
       "con_ean": 0,
       "dias_historial": 7
     },
     "PriceSmart": {
-      "productos": 759,
+      "productos": 459,
       "con_ean": 0,
+      "dias_historial": 7
+    },
+    "Simán": {
+      "productos": 2724,
+      "con_ean": 619,
+      "dias_historial": 8
+    },
+    "Intelaf": {
+      "productos": 151,
+      "con_ean": 0,
+      "dias_historial": 7
+    },
+    "Tecnofácil": {
+      "productos": 2106,
+      "con_ean": 895,
       "dias_historial": 7
     },
     "Max": {
-      "productos": 2732,
-      "con_ean": 1029,
-      "dias_historial": 7
-    },
-    "Novex": {
-      "productos": 149,
-      "con_ean": 0,
-      "dias_historial": 6
-    },
-    "Tecnofácil": {
-      "productos": 2512,
-      "con_ean": 958,
+      "productos": 2790,
+      "con_ean": 1097,
       "dias_historial": 7
     }
   },
-  "coincidencias": 4029,
-  "antes_inflado": 1081,
+  "coincidencias": 1352,
+  "antes_inflado": 767,
   "inflado_ejemplos": [
-    {
-      "nombre": "Ventilador de Pared Navia M018P",
-      "tienda": "Elektra GT",
-      "antes": 599.0,
-      "precio": 499.0,
-      "max_otro": 499.99,
-      "url": "https://www.elektra.com.gt/ventilador-de-pared-navia-m018p-12003124/p"
-    },
-    {
-      "nombre": "Samsung Galaxy Watch 7 40mm verde",
-      "tienda": "Elektra GT",
-      "antes": 1799.0,
-      "precio": 1699.0,
-      "max_otro": 1296.0,
-      "url": "https://www.elektra.com.gt/samsung-galaxy-watch-7-32011506/p"
-    },
     {
       "nombre": "Cáfetera Black&Decker de 12 Tazas CM0916B",
       "tienda": "Elektra GT",
@@ -117,88 +96,105 @@
       "url": "https://www.elektra.com.gt/cafetera-black-and-decker-de-12-tazas-cm0916b-10005782/p"
     },
     {
-      "nombre": "Set de 3 Sartenes Picca Gravina con Recubrimiento de Mármol ",
-      "tienda": "Elektra GT",
-      "antes": 499.0,
-      "precio": 339.0,
-      "max_otro": 309.99,
-      "url": "https://www.elektra.com.gt/juego-de-sarten-picca-de-3-piezas-pi003ssmu-c-10004534/p"
+      "nombre": "Cápsulas de Café Dolce Gusto Nescafé Sabor Café con Leche 16",
+      "tienda": "Cemaco",
+      "antes": 74.99,
+      "precio": 74.99,
+      "max_otro": 63.5,
+      "url": "https://www.cemaco.com/capsulas-de-cafe-dolce-gusto-16-capsulas-sabor-cafe-con-leche-920817/p"
     },
     {
-      "nombre": "Minicomponente Vertical LG, RNC9, Woofer Dual para Graves, S",
-      "tienda": "Elektra GT",
-      "antes": 4299.0,
-      "precio": 2995.0,
-      "max_otro": 2996.0,
-      "url": "https://www.elektra.com.gt/minicomponente-vertical-lg-rnc9-5004423/p"
+      "nombre": "Cápsulas de Café Dolce Gusto Nescafé Sabor Cappuccino Skinny",
+      "tienda": "Cemaco",
+      "antes": 74.99,
+      "precio": 74.99,
+      "max_otro": 63.5,
+      "url": "https://www.cemaco.com/capsulas-de-cafe-dolce-gusto-16-capsulas-sabor-skinny-cappuccino-908299/p"
+    },
+    {
+      "nombre": "Be Light 600 Ml Varios Sabores",
+      "tienda": "Cemaco",
+      "antes": 6.99,
+      "precio": 6.99,
+      "max_otro": 6.0,
+      "url": "https://www.cemaco.com/be-light-600-ml-varios-sabores-920187/p"
+    },
+    {
+      "nombre": "Leche UHT Semidescremada Delactomy",
+      "tienda": "La Torre",
+      "antes": 19.95,
+      "precio": 19.95,
+      "max_otro": 17.25,
+      "url": "https://www.latorre.com.gt/leche-uht-semidescremada-delactomy--11098/p"
     }
   ],
   "ofertas_por_nivel": {
-    "error": 3,
-    "loca": 72,
-    "muy_buena": 980,
-    "agotado": 3
+    "error": 1,
+    "loca": 40,
+    "muy_buena": 77,
+    "buena": 4,
+    "agotado": 5
   },
   "fuentes": {
     "recolectores.click": {
       "productos": 1659,
       "estado": "OK"
     },
+    "recolectores.officedepot": {
+      "productos": 2763,
+      "estado": "OK"
+    },
     "recolectores.elektra": {
-      "productos": 1071,
+      "productos": 610,
       "estado": "OK"
     },
     "recolectores.lacuracao": {
-      "productos": 272,
-      "estado": "OK"
-    },
-    "recolectores.officedepot": {
-      "productos": 3329,
+      "productos": 276,
       "estado": "OK"
     },
     "recolectores.elgallo": {
       "productos": 58,
       "estado": "OK"
     },
+    "recolectores.cemaco": {
+      "productos": 590,
+      "estado": "OK"
+    },
     "recolectores.la_torre": {
-      "productos": 6036,
+      "productos": 1925,
       "estado": "OK"
     },
     "recolectores.walmart": {
-      "productos": 6002,
-      "estado": "OK"
-    },
-    "recolectores.cemaco": {
-      "productos": 6000,
+      "productos": 1327,
       "estado": "OK"
     },
     "recolectores.epa": {
-      "productos": 9747,
-      "estado": "OK"
-    },
-    "recolectores.siman": {
-      "productos": 6021,
-      "estado": "OK"
-    },
-    "recolectores.intelaf": {
-      "productos": 235,
+      "productos": 9749,
       "estado": "OK"
     },
     "recolectores.pricesmart": {
-      "productos": 777,
+      "productos": 479,
       "estado": "OK"
     },
-    "recolectores.max_gt": {
-      "productos": 2887,
+    "recolectores.siman": {
+      "productos": 2850,
       "estado": "OK"
     },
-    "recolectores.novex": {
-      "productos": 151,
+    "recolectores.intelaf": {
+      "productos": 209,
       "estado": "OK"
     },
     "recolectores.tecnofacil": {
-      "productos": 2699,
+      "productos": 2245,
       "estado": "OK"
+    },
+    "recolectores.max_gt": {
+      "productos": 2947,
+      "estado": "OK"
+    },
+    "recolectores.novex": {
+      "productos": 0,
+      "estado": "ROTA"
     }
   },
   "fallos": []
