@@ -10193,7 +10193,7 @@
 {"id": "latorre-9779", "fecha_inicio": "2026-10-31", "precio": 11.25, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "latorre-9778", "fecha_inicio": "2026-10-31", "precio": 30.65, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "latorre-9290", "fecha_inicio": "2026-10-31", "precio": 60.3, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
-{"id": "latorre-9289", "fecha_inicio": "2026-10-31", "precio": 58.9, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
+{"id": "latorre-9289", "fecha_inicio": "2026-10-31", "precio": 58.9, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "latorre-9037", "fecha_inicio": "2026-10-31", "precio": 134.15, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "latorre-9030", "fecha_inicio": "2026-10-31", "precio": 27.4, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "latorre-8934", "fecha_inicio": "2026-10-31", "precio": 140.25, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
@@ -10242,7 +10242,7 @@
 {"id": "latorre-5566", "fecha_inicio": "2026-10-31", "precio": 12.6, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "latorre-5327", "fecha_inicio": "2026-10-31", "precio": 15.05, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "latorre-5326", "fecha_inicio": "2026-10-31", "precio": 15.05, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
-{"id": "latorre-5278", "fecha_inicio": "2026-10-31", "precio": 15.05, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
+{"id": "latorre-5278", "fecha_inicio": "2026-10-31", "precio": 15.05, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "latorre-5275", "fecha_inicio": "2026-10-31", "precio": 15.05, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "latorre-5125", "fecha_inicio": "2026-10-31", "precio": 174.7, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "latorre-5070", "fecha_inicio": "2026-10-31", "precio": 180.35, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
@@ -10684,6 +10684,10 @@
 {"id": "latorre-3934", "fecha_inicio": "2026-11-02", "precio": 157.9, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "latorre-3934", "fecha_inicio": "2026-11-02", "precio": 137.65, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "latorre-23522", "fecha_inicio": "2026-11-02", "precio": 34.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
-{"id": "latorre-4206", "fecha_inicio": "2026-11-02", "precio": 35.75, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
-{"id": "latorre-21018", "fecha_inicio": "2026-11-02", "precio": 6.9, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
-{"id": "latorre-12963", "fecha_inicio": "2026-11-02", "precio": 15.9, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
+{"id": "latorre-4206", "fecha_inicio": "2026-11-02", "precio": 35.75, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
+{"id": "latorre-21018", "fecha_inicio": "2026-11-02", "precio": 6.9, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
+{"id": "latorre-12963", "fecha_inicio": "2026-11-02", "precio": 15.9, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
+{"id": "latorre-913", "fecha_inicio": "2026-11-02", "precio": 4.55, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
+{"id": "latorre-4206", "fecha_inicio": "2026-11-02", "precio": 30.2, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
+{"id": "latorre-21018", "fecha_inicio": "2026-11-02", "precio": 8.7, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
+{"id": "latorre-12963", "fecha_inicio": "2026-11-02", "precio": 15.15, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
