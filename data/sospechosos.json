@@ -153,6 +153,30 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Sacapuntas marca iStudy con cuchilla afilada que da punta uniforme a lápices y lápices de colores. Diseño práctico con depósito de viruta.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Sacapuntas/Sacapuntas-marca-iStudy-con-cuchilla-afilada-que-da-punta-uniforme-a-l%C3%A1pices-y-l%C3%A1pices-de-colores-Dise%C3%B1o-pr%C3%A1ctico-con-dep%C3%B3sito-de-viruta-/p/1214002889"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Borrador marca iStudy de goma suave que elimina trazos de lápiz sin maltratar el papel. Ideal para escuela, oficina y dibujo.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Borradores/Borrador-marca-iStudy-de-goma-suave-que-elimina-trazos-de-l%C3%A1piz-sin-maltratar-el-papel-Ideal-para-escuela%2C-oficina-y-dibujo-/p/1214002878"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Set escolar marca iStudy con útiles complementarios listos para usar. Ahorra tiempo y dinero con productos coordinados para escuela, oficina o regalo.",
+    "precio": 20.97,
+    "antes": 69.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/L%C3%A1pices-de-colores/Set-escolar-marca-iStudy-con-%C3%BAtiles-complementarios-listos-para-usar-Ahorra-tiempo-y-dinero-con-productos-coordinados-para-escuela%2C-oficina-o-regalo-/p/1214002881"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Yeso marca Crayola para escultura, manualidades y proyectos artisticos. Mezcla y aplicacion sencillas para crear figuras, moldes y acabados decorativos.",
     "precio": 5.97,
     "antes": 19.9,
@@ -166,14 +190,6 @@
     "antes": 629.0,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/L%C3%A1pices-de-colores/Lapices-de-colores-marca-Staedtler-con-mina-pigmentada-y-resistente-Trazos-suaves%2C-intensos-y-mezclables%2C-ideales-para-dibujo%2C-coloreado-y-proyectos-escolares-/p/1214003917"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Set escolar marca Staedtler con útiles complementarios listos para usar. Ahorra tiempo y dinero con productos coordinados para escuela, oficina o regalo.",
-    "precio": 149.7,
-    "antes": 499.0,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/Set-escolar-marca-Staedtler-con-%C3%BAtiles-complementarios-listos-para-usar-Ahorra-tiempo-y-dinero-con-productos-coordinados-para-escuela%2C-oficina-o-regalo-/p/1214003940"
   },
   {
     "tienda": "Office Depot",
@@ -1822,46 +1838,6 @@
     "antes": 68.5,
     "descuento": 0.709,
     "url": "https://gt.epaenlinea.com/repuesto-para-cebos-de-pulgas-victor.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Esquinero de acero para tubo colgador 55 x 55 cm blanco",
-    "precio": 14.5,
-    "antes": 67.5,
-    "descuento": 0.785,
-    "url": "https://gt.epaenlinea.com/esquinero-de-acero-para-tubo-colgador-55-x-55-cm-blanco.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "RIEL REJILLA 152CM",
-    "precio": 69.5,
-    "antes": 245.0,
-    "descuento": 0.716,
-    "url": "https://gt.epaenlinea.com/riel-rejilla-152cm.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Filtros de espuma 5 piezas para aspiradora einhell 20 litros",
-    "precio": 29.95,
-    "antes": 115.0,
-    "descuento": 0.74,
-    "url": "https://gt.epaenlinea.com/filtros-de-espuma-5-piezas-para-aspiradora-einhell-20-litros.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Filtro de cartucho para aspiradora einhell 20 litros",
-    "precio": 29.95,
-    "antes": 125.0,
-    "descuento": 0.76,
-    "url": "https://gt.epaenlinea.com/filtro-de-cartucho-para-aspiradora-einhell-20-litros.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Juguete para masticadores intensos palo de goma 30 cm",
-    "precio": 17.52,
-    "antes": 59.95,
-    "descuento": 0.708,
-    "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
   },
   {
     "tienda": "Simán",
