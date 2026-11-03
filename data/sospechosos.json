@@ -129,6 +129,14 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Marcadores marca Office Depot con tinta de alta cobertura y colores vibrantes. Versátiles para escuela, oficina, arte y manualidades.",
+    "precio": 2.59,
+    "antes": 25.9,
+    "descuento": 0.9,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-de-colores/Marcadores-marca-Office-Depot-con-tinta-de-alta-cobertura-y-colores-vibrantes-Vers%C3%A1tiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214001602"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Marcadores marca Staedtler con tinta de alta cobertura y colores vibrantes. Versátiles para escuela, oficina, arte y manualidades.",
     "precio": 16.47,
     "antes": 54.9,
@@ -137,11 +145,19 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Boligrafo marca Office Depot de tinta fluida y trazo uniforme. Escritura comoda y duradera para uso diario en escuela y oficina.",
-    "precio": 2.49,
-    "antes": 24.9,
-    "descuento": 0.9,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Bol%C3%ADgrafos-de-gel/Boligrafo-marca-Office-Depot-de-tinta-fluida-y-trazo-uniforme-Escritura-comoda-y-duradera-para-uso-diario-en-escuela-y-oficina-/p/1214000083"
+    "nombre": "Marcadores marca Artline con tinta de alta cobertura y colores vibrantes. Versatiles para escuela, oficina, arte y manualidades.",
+    "precio": 0.09,
+    "antes": 8.9,
+    "descuento": 0.99,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Resaltador/Marcadores-marca-Artline-con-tinta-de-alta-cobertura-y-colores-vibrantes-Versatiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214004485"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Sacapuntas marca iStudy con cuchilla afilada que da punta uniforme a lápices y lápices de colores. Diseño práctico con depósito de viruta.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Sacapuntas/Sacapuntas-marca-iStudy-con-cuchilla-afilada-que-da-punta-uniforme-a-l%C3%A1pices-y-l%C3%A1pices-de-colores-Dise%C3%B1o-pr%C3%A1ctico-con-dep%C3%B3sito-de-viruta-/p/1214002889"
   },
   {
     "tienda": "Office Depot",
@@ -161,11 +177,11 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Marcadores marca Office Depot con tinta de alta cobertura y colores vibrantes. Versátiles para escuela, oficina, arte y manualidades.",
-    "precio": 2.59,
-    "antes": 25.9,
+    "nombre": "Boligrafo marca Office Depot de tinta fluida y trazo uniforme. Escritura comoda y duradera para uso diario en escuela y oficina.",
+    "precio": 2.49,
+    "antes": 24.9,
     "descuento": 0.9,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-de-colores/Marcadores-marca-Office-Depot-con-tinta-de-alta-cobertura-y-colores-vibrantes-Vers%C3%A1tiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214001602"
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Bol%C3%ADgrafos-de-gel/Boligrafo-marca-Office-Depot-de-tinta-fluida-y-trazo-uniforme-Escritura-comoda-y-duradera-para-uso-diario-en-escuela-y-oficina-/p/1214000083"
   },
   {
     "tienda": "Office Depot",
@@ -174,30 +190,6 @@
     "antes": 79.9,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Goma-Blanca/Goma-liquida-marca-Elmer-s-de-uso-escolar-y-multiproposito-Pega-papel%2C-carton-y-foamy-con-secado-transparente-Formula-lavable%2C-segura-para-ninos-y-de-aplicacion-controlada-/p/1213000260"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Marcadores marca Artline con tinta de alta cobertura y colores vibrantes. Versatiles para escuela, oficina, arte y manualidades.",
-    "precio": 0.09,
-    "antes": 8.9,
-    "descuento": 0.99,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Resaltador/Marcadores-marca-Artline-con-tinta-de-alta-cobertura-y-colores-vibrantes-Versatiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214004485"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Cinta de senalizacion marca tesa de alta visibilidad. Demarca areas, pasillos y zonas de riesgo en piso, paredes o equipos. Adhesion fuerte y colores brillantes para ambientes industriales y comercial",
-    "precio": 59.7,
-    "antes": 199.0,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Masking-tape/Cinta-de-senalizacion-marca-tesa-de-alta-visibilidad-Demarca-areas%2C-pasillos-y-zonas-de-riesgo-en-piso%2C-paredes-o-equipos-Adhesion-fuerte-y-colores-brillantes-para-ambientes-industriales-y-comercial/p/1213000587"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
-    "precio": 5.97,
-    "antes": 19.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
   },
   {
     "tienda": "Cemaco",
@@ -1873,26 +1865,34 @@
   },
   {
     "tienda": "Novex",
-    "nombre": "Broca para esmerilado de metal hss 1/16 in",
-    "precio": 0.89,
-    "antes": 3.0,
-    "descuento": 0.703,
-    "url": "https://www.novex.com.gt/producto/59101/Broca-para-esmerilado-de-metal-hss-1|16-in.html"
+    "nombre": "Broca para encaje de bisagra escondida 35 mm",
+    "precio": 35.49,
+    "antes": 120.0,
+    "descuento": 0.704,
+    "url": "https://www.novex.com.gt/producto/169223/Broca-para-encaje-de-bisagra-escondida-35-mm.html"
   },
   {
     "tienda": "Novex",
-    "nombre": "Broca para esmerilado de metal hss 21/64 pulgada",
-    "precio": 7.59,
-    "antes": 26.0,
-    "descuento": 0.708,
-    "url": "https://www.novex.com.gt/producto/59118/Broca-para-esmerilado-de-metal-hss-21|64-pulgada.html"
+    "nombre": "Disco de corte concreto 7 x 1/8 x 7/8 pulgadas",
+    "precio": 2.59,
+    "antes": 11.0,
+    "descuento": 0.765,
+    "url": "https://www.novex.com.gt/producto/130585/Disco-de-corte-concreto-7-x-1|8-x-7|8-pulgadas.html"
   },
   {
     "tienda": "Novex",
-    "nombre": "Broca para esmerilado de metal hss 25/64 pulgada",
-    "precio": 10.19,
-    "antes": 34.0,
+    "nombre": "Disco de corte metal/acero inoxidable 7 x 1/8 x 7/8 pulgadas",
+    "precio": 6.59,
+    "antes": 22.0,
     "descuento": 0.7,
-    "url": "https://www.novex.com.gt/producto/59122/Broca-para-esmerilado-de-metal-hss-25|64-pulgada.html"
+    "url": "https://www.novex.com.gt/producto/169055/Disco-de-corte-metal|acero-inoxidable-7-x-1|8-x-7|8-pulgadas.html"
+  },
+  {
+    "tienda": "Novex",
+    "nombre": "Disco de corte concreto 7 x 1/8 x 7/8 pulgadas",
+    "precio": 3.89,
+    "antes": 13.0,
+    "descuento": 0.701,
+    "url": "https://www.novex.com.gt/producto/169062/Disco-de-corte-concreto-7-x-1|8-x-7|8-pulgadas.html"
   }
 ]
