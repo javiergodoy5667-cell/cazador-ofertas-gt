@@ -1061,7 +1061,7 @@
 {"id": "elektra-gt-100701", "fecha": "2026-10-27", "precio": 589.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:19-06:00", "visto_hasta": "2026-11-03"}
 {"id": "elektra-gt-99003091", "fecha": "2026-10-27", "precio": 6599.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:22-06:00", "visto_hasta": "2026-11-01"}
 {"id": "elektra-gt-99003027", "fecha": "2026-10-27", "precio": 3499.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:22-06:00", "visto_hasta": "2026-11-03"}
-{"id": "elektra-gt-3024385", "fecha": "2026-10-27", "precio": 7699.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:22-06:00", "visto_hasta": "2026-11-02"}
+{"id": "elektra-gt-3024385", "fecha": "2026-10-27", "precio": 7699.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:22-06:00", "visto_hasta": "2026-11-03"}
 {"id": "elektra-gt-99003028", "fecha": "2026-10-27", "precio": 2999.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:22-06:00", "visto_hasta": "2026-11-03"}
 {"id": "elektra-gt-4002576", "fecha": "2026-10-27", "precio": 819.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:22-06:00", "visto_hasta": "2026-11-03"}
 {"id": "elektra-gt-49000300", "fecha": "2026-10-27", "precio": 279.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:23-06:00", "visto_hasta": "2026-11-03"}
@@ -1204,7 +1204,7 @@
 {"id": "elektra-gt-99003140", "fecha_inicio": "2026-10-30", "precio": 4195.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-99002650", "fecha_inicio": "2026-10-30", "precio": 2995.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-5005061", "fecha_inicio": "2026-10-30", "precio": 3499.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
-{"id": "elektra-gt-5005031", "fecha_inicio": "2026-10-30", "precio": 8999.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
+{"id": "elektra-gt-5005031", "fecha_inicio": "2026-10-30", "precio": 8999.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-1013047", "fecha_inicio": "2026-10-30", "precio": 5699.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-1012887", "fecha_inicio": "2026-10-30", "precio": 2495.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-1012863", "fecha_inicio": "2026-10-30", "precio": 1495.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
@@ -1240,7 +1240,7 @@
 {"id": "elektra-gt-31062158", "fecha_inicio": "2026-10-30", "precio": 1385.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-14004767", "fecha_inicio": "2026-10-30", "precio": 3399.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-5005081", "fecha_inicio": "2026-10-30", "precio": 3999.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
-{"id": "elektra-gt-5005034", "fecha_inicio": "2026-10-30", "precio": 1499.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
+{"id": "elektra-gt-5005034", "fecha_inicio": "2026-10-30", "precio": 1499.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-99002904", "fecha_inicio": "2026-10-30", "precio": 3299.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-8003121", "fecha_inicio": "2026-10-30", "precio": 3899.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-6004063", "fecha_inicio": "2026-10-30", "precio": 5999.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
@@ -1422,8 +1422,8 @@
 {"id": "elektra-gt-31063835", "fecha_inicio": "2026-11-02", "precio": 3745.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-31063716", "fecha_inicio": "2026-11-02", "precio": 6295.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-31062158", "fecha_inicio": "2026-11-02", "precio": 899.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
-{"id": "elektra-gt-99003091", "fecha_inicio": "2026-11-02", "precio": 6995.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
-{"id": "elektra-gt-34006541", "fecha_inicio": "2026-11-02", "precio": 14250.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
+{"id": "elektra-gt-99003091", "fecha_inicio": "2026-11-02", "precio": 6995.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
+{"id": "elektra-gt-34006541", "fecha_inicio": "2026-11-02", "precio": 14250.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-99003072", "fecha_inicio": "2026-11-02", "precio": 1399.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-99003089", "fecha_inicio": "2026-11-02", "precio": 5395.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-99003289", "fecha_inicio": "2026-11-02", "precio": 3899.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
@@ -1439,7 +1439,7 @@
 {"id": "elektra-gt-8004061", "fecha_inicio": "2026-11-02", "precio": 2799.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-99003200", "fecha_inicio": "2026-11-02", "precio": 8395.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-31062158", "fecha_inicio": "2026-11-03", "precio": 899.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
-{"id": "elektra-gt-31062158", "fecha_inicio": "2026-11-03", "precio": 1385.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
+{"id": "elektra-gt-31062158", "fecha_inicio": "2026-11-03", "precio": 1385.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-99003056", "fecha_inicio": "2026-11-03", "precio": 1545.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-1012948", "fecha_inicio": "2026-11-03", "precio": 3995.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-99003063", "fecha_inicio": "2026-11-03", "precio": 1345.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
@@ -1464,3 +1464,7 @@
 {"id": "elektra-gt-1012937", "fecha_inicio": "2026-11-03", "precio": 2795.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-99003025", "fecha_inicio": "2026-11-03", "precio": 749.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-99003022", "fecha_inicio": "2026-11-03", "precio": 1439.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
+{"id": "elektra-gt-31062158", "fecha_inicio": "2026-11-03", "precio": 899.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
+{"id": "elektra-gt-34006541", "fecha_inicio": "2026-11-03", "precio": 14499.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
+{"id": "elektra-gt-5005034", "fecha_inicio": "2026-11-03", "precio": 1325.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
+{"id": "elektra-gt-5005031", "fecha_inicio": "2026-11-03", "precio": 8995.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
