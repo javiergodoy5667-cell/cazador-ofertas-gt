@@ -1,16 +1,16 @@
 {
-  "ultima_corrida": "2026-11-05T01:51:15-06:00",
-  "duracion_seg": 456.3,
-  "productos_leidos": 45236,
+  "ultima_corrida": "2026-11-05T08:05:15-06:00",
+  "duracion_seg": 459.5,
+  "productos_leidos": 45034,
   "dias_historial": 10,
   "con_ean": {
     "Elektra GT": 698,
     "La Torre": 5690,
     "Cemaco": 2790,
-    "Walmart GT": 5953,
-    "Simán": 2349,
-    "Max": 1127,
-    "Tecnofácil": 964
+    "Walmart GT": 5959,
+    "Simán": 2348,
+    "Max": 1062,
+    "Tecnofácil": 951
   },
   "reporte_tiendas": {
     "Click": {
@@ -19,7 +19,7 @@
       "dias_historial": 9
     },
     "Elektra GT": {
-      "productos": 1008,
+      "productos": 1009,
       "con_ean": 698,
       "dias_historial": 10
     },
@@ -29,19 +29,19 @@
       "dias_historial": 10
     },
     "Office Depot": {
-      "productos": 3026,
+      "productos": 3177,
       "con_ean": 0,
-      "dias_historial": 8
+      "dias_historial": 9
     },
     "El Gallo más Gallo": {
-      "productos": 57,
+      "productos": 56,
       "con_ean": 0,
       "dias_historial": 9
     },
     "La Torre": {
       "productos": 6018,
       "con_ean": 5690,
-      "dias_historial": 9
+      "dias_historial": 10
     },
     "Cemaco": {
       "productos": 5891,
@@ -49,48 +49,48 @@
       "dias_historial": 10
     },
     "Walmart GT": {
-      "productos": 5953,
-      "con_ean": 5953,
+      "productos": 5959,
+      "con_ean": 5959,
       "dias_historial": 10
-    },
-    "PriceSmart": {
-      "productos": 358,
-      "con_ean": 0,
-      "dias_historial": 9
     },
     "EPA": {
       "productos": 9437,
       "con_ean": 0,
-      "dias_historial": 8
+      "dias_historial": 9
     },
-    "Simán": {
-      "productos": 5835,
-      "con_ean": 2349,
-      "dias_historial": 10
+    "PriceSmart": {
+      "productos": 501,
+      "con_ean": 0,
+      "dias_historial": 9
     },
     "Intelaf": {
-      "productos": 171,
+      "productos": 170,
       "con_ean": 0,
       "dias_historial": 7
     },
+    "Simán": {
+      "productos": 5834,
+      "con_ean": 2348,
+      "dias_historial": 10
+    },
     "Max": {
-      "productos": 3072,
-      "con_ean": 1127,
+      "productos": 2783,
+      "con_ean": 1062,
       "dias_historial": 9
     },
     "Tecnofácil": {
-      "productos": 2601,
-      "con_ean": 964,
+      "productos": 2421,
+      "con_ean": 951,
       "dias_historial": 9
     },
     "Novex": {
-      "productos": 88,
+      "productos": 57,
       "con_ean": 0,
-      "dias_historial": 8
+      "dias_historial": 9
     }
   },
-  "coincidencias": 4122,
-  "antes_inflado": 663,
+  "coincidencias": 4063,
+  "antes_inflado": 613,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -101,20 +101,20 @@
       "url": "https://www.elektra.com.gt/ventilador-de-pared-navia-m018p-12003124/p"
     },
     {
-      "nombre": "Cáfetera Black&Decker de 12 Tazas CM0916B",
-      "tienda": "Elektra GT",
-      "antes": 399.0,
-      "precio": 269.0,
-      "max_otro": 345.0,
-      "url": "https://www.elektra.com.gt/cafetera-black-and-decker-de-12-tazas-cm0916b-10005782/p"
-    },
-    {
       "nombre": "Set de 3 Sartenes Picca Gravina con Recubrimiento de Mármol ",
       "tienda": "Elektra GT",
       "antes": 499.0,
       "precio": 339.0,
       "max_otro": 309.99,
       "url": "https://www.elektra.com.gt/juego-de-sarten-picca-de-3-piezas-pi003ssmu-c-10004534/p"
+    },
+    {
+      "nombre": "Arroz Precocido Gallo Dorado",
+      "tienda": "La Torre",
+      "antes": 8.4,
+      "precio": 8.4,
+      "max_otro": 6.8,
+      "url": "https://www.latorre.com.gt/arroz-precocido-gallo-dorado-2010451/p"
     },
     {
       "nombre": "Maíz Dulce Grano Lata Herdez",
@@ -125,19 +125,19 @@
       "url": "https://www.latorre.com.gt/maiz-dulce-grano-lata-herdez-26110/p"
     },
     {
-      "nombre": "Garbanzos Killios Lata",
+      "nombre": "Mayonesa Light Mayoliva Doypack",
       "tienda": "La Torre",
-      "antes": 13.65,
-      "precio": 13.65,
-      "max_otro": 11.0,
-      "url": "https://www.latorre.com.gt/garbanzos-killios-lata-116708/p"
+      "antes": 15.6,
+      "precio": 15.6,
+      "max_otro": 13.5,
+      "url": "https://www.latorre.com.gt/mayonesa-light-mayoliva-doypack-44259/p"
     }
   ],
   "ofertas_por_nivel": {
-    "muy_buena": 99,
+    "muy_buena": 122,
     "loca": 2,
     "buena": 12,
-    "agotado": 4
+    "agotado": 7
   },
   "fuentes": {
     "recolectores.click": {
@@ -145,7 +145,7 @@
       "estado": "OK"
     },
     "recolectores.elektra": {
-      "productos": 1084,
+      "productos": 1085,
       "estado": "OK"
     },
     "recolectores.lacuracao": {
@@ -153,11 +153,11 @@
       "estado": "OK"
     },
     "recolectores.officedepot": {
-      "productos": 3248,
+      "productos": 3423,
       "estado": "OK"
     },
     "recolectores.elgallo": {
-      "productos": 62,
+      "productos": 61,
       "estado": "OK"
     },
     "recolectores.la_torre": {
@@ -169,35 +169,35 @@
       "estado": "OK"
     },
     "recolectores.walmart": {
-      "productos": 6022,
-      "estado": "OK"
-    },
-    "recolectores.pricesmart": {
-      "productos": 376,
+      "productos": 6028,
       "estado": "OK"
     },
     "recolectores.epa": {
       "productos": 9747,
       "estado": "OK"
     },
+    "recolectores.pricesmart": {
+      "productos": 528,
+      "estado": "OK"
+    },
+    "recolectores.intelaf": {
+      "productos": 232,
+      "estado": "OK"
+    },
     "recolectores.siman": {
       "productos": 6024,
       "estado": "OK"
     },
-    "recolectores.intelaf": {
-      "productos": 233,
-      "estado": "OK"
-    },
     "recolectores.max_gt": {
-      "productos": 3261,
+      "productos": 2947,
       "estado": "OK"
     },
     "recolectores.tecnofacil": {
-      "productos": 2758,
+      "productos": 2593,
       "estado": "OK"
     },
     "recolectores.novex": {
-      "productos": 88,
+      "productos": 61,
       "estado": "OK"
     }
   },
