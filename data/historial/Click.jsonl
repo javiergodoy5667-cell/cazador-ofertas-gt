@@ -298,7 +298,7 @@
 {"id": "click-8025922076708", "fecha_inicio": "2026-10-28", "precio": 6399.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "click-8061401333796", "fecha_inicio": "2026-10-28", "precio": 9699.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "click-11079174225956", "fecha_inicio": "2026-10-28", "precio": 6299.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
-{"id": "click-11079174815780", "fecha_inicio": "2026-10-28", "precio": 19559.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
+{"id": "click-11079174815780", "fecha_inicio": "2026-10-28", "precio": 19559.0, "visto_hasta": "2026-11-04", "precio_unidad": null, "unidad": null}
 {"id": "click-11079174848548", "fecha_inicio": "2026-10-28", "precio": 9399.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "click-11079174324260", "fecha_inicio": "2026-10-28", "precio": 2169.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "click-8064402784292", "fecha_inicio": "2026-10-28", "precio": 1199.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
@@ -560,7 +560,7 @@
 {"id": "click-8047475589156", "fecha_inicio": "2026-10-28", "precio": 1449.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "click-8245279719460", "fecha_inicio": "2026-10-28", "precio": 859.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "click-8264601829412", "fecha_inicio": "2026-10-28", "precio": 7799.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
-{"id": "click-8264601763876", "fecha_inicio": "2026-10-28", "precio": 5329.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
+{"id": "click-8264601763876", "fecha_inicio": "2026-10-28", "precio": 5329.0, "visto_hasta": "2026-11-04", "precio_unidad": null, "unidad": null}
 {"id": "click-8064402554916", "fecha_inicio": "2026-10-28", "precio": 1349.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "click-8264601600036", "fecha_inicio": "2026-10-28", "precio": 2349.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "click-8064402620452", "fecha_inicio": "2026-10-28", "precio": 3549.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
@@ -1714,3 +1714,5 @@
 {"id": "click-7891508363300", "fecha_inicio": "2026-11-05", "precio": 9889.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "click-8242559221796", "fecha_inicio": "2026-11-05", "precio": 949.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "click-8024745803812", "fecha_inicio": "2026-11-05", "precio": 6199.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
+{"id": "click-11079174815780", "fecha_inicio": "2026-11-05", "precio": 19499.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
+{"id": "click-8264601763876", "fecha_inicio": "2026-11-05", "precio": 5569.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
