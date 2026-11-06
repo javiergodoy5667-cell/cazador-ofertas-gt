@@ -216,14 +216,6 @@
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Masking-tape/Cinta-de-senalizacion-marca-tesa-de-alta-visibilidad-Demarca-areas%2C-pasillos-y-zonas-de-riesgo-en-piso%2C-paredes-o-equipos-Adhesion-fuerte-y-colores-brillantes-para-ambientes-industriales-y-comercial/p/1213000587"
   },
   {
-    "tienda": "Office Depot",
-    "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
-    "precio": 5.97,
-    "antes": 19.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
-  },
-  {
     "tienda": "Cemaco",
     "nombre": "Filtro Reusable de Tela para Aspirar en Seco 2.5 Gal",
     "precio": 15.0,
@@ -1846,5 +1838,21 @@
     "antes": 699.0,
     "descuento": 0.787,
     "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
+  },
+  {
+    "tienda": "Tecnofácil",
+    "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
+    "precio": 1099.0,
+    "antes": 3795.0,
+    "descuento": 0.71,
+    "url": "https://www.tecnofacil.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
+  },
+  {
+    "tienda": "Max",
+    "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
+    "precio": 1099.0,
+    "antes": 3795.0,
+    "descuento": 0.71,
+    "url": "https://www.max.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
   }
 ]
