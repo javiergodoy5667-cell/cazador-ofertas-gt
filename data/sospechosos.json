@@ -1,13 +1,5 @@
 [
   {
-    "tienda": "Click",
-    "nombre": "PORTA LLAVES S-BINER KRG2-11-R3",
-    "precio": 9.0,
-    "antes": 35.0,
-    "descuento": 0.743,
-    "url": "https://www.click.gt/products/porta-llaves-s-biner-krg2-11-r3"
-  },
-  {
     "tienda": "Elektra GT",
     "nombre": "Cover Samsung Galaxy A11 Transparente",
     "precio": 65.0,
@@ -86,14 +78,6 @@
     "antes": 499.0,
     "descuento": 0.78,
     "url": "https://www.elektra.com.gt/tinta-epson-negra-544-t544120-al-30004208/p"
-  },
-  {
-    "tienda": "Elektra GT",
-    "nombre": "Cover Samsung S25 Ultra Colores Varios",
-    "precio": 99.0,
-    "antes": 478.0,
-    "descuento": 0.793,
-    "url": "https://www.elektra.com.gt/cover-samsung-s25-ultra-32011341/p"
   },
   {
     "tienda": "Elektra GT",
@@ -190,14 +174,6 @@
     "antes": 499.0,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/Set-escolar-marca-Staedtler-con-%C3%BAtiles-complementarios-listos-para-usar-Ahorra-tiempo-y-dinero-con-productos-coordinados-para-escuela%2C-oficina-o-regalo-/p/1214003940"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Marcador permanente marca Office Depot de tinta resistente al agua y al desvanecimiento. Escribe sobre papel, carton, plastico, metal, vidrio y madera. Ideal para etiquetar y rotular.",
-    "precio": 4.62,
-    "antes": 15.4,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-permanentes/Marcador-permanente-marca-Office-Depot-de-tinta-resistente-al-agua-y-al-desvanecimiento-Escribe-sobre-papel%2C-carton%2C-plastico%2C-metal%2C-vidrio-y-madera-Ideal-para-etiquetar-y-rotular-/p/1214000101"
   },
   {
     "tienda": "Office Depot",
@@ -350,14 +326,6 @@
     "antes": 139.99,
     "descuento": 0.7,
     "url": "https://www.cemaco.com/plafon-de-techo-cuadros-cuadrado-305-cm-60w-z-799097/p"
-  },
-  {
-    "tienda": "Cemaco",
-    "nombre": "Mazo de 12 Lbs con Mango de Madera",
-    "precio": 53.99,
-    "antes": 269.99,
-    "descuento": 0.8,
-    "url": "https://www.cemaco.com/qmazo-de-12-lbs-663516b/p"
   },
   {
     "tienda": "EPA",
@@ -1854,6 +1822,14 @@
     "antes": 3795.0,
     "descuento": 0.71,
     "url": "https://www.tecnofacil.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
+  },
+  {
+    "tienda": "Tecnofácil",
+    "nombre": "Cámara de acción MAX2 360°, video esférico de 8K, fotos 360 de 29 MP, con lente reemplazable",
+    "precio": 699.0,
+    "antes": 6495.0,
+    "descuento": 0.892,
+    "url": "https://www.tecnofacil.com.gt/camara-de-accion-max2-360-video-esferico-de-8k-fotos-360-de-29-mp-con-lente-reemplazable-gopro-chdhz311th"
   },
   {
     "tienda": "Max",
