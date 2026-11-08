@@ -1,5 +1,13 @@
 [
   {
+    "tienda": "Click",
+    "nombre": "PORTA LLAVES S-BINER KRG2-11-R3",
+    "precio": 9.0,
+    "antes": 35.0,
+    "descuento": 0.743,
+    "url": "https://www.click.gt/products/porta-llaves-s-biner-krg2-11-r3"
+  },
+  {
     "tienda": "Elektra GT",
     "nombre": "Cover Samsung Galaxy A11 Transparente",
     "precio": 65.0,
@@ -145,14 +153,6 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Sacapuntas marca iStudy con cuchilla afilada que da punta uniforme a lápices y lápices de colores. Diseño práctico con depósito de viruta.",
-    "precio": 5.97,
-    "antes": 19.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Sacapuntas/Sacapuntas-marca-iStudy-con-cuchilla-afilada-que-da-punta-uniforme-a-l%C3%A1pices-y-l%C3%A1pices-de-colores-Dise%C3%B1o-pr%C3%A1ctico-con-dep%C3%B3sito-de-viruta-/p/1214002889"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Yeso marca Crayola para escultura, manualidades y proyectos artisticos. Mezcla y aplicacion sencillas para crear figuras, moldes y acabados decorativos.",
     "precio": 5.97,
     "antes": 19.9,
@@ -182,6 +182,14 @@
     "antes": 15.4,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-permanentes/Marcador-permanente-marca-Office-Depot-de-tinta-resistente-al-agua-y-al-desvanecimiento-Escribe-sobre-papel%2C-carton%2C-plastico%2C-metal%2C-vidrio-y-madera-Ideal-para-etiquetar-y-rotular-/p/1214000101"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Goma liquida marca Elmer s de uso escolar y multiproposito. Pega papel, carton y foamy con secado transparente. Formula lavable, segura para ninos y de aplicacion controlada.",
+    "precio": 23.97,
+    "antes": 79.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Goma-Blanca/Goma-liquida-marca-Elmer-s-de-uso-escolar-y-multiproposito-Pega-papel%2C-carton-y-foamy-con-secado-transparente-Formula-lavable%2C-segura-para-ninos-y-de-aplicacion-controlada-/p/1213000260"
   },
   {
     "tienda": "Office Depot",
@@ -257,14 +265,6 @@
   },
   {
     "tienda": "Cemaco",
-    "nombre": "Lámpara de Emergencia Recargable LED de 1 W Color Blanca",
-    "precio": 59.99,
-    "antes": 299.99,
-    "descuento": 0.8,
-    "url": "https://www.cemaco.com/lampara-de-emergencia-recargable-tecnolite-1040784/p"
-  },
-  {
-    "tienda": "Cemaco",
     "nombre": "Lámpara para Pared Spot 100W para Sobreponer 2 Luces",
     "precio": 71.99,
     "antes": 239.99,
@@ -278,6 +278,14 @@
     "antes": 59.99,
     "descuento": 0.7,
     "url": "https://www.cemaco.com/bombilla-globo-led-10w-800lm-ace-1045463/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Lámpara de Emergencia Recargable LED de 1 W Color Blanca",
+    "precio": 59.99,
+    "antes": 299.99,
+    "descuento": 0.8,
+    "url": "https://www.cemaco.com/lampara-de-emergencia-recargable-tecnolite-1040784/p"
   },
   {
     "tienda": "Cemaco",
@@ -334,6 +342,14 @@
     "antes": 269.99,
     "descuento": 0.8,
     "url": "https://www.cemaco.com/qmazo-de-12-lbs-663516b/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
   },
   {
     "tienda": "EPA",
@@ -1816,14 +1832,6 @@
     "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
   },
   {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
-  },
-  {
     "tienda": "Max",
     "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
     "precio": 1099.0,
@@ -1838,5 +1846,13 @@
     "antes": 3795.0,
     "descuento": 0.71,
     "url": "https://www.tecnofacil.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
+  },
+  {
+    "tienda": "Novex",
+    "nombre": "Sierra para caladora metal 3 pulgadas 12 tpi 5 pzas",
+    "precio": 8.29,
+    "antes": 28.0,
+    "descuento": 0.704,
+    "url": "https://www.novex.com.gt/producto/143825/Sierra-para-caladora-metal-3-pulgadas-12-tpi-5-pzas.html"
   }
 ]
