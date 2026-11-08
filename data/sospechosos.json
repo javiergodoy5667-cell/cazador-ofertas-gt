@@ -89,6 +89,14 @@
   },
   {
     "tienda": "Elektra GT",
+    "nombre": "Cover Samsung S25 Ultra Colores Varios",
+    "precio": 99.0,
+    "antes": 478.0,
+    "descuento": 0.793,
+    "url": "https://www.elektra.com.gt/cover-samsung-s25-ultra-32011341/p"
+  },
+  {
+    "tienda": "Elektra GT",
     "nombre": "Cover Samsung S25 Colores Varios",
     "precio": 89.0,
     "antes": 339.0,
@@ -142,6 +150,22 @@
     "antes": 24.9,
     "descuento": 0.9,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Bol%C3%ADgrafos-de-gel/Boligrafo-marca-Office-Depot-de-tinta-fluida-y-trazo-uniforme-Escritura-comoda-y-duradera-para-uso-diario-en-escuela-y-oficina-/p/1214000083"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Borrador marca iStudy de goma suave que elimina trazos de lápiz sin maltratar el papel. Ideal para escuela, oficina y dibujo.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Borradores/Borrador-marca-iStudy-de-goma-suave-que-elimina-trazos-de-l%C3%A1piz-sin-maltratar-el-papel-Ideal-para-escuela%2C-oficina-y-dibujo-/p/1214002878"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Sacapuntas marca iStudy con cuchilla afilada que da punta uniforme a lápices y lápices de colores. Diseño práctico con depósito de viruta.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Sacapuntas/Sacapuntas-marca-iStudy-con-cuchilla-afilada-que-da-punta-uniforme-a-l%C3%A1pices-y-l%C3%A1pices-de-colores-Dise%C3%B1o-pr%C3%A1ctico-con-dep%C3%B3sito-de-viruta-/p/1214002889"
   },
   {
     "tienda": "Office Depot",
@@ -1816,19 +1840,19 @@
     "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
   },
   {
-    "tienda": "Max",
-    "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
-    "precio": 1099.0,
-    "antes": 3795.0,
-    "descuento": 0.71,
-    "url": "https://www.max.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
-  },
-  {
     "tienda": "Tecnofácil",
     "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
     "precio": 1099.0,
     "antes": 3795.0,
     "descuento": 0.71,
     "url": "https://www.tecnofacil.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
+  },
+  {
+    "tienda": "Max",
+    "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
+    "precio": 1099.0,
+    "antes": 3795.0,
+    "descuento": 0.71,
+    "url": "https://www.max.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
   }
 ]
