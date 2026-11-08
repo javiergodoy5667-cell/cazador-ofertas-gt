@@ -1,13 +1,5 @@
 [
   {
-    "tienda": "Click",
-    "nombre": "PORTA LLAVES S-BINER KRG2-11-R3",
-    "precio": 9.0,
-    "antes": 35.0,
-    "descuento": 0.743,
-    "url": "https://www.click.gt/products/porta-llaves-s-biner-krg2-11-r3"
-  },
-  {
     "tienda": "Elektra GT",
     "nombre": "Cover Samsung Galaxy A11 Transparente",
     "precio": 65.0,
@@ -193,19 +185,19 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Goma liquida marca Elmer s de uso escolar y multiproposito. Pega papel, carton y foamy con secado transparente. Formula lavable, segura para ninos y de aplicacion controlada.",
-    "precio": 23.97,
-    "antes": 79.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Goma-Blanca/Goma-liquida-marca-Elmer-s-de-uso-escolar-y-multiproposito-Pega-papel%2C-carton-y-foamy-con-secado-transparente-Formula-lavable%2C-segura-para-ninos-y-de-aplicacion-controlada-/p/1213000260"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Cinta de senalizacion marca tesa de alta visibilidad. Demarca areas, pasillos y zonas de riesgo en piso, paredes o equipos. Adhesion fuerte y colores brillantes para ambientes industriales y comercial",
     "precio": 59.7,
     "antes": 199.0,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Masking-tape/Cinta-de-senalizacion-marca-tesa-de-alta-visibilidad-Demarca-areas%2C-pasillos-y-zonas-de-riesgo-en-piso%2C-paredes-o-equipos-Adhesion-fuerte-y-colores-brillantes-para-ambientes-industriales-y-comercial/p/1213000587"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
   },
   {
     "tienda": "Cemaco",
@@ -334,6 +326,14 @@
     "antes": 52.99,
     "descuento": 0.8,
     "url": "https://www.cemaco.com/reflector-par38-halogeno-volteck-varias-capacidades-790375/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Mazo de 12 Lbs con Mango de Madera",
+    "precio": 53.99,
+    "antes": 269.99,
+    "descuento": 0.8,
+    "url": "https://www.cemaco.com/qmazo-de-12-lbs-663516b/p"
   },
   {
     "tienda": "EPA",
