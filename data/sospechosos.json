@@ -1,5 +1,13 @@
 [
   {
+    "tienda": "Click",
+    "nombre": "PORTA LLAVES S-BINER KRG2-11-R3",
+    "precio": 9.0,
+    "antes": 35.0,
+    "descuento": 0.743,
+    "url": "https://www.click.gt/products/porta-llaves-s-biner-krg2-11-r3"
+  },
+  {
     "tienda": "Elektra GT",
     "nombre": "Cover Samsung Galaxy A11 Transparente",
     "precio": 65.0,
@@ -81,22 +89,6 @@
   },
   {
     "tienda": "Elektra GT",
-    "nombre": "Cover Samsung S25 Ultra Colores Varios",
-    "precio": 99.0,
-    "antes": 478.0,
-    "descuento": 0.793,
-    "url": "https://www.elektra.com.gt/cover-samsung-s25-ultra-32011341/p"
-  },
-  {
-    "tienda": "Elektra GT",
-    "nombre": "Cover Samsung S25 Colores Varios",
-    "precio": 89.0,
-    "antes": 339.0,
-    "descuento": 0.737,
-    "url": "https://www.elektra.com.gt/cover-samsung-s25-32011322/p"
-  },
-  {
-    "tienda": "Elektra GT",
     "nombre": "Sartén Picca Turín 18 cm PI0022ST",
     "precio": 49.0,
     "antes": 209.0,
@@ -161,6 +153,14 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Yeso marca Crayola para escultura, manualidades y proyectos artisticos. Mezcla y aplicacion sencillas para crear figuras, moldes y acabados decorativos.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Yeso/Yeso-marca-Crayola-para-escultura%2C-manualidades-y-proyectos-artisticos-Mezcla-y-aplicacion-sencillas-para-crear-figuras%2C-moldes-y-acabados-decorativos-/p/1214003759"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Lapices de colores marca Staedtler con mina pigmentada y resistente. Trazos suaves, intensos y mezclables, ideales para dibujo, coloreado y proyectos escolares.",
     "precio": 188.7,
     "antes": 629.0,
@@ -193,11 +193,51 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Cinta de senalizacion marca tesa de alta visibilidad. Demarca areas, pasillos y zonas de riesgo en piso, paredes o equipos. Adhesion fuerte y colores brillantes para ambientes industriales y comercial",
-    "precio": 59.7,
-    "antes": 199.0,
+    "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
+    "precio": 5.97,
+    "antes": 19.9,
     "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Masking-tape/Cinta-de-senalizacion-marca-tesa-de-alta-visibilidad-Demarca-areas%2C-pasillos-y-zonas-de-riesgo-en-piso%2C-paredes-o-equipos-Adhesion-fuerte-y-colores-brillantes-para-ambientes-industriales-y-comercial/p/1213000587"
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Cubo de notas marca Office Depot con hojas para recados, recordatorios y listas. Diseno compacto para escritorio que mantiene todo organizado al alcance.",
+    "precio": 23.97,
+    "antes": 79.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Cubo-de-notas-marca-Office-Depot-con-hojas-para-recados%2C-recordatorios-y-listas-Diseno-compacto-para-escritorio-que-mantiene-todo-organizado-al-alcance-/p/1213000426"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Notas adhesivas marca Office Depot reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
+    "precio": 3.27,
+    "antes": 10.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Office-Depot-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000430"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Notas adhesivas marca Office Depot reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
+    "precio": 3.27,
+    "antes": 10.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Office-Depot-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000427"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Notas adhesivas marca Office Depot reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
+    "precio": 3.27,
+    "antes": 10.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Office-Depot-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000428"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Notas adhesivas marca Office Depot reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
+    "precio": 3.27,
+    "antes": 10.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Office-Depot-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000429"
   },
   {
     "tienda": "Cemaco",
@@ -1816,19 +1856,19 @@
     "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
   },
   {
-    "tienda": "Max",
-    "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
-    "precio": 1099.0,
-    "antes": 3795.0,
-    "descuento": 0.71,
-    "url": "https://www.max.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
-  },
-  {
     "tienda": "Tecnofácil",
     "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
     "precio": 1099.0,
     "antes": 3795.0,
     "descuento": 0.71,
     "url": "https://www.tecnofacil.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
+  },
+  {
+    "tienda": "Max",
+    "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
+    "precio": 1099.0,
+    "antes": 3795.0,
+    "descuento": 0.71,
+    "url": "https://www.max.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
   }
 ]

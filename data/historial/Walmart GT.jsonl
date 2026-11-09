@@ -166,15 +166,15 @@
 {"id": "walmart-gt-75744", "fecha": "2026-10-27", "precio": 3559.05, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
 {"id": "walmart-gt-48483", "fecha": "2026-10-27", "precio": 3505.5, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
 {"id": "walmart-gt-103781", "fecha": "2026-10-27", "precio": 6599.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
-{"id": "walmart-gt-103325", "fecha": "2026-10-27", "precio": 17672.3, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
-{"id": "walmart-gt-103304", "fecha": "2026-10-27", "precio": 999.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
-{"id": "walmart-gt-103306", "fecha": "2026-10-27", "precio": 6549.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
-{"id": "walmart-gt-103215", "fecha": "2026-10-27", "precio": 1199.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
-{"id": "walmart-gt-103309", "fecha": "2026-10-27", "precio": 3028.3, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
-{"id": "walmart-gt-103308", "fecha": "2026-10-27", "precio": 3925.9, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
-{"id": "walmart-gt-103305", "fecha": "2026-10-27", "precio": 7149.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
+{"id": "walmart-gt-103325", "fecha": "2026-10-27", "precio": 17672.3, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00", "visto_hasta": "2026-11-09"}
+{"id": "walmart-gt-103304", "fecha": "2026-10-27", "precio": 999.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00", "visto_hasta": "2026-11-09"}
+{"id": "walmart-gt-103306", "fecha": "2026-10-27", "precio": 6549.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00", "visto_hasta": "2026-11-09"}
+{"id": "walmart-gt-103215", "fecha": "2026-10-27", "precio": 1199.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00", "visto_hasta": "2026-11-09"}
+{"id": "walmart-gt-103309", "fecha": "2026-10-27", "precio": 3028.3, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00", "visto_hasta": "2026-11-09"}
+{"id": "walmart-gt-103308", "fecha": "2026-10-27", "precio": 3925.9, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00", "visto_hasta": "2026-11-09"}
+{"id": "walmart-gt-103305", "fecha": "2026-10-27", "precio": 7149.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-20122", "fecha": "2026-10-27", "precio": 46.2, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
-{"id": "walmart-gt-37047", "fecha": "2026-10-27", "precio": 750.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
+{"id": "walmart-gt-37047", "fecha": "2026-10-27", "precio": 750.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-92810", "fecha": "2026-10-27", "precio": 120.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
 {"id": "walmart-gt-75774", "fecha": "2026-10-27", "precio": 200.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
 {"id": "walmart-gt-17202", "fecha": "2026-10-27", "precio": 110.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:26-06:00"}
@@ -2822,7 +2822,7 @@
 {"id": "walmart-gt-27518", "fecha": "2026-10-27", "precio": 5.2, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:45-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-27510", "fecha": "2026-10-27", "precio": 4.85, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:45-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-27413", "fecha": "2026-10-27", "precio": 5.5, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:45-06:00", "visto_hasta": "2026-11-09"}
-{"id": "walmart-gt-27379", "fecha": "2026-10-27", "precio": 7.6, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:45-06:00", "visto_hasta": "2026-11-08"}
+{"id": "walmart-gt-27379", "fecha": "2026-10-27", "precio": 7.6, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:45-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-27378", "fecha": "2026-10-27", "precio": 7.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:45-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-27374", "fecha": "2026-10-27", "precio": 7.7, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:45-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-27370", "fecha": "2026-10-27", "precio": 4.65, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:47:45-06:00", "visto_hasta": "2026-11-09"}
@@ -3437,7 +3437,7 @@
 {"id": "walmart-gt-15666", "fecha": "2026-10-27", "precio": 10.25, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:01-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-15662", "fecha": "2026-10-27", "precio": 11.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:01-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-8486", "fecha": "2026-10-27", "precio": 32.25, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:01-06:00", "visto_hasta": "2026-11-09"}
-{"id": "walmart-gt-5401", "fecha": "2026-10-27", "precio": 25.75, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:01-06:00", "visto_hasta": "2026-11-07"}
+{"id": "walmart-gt-5401", "fecha": "2026-10-27", "precio": 25.75, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:01-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-5389", "fecha": "2026-10-27", "precio": 26.75, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:01-06:00", "visto_hasta": "2026-10-28"}
 {"id": "walmart-gt-542", "fecha": "2026-10-27", "precio": 8.1, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:01-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-116066", "fecha": "2026-10-27", "precio": 6.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:01-06:00", "visto_hasta": "2026-11-09"}
@@ -4844,7 +4844,7 @@
 {"id": "walmart-gt-30080", "fecha": "2026-10-27", "precio": 20.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:37-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-29600", "fecha": "2026-10-27", "precio": 12.5, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:37-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-28379", "fecha": "2026-10-27", "precio": 14.5, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:37-06:00", "visto_hasta": "2026-11-09"}
-{"id": "walmart-gt-28370", "fecha": "2026-10-27", "precio": 20.75, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:37-06:00", "visto_hasta": "2026-11-08"}
+{"id": "walmart-gt-28370", "fecha": "2026-10-27", "precio": 20.75, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:37-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-26813", "fecha": "2026-10-27", "precio": 15.25, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:37-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-19570", "fecha": "2026-10-27", "precio": 49.9, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:37-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-14204", "fecha": "2026-10-27", "precio": 8.3, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:37-06:00", "visto_hasta": "2026-11-09"}
@@ -5905,7 +5905,7 @@
 {"id": "walmart-gt-105509", "fecha": "2026-10-27", "precio": 12.5, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:49:06-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-103288", "fecha": "2026-10-27", "precio": 28.58, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:49:06-06:00", "visto_hasta": "2026-11-08"}
 {"id": "walmart-gt-103285", "fecha": "2026-10-27", "precio": 31.75, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:49:06-06:00", "visto_hasta": "2026-11-09"}
-{"id": "walmart-gt-103282", "fecha": "2026-10-27", "precio": 31.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:49:06-06:00", "visto_hasta": "2026-11-08"}
+{"id": "walmart-gt-103282", "fecha": "2026-10-27", "precio": 31.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:49:06-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-103160", "fecha": "2026-10-27", "precio": 23.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:49:06-06:00", "visto_hasta": "2026-11-09"}
 {"id": "walmart-gt-102238", "fecha": "2026-10-27", "precio": 21.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:49:06-06:00", "visto_hasta": "2026-11-08"}
 {"id": "walmart-gt-101209", "fecha": "2026-10-27", "precio": 10.5, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:49:06-06:00", "visto_hasta": "2026-11-09"}
@@ -6235,7 +6235,7 @@
 {"id": "walmart-gt-59194", "fecha_inicio": "2026-10-27", "precio": 45.75, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-30633", "fecha_inicio": "2026-10-27", "precio": 18.25, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-20466", "fecha_inicio": "2026-10-27", "precio": 520.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-107593", "fecha_inicio": "2026-10-27", "precio": 480.0, "visto_hasta": "2026-11-07", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-107593", "fecha_inicio": "2026-10-27", "precio": 480.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-107584", "fecha_inicio": "2026-10-27", "precio": 245.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-67575", "fecha_inicio": "2026-10-27", "precio": 35.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-60457", "fecha_inicio": "2026-10-27", "precio": 75.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
@@ -6267,11 +6267,11 @@
 {"id": "walmart-gt-117799", "fecha_inicio": "2026-10-27", "precio": 170.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-107599", "fecha_inicio": "2026-10-27", "precio": 360.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-107594", "fecha_inicio": "2026-10-27", "precio": 650.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-84561", "fecha_inicio": "2026-10-27", "precio": 30.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-84561", "fecha_inicio": "2026-10-27", "precio": 30.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-84151", "fecha_inicio": "2026-10-27", "precio": 28.5, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-71990", "fecha_inicio": "2026-10-27", "precio": 900.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-68429", "fecha_inicio": "2026-10-27", "precio": 380.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-66354", "fecha_inicio": "2026-10-27", "precio": 370.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-68429", "fecha_inicio": "2026-10-27", "precio": 380.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-66354", "fecha_inicio": "2026-10-27", "precio": 370.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-61352", "fecha_inicio": "2026-10-27", "precio": 1090.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-56775", "fecha_inicio": "2026-10-27", "precio": 60.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-51986", "fecha_inicio": "2026-10-27", "precio": 25.5, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
@@ -6287,14 +6287,14 @@
 {"id": "walmart-gt-15465", "fecha_inicio": "2026-10-27", "precio": 21.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-15464", "fecha_inicio": "2026-10-27", "precio": 43.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-13405", "fecha_inicio": "2026-10-27", "precio": 80.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-107592", "fecha_inicio": "2026-10-27", "precio": 440.0, "visto_hasta": "2026-11-04", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-107592", "fecha_inicio": "2026-10-27", "precio": 440.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-66583", "fecha_inicio": "2026-10-27", "precio": 38.5, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-57976", "fecha_inicio": "2026-10-27", "precio": 800.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-57962", "fecha_inicio": "2026-10-27", "precio": 535.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-45030", "fecha_inicio": "2026-10-27", "precio": 20.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-45030", "fecha_inicio": "2026-10-27", "precio": 20.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-31391", "fecha_inicio": "2026-10-27", "precio": 270.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-30663", "fecha_inicio": "2026-10-27", "precio": 43.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-30642", "fecha_inicio": "2026-10-27", "precio": 20.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-30663", "fecha_inicio": "2026-10-27", "precio": 43.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-30642", "fecha_inicio": "2026-10-27", "precio": 20.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-30507", "fecha_inicio": "2026-10-27", "precio": 235.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-29941", "fecha_inicio": "2026-10-27", "precio": 1035.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-29939", "fecha_inicio": "2026-10-27", "precio": 1330.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
@@ -6324,9 +6324,9 @@
 {"id": "walmart-gt-117839", "fecha_inicio": "2026-10-27", "precio": 135.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-117838", "fecha_inicio": "2026-10-27", "precio": 127.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-117813", "fecha_inicio": "2026-10-27", "precio": 135.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-117812", "fecha_inicio": "2026-10-27", "precio": 171.0, "visto_hasta": "2026-11-04", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-117812", "fecha_inicio": "2026-10-27", "precio": 171.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-117811", "fecha_inicio": "2026-10-27", "precio": 499.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-117805", "fecha_inicio": "2026-10-27", "precio": 177.0, "visto_hasta": "2026-10-30", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-117805", "fecha_inicio": "2026-10-27", "precio": 177.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-15200", "fecha_inicio": "2026-10-27", "precio": 31.25, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-15199", "fecha_inicio": "2026-10-27", "precio": 25.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-15196", "fecha_inicio": "2026-10-27", "precio": 50.0, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
@@ -6492,8 +6492,8 @@
 {"id": "walmart-gt-50098", "fecha_inicio": "2026-10-28", "precio": 10.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-39217", "fecha_inicio": "2026-10-28", "precio": 17.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-129350", "fecha_inicio": "2026-10-28", "precio": 126.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-116577", "fecha_inicio": "2026-10-28", "precio": 1025.0, "visto_hasta": "2026-10-30", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-116576", "fecha_inicio": "2026-10-28", "precio": 1210.0, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-116577", "fecha_inicio": "2026-10-28", "precio": 1025.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-116576", "fecha_inicio": "2026-10-28", "precio": 1210.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-7824", "fecha_inicio": "2026-10-28", "precio": 19.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-76238", "fecha_inicio": "2026-10-28", "precio": 25.25, "visto_hasta": "2026-11-04", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-74456", "fecha_inicio": "2026-10-28", "precio": 30.0, "visto_hasta": "2026-10-30", "precio_unidad": null, "unidad": null}
@@ -6994,7 +6994,7 @@
 {"id": "walmart-gt-106482", "fecha_inicio": "2026-10-31", "precio": 41.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-67357", "fecha_inicio": "2026-10-31", "precio": 25.9, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-44043", "fecha_inicio": "2026-10-31", "precio": 47.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-27039", "fecha_inicio": "2026-10-31", "precio": 26.75, "visto_hasta": "2026-11-08", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-27039", "fecha_inicio": "2026-10-31", "precio": 26.75, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-49354", "fecha_inicio": "2026-10-31", "precio": 51.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-41512", "fecha_inicio": "2026-10-31", "precio": 23.5, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-5453", "fecha_inicio": "2026-10-31", "precio": 32.0, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
@@ -8285,7 +8285,7 @@
 {"id": "walmart-gt-106652", "fecha_inicio": "2026-11-04", "precio": 100.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-120730", "fecha_inicio": "2026-11-04", "precio": 525.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-117839", "fecha_inicio": "2026-11-04", "precio": 165.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-117813", "fecha_inicio": "2026-11-04", "precio": 165.0, "visto_hasta": "2026-11-06", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-117813", "fecha_inicio": "2026-11-04", "precio": 165.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-128026", "fecha_inicio": "2026-11-04", "precio": 65.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-50664", "fecha_inicio": "2026-11-04", "precio": 19.25, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-33816", "fecha_inicio": "2026-11-04", "precio": 12.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
@@ -8583,7 +8583,7 @@
 {"id": "walmart-gt-32305", "fecha_inicio": "2026-11-05", "precio": 4.85, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-26858", "fecha_inicio": "2026-11-05", "precio": 4.55, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-26642", "fecha_inicio": "2026-11-05", "precio": 11.5, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-4534", "fecha_inicio": "2026-11-05", "precio": 2.85, "visto_hasta": "2026-11-08", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-4534", "fecha_inicio": "2026-11-05", "precio": 2.85, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-4533", "fecha_inicio": "2026-11-05", "precio": 2.85, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-90911", "fecha_inicio": "2026-11-05", "precio": 5.7, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-85630", "fecha_inicio": "2026-11-05", "precio": 2.45, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
@@ -8611,7 +8611,7 @@
 {"id": "walmart-gt-7962", "fecha_inicio": "2026-11-05", "precio": 9.5, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-7961", "fecha_inicio": "2026-11-05", "precio": 9.4, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-4559", "fecha_inicio": "2026-11-05", "precio": 106.2, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-72334", "fecha_inicio": "2026-11-05", "precio": 6.6, "visto_hasta": "2026-11-06", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-72334", "fecha_inicio": "2026-11-05", "precio": 6.6, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-40050", "fecha_inicio": "2026-11-05", "precio": 14.5, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-18459", "fecha_inicio": "2026-11-05", "precio": 19.35, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-18454", "fecha_inicio": "2026-11-05", "precio": 17.75, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
@@ -8680,7 +8680,7 @@
 {"id": "walmart-gt-33657", "fecha_inicio": "2026-11-05", "precio": 14.9, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-33650", "fecha_inicio": "2026-11-05", "precio": 9.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-31033", "fecha_inicio": "2026-11-05", "precio": 5.5, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "walmart-gt-28369", "fecha_inicio": "2026-11-05", "precio": 13.5, "visto_hasta": "2026-11-06", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-28369", "fecha_inicio": "2026-11-05", "precio": 13.5, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-27881", "fecha_inicio": "2026-11-05", "precio": 22.25, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-27880", "fecha_inicio": "2026-11-05", "precio": 8.6, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-33711", "fecha_inicio": "2026-11-05", "precio": 16.75, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
@@ -8962,3 +8962,148 @@
 {"id": "walmart-gt-58239", "fecha_inicio": "2026-11-09", "precio": 24.25, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-35853", "fecha_inicio": "2026-11-09", "precio": 27.2, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "walmart-gt-20477", "fecha_inicio": "2026-11-09", "precio": 98.85, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-116575", "fecha_inicio": "2026-11-09", "precio": 1250.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-116574", "fecha_inicio": "2026-11-09", "precio": 1150.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-116573", "fecha_inicio": "2026-11-09", "precio": 1850.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-116572", "fecha_inicio": "2026-11-09", "precio": 930.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-116571", "fecha_inicio": "2026-11-09", "precio": 1390.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-116570", "fecha_inicio": "2026-11-09", "precio": 1150.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-116569", "fecha_inicio": "2026-11-09", "precio": 1590.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-107591", "fecha_inicio": "2026-11-09", "precio": 420.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-107590", "fecha_inicio": "2026-11-09", "precio": 625.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-107589", "fecha_inicio": "2026-11-09", "precio": 270.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-100449", "fecha_inicio": "2026-11-09", "precio": 45.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-98855", "fecha_inicio": "2026-11-09", "precio": 33.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-86063", "fecha_inicio": "2026-11-09", "precio": 10.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-85638", "fecha_inicio": "2026-11-09", "precio": 55.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-85620", "fecha_inicio": "2026-11-09", "precio": 10.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-85619", "fecha_inicio": "2026-11-09", "precio": 30.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-85494", "fecha_inicio": "2026-11-09", "precio": 10.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-85490", "fecha_inicio": "2026-11-09", "precio": 33.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-85483", "fecha_inicio": "2026-11-09", "precio": 23.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-85385", "fecha_inicio": "2026-11-09", "precio": 130.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-84564", "fecha_inicio": "2026-11-09", "precio": 45.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-84563", "fecha_inicio": "2026-11-09", "precio": 45.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-84562", "fecha_inicio": "2026-11-09", "precio": 45.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-84560", "fecha_inicio": "2026-11-09", "precio": 30.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-84559", "fecha_inicio": "2026-11-09", "precio": 45.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-84194", "fecha_inicio": "2026-11-09", "precio": 25.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-84193", "fecha_inicio": "2026-11-09", "precio": 25.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-84183", "fecha_inicio": "2026-11-09", "precio": 40.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-74517", "fecha_inicio": "2026-11-09", "precio": 25.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-72136", "fecha_inicio": "2026-11-09", "precio": 1500.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-72135", "fecha_inicio": "2026-11-09", "precio": 1050.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-72134", "fecha_inicio": "2026-11-09", "precio": 1565.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-71991", "fecha_inicio": "2026-11-09", "precio": 850.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-70363", "fecha_inicio": "2026-11-09", "precio": 79.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-69457", "fecha_inicio": "2026-11-09", "precio": 82.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-69443", "fecha_inicio": "2026-11-09", "precio": 475.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-69170", "fecha_inicio": "2026-11-09", "precio": 26.5, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-69169", "fecha_inicio": "2026-11-09", "precio": 57.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-66373", "fecha_inicio": "2026-11-09", "precio": 385.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-66359", "fecha_inicio": "2026-11-09", "precio": 35.75, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-66355", "fecha_inicio": "2026-11-09", "precio": 136.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-61351", "fecha_inicio": "2026-11-09", "precio": 915.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-60798", "fecha_inicio": "2026-11-09", "precio": 245.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-60648", "fecha_inicio": "2026-11-09", "precio": 28.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-60631", "fecha_inicio": "2026-11-09", "precio": 38.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-60627", "fecha_inicio": "2026-11-09", "precio": 620.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-60626", "fecha_inicio": "2026-11-09", "precio": 635.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-60624", "fecha_inicio": "2026-11-09", "precio": 1080.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-60456", "fecha_inicio": "2026-11-09", "precio": 58.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-60455", "fecha_inicio": "2026-11-09", "precio": 66.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-60291", "fecha_inicio": "2026-11-09", "precio": 37.6, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-60283", "fecha_inicio": "2026-11-09", "precio": 104.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-60057", "fecha_inicio": "2026-11-09", "precio": 225.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-60056", "fecha_inicio": "2026-11-09", "precio": 193.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-59821", "fecha_inicio": "2026-11-09", "precio": 45.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-59820", "fecha_inicio": "2026-11-09", "precio": 45.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-59816", "fecha_inicio": "2026-11-09", "precio": 55.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-56788", "fecha_inicio": "2026-11-09", "precio": 180.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-56787", "fecha_inicio": "2026-11-09", "precio": 240.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-56785", "fecha_inicio": "2026-11-09", "precio": 319.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-56784", "fecha_inicio": "2026-11-09", "precio": 319.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-56783", "fecha_inicio": "2026-11-09", "precio": 319.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-56777", "fecha_inicio": "2026-11-09", "precio": 240.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-56776", "fecha_inicio": "2026-11-09", "precio": 60.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-56751", "fecha_inicio": "2026-11-09", "precio": 73.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-56649", "fecha_inicio": "2026-11-09", "precio": 40.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-56648", "fecha_inicio": "2026-11-09", "precio": 35.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-54587", "fecha_inicio": "2026-11-09", "precio": 320.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-53826", "fecha_inicio": "2026-11-09", "precio": 45.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-53825", "fecha_inicio": "2026-11-09", "precio": 45.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-52910", "fecha_inicio": "2026-11-09", "precio": 45.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-52909", "fecha_inicio": "2026-11-09", "precio": 45.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-52908", "fecha_inicio": "2026-11-09", "precio": 45.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-52126", "fecha_inicio": "2026-11-09", "precio": 65.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-52115", "fecha_inicio": "2026-11-09", "precio": 71.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-52114", "fecha_inicio": "2026-11-09", "precio": 75.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-52113", "fecha_inicio": "2026-11-09", "precio": 270.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-51808", "fecha_inicio": "2026-11-09", "precio": 30.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-50896", "fecha_inicio": "2026-11-09", "precio": 71.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-49712", "fecha_inicio": "2026-11-09", "precio": 34.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-48969", "fecha_inicio": "2026-11-09", "precio": 165.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-48806", "fecha_inicio": "2026-11-09", "precio": 360.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-48608", "fecha_inicio": "2026-11-09", "precio": 30.25, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-48150", "fecha_inicio": "2026-11-09", "precio": 30.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-48149", "fecha_inicio": "2026-11-09", "precio": 25.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-47958", "fecha_inicio": "2026-11-09", "precio": 39.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-47900", "fecha_inicio": "2026-11-09", "precio": 37.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-47850", "fecha_inicio": "2026-11-09", "precio": 1000.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-47725", "fecha_inicio": "2026-11-09", "precio": 785.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-47608", "fecha_inicio": "2026-11-09", "precio": 56.5, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-45357", "fecha_inicio": "2026-11-09", "precio": 87.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-45356", "fecha_inicio": "2026-11-09", "precio": 55.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-45032", "fecha_inicio": "2026-11-09", "precio": 30.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-38879", "fecha_inicio": "2026-11-09", "precio": 230.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-37575", "fecha_inicio": "2026-11-09", "precio": 43.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-37046", "fecha_inicio": "2026-11-09", "precio": 450.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-31401", "fecha_inicio": "2026-11-09", "precio": 254.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-31398", "fecha_inicio": "2026-11-09", "precio": 280.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-31397", "fecha_inicio": "2026-11-09", "precio": 355.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-31395", "fecha_inicio": "2026-11-09", "precio": 254.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-31393", "fecha_inicio": "2026-11-09", "precio": 245.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-31392", "fecha_inicio": "2026-11-09", "precio": 355.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-30671", "fecha_inicio": "2026-11-09", "precio": 205.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-30659", "fecha_inicio": "2026-11-09", "precio": 35.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-30655", "fecha_inicio": "2026-11-09", "precio": 65.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-30647", "fecha_inicio": "2026-11-09", "precio": 88.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-30641", "fecha_inicio": "2026-11-09", "precio": 20.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-30634", "fecha_inicio": "2026-11-09", "precio": 45.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-30511", "fecha_inicio": "2026-11-09", "precio": 235.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-30510", "fecha_inicio": "2026-11-09", "precio": 61.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-30509", "fecha_inicio": "2026-11-09", "precio": 215.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-30508", "fecha_inicio": "2026-11-09", "precio": 50.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-30505", "fecha_inicio": "2026-11-09", "precio": 215.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-29946", "fecha_inicio": "2026-11-09", "precio": 625.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-29945", "fecha_inicio": "2026-11-09", "precio": 1350.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-29944", "fecha_inicio": "2026-11-09", "precio": 1100.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-29943", "fecha_inicio": "2026-11-09", "precio": 1285.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-29938", "fecha_inicio": "2026-11-09", "precio": 785.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-28749", "fecha_inicio": "2026-11-09", "precio": 180.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-28725", "fecha_inicio": "2026-11-09", "precio": 175.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-28708", "fecha_inicio": "2026-11-09", "precio": 1100.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-28704", "fecha_inicio": "2026-11-09", "precio": 1150.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-28702", "fecha_inicio": "2026-11-09", "precio": 870.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-28700", "fecha_inicio": "2026-11-09", "precio": 955.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-28696", "fecha_inicio": "2026-11-09", "precio": 990.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-28691", "fecha_inicio": "2026-11-09", "precio": 1430.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-28688", "fecha_inicio": "2026-11-09", "precio": 1100.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-20447", "fecha_inicio": "2026-11-09", "precio": 1150.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-20446", "fecha_inicio": "2026-11-09", "precio": 1200.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-20443", "fecha_inicio": "2026-11-09", "precio": 700.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-17848", "fecha_inicio": "2026-11-09", "precio": 40.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-17845", "fecha_inicio": "2026-11-09", "precio": 90.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-15462", "fecha_inicio": "2026-11-09", "precio": 33.5, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-15455", "fecha_inicio": "2026-11-09", "precio": 27.5, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-15453", "fecha_inicio": "2026-11-09", "precio": 44.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-13406", "fecha_inicio": "2026-11-09", "precio": 245.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-7870", "fecha_inicio": "2026-11-09", "precio": 100.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-7869", "fecha_inicio": "2026-11-09", "precio": 100.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-7867", "fecha_inicio": "2026-11-09", "precio": 325.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-7862", "fecha_inicio": "2026-11-09", "precio": 305.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-7162", "fecha_inicio": "2026-11-09", "precio": 85.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-6853", "fecha_inicio": "2026-11-09", "precio": 57.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-6852", "fecha_inicio": "2026-11-09", "precio": 38.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-6851", "fecha_inicio": "2026-11-09", "precio": 55.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "walmart-gt-117865", "fecha_inicio": "2026-11-09", "precio": 3.1, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
