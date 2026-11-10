@@ -1020,7 +1020,7 @@
 {"id": "siman-9020666", "fecha_inicio": "2026-10-27", "precio": 100.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-8920019", "fecha_inicio": "2026-10-27", "precio": 299.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
 {"id": "siman-8750829", "fecha_inicio": "2026-10-27", "precio": 479.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
-{"id": "siman-8692970", "fecha_inicio": "2026-10-27", "precio": 142.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
+{"id": "siman-8692970", "fecha_inicio": "2026-10-27", "precio": 142.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "siman-8661681", "fecha_inicio": "2026-10-27", "precio": 370.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "siman-8571394", "fecha_inicio": "2026-10-27", "precio": 370.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "siman-8571393", "fecha_inicio": "2026-10-27", "precio": 920.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
@@ -3443,7 +3443,7 @@
 {"id": "siman-3945927", "fecha_inicio": "2026-10-27", "precio": 339.15, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
 {"id": "siman-3941767", "fecha_inicio": "2026-10-27", "precio": 660.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "siman-3900861", "fecha_inicio": "2026-10-27", "precio": 45.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
-{"id": "siman-3864714", "fecha_inicio": "2026-10-27", "precio": 285.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "siman-3864714", "fecha_inicio": "2026-10-27", "precio": 285.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-3864118", "fecha_inicio": "2026-10-27", "precio": 1160.0, "visto_hasta": "2026-10-28", "precio_unidad": null, "unidad": null}
 {"id": "siman-3863971", "fecha_inicio": "2026-10-27", "precio": 931.0, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "siman-3844614", "fecha_inicio": "2026-10-27", "precio": 319.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
@@ -11680,7 +11680,7 @@
 {"id": "siman-8220230", "fecha_inicio": "2026-11-02", "precio": 999.0, "visto_hasta": "2026-11-01", "precio_unidad": null, "unidad": null}
 {"id": "siman-9116669", "fecha_inicio": "2026-11-02", "precio": 6999.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "siman-8800900", "fecha_inicio": "2026-11-02", "precio": 1529.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
-{"id": "siman-8561208", "fecha_inicio": "2026-11-02", "precio": 499.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
+{"id": "siman-8561208", "fecha_inicio": "2026-11-02", "precio": 499.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "siman-8920019", "fecha_inicio": "2026-11-02", "precio": 299.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "siman-8967989", "fecha_inicio": "2026-11-02", "precio": 600.0, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
 {"id": "siman-8859345", "fecha_inicio": "2026-11-02", "precio": 69.0, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
@@ -19719,7 +19719,7 @@
 {"id": "siman-3680482", "fecha_inicio": "2026-11-09", "precio": 36.75, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-3249627", "fecha_inicio": "2026-11-09", "precio": 59.25, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-2152259", "fecha_inicio": "2026-11-09", "precio": 149.25, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
-{"id": "siman-2008936", "fecha_inicio": "2026-11-09", "precio": 168.75, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
+{"id": "siman-2008936", "fecha_inicio": "2026-11-09", "precio": 168.75, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "siman-9018392", "fecha_inicio": "2026-11-09", "precio": 202.5, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-8859348", "fecha_inicio": "2026-11-09", "precio": 51.75, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-8859347", "fecha_inicio": "2026-11-09", "precio": 51.75, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
@@ -19867,7 +19867,7 @@
 {"id": "siman-8766799", "fecha_inicio": "2026-11-09", "precio": 120.75, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-8766798", "fecha_inicio": "2026-11-09", "precio": 160.5, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-8766797", "fecha_inicio": "2026-11-09", "precio": 240.75, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
-{"id": "siman-8766790", "fecha_inicio": "2026-11-09", "precio": 216.75, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
+{"id": "siman-8766790", "fecha_inicio": "2026-11-09", "precio": 216.75, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "siman-8766787", "fecha_inicio": "2026-11-09", "precio": 264.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-8766786", "fecha_inicio": "2026-11-09", "precio": 213.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-8766784", "fecha_inicio": "2026-11-09", "precio": 562.5, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
@@ -20481,7 +20481,7 @@
 {"id": "siman-6845370", "fecha_inicio": "2026-11-09", "precio": 112.5, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-6845368", "fecha_inicio": "2026-11-09", "precio": 146.25, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-6845365", "fecha_inicio": "2026-11-09", "precio": 135.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
-{"id": "siman-6845362", "fecha_inicio": "2026-11-09", "precio": 56.25, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
+{"id": "siman-6845362", "fecha_inicio": "2026-11-09", "precio": 56.25, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "siman-6845361", "fecha_inicio": "2026-11-09", "precio": 146.25, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-6845360", "fecha_inicio": "2026-11-09", "precio": 146.25, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-6845359", "fecha_inicio": "2026-11-09", "precio": 156.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
@@ -20499,7 +20499,7 @@
 {"id": "siman-6823881", "fecha_inicio": "2026-11-09", "precio": 262.5, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-6823876", "fecha_inicio": "2026-11-09", "precio": 277.5, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-6823875", "fecha_inicio": "2026-11-09", "precio": 262.5, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
-{"id": "siman-6823874", "fecha_inicio": "2026-11-09", "precio": 288.75, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
+{"id": "siman-6823874", "fecha_inicio": "2026-11-09", "precio": 288.75, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "siman-6823866", "fecha_inicio": "2026-11-09", "precio": 225.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-6823862", "fecha_inicio": "2026-11-09", "precio": 210.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-6818773", "fecha_inicio": "2026-11-09", "precio": 31.5, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
@@ -21506,8 +21506,8 @@
 {"id": "siman-8332807", "fecha_inicio": "2026-11-09", "precio": 599.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-8176923", "fecha_inicio": "2026-11-09", "precio": 86.25, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-7521030", "fecha_inicio": "2026-11-09", "precio": 216.75, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
-{"id": "siman-3890030", "fecha_inicio": "2026-11-09", "precio": 71.25, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "siman-3864118", "fecha_inicio": "2026-11-09", "precio": 870.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
+{"id": "siman-3890030", "fecha_inicio": "2026-11-09", "precio": 71.25, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
+{"id": "siman-3864118", "fecha_inicio": "2026-11-09", "precio": 870.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-9069224", "fecha_inicio": "2026-11-09", "precio": 249.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-9117780", "fecha_inicio": "2026-11-09", "precio": 219.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-9117777", "fecha_inicio": "2026-11-09", "precio": 159.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
@@ -21586,3 +21586,9 @@
 {"id": "siman-9117751", "fecha_inicio": "2026-11-10", "precio": 219.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-9117731", "fecha_inicio": "2026-11-10", "precio": 249.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
 {"id": "siman-9117705", "fecha_inicio": "2026-11-10", "precio": 219.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
+{"id": "siman-8561208", "fecha_inicio": "2026-11-10", "precio": 299.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
+{"id": "siman-8692970", "fecha_inicio": "2026-11-10", "precio": 106.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
+{"id": "siman-2008936", "fecha_inicio": "2026-11-10", "precio": 225.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
+{"id": "siman-8766790", "fecha_inicio": "2026-11-10", "precio": 289.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
+{"id": "siman-6823874", "fecha_inicio": "2026-11-10", "precio": 385.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
+{"id": "siman-6845362", "fecha_inicio": "2026-11-10", "precio": 75.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
