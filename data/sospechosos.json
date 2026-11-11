@@ -113,14 +113,6 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Marcadores marca Staedtler con tinta de alta cobertura y colores vibrantes. Versátiles para escuela, oficina, arte y manualidades.",
-    "precio": 16.47,
-    "antes": 54.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-de-colores/Marcadores-marca-Staedtler-con-tinta-de-alta-cobertura-y-colores-vibrantes-Vers%C3%A1tiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214001876"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Marcadores marca Artline con tinta de alta cobertura y colores vibrantes. Versatiles para escuela, oficina, arte y manualidades.",
     "precio": 0.09,
     "antes": 8.9,
@@ -177,11 +169,11 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Goma liquida marca Elmer s de uso escolar y multiproposito. Pega papel, carton y foamy con secado transparente. Formula lavable, segura para ninos y de aplicacion controlada.",
-    "precio": 23.97,
-    "antes": 79.9,
+    "nombre": "Marcador permanente marca Office Depot de tinta resistente al agua y al desvanecimiento. Escribe sobre papel, carton, plastico, metal, vidrio y madera. Ideal para etiquetar y rotular.",
+    "precio": 4.62,
+    "antes": 15.4,
     "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Goma-Blanca/Goma-liquida-marca-Elmer-s-de-uso-escolar-y-multiproposito-Pega-papel%2C-carton-y-foamy-con-secado-transparente-Formula-lavable%2C-segura-para-ninos-y-de-aplicacion-controlada-/p/1213000260"
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-permanentes/Marcador-permanente-marca-Office-Depot-de-tinta-resistente-al-agua-y-al-desvanecimiento-Escribe-sobre-papel%2C-carton%2C-plastico%2C-metal%2C-vidrio-y-madera-Ideal-para-etiquetar-y-rotular-/p/1214000101"
   },
   {
     "tienda": "Office Depot",
@@ -337,14 +329,6 @@
   },
   {
     "tienda": "Cemaco",
-    "nombre": "Lámpara con Panel Solar Portátil para Exterior USB 1300 LM",
-    "precio": 159.99,
-    "antes": 589.99,
-    "descuento": 0.729,
-    "url": "https://www.cemaco.com/lampara-magnetica-con-panel-solar-1163026/p"
-  },
-  {
-    "tienda": "Cemaco",
     "nombre": "Estaca Solar para Jardín 44 LM 0.5W, 2 Piezas",
     "precio": 79.99,
     "antes": 269.99,
@@ -358,14 +342,6 @@
     "antes": 52.99,
     "descuento": 0.8,
     "url": "https://www.cemaco.com/reflector-par38-halogeno-volteck-varias-capacidades-790375/p"
-  },
-  {
-    "tienda": "Cemaco",
-    "nombre": "Lámpara de Noche Proyector Mickey Mouse",
-    "precio": 49.99,
-    "antes": 199.99,
-    "descuento": 0.75,
-    "url": "https://www.cemaco.com/lampara-de-noche-proyector-mickey-mouse-jasco-1038411/p"
   },
   {
     "tienda": "Cemaco",
