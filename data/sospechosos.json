@@ -113,6 +113,14 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Marcadores marca Staedtler con tinta de alta cobertura y colores vibrantes. Versátiles para escuela, oficina, arte y manualidades.",
+    "precio": 16.47,
+    "antes": 54.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-de-colores/Marcadores-marca-Staedtler-con-tinta-de-alta-cobertura-y-colores-vibrantes-Vers%C3%A1tiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214001876"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Marcadores marca Artline con tinta de alta cobertura y colores vibrantes. Versatiles para escuela, oficina, arte y manualidades.",
     "precio": 0.09,
     "antes": 8.9,
@@ -121,11 +129,27 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Boligrafo marca Office Depot de tinta fluida y trazo uniforme. Escritura comoda y duradera para uso diario en escuela y oficina.",
+    "precio": 2.49,
+    "antes": 24.9,
+    "descuento": 0.9,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Bol%C3%ADgrafos-de-gel/Boligrafo-marca-Office-Depot-de-tinta-fluida-y-trazo-uniforme-Escritura-comoda-y-duradera-para-uso-diario-en-escuela-y-oficina-/p/1214000083"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Borrador marca iStudy de goma suave que elimina trazos de lápiz sin maltratar el papel. Ideal para escuela, oficina y dibujo.",
     "precio": 5.97,
     "antes": 19.9,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Borradores/Borrador-marca-iStudy-de-goma-suave-que-elimina-trazos-de-l%C3%A1piz-sin-maltratar-el-papel-Ideal-para-escuela%2C-oficina-y-dibujo-/p/1214002878"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Sacapuntas marca iStudy con cuchilla afilada que da punta uniforme a lápices y lápices de colores. Diseño práctico con depósito de viruta.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Sacapuntas/Sacapuntas-marca-iStudy-con-cuchilla-afilada-que-da-punta-uniforme-a-l%C3%A1pices-y-l%C3%A1pices-de-colores-Dise%C3%B1o-pr%C3%A1ctico-con-dep%C3%B3sito-de-viruta-/p/1214002889"
   },
   {
     "tienda": "Office Depot",
@@ -169,67 +193,11 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Boligrafo marca Office Depot de tinta fluida y trazo uniforme. Escritura comoda y duradera para uso diario en escuela y oficina.",
-    "precio": 2.49,
-    "antes": 24.9,
-    "descuento": 0.9,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Bol%C3%ADgrafos-de-gel/Boligrafo-marca-Office-Depot-de-tinta-fluida-y-trazo-uniforme-Escritura-comoda-y-duradera-para-uso-diario-en-escuela-y-oficina-/p/1214000083"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
     "precio": 5.97,
     "antes": 19.9,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Cubo de notas marca Office Depot con hojas para recados, recordatorios y listas. Diseno compacto para escritorio que mantiene todo organizado al alcance.",
-    "precio": 23.97,
-    "antes": 79.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Cubo-de-notas-marca-Office-Depot-con-hojas-para-recados%2C-recordatorios-y-listas-Diseno-compacto-para-escritorio-que-mantiene-todo-organizado-al-alcance-/p/1213000426"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Notas adhesivas marca Office Depot reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
-    "precio": 3.27,
-    "antes": 10.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Office-Depot-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000430"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Notas adhesivas marca Office Depot reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
-    "precio": 3.27,
-    "antes": 10.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Office-Depot-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000427"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Notas adhesivas marca Office Depot reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
-    "precio": 3.27,
-    "antes": 10.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Office-Depot-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000428"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Notas adhesivas marca Office Depot reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
-    "precio": 3.27,
-    "antes": 10.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Office-Depot-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000429"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Registrador Live & Go Polyfoam Pastel marca Hamelin. Producto de calidad para uso escolar, de oficina y manualidades.",
-    "precio": 56.7,
-    "antes": 189.0,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Archivadores/Registrador-Live-%26-Go-Polyfoam-Pastel-marca-Hamelin-Producto-de-calidad-para-uso-escolar%2C-de-oficina-y-manualidades-/p/1214003752"
   },
   {
     "tienda": "Cemaco",
@@ -361,19 +329,19 @@
   },
   {
     "tienda": "Cemaco",
-    "nombre": "Lámpara con Panel Solar Portátil para Exterior USB 1300 LM",
-    "precio": 159.99,
-    "antes": 589.99,
-    "descuento": 0.729,
-    "url": "https://www.cemaco.com/lampara-magnetica-con-panel-solar-1163026/p"
-  },
-  {
-    "tienda": "Cemaco",
     "nombre": "Lámpara de Pared para Exterior LED 9W",
     "precio": 149.99,
     "antes": 509.99,
     "descuento": 0.706,
     "url": "https://www.cemaco.com/lampara-de-pared-led-9w-lanoa-1163023/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Lámpara con Panel Solar Portátil para Exterior USB 1300 LM",
+    "precio": 159.99,
+    "antes": 589.99,
+    "descuento": 0.729,
+    "url": "https://www.cemaco.com/lampara-magnetica-con-panel-solar-1163026/p"
   },
   {
     "tienda": "Cemaco",
@@ -414,14 +382,6 @@
     "antes": 269.99,
     "descuento": 0.8,
     "url": "https://www.cemaco.com/qmazo-de-12-lbs-663516b/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
   },
   {
     "tienda": "EPA",
@@ -1894,6 +1854,14 @@
     "antes": 59.95,
     "descuento": 0.708,
     "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
   },
   {
     "tienda": "Max",

@@ -34,7 +34,7 @@
 {"id": "elektra-gt-1012914", "fecha": "2026-10-27", "precio": 3795.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:21-06:00", "visto_hasta": "2026-11-05"}
 {"id": "elektra-gt-1012887", "fecha": "2026-10-27", "precio": 2695.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:21-06:00", "visto_hasta": "2026-10-29"}
 {"id": "elektra-gt-1012864", "fecha": "2026-10-27", "precio": 4999.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:21-06:00", "visto_hasta": "2026-11-11"}
-{"id": "elektra-gt-99003061", "fecha": "2026-10-27", "precio": 2595.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:21-06:00", "visto_hasta": "2026-10-30"}
+{"id": "elektra-gt-99003061", "fecha": "2026-10-27", "precio": 2595.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:21-06:00", "visto_hasta": "2026-11-10"}
 {"id": "elektra-gt-1012948", "fecha": "2026-10-27", "precio": 3995.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:21-06:00", "visto_hasta": "2026-10-29"}
 {"id": "elektra-gt-99003056", "fecha": "2026-10-27", "precio": 1695.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:21-06:00", "visto_hasta": "2026-11-02"}
 {"id": "elektra-gt-1012933", "fecha": "2026-10-27", "precio": 2349.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T14:26:21-06:00", "visto_hasta": "2026-10-29"}
@@ -1994,3 +1994,4 @@
 {"id": "elektra-gt-850644", "fecha_inicio": "2026-11-11", "precio": 299.0, "visto_hasta": "2026-11-11", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-5005034", "fecha_inicio": "2026-11-11", "precio": 1399.0, "visto_hasta": "2026-11-11", "precio_unidad": null, "unidad": null}
 {"id": "elektra-gt-38002383", "fecha_inicio": "2026-11-11", "precio": 6120.0, "visto_hasta": "2026-11-11", "precio_unidad": null, "unidad": null}
+{"id": "elektra-gt-99003061", "fecha_inicio": "2026-11-11", "precio": 3799.0, "visto_hasta": "2026-11-11", "precio_unidad": null, "unidad": null}
