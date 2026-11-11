@@ -121,27 +121,11 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Boligrafo marca Office Depot de tinta fluida y trazo uniforme. Escritura comoda y duradera para uso diario en escuela y oficina.",
-    "precio": 2.49,
-    "antes": 24.9,
-    "descuento": 0.9,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Bol%C3%ADgrafos-de-gel/Boligrafo-marca-Office-Depot-de-tinta-fluida-y-trazo-uniforme-Escritura-comoda-y-duradera-para-uso-diario-en-escuela-y-oficina-/p/1214000083"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Borrador marca iStudy de goma suave que elimina trazos de lápiz sin maltratar el papel. Ideal para escuela, oficina y dibujo.",
     "precio": 5.97,
     "antes": 19.9,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Borradores/Borrador-marca-iStudy-de-goma-suave-que-elimina-trazos-de-l%C3%A1piz-sin-maltratar-el-papel-Ideal-para-escuela%2C-oficina-y-dibujo-/p/1214002878"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Sacapuntas marca iStudy con cuchilla afilada que da punta uniforme a lápices y lápices de colores. Diseño práctico con depósito de viruta.",
-    "precio": 5.97,
-    "antes": 19.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Sacapuntas/Sacapuntas-marca-iStudy-con-cuchilla-afilada-que-da-punta-uniforme-a-l%C3%A1pices-y-l%C3%A1pices-de-colores-Dise%C3%B1o-pr%C3%A1ctico-con-dep%C3%B3sito-de-viruta-/p/1214002889"
   },
   {
     "tienda": "Office Depot",
@@ -169,14 +153,6 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Marcador permanente marca Office Depot de tinta resistente al agua y al desvanecimiento. Escribe sobre papel, carton, plastico, metal, vidrio y madera. Ideal para etiquetar y rotular.",
-    "precio": 4.62,
-    "antes": 15.4,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-permanentes/Marcador-permanente-marca-Office-Depot-de-tinta-resistente-al-agua-y-al-desvanecimiento-Escribe-sobre-papel%2C-carton%2C-plastico%2C-metal%2C-vidrio-y-madera-Ideal-para-etiquetar-y-rotular-/p/1214000101"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Goma liquida marca Elmer s de uso escolar y multiproposito. Pega papel, carton y foamy con secado transparente. Formula lavable, segura para ninos y de aplicacion controlada.",
     "precio": 23.97,
     "antes": 79.9,
@@ -193,11 +169,67 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Boligrafo marca Office Depot de tinta fluida y trazo uniforme. Escritura comoda y duradera para uso diario en escuela y oficina.",
+    "precio": 2.49,
+    "antes": 24.9,
+    "descuento": 0.9,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Bol%C3%ADgrafos-de-gel/Boligrafo-marca-Office-Depot-de-tinta-fluida-y-trazo-uniforme-Escritura-comoda-y-duradera-para-uso-diario-en-escuela-y-oficina-/p/1214000083"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
     "precio": 5.97,
     "antes": 19.9,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Cubo de notas marca Office Depot con hojas para recados, recordatorios y listas. Diseno compacto para escritorio que mantiene todo organizado al alcance.",
+    "precio": 23.97,
+    "antes": 79.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Cubo-de-notas-marca-Office-Depot-con-hojas-para-recados%2C-recordatorios-y-listas-Diseno-compacto-para-escritorio-que-mantiene-todo-organizado-al-alcance-/p/1213000426"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Notas adhesivas marca Office Depot reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
+    "precio": 3.27,
+    "antes": 10.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Office-Depot-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000430"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Notas adhesivas marca Office Depot reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
+    "precio": 3.27,
+    "antes": 10.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Office-Depot-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000427"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Notas adhesivas marca Office Depot reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
+    "precio": 3.27,
+    "antes": 10.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Office-Depot-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000428"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Notas adhesivas marca Office Depot reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
+    "precio": 3.27,
+    "antes": 10.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Office-Depot-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000429"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Registrador Live & Go Polyfoam Pastel marca Hamelin. Producto de calidad para uso escolar, de oficina y manualidades.",
+    "precio": 56.7,
+    "antes": 189.0,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Archivadores/Registrador-Live-%26-Go-Polyfoam-Pastel-marca-Hamelin-Producto-de-calidad-para-uso-escolar%2C-de-oficina-y-manualidades-/p/1214003752"
   },
   {
     "tienda": "Cemaco",
@@ -305,14 +337,6 @@
   },
   {
     "tienda": "Cemaco",
-    "nombre": "Lámpara de Exterior Industrial LED 30 W Color Blanca",
-    "precio": 67.39,
-    "antes": 336.99,
-    "descuento": 0.8,
-    "url": "https://www.cemaco.com/lampara-led-de-30-w-tecnolite-1024136/p"
-  },
-  {
-    "tienda": "Cemaco",
     "nombre": "Plafón de Techo Cuadros Cuadrado  60 W 30.5 Cm",
     "precio": 41.99,
     "antes": 139.99,
@@ -337,6 +361,30 @@
   },
   {
     "tienda": "Cemaco",
+    "nombre": "Lámpara con Panel Solar Portátil para Exterior USB 1300 LM",
+    "precio": 159.99,
+    "antes": 589.99,
+    "descuento": 0.729,
+    "url": "https://www.cemaco.com/lampara-magnetica-con-panel-solar-1163026/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Lámpara de Pared para Exterior LED 9W",
+    "precio": 149.99,
+    "antes": 509.99,
+    "descuento": 0.706,
+    "url": "https://www.cemaco.com/lampara-de-pared-led-9w-lanoa-1163023/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Estaca Solar para Jardín 44 LM 0.5W, 2 Piezas",
+    "precio": 79.99,
+    "antes": 269.99,
+    "descuento": 0.704,
+    "url": "https://www.cemaco.com/estaca-solar-para-jardin-44-lm-2-pzas-1150703/p"
+  },
+  {
+    "tienda": "Cemaco",
     "nombre": "Reflector Par38 Halógeno - Volteck Varias Capacidades",
     "precio": 10.6,
     "antes": 52.99,
@@ -345,11 +393,35 @@
   },
   {
     "tienda": "Cemaco",
+    "nombre": "Lámpara de Noche Proyector Mickey Mouse",
+    "precio": 49.99,
+    "antes": 199.99,
+    "descuento": 0.75,
+    "url": "https://www.cemaco.com/lampara-de-noche-proyector-mickey-mouse-jasco-1038411/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Tubo Halógeno 118 mm 500W",
+    "precio": 9.99,
+    "antes": 39.99,
+    "descuento": 0.75,
+    "url": "https://www.cemaco.com/tubo-halogeno-de-118-mm-y-500-w-westinghouse-134102/p"
+  },
+  {
+    "tienda": "Cemaco",
     "nombre": "Mazo de 12 Lbs con Mango de Madera",
     "precio": 53.99,
     "antes": 269.99,
     "descuento": 0.8,
     "url": "https://www.cemaco.com/qmazo-de-12-lbs-663516b/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
   },
   {
     "tienda": "EPA",
@@ -1824,12 +1896,12 @@
     "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
   },
   {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
+    "tienda": "Max",
+    "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
+    "precio": 1099.0,
+    "antes": 3795.0,
+    "descuento": 0.71,
+    "url": "https://www.max.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
   },
   {
     "tienda": "Tecnofácil",
@@ -1838,13 +1910,5 @@
     "antes": 3795.0,
     "descuento": 0.71,
     "url": "https://www.tecnofacil.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
-  },
-  {
-    "tienda": "Max",
-    "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
-    "precio": 1099.0,
-    "antes": 3795.0,
-    "descuento": 0.71,
-    "url": "https://www.max.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
   }
 ]
