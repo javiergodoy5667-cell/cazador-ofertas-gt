@@ -169,6 +169,22 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "STATIONERY CAVALIER KIDS SET",
+    "precio": 19.75,
+    "antes": 79.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/STATIONERY-CAVALIER-KIDS-SET/p/1218000438"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Marcador permanente marca Office Depot de tinta resistente al agua y al desvanecimiento. Escribe sobre papel, carton, plastico, metal, vidrio y madera. Ideal para etiquetar y rotular.",
+    "precio": 4.62,
+    "antes": 15.4,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-permanentes/Marcador-permanente-marca-Office-Depot-de-tinta-resistente-al-agua-y-al-desvanecimiento-Escribe-sobre-papel%2C-carton%2C-plastico%2C-metal%2C-vidrio-y-madera-Ideal-para-etiquetar-y-rotular-/p/1214000101"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Goma liquida marca Elmer s de uso escolar y multiproposito. Pega papel, carton y foamy con secado transparente. Formula lavable, segura para ninos y de aplicacion controlada.",
     "precio": 23.97,
     "antes": 79.9,
@@ -182,6 +198,14 @@
     "antes": 199.0,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Masking-tape/Cinta-de-senalizacion-marca-tesa-de-alta-visibilidad-Demarca-areas%2C-pasillos-y-zonas-de-riesgo-en-piso%2C-paredes-o-equipos-Adhesion-fuerte-y-colores-brillantes-para-ambientes-industriales-y-comercial/p/1213000587"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
   },
   {
     "tienda": "Cemaco",
@@ -350,6 +374,14 @@
     "antes": 290.0,
     "descuento": 0.71,
     "url": "https://www.walmart.com.gt/foco-led-universal-para-faro-de-motocicleta-luz-blanca-brillant-122856/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
   },
   {
     "tienda": "EPA",
@@ -1505,6 +1537,14 @@
   },
   {
     "tienda": "EPA",
+    "nombre": "Accesorio tyj boton pulsador t blanco",
+    "precio": 6.85,
+    "antes": 22.95,
+    "descuento": 0.702,
+    "url": "https://gt.epaenlinea.com/tyj-accesorio-boton-pulsador-t-blanco.html"
+  },
+  {
+    "tienda": "EPA",
     "nombre": "Toma telefonica doble rj11 4 hilos modus style",
     "precio": 9.95,
     "antes": 48.5,
@@ -1742,94 +1782,6 @@
     "antes": 77.5,
     "descuento": 0.71,
     "url": "https://gt.epaenlinea.com/panel-de-extension-para-puerta-plegable-6mm-nogal.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Lonchera térmica Tiburones turquesa Bentgo",
-    "precio": 49.95,
-    "antes": 169.0,
-    "descuento": 0.704,
-    "url": "https://gt.epaenlinea.com/lonchera-termica-tiburones-turquesa-bentgo.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Lonchera térmica Camiones gris Bentgo",
-    "precio": 49.95,
-    "antes": 169.0,
-    "descuento": 0.704,
-    "url": "https://gt.epaenlinea.com/lonchera-termica-camiones-gris-bentgo.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Manguera 1-1/2\" para filtro. 2 m",
-    "precio": 44.5,
-    "antes": 149.0,
-    "descuento": 0.701,
-    "url": "https://gt.epaenlinea.com/manguera-1-1-2-para-filtro-2-m.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Repuesto para cebos de pulgas victor",
-    "precio": 19.95,
-    "antes": 68.5,
-    "descuento": 0.709,
-    "url": "https://gt.epaenlinea.com/repuesto-para-cebos-de-pulgas-victor.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Esquinero de acero para tubo colgador 55 x 55 cm blanco",
-    "precio": 14.5,
-    "antes": 67.5,
-    "descuento": 0.785,
-    "url": "https://gt.epaenlinea.com/esquinero-de-acero-para-tubo-colgador-55-x-55-cm-blanco.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "RIEL REJILLA 152CM",
-    "precio": 69.5,
-    "antes": 245.0,
-    "descuento": 0.716,
-    "url": "https://gt.epaenlinea.com/riel-rejilla-152cm.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Filtros de espuma 5 piezas para aspiradora einhell 20 litros",
-    "precio": 29.95,
-    "antes": 115.0,
-    "descuento": 0.74,
-    "url": "https://gt.epaenlinea.com/filtros-de-espuma-5-piezas-para-aspiradora-einhell-20-litros.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Filtro de cartucho para aspiradora einhell 20 litros",
-    "precio": 29.95,
-    "antes": 125.0,
-    "descuento": 0.76,
-    "url": "https://gt.epaenlinea.com/filtro-de-cartucho-para-aspiradora-einhell-20-litros.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Juguete para masticadores intensos palo de goma 30 cm",
-    "precio": 17.52,
-    "antes": 59.95,
-    "descuento": 0.708,
-    "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
-  },
-  {
-    "tienda": "Max",
-    "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
-    "precio": 1099.0,
-    "antes": 3795.0,
-    "descuento": 0.71,
-    "url": "https://www.max.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
   },
   {
     "tienda": "Tecnofácil",
