@@ -113,27 +113,11 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Boligrafo marca Office Depot de tinta fluida y trazo uniforme. Escritura comoda y duradera para uso diario en escuela y oficina.",
-    "precio": 2.49,
-    "antes": 24.9,
-    "descuento": 0.9,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Bol%C3%ADgrafos-de-gel/Boligrafo-marca-Office-Depot-de-tinta-fluida-y-trazo-uniforme-Escritura-comoda-y-duradera-para-uso-diario-en-escuela-y-oficina-/p/1214000083"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Borrador marca iStudy de goma suave que elimina trazos de lápiz sin maltratar el papel. Ideal para escuela, oficina y dibujo.",
+    "nombre": "Yeso marca Crayola para escultura, manualidades y proyectos artisticos. Mezcla y aplicacion sencillas para crear figuras, moldes y acabados decorativos.",
     "precio": 5.97,
     "antes": 19.9,
     "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Borradores/Borrador-marca-iStudy-de-goma-suave-que-elimina-trazos-de-l%C3%A1piz-sin-maltratar-el-papel-Ideal-para-escuela%2C-oficina-y-dibujo-/p/1214002878"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Sacapuntas marca iStudy con cuchilla afilada que da punta uniforme a lápices y lápices de colores. Diseño práctico con depósito de viruta.",
-    "precio": 5.97,
-    "antes": 19.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Sacapuntas/Sacapuntas-marca-iStudy-con-cuchilla-afilada-que-da-punta-uniforme-a-l%C3%A1pices-y-l%C3%A1pices-de-colores-Dise%C3%B1o-pr%C3%A1ctico-con-dep%C3%B3sito-de-viruta-/p/1214002889"
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Yeso/Yeso-marca-Crayola-para-escultura%2C-manualidades-y-proyectos-artisticos-Mezcla-y-aplicacion-sencillas-para-crear-figuras%2C-moldes-y-acabados-decorativos-/p/1214003759"
   },
   {
     "tienda": "Office Depot",
@@ -153,22 +137,6 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "STATIONERY CAVALIER KIDS SET",
-    "precio": 19.75,
-    "antes": 79.0,
-    "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/STATIONERY-CAVALIER-KIDS-SET/p/1218000438"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Marcador permanente marca Office Depot de tinta resistente al agua y al desvanecimiento. Escribe sobre papel, carton, plastico, metal, vidrio y madera. Ideal para etiquetar y rotular.",
-    "precio": 4.62,
-    "antes": 15.4,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-permanentes/Marcador-permanente-marca-Office-Depot-de-tinta-resistente-al-agua-y-al-desvanecimiento-Escribe-sobre-papel%2C-carton%2C-plastico%2C-metal%2C-vidrio-y-madera-Ideal-para-etiquetar-y-rotular-/p/1214000101"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Goma liquida marca Elmer s de uso escolar y multiproposito. Pega papel, carton y foamy con secado transparente. Formula lavable, segura para ninos y de aplicacion controlada.",
     "precio": 23.97,
     "antes": 79.9,
@@ -185,11 +153,35 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Boligrafo marca Office Depot de tinta fluida y trazo uniforme. Escritura comoda y duradera para uso diario en escuela y oficina.",
+    "precio": 2.49,
+    "antes": 24.9,
+    "descuento": 0.9,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Bol%C3%ADgrafos-de-gel/Boligrafo-marca-Office-Depot-de-tinta-fluida-y-trazo-uniforme-Escritura-comoda-y-duradera-para-uso-diario-en-escuela-y-oficina-/p/1214000083"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
     "precio": 5.97,
     "antes": 19.9,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Bolígrafo de gel marca Top Team con tinta fluida y secado rápido. Trazo nítido y constante, ideal para escritura cómoda en clase, oficina y planners.",
+    "precio": 10.47,
+    "antes": 34.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Bol%C3%ADgrafos-de-gel/Bol%C3%ADgrafo-de-gel-marca-Top-Team-con-tinta-fluida-y-secado-r%C3%A1pido-Trazo-n%C3%ADtido-y-constante%2C-ideal-para-escritura-c%C3%B3moda-en-clase%2C-oficina-y-planners-/p/1214002819"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Notas adhesivas marca Top Team reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
+    "precio": 11.97,
+    "antes": 39.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Top-Team-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000403"
   },
   {
     "tienda": "Cemaco",
