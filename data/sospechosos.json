@@ -193,11 +193,11 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
-    "precio": 5.97,
-    "antes": 19.9,
+    "nombre": "Cinta de senalizacion marca tesa de alta visibilidad. Demarca areas, pasillos y zonas de riesgo en piso, paredes o equipos. Adhesion fuerte y colores brillantes para ambientes industriales y comercial",
+    "precio": 59.7,
+    "antes": 199.0,
     "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Masking-tape/Cinta-de-senalizacion-marca-tesa-de-alta-visibilidad-Demarca-areas%2C-pasillos-y-zonas-de-riesgo-en-piso%2C-paredes-o-equipos-Adhesion-fuerte-y-colores-brillantes-para-ambientes-industriales-y-comercial/p/1213000587"
   },
   {
     "tienda": "Cemaco",
@@ -449,14 +449,6 @@
   },
   {
     "tienda": "EPA",
-    "nombre": "Número residencial plano 5, de 10.16cm",
-    "precio": 19.95,
-    "antes": 69.5,
-    "descuento": 0.713,
-    "url": "https://gt.epaenlinea.com/numero-residencial-plano-5-de-10-16cm.html"
-  },
-  {
-    "tienda": "EPA",
     "nombre": "Número residencial plano, 7 de 10.16cm",
     "precio": 19.95,
     "antes": 69.5,
@@ -502,14 +494,6 @@
     "antes": 31.95,
     "descuento": 0.734,
     "url": "https://gt.epaenlinea.com/rejilla-redonda-aluminio-2-1-2-x-1-1-2-anticucaracha.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Codos de 1 1/2 x 90",
-    "precio": 9.95,
-    "antes": 39.95,
-    "descuento": 0.751,
-    "url": "https://gt.epaenlinea.com/codos-de-1-1-2-x-90.html"
   },
   {
     "tienda": "EPA",
@@ -817,14 +801,6 @@
   },
   {
     "tienda": "EPA",
-    "nombre": "Soporte en madera techo cerrado caoba 1 1/4\"",
-    "precio": 19.95,
-    "antes": 96.5,
-    "descuento": 0.793,
-    "url": "https://gt.epaenlinea.com/soporte-en-madera-techo-cerrado-caoba-1-1-4.html"
-  },
-  {
-    "tienda": "EPA",
     "nombre": "Tinte en polvo base aceite verde mate 1 oz",
     "precio": 3.55,
     "antes": 11.95,
@@ -966,14 +942,6 @@
     "antes": 69.5,
     "descuento": 0.791,
     "url": "https://gt.epaenlinea.com/rotulo-uso-obligatorio-de-proteccionocular-45-x-30cm.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Rótulo Obligatorio uso de guantes 45 x 30cm",
-    "precio": 14.5,
-    "antes": 63.95,
-    "descuento": 0.773,
-    "url": "https://gt.epaenlinea.com/rotulo-obligatorio-uso-de-guantes-45-x-30cm.html"
   },
   {
     "tienda": "EPA",
@@ -1289,14 +1257,6 @@
   },
   {
     "tienda": "EPA",
-    "nombre": "Gte 1/4",
-    "precio": 0.95,
-    "antes": 4.35,
-    "descuento": 0.782,
-    "url": "https://gt.epaenlinea.com/gte-1-4.html"
-  },
-  {
-    "tienda": "EPA",
     "nombre": "Conector macho 1/4x3/8",
     "precio": 5.5,
     "antes": 19.95,
@@ -1313,14 +1273,6 @@
   },
   {
     "tienda": "EPA",
-    "nombre": "Tee h npt 1/4",
-    "precio": 14.5,
-    "antes": 49.95,
-    "descuento": 0.71,
-    "url": "https://gt.epaenlinea.com/tee-h-npt-1-4.html"
-  },
-  {
-    "tienda": "EPA",
     "nombre": "Tee h npt 1/2",
     "precio": 29.95,
     "antes": 115.0,
@@ -1334,14 +1286,6 @@
     "antes": 23.95,
     "descuento": 0.729,
     "url": "https://gt.epaenlinea.com/tee-cobre-1-2-tubo-1-2-od.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Tapon cobre hembra 5/8",
-    "precio": 1.25,
-    "antes": 4.8,
-    "descuento": 0.74,
-    "url": "https://gt.epaenlinea.com/tapon-cobre-hembra-5-8.html"
   },
   {
     "tienda": "EPA",
@@ -1545,14 +1489,6 @@
   },
   {
     "tienda": "EPA",
-    "nombre": "Toma Usb 1.5 Amps 1 Módulo Black Alpha",
-    "precio": 29.95,
-    "antes": 105.0,
-    "descuento": 0.715,
-    "url": "https://gt.epaenlinea.com/toma-usb-1-5-amps-1-modulo-black-alpha.html"
-  },
-  {
-    "tienda": "EPA",
     "nombre": "TOMA TELEFONICA 6H RJ11 BLACK ALPHA",
     "precio": 5.5,
     "antes": 20.5,
@@ -1585,14 +1521,6 @@
   },
   {
     "tienda": "EPA",
-    "nombre": "TOMA TELEFONICA RJ11 6 HILOS",
-    "precio": 5.5,
-    "antes": 19.5,
-    "descuento": 0.718,
-    "url": "https://gt.epaenlinea.com/toma-telefonica-rj11-6-hilos.html"
-  },
-  {
-    "tienda": "EPA",
     "nombre": "TOMA TV COAXIAL",
     "precio": 3.52,
     "antes": 13.5,
@@ -1606,22 +1534,6 @@
     "antes": 18.5,
     "descuento": 0.703,
     "url": "https://gt.epaenlinea.com/boton-timbre-campana-16-a.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "INTERRUPTOR 3 VIAS 16A",
-    "precio": 5.25,
-    "antes": 17.95,
-    "descuento": 0.708,
-    "url": "https://gt.epaenlinea.com/interruptor-3-vias-16a.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "interruptor sencillo, 16 A",
-    "precio": 3.95,
-    "antes": 13.5,
-    "descuento": 0.707,
-    "url": "https://gt.epaenlinea.com/interruptor-sencillo-16-a.html"
   },
   {
     "tienda": "EPA",
