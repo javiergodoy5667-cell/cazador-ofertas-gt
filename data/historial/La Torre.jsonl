@@ -6148,7 +6148,7 @@
 {"id": "latorre-24835", "fecha_inicio": "2026-10-27", "precio": 14.2, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "latorre-24821", "fecha_inicio": "2026-10-27", "precio": 12.5, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "latorre-24777", "fecha_inicio": "2026-10-27", "precio": 410.05, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
-{"id": "latorre-24722", "fecha_inicio": "2026-10-27", "precio": 65.85, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
+{"id": "latorre-24722", "fecha_inicio": "2026-10-27", "precio": 65.85, "visto_hasta": "2026-11-13", "precio_unidad": null, "unidad": null}
 {"id": "latorre-24697", "fecha_inicio": "2026-10-27", "precio": 9.7, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "latorre-24582", "fecha_inicio": "2026-10-27", "precio": 4.0, "visto_hasta": "2026-11-11", "precio_unidad": null, "unidad": null}
 {"id": "latorre-24490", "fecha_inicio": "2026-10-27", "precio": 17.5, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
@@ -12126,4 +12126,6 @@
 {"id": "latorre-1216", "fecha_inicio": "2026-11-13", "precio": 24.45, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "latorre-5563", "fecha_inicio": "2026-11-13", "precio": 14.3, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "latorre-14321", "fecha_inicio": "2026-11-13", "precio": 37.65, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
-{"id": "latorre-3934", "fecha_inicio": "2026-11-13", "precio": 137.65, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
+{"id": "latorre-3934", "fecha_inicio": "2026-11-13", "precio": 137.65, "visto_hasta": "2026-11-13", "precio_unidad": null, "unidad": null}
+{"id": "latorre-3934", "fecha_inicio": "2026-11-14", "precio": 157.9, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
+{"id": "latorre-24722", "fecha_inicio": "2026-11-14", "precio": 62.2, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
