@@ -121,6 +121,14 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Marcadores marca Artline con tinta de alta cobertura y colores vibrantes. Versatiles para escuela, oficina, arte y manualidades.",
+    "precio": 0.09,
+    "antes": 8.9,
+    "descuento": 0.99,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Resaltador/Marcadores-marca-Artline-con-tinta-de-alta-cobertura-y-colores-vibrantes-Versatiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214004485"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Boligrafo marca Office Depot de tinta fluida y trazo uniforme. Escritura comoda y duradera para uso diario en escuela y oficina.",
     "precio": 2.49,
     "antes": 24.9,
@@ -166,22 +174,6 @@
     "antes": 499.0,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/Set-escolar-marca-Staedtler-con-%C3%BAtiles-complementarios-listos-para-usar-Ahorra-tiempo-y-dinero-con-productos-coordinados-para-escuela%2C-oficina-o-regalo-/p/1214003940"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Goma liquida marca Elmer s de uso escolar y multiproposito. Pega papel, carton y foamy con secado transparente. Formula lavable, segura para ninos y de aplicacion controlada.",
-    "precio": 23.97,
-    "antes": 79.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Goma-Blanca/Goma-liquida-marca-Elmer-s-de-uso-escolar-y-multiproposito-Pega-papel%2C-carton-y-foamy-con-secado-transparente-Formula-lavable%2C-segura-para-ninos-y-de-aplicacion-controlada-/p/1213000260"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Marcadores marca Artline con tinta de alta cobertura y colores vibrantes. Versatiles para escuela, oficina, arte y manualidades.",
-    "precio": 0.09,
-    "antes": 8.9,
-    "descuento": 0.99,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Resaltador/Marcadores-marca-Artline-con-tinta-de-alta-cobertura-y-colores-vibrantes-Versatiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214004485"
   },
   {
     "tienda": "Office Depot",

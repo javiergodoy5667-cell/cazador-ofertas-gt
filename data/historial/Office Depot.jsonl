@@ -3765,8 +3765,8 @@
 {"id": "officedepot-1206000239", "fecha_inicio": "2026-10-28", "precio": 59.93, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1206000076", "fecha_inicio": "2026-10-28", "precio": 39.9, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1203000061", "fecha_inicio": "2026-10-28", "precio": 34.9, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
-{"id": "officedepot-1214000058", "fecha_inicio": "2026-10-28", "precio": 64.9, "visto_hasta": "2026-11-13", "precio_unidad": null, "unidad": null}
-{"id": "officedepot-1214000057", "fecha_inicio": "2026-10-28", "precio": 64.9, "visto_hasta": "2026-11-13", "precio_unidad": null, "unidad": null}
+{"id": "officedepot-1214000058", "fecha_inicio": "2026-10-28", "precio": 64.9, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
+{"id": "officedepot-1214000057", "fecha_inicio": "2026-10-28", "precio": 64.9, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1214000793", "fecha_inicio": "2026-10-28", "precio": 23.9, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1214000679", "fecha_inicio": "2026-10-28", "precio": 19.9, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1214000745", "fecha_inicio": "2026-10-28", "precio": 35.9, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
@@ -3884,10 +3884,10 @@
 {"id": "officedepot-1209000124", "fecha_inicio": "2026-10-28", "precio": 13.9, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1209000125", "fecha_inicio": "2026-10-28", "precio": 15.9, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1213000298", "fecha_inicio": "2026-10-28", "precio": 36.9, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
-{"id": "officedepot-1313000153", "fecha_inicio": "2026-10-28", "precio": 399.0, "visto_hasta": "2026-11-13", "precio_unidad": null, "unidad": null}
-{"id": "officedepot-1313000152", "fecha_inicio": "2026-10-28", "precio": 449.0, "visto_hasta": "2026-11-13", "precio_unidad": null, "unidad": null}
-{"id": "officedepot-1207000004", "fecha_inicio": "2026-10-28", "precio": 159.0, "visto_hasta": "2026-11-13", "precio_unidad": null, "unidad": null}
-{"id": "officedepot-1207000005", "fecha_inicio": "2026-10-28", "precio": 159.0, "visto_hasta": "2026-11-13", "precio_unidad": null, "unidad": null}
+{"id": "officedepot-1313000153", "fecha_inicio": "2026-10-28", "precio": 399.0, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
+{"id": "officedepot-1313000152", "fecha_inicio": "2026-10-28", "precio": 449.0, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
+{"id": "officedepot-1207000004", "fecha_inicio": "2026-10-28", "precio": 159.0, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
+{"id": "officedepot-1207000005", "fecha_inicio": "2026-10-28", "precio": 159.0, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1207000006", "fecha_inicio": "2026-10-28", "precio": 159.0, "visto_hasta": "2026-11-13", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1207000008", "fecha_inicio": "2026-10-28", "precio": 159.0, "visto_hasta": "2026-11-13", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1214006911", "fecha_inicio": "2026-10-28", "precio": 165.0, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
@@ -5189,7 +5189,7 @@
 {"id": "officedepot-1301000731", "fecha_inicio": "2026-11-05", "precio": 6899.0, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1301000701", "fecha_inicio": "2026-11-05", "precio": 7999.0, "visto_hasta": "2026-11-08", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1301000699", "fecha_inicio": "2026-11-05", "precio": 7299.0, "visto_hasta": "2026-11-08", "precio_unidad": null, "unidad": null}
-{"id": "officedepot-1301000690", "fecha_inicio": "2026-11-05", "precio": 7899.0, "visto_hasta": "2026-11-13", "precio_unidad": null, "unidad": null}
+{"id": "officedepot-1301000690", "fecha_inicio": "2026-11-05", "precio": 7899.0, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1301000616", "fecha_inicio": "2026-11-05", "precio": 5899.0, "visto_hasta": "2026-11-08", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1301000620", "fecha_inicio": "2026-11-05", "precio": 7599.0, "visto_hasta": "2026-11-08", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1301000630", "fecha_inicio": "2026-11-05", "precio": 5399.0, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
@@ -5198,7 +5198,7 @@
 {"id": "officedepot-1306000148", "fecha_inicio": "2026-11-05", "precio": 2199.0, "visto_hasta": "2026-11-08", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1211000067", "fecha_inicio": "2026-11-05", "precio": 399.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1211000074", "fecha_inicio": "2026-11-05", "precio": 379.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
-{"id": "officedepot-1303000175", "fecha_inicio": "2026-11-06", "precio": 749.0, "visto_hasta": "2026-11-10", "precio_unidad": null, "unidad": null}
+{"id": "officedepot-1303000175", "fecha_inicio": "2026-11-06", "precio": 749.0, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1218000868", "fecha_inicio": "2026-11-06", "precio": 125.0, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1315000089", "fecha_inicio": "2026-11-06", "precio": 499.0, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
 {"id": "officedepot-1315000092", "fecha_inicio": "2026-11-06", "precio": 479.0, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
