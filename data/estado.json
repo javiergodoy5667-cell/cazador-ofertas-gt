@@ -1,16 +1,16 @@
 {
-  "ultima_corrida": "2026-11-15T07:24:31-06:00",
-  "duracion_seg": 426.7,
-  "productos_leidos": 44720,
+  "ultima_corrida": "2026-11-15T12:36:59-06:00",
+  "duracion_seg": 426.3,
+  "productos_leidos": 43409,
   "dias_historial": 20,
   "con_ean": {
-    "Elektra GT": 736,
+    "Elektra GT": 735,
     "La Torre": 5683,
     "Cemaco": 2761,
-    "Walmart GT": 5939,
-    "Simán": 2352,
-    "Max": 1059,
-    "Tecnofácil": 957
+    "Walmart GT": 5975,
+    "Simán": 2353,
+    "Max": 1083,
+    "Tecnofácil": 893
   },
   "reporte_tiendas": {
     "Click": {
@@ -19,24 +19,19 @@
       "dias_historial": 18
     },
     "Elektra GT": {
-      "productos": 1053,
-      "con_ean": 736,
+      "productos": 1051,
+      "con_ean": 735,
       "dias_historial": 20
     },
     "Office Depot": {
-      "productos": 3510,
+      "productos": 3436,
       "con_ean": 0,
       "dias_historial": 19
     },
     "La Curacao": {
-      "productos": 256,
+      "productos": 178,
       "con_ean": 0,
       "dias_historial": 20
-    },
-    "El Gallo más Gallo": {
-      "productos": 56,
-      "con_ean": 0,
-      "dias_historial": 18
     },
     "La Torre": {
       "productos": 6010,
@@ -49,24 +44,29 @@
       "dias_historial": 19
     },
     "Walmart GT": {
-      "productos": 5939,
-      "con_ean": 5939,
+      "productos": 5975,
+      "con_ean": 5975,
       "dias_historial": 20
     },
+    "PriceSmart": {
+      "productos": 364,
+      "con_ean": 0,
+      "dias_historial": 19
+    },
+    "El Gallo más Gallo": {
+      "productos": 56,
+      "con_ean": 0,
+      "dias_historial": 18
+    },
     "EPA": {
-      "productos": 8500,
+      "productos": 8459,
       "con_ean": 0,
       "dias_historial": 19
     },
     "Simán": {
-      "productos": 5858,
-      "con_ean": 2352,
+      "productos": 5849,
+      "con_ean": 2353,
       "dias_historial": 20
-    },
-    "PriceSmart": {
-      "productos": 511,
-      "con_ean": 0,
-      "dias_historial": 19
     },
     "Intelaf": {
       "productos": 175,
@@ -74,18 +74,18 @@
       "dias_historial": 18
     },
     "Max": {
-      "productos": 2868,
-      "con_ean": 1059,
+      "productos": 2632,
+      "con_ean": 1083,
       "dias_historial": 19
     },
     "Tecnofácil": {
-      "productos": 2631,
-      "con_ean": 957,
+      "productos": 1871,
+      "con_ean": 893,
       "dias_historial": 19
     }
   },
-  "coincidencias": 4025,
-  "antes_inflado": 1224,
+  "coincidencias": 3989,
+  "antes_inflado": 1196,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -104,6 +104,14 @@
       "url": "https://www.elektra.com.gt/juego-de-sarten-picca-de-3-piezas-pi003ssmu-c-10004534/p"
     },
     {
+      "nombre": "Cáfetera Black&Decker de 12 Tazas CM0916B",
+      "tienda": "Elektra GT",
+      "antes": 399.0,
+      "precio": 195.0,
+      "max_otro": 176.0,
+      "url": "https://www.elektra.com.gt/cafetera-black-and-decker-de-12-tazas-cm0916b-10005782/p"
+    },
+    {
       "nombre": "Minicomponente Vertical LG, RNC9, Woofer Dual para Graves, S",
       "tienda": "Elektra GT",
       "antes": 4299.0,
@@ -118,20 +126,12 @@
       "precio": 3.8,
       "max_otro": 3.25,
       "url": "https://www.latorre.com.gt/salsita-tomate-ranchera-naturas-54886/p"
-    },
-    {
-      "nombre": "Pasta Tomate Naturas Doypack",
-      "tienda": "La Torre",
-      "antes": 4.9,
-      "precio": 4.9,
-      "max_otro": 3.85,
-      "url": "https://www.latorre.com.gt/pasta-tomate-naturas-doypack-114015/p"
     }
   ],
   "ofertas_por_nivel": {
-    "loca": 2,
     "muy_buena": 239,
-    "buena": 8,
+    "loca": 3,
+    "buena": 11,
     "agotado": 4
   },
   "fuentes": {
@@ -144,19 +144,15 @@
       "estado": "ROTA"
     },
     "recolectores.elektra": {
-      "productos": 1121,
+      "productos": 1119,
       "estado": "OK"
     },
     "recolectores.officedepot": {
-      "productos": 3753,
+      "productos": 3692,
       "estado": "OK"
     },
     "recolectores.lacuracao": {
-      "productos": 274,
-      "estado": "OK"
-    },
-    "recolectores.elgallo": {
-      "productos": 61,
+      "productos": 183,
       "estado": "OK"
     },
     "recolectores.la_torre": {
@@ -168,19 +164,23 @@
       "estado": "OK"
     },
     "recolectores.walmart": {
-      "productos": 6012,
-      "estado": "OK"
-    },
-    "recolectores.epa": {
-      "productos": 8797,
-      "estado": "OK"
-    },
-    "recolectores.siman": {
-      "productos": 6048,
+      "productos": 6049,
       "estado": "OK"
     },
     "recolectores.pricesmart": {
-      "productos": 538,
+      "productos": 382,
+      "estado": "OK"
+    },
+    "recolectores.elgallo": {
+      "productos": 61,
+      "estado": "OK"
+    },
+    "recolectores.epa": {
+      "productos": 8756,
+      "estado": "OK"
+    },
+    "recolectores.siman": {
+      "productos": 6038,
       "estado": "OK"
     },
     "recolectores.intelaf": {
@@ -188,11 +188,11 @@
       "estado": "OK"
     },
     "recolectores.max_gt": {
-      "productos": 3042,
+      "productos": 2798,
       "estado": "OK"
     },
     "recolectores.tecnofacil": {
-      "productos": 2810,
+      "productos": 2007,
       "estado": "OK"
     }
   },
