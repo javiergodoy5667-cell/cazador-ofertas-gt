@@ -1,56 +1,36 @@
 {
-  "ultima_corrida": "2026-11-15T17:26:25-06:00",
-  "duracion_seg": 428.1,
-  "productos_leidos": 43521,
+  "ultima_corrida": "2026-11-15T22:58:33-06:00",
+  "duracion_seg": 428.8,
+  "productos_leidos": 43892,
   "dias_historial": 20,
   "con_ean": {
-    "Elektra GT": 735,
+    "Elektra GT": 733,
     "La Torre": 5683,
-    "Walmart GT": 5968,
-    "Cemaco": 2760,
-    "Simán": 2353,
-    "Tecnofácil": 936,
-    "Max": 1104
+    "Cemaco": 2749,
+    "Walmart GT": 5947,
+    "Simán": 2344,
+    "Max": 1047,
+    "Tecnofácil": 970
   },
   "reporte_tiendas": {
     "Click": {
-      "productos": 1473,
+      "productos": 1471,
       "con_ean": 0,
       "dias_historial": 18
     },
     "Elektra GT": {
-      "productos": 1050,
-      "con_ean": 735,
-      "dias_historial": 20
-    },
-    "La Curacao": {
-      "productos": 191,
-      "con_ean": 0,
+      "productos": 1048,
+      "con_ean": 733,
       "dias_historial": 20
     },
     "Office Depot": {
-      "productos": 3373,
+      "productos": 3593,
       "con_ean": 0,
       "dias_historial": 19
     },
-    "La Torre": {
-      "productos": 6010,
-      "con_ean": 5683,
-      "dias_historial": 20
-    },
-    "PriceSmart": {
-      "productos": 327,
+    "La Curacao": {
+      "productos": 256,
       "con_ean": 0,
-      "dias_historial": 19
-    },
-    "Walmart GT": {
-      "productos": 5968,
-      "con_ean": 5968,
-      "dias_historial": 20
-    },
-    "Cemaco": {
-      "productos": 5860,
-      "con_ean": 2760,
       "dias_historial": 20
     },
     "El Gallo más Gallo": {
@@ -58,34 +38,49 @@
       "con_ean": 0,
       "dias_historial": 18
     },
+    "La Torre": {
+      "productos": 6009,
+      "con_ean": 5683,
+      "dias_historial": 20
+    },
+    "Cemaco": {
+      "productos": 5856,
+      "con_ean": 2749,
+      "dias_historial": 20
+    },
+    "Walmart GT": {
+      "productos": 5947,
+      "con_ean": 5947,
+      "dias_historial": 20
+    },
+    "Simán": {
+      "productos": 5831,
+      "con_ean": 2344,
+      "dias_historial": 20
+    },
     "EPA": {
       "productos": 8500,
       "con_ean": 0,
       "dias_historial": 19
     },
-    "Simán": {
-      "productos": 5857,
-      "con_ean": 2353,
+    "Intelaf": {
+      "productos": 169,
+      "con_ean": 0,
       "dias_historial": 20
     },
-    "Intelaf": {
-      "productos": 174,
-      "con_ean": 0,
-      "dias_historial": 18
-    },
-    "Tecnofácil": {
-      "productos": 2105,
-      "con_ean": 936,
+    "Max": {
+      "productos": 2670,
+      "con_ean": 1047,
       "dias_historial": 19
     },
-    "Max": {
-      "productos": 2577,
-      "con_ean": 1104,
+    "Tecnofácil": {
+      "productos": 2486,
+      "con_ean": 970,
       "dias_historial": 19
     }
   },
-  "coincidencias": 4113,
-  "antes_inflado": 1300,
+  "coincidencias": 3999,
+  "antes_inflado": 1211,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -104,6 +99,14 @@
       "url": "https://www.elektra.com.gt/juego-de-sarten-picca-de-3-piezas-pi003ssmu-c-10004534/p"
     },
     {
+      "nombre": "Cáfetera Black&Decker de 12 Tazas CM0916B",
+      "tienda": "Elektra GT",
+      "antes": 399.0,
+      "precio": 195.0,
+      "max_otro": 176.0,
+      "url": "https://www.elektra.com.gt/cafetera-black-and-decker-de-12-tazas-cm0916b-10005782/p"
+    },
+    {
       "nombre": "Minicomponente Vertical LG, RNC9, Woofer Dual para Graves, S",
       "tienda": "Elektra GT",
       "antes": 4299.0,
@@ -118,81 +121,74 @@
       "precio": 3.8,
       "max_otro": 3.25,
       "url": "https://www.latorre.com.gt/salsita-tomate-ranchera-naturas-54886/p"
-    },
-    {
-      "nombre": "Pasta Tomate Naturas Doypack",
-      "tienda": "La Torre",
-      "antes": 4.9,
-      "precio": 4.9,
-      "max_otro": 3.85,
-      "url": "https://www.latorre.com.gt/pasta-tomate-naturas-doypack-114015/p"
     }
   ],
   "ofertas_por_nivel": {
-    "muy_buena": 220,
-    "loca": 3,
-    "buena": 8,
-    "agotado": 4
+    "error": 15,
+    "muy_buena": 882,
+    "loca": 14,
+    "buena": 28,
+    "agotado": 10
   },
   "fuentes": {
     "recolectores.click": {
-      "productos": 1665,
+      "productos": 1663,
       "estado": "OK"
+    },
+    "recolectores.pricesmart": {
+      "productos": 0,
+      "estado": "ROTA"
     },
     "recolectores.novex": {
       "productos": 0,
       "estado": "ROTA"
     },
     "recolectores.elektra": {
-      "productos": 1118,
-      "estado": "OK"
-    },
-    "recolectores.lacuracao": {
-      "productos": 203,
+      "productos": 1116,
       "estado": "OK"
     },
     "recolectores.officedepot": {
-      "productos": 3620,
+      "productos": 3862,
       "estado": "OK"
     },
-    "recolectores.la_torre": {
-      "productos": 6028,
-      "estado": "OK"
-    },
-    "recolectores.pricesmart": {
-      "productos": 343,
-      "estado": "OK"
-    },
-    "recolectores.walmart": {
-      "productos": 6042,
-      "estado": "OK"
-    },
-    "recolectores.cemaco": {
-      "productos": 6013,
+    "recolectores.lacuracao": {
+      "productos": 274,
       "estado": "OK"
     },
     "recolectores.elgallo": {
       "productos": 61,
       "estado": "OK"
     },
+    "recolectores.la_torre": {
+      "productos": 6028,
+      "estado": "OK"
+    },
+    "recolectores.cemaco": {
+      "productos": 6010,
+      "estado": "OK"
+    },
+    "recolectores.walmart": {
+      "productos": 6020,
+      "estado": "OK"
+    },
+    "recolectores.siman": {
+      "productos": 6029,
+      "estado": "OK"
+    },
     "recolectores.epa": {
       "productos": 8797,
       "estado": "OK"
     },
-    "recolectores.siman": {
-      "productos": 6047,
-      "estado": "OK"
-    },
     "recolectores.intelaf": {
-      "productos": 238,
-      "estado": "OK"
-    },
-    "recolectores.tecnofacil": {
-      "productos": 2268,
+      "productos": 230,
       "estado": "OK"
     },
     "recolectores.max_gt": {
-      "productos": 2734,
+      "productos": 2834,
+      "estado": "OK"
+    },
+    "recolectores.tecnofacil": {
+      "productos": 2632,
       "estado": "OK"
     }
   },

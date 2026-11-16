@@ -177,11 +177,11 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "STATIONERY CAVALIER KIDS SET",
-    "precio": 19.75,
-    "antes": 79.0,
-    "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/STATIONERY-CAVALIER-KIDS-SET/p/1218000438"
+    "nombre": "Marcador permanente marca Office Depot de tinta resistente al agua y al desvanecimiento. Escribe sobre papel, carton, plastico, metal, vidrio y madera. Ideal para etiquetar y rotular.",
+    "precio": 4.62,
+    "antes": 15.4,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-permanentes/Marcador-permanente-marca-Office-Depot-de-tinta-resistente-al-agua-y-al-desvanecimiento-Escribe-sobre-papel%2C-carton%2C-plastico%2C-metal%2C-vidrio-y-madera-Ideal-para-etiquetar-y-rotular-/p/1214000101"
   },
   {
     "tienda": "Office Depot",
@@ -198,22 +198,6 @@
     "antes": 199.0,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Masking-tape/Cinta-de-senalizacion-marca-tesa-de-alta-visibilidad-Demarca-areas%2C-pasillos-y-zonas-de-riesgo-en-piso%2C-paredes-o-equipos-Adhesion-fuerte-y-colores-brillantes-para-ambientes-industriales-y-comercial/p/1213000587"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
-    "precio": 5.97,
-    "antes": 19.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
-  },
-  {
-    "tienda": "Walmart GT",
-    "nombre": "Foco LED universal para faro de motocicleta, luz blanca brillante (alta y baja), con disipador de calor y driver estabilizador",
-    "precio": 84.0,
-    "antes": 290.0,
-    "descuento": 0.71,
-    "url": "https://www.walmart.com.gt/foco-led-universal-para-faro-de-motocicleta-luz-blanca-brillant-122856/p"
   },
   {
     "tienda": "Cemaco",
@@ -358,6 +342,30 @@
     "antes": 39.99,
     "descuento": 0.75,
     "url": "https://www.cemaco.com/tubo-halogeno-de-118-mm-y-500-w-westinghouse-134102/p"
+  },
+  {
+    "tienda": "Walmart GT",
+    "nombre": "Foco LED universal para faro de motocicleta, luz blanca brillante (alta y baja), con disipador de calor y driver estabilizador",
+    "precio": 84.0,
+    "antes": 290.0,
+    "descuento": 0.71,
+    "url": "https://www.walmart.com.gt/foco-led-universal-para-faro-de-motocicleta-luz-blanca-brillant-122856/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Lavasecadora Bespoke AI carga frontal 26 kg  WD80H53BHWAC Samsung",
+    "precio": 12999.0,
+    "antes": 10000000.0,
+    "descuento": 0.999,
+    "url": "https://gt.siman.com/lavasecadora-26kg-bespoke-ai-120v-60hz-blanca-105259182/p"
   },
   {
     "tienda": "EPA",
@@ -1670,14 +1678,6 @@
     "antes": 77.5,
     "descuento": 0.71,
     "url": "https://gt.epaenlinea.com/panel-de-extension-para-puerta-plegable-6mm-nogal.html"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
   },
   {
     "tienda": "Tecnofácil",
