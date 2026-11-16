@@ -1,57 +1,62 @@
 {
-  "ultima_corrida": "2026-11-16T08:37:35-06:00",
-  "duracion_seg": 429.3,
-  "productos_leidos": 44007,
+  "ultima_corrida": "2026-11-16T17:20:08-06:00",
+  "duracion_seg": 429.8,
+  "productos_leidos": 43441,
   "dias_historial": 21,
   "con_ean": {
-    "Elektra GT": 733,
-    "La Torre": 5683,
-    "Cemaco": 2748,
-    "Walmart GT": 5948,
-    "Simán": 2361,
-    "Tecnofácil": 972,
-    "Max": 1154
+    "Elektra GT": 735,
+    "Cemaco": 2532,
+    "La Torre": 5645,
+    "Walmart GT": 5975,
+    "Simán": 2338,
+    "Tecnofácil": 901,
+    "Max": 1104
   },
   "reporte_tiendas": {
     "Click": {
-      "productos": 1471,
+      "productos": 1465,
       "con_ean": 0,
-      "dias_historial": 18
+      "dias_historial": 20
     },
     "Elektra GT": {
-      "productos": 1048,
-      "con_ean": 733,
+      "productos": 1055,
+      "con_ean": 735,
       "dias_historial": 21
     },
     "Office Depot": {
-      "productos": 3349,
+      "productos": 3509,
       "con_ean": 0,
       "dias_historial": 20
     },
     "La Curacao": {
-      "productos": 191,
+      "productos": 255,
       "con_ean": 0,
+      "dias_historial": 21
+    },
+    "Cemaco": {
+      "productos": 5917,
+      "con_ean": 2532,
+      "dias_historial": 21
+    },
+    "La Torre": {
+      "productos": 5953,
+      "con_ean": 5645,
+      "dias_historial": 21
+    },
+    "PriceSmart": {
+      "productos": 326,
+      "con_ean": 0,
+      "dias_historial": 20
+    },
+    "Walmart GT": {
+      "productos": 5975,
+      "con_ean": 5975,
       "dias_historial": 21
     },
     "El Gallo más Gallo": {
       "productos": 56,
       "con_ean": 0,
-      "dias_historial": 18
-    },
-    "La Torre": {
-      "productos": 6009,
-      "con_ean": 5683,
-      "dias_historial": 21
-    },
-    "Cemaco": {
-      "productos": 5850,
-      "con_ean": 2748,
-      "dias_historial": 21
-    },
-    "Walmart GT": {
-      "productos": 5948,
-      "con_ean": 5948,
-      "dias_historial": 21
+      "dias_historial": 20
     },
     "EPA": {
       "productos": 8500,
@@ -59,28 +64,28 @@
       "dias_historial": 20
     },
     "Simán": {
-      "productos": 5845,
-      "con_ean": 2361,
+      "productos": 5822,
+      "con_ean": 2338,
       "dias_historial": 21
     },
     "Intelaf": {
-      "productos": 169,
+      "productos": 167,
       "con_ean": 0,
       "dias_historial": 21
     },
     "Tecnofácil": {
-      "productos": 2607,
-      "con_ean": 972,
+      "productos": 1903,
+      "con_ean": 901,
       "dias_historial": 20
     },
     "Max": {
-      "productos": 2964,
-      "con_ean": 1154,
+      "productos": 2538,
+      "con_ean": 1104,
       "dias_historial": 20
     }
   },
-  "coincidencias": 4147,
-  "antes_inflado": 1330,
+  "coincidencias": 3937,
+  "antes_inflado": 1247,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -99,14 +104,6 @@
       "url": "https://www.elektra.com.gt/juego-de-sarten-picca-de-3-piezas-pi003ssmu-c-10004534/p"
     },
     {
-      "nombre": "Cáfetera Black&Decker de 12 Tazas CM0916B",
-      "tienda": "Elektra GT",
-      "antes": 399.0,
-      "precio": 195.0,
-      "max_otro": 176.0,
-      "url": "https://www.elektra.com.gt/cafetera-black-and-decker-de-12-tazas-cm0916b-10005782/p"
-    },
-    {
       "nombre": "Minicomponente Vertical LG, RNC9, Woofer Dual para Graves, S",
       "tienda": "Elektra GT",
       "antes": 4299.0,
@@ -115,60 +112,68 @@
       "url": "https://www.elektra.com.gt/minicomponente-vertical-lg-rnc9-5004423/p"
     },
     {
-      "nombre": "Salsita Tomate Ranchera Naturas",
-      "tienda": "La Torre",
-      "antes": 3.8,
-      "precio": 3.8,
-      "max_otro": 3.25,
-      "url": "https://www.latorre.com.gt/salsita-tomate-ranchera-naturas-54886/p"
+      "nombre": "Cafetera con Jarra de Vidrio para 12 Tazas Color Negro",
+      "tienda": "Cemaco",
+      "antes": 269.99,
+      "precio": 189.99,
+      "max_otro": 176.0,
+      "url": "https://www.cemaco.com/cafetera-de-12-tazas-con-jarra-de-vidrio-black-decker-1059833/p"
+    },
+    {
+      "nombre": "Microondas 0.7 Pies Cúbicos Color Plateado",
+      "tienda": "Cemaco",
+      "antes": 699.99,
+      "precio": 559.99,
+      "max_otro": 556.0,
+      "url": "https://www.cemaco.com/microondas-silver-07-pies-whirlpool-1035042/p"
     }
   ],
   "ofertas_por_nivel": {
-    "muy_buena": 1149,
-    "error": 15,
-    "loca": 15,
-    "buena": 24,
-    "agotado": 9
+    "muy_buena": 1216,
+    "error": 12,
+    "loca": 14,
+    "buena": 19,
+    "agotado": 16
   },
   "fuentes": {
     "recolectores.click": {
-      "productos": 1663,
+      "productos": 1657,
       "estado": "OK"
-    },
-    "recolectores.pricesmart": {
-      "productos": 0,
-      "estado": "ROTA"
     },
     "recolectores.novex": {
       "productos": 0,
       "estado": "ROTA"
     },
     "recolectores.elektra": {
-      "productos": 1116,
+      "productos": 1124,
       "estado": "OK"
     },
     "recolectores.officedepot": {
-      "productos": 3593,
+      "productos": 3771,
       "estado": "OK"
     },
     "recolectores.lacuracao": {
-      "productos": 203,
+      "productos": 273,
+      "estado": "OK"
+    },
+    "recolectores.cemaco": {
+      "productos": 6030,
+      "estado": "OK"
+    },
+    "recolectores.la_torre": {
+      "productos": 6021,
+      "estado": "OK"
+    },
+    "recolectores.pricesmart": {
+      "productos": 342,
+      "estado": "OK"
+    },
+    "recolectores.walmart": {
+      "productos": 6046,
       "estado": "OK"
     },
     "recolectores.elgallo": {
       "productos": 61,
-      "estado": "OK"
-    },
-    "recolectores.la_torre": {
-      "productos": 6028,
-      "estado": "OK"
-    },
-    "recolectores.cemaco": {
-      "productos": 6004,
-      "estado": "OK"
-    },
-    "recolectores.walmart": {
-      "productos": 6021,
       "estado": "OK"
     },
     "recolectores.epa": {
@@ -176,19 +181,19 @@
       "estado": "OK"
     },
     "recolectores.siman": {
-      "productos": 6043,
+      "productos": 6003,
       "estado": "OK"
     },
     "recolectores.intelaf": {
-      "productos": 230,
+      "productos": 227,
       "estado": "OK"
     },
     "recolectores.tecnofacil": {
-      "productos": 2754,
+      "productos": 2036,
       "estado": "OK"
     },
     "recolectores.max_gt": {
-      "productos": 3154,
+      "productos": 2694,
       "estado": "OK"
     }
   },

@@ -113,6 +113,14 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Marcadores marca Staedtler con tinta de alta cobertura y colores vibrantes. Versátiles para escuela, oficina, arte y manualidades.",
+    "precio": 16.47,
+    "antes": 54.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-de-colores/Marcadores-marca-Staedtler-con-tinta-de-alta-cobertura-y-colores-vibrantes-Vers%C3%A1tiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214001876"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Marcadores marca Artline con tinta de alta cobertura y colores vibrantes. Versatiles para escuela, oficina, arte y manualidades.",
     "precio": 0.09,
     "antes": 8.9,
@@ -161,11 +169,11 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "STATIONERY CAVALIER KIDS SET",
-    "precio": 19.75,
-    "antes": 79.0,
-    "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/STATIONERY-CAVALIER-KIDS-SET/p/1218000438"
+    "nombre": "Set escolar marca Staedtler con útiles complementarios listos para usar. Ahorra tiempo y dinero con productos coordinados para escuela, oficina o regalo.",
+    "precio": 149.7,
+    "antes": 499.0,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/Set-escolar-marca-Staedtler-con-%C3%BAtiles-complementarios-listos-para-usar-Ahorra-tiempo-y-dinero-con-productos-coordinados-para-escuela%2C-oficina-o-regalo-/p/1214003940"
   },
   {
     "tienda": "Office Depot",
@@ -233,46 +241,6 @@
   },
   {
     "tienda": "Cemaco",
-    "nombre": "Tuercas de Seguridad Hexagonales para Llanta 12 mm x 1.50, 5 Piezas",
-    "precio": 24.99,
-    "antes": 89.99,
-    "descuento": 0.722,
-    "url": "https://www.cemaco.com/set-de-tuercas-de-seguridad-hexagonales-para-llanta-5-pzas-ig-tuning-1119843/p"
-  },
-  {
-    "tienda": "Cemaco",
-    "nombre": "Tuercas de Seguridad para Llanta 12 x 1.25 Abiertas, 5 Piezas",
-    "precio": 19.99,
-    "antes": 69.99,
-    "descuento": 0.714,
-    "url": "https://www.cemaco.com/set-de-tuercas-para-llanta-5-pzas-ig-tuning-1106972/p"
-  },
-  {
-    "tienda": "Cemaco",
-    "nombre": "Filtro de Aceite P967",
-    "precio": 29.99,
-    "antes": 119.99,
-    "descuento": 0.75,
-    "url": "https://www.cemaco.com/filtro-de-aceite-p967-luber-finer-1008301/p"
-  },
-  {
-    "tienda": "Cemaco",
-    "nombre": "Filtro de Aceite para Motor Tipo Cartucho CH10358",
-    "precio": 22.99,
-    "antes": 79.99,
-    "descuento": 0.713,
-    "url": "https://www.cemaco.com/filtro-de-aceite-p980-luber-finer-999906/p"
-  },
-  {
-    "tienda": "Cemaco",
-    "nombre": "Set de 5 Tuercas de Seguridad para Llanta 12 mm x 1.25 RH",
-    "precio": 15.99,
-    "antes": 89.99,
-    "descuento": 0.822,
-    "url": "https://www.cemaco.com/tuerca-para-carro-12-mm-x-125-rh-herrero-659349/p"
-  },
-  {
-    "tienda": "Cemaco",
     "nombre": "Lámpara para Interior de Pared Spot 50W de 1 Luz",
     "precio": 27.99,
     "antes": 139.99,
@@ -294,6 +262,14 @@
     "antes": 59.99,
     "descuento": 0.7,
     "url": "https://www.cemaco.com/bombilla-globo-led-10w-800lm-ace-1045463/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Lámpara de Emergencia Recargable LED de 1 W Color Blanca",
+    "precio": 59.99,
+    "antes": 299.99,
+    "descuento": 0.8,
+    "url": "https://www.cemaco.com/lampara-de-emergencia-recargable-tecnolite-1040784/p"
   },
   {
     "tienda": "Cemaco",
@@ -334,6 +310,14 @@
     "antes": 52.99,
     "descuento": 0.8,
     "url": "https://www.cemaco.com/reflector-par38-halogeno-volteck-varias-capacidades-790375/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Ojo de Buey Empotrado LED de 10 W Color Blanco",
+    "precio": 50.09,
+    "antes": 166.99,
+    "descuento": 0.7,
+    "url": "https://www.cemaco.com/lampara-led-empotrable-de-10-w-tecnolite-1028740/p"
   },
   {
     "tienda": "Cemaco",
@@ -1670,14 +1654,6 @@
     "antes": 699.0,
     "descuento": 0.787,
     "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Lavasecadora Bespoke AI carga frontal 26 kg  WD80H53BHWAC Samsung",
-    "precio": 12999.0,
-    "antes": 10000000.0,
-    "descuento": 0.999,
-    "url": "https://gt.siman.com/lavasecadora-26kg-bespoke-ai-120v-60hz-blanca-105259182/p"
   },
   {
     "tienda": "Tecnofácil",
