@@ -657,14 +657,6 @@
   },
   {
     "tienda": "EPA",
-    "nombre": "Lámpara tipo estaca moderna U invertida negra 1 luz LED solar 24725",
-    "precio": 115.0,
-    "antes": 389.0,
-    "descuento": 0.704,
-    "url": "https://gt.epaenlinea.com/lampara-tipo-estaca-moderna-u-invertida-negra-1-luz-led-solar-24725.html"
-  },
-  {
-    "tienda": "EPA",
     "nombre": "Lámpara arquitectónica moderna 1 luz e14 22605",
     "precio": 32.5,
     "antes": 219.0,
@@ -1694,6 +1686,22 @@
     "antes": 699.0,
     "descuento": 0.787,
     "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Copa de plástico",
+    "precio": 11.0,
+    "antes": 39.0,
+    "descuento": 0.718,
+    "url": "https://gt.siman.com/copa-de-cerveza-104224509/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Follaje artificial 50 cm",
+    "precio": 20.0,
+    "antes": 69.0,
+    "descuento": 0.71,
+    "url": "https://gt.siman.com/follaje-artificial-50cm-104404500/p"
   },
   {
     "tienda": "Max",
