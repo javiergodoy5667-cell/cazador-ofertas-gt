@@ -89,6 +89,22 @@
   },
   {
     "tienda": "Elektra GT",
+    "nombre": "Mochila Argom Azul BP-1342BL",
+    "precio": 129.0,
+    "antes": 635.0,
+    "descuento": 0.797,
+    "url": "https://www.elektra.com.gt/mochila-argom-azul-bp-1342bl-30003956/p"
+  },
+  {
+    "tienda": "Elektra GT",
+    "nombre": "Cover Samsung S25 Ultra Colores Varios",
+    "precio": 99.0,
+    "antes": 478.0,
+    "descuento": 0.793,
+    "url": "https://www.elektra.com.gt/cover-samsung-s25-ultra-32011341/p"
+  },
+  {
+    "tienda": "Elektra GT",
     "nombre": "Sartén Picca Turín 18 cm PI0022ST",
     "precio": 49.0,
     "antes": 209.0,
@@ -110,14 +126,6 @@
     "antes": 695.0,
     "descuento": 0.714,
     "url": "https://www.elektra.com.gt/audifonos-bt-klip-knh300bk-negro-30004203/p"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Marcadores marca Staedtler con tinta de alta cobertura y colores vibrantes. Versátiles para escuela, oficina, arte y manualidades.",
-    "precio": 16.47,
-    "antes": 54.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-de-colores/Marcadores-marca-Staedtler-con-tinta-de-alta-cobertura-y-colores-vibrantes-Vers%C3%A1tiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214001876"
   },
   {
     "tienda": "Office Depot",
@@ -200,14 +208,6 @@
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Masking-tape/Cinta-de-senalizacion-marca-tesa-de-alta-visibilidad-Demarca-areas%2C-pasillos-y-zonas-de-riesgo-en-piso%2C-paredes-o-equipos-Adhesion-fuerte-y-colores-brillantes-para-ambientes-industriales-y-comercial/p/1213000587"
   },
   {
-    "tienda": "Office Depot",
-    "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
-    "precio": 5.97,
-    "antes": 19.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
-  },
-  {
     "tienda": "Cemaco",
     "nombre": "Filtro Reusable de Tela para Aspirar en Seco 2.5 Gal",
     "precio": 15.0,
@@ -238,6 +238,46 @@
     "antes": 69.99,
     "descuento": 0.786,
     "url": "https://www.cemaco.com/filtro-de-esponja-25-gal-stanley-1043096/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Tuercas de Seguridad Hexagonales para Llanta 12 mm x 1.50, 5 Piezas",
+    "precio": 24.99,
+    "antes": 89.99,
+    "descuento": 0.722,
+    "url": "https://www.cemaco.com/set-de-tuercas-de-seguridad-hexagonales-para-llanta-5-pzas-ig-tuning-1119843/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Tuercas de Seguridad para Llanta 12 x 1.25 Abiertas, 5 Piezas",
+    "precio": 19.99,
+    "antes": 69.99,
+    "descuento": 0.714,
+    "url": "https://www.cemaco.com/set-de-tuercas-para-llanta-5-pzas-ig-tuning-1106972/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Filtro de Aceite para Motor Tipo Cartucho CH10358",
+    "precio": 22.99,
+    "antes": 79.99,
+    "descuento": 0.713,
+    "url": "https://www.cemaco.com/filtro-de-aceite-p980-luber-finer-999906/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Filtro de Aceite P967",
+    "precio": 29.99,
+    "antes": 119.99,
+    "descuento": 0.75,
+    "url": "https://www.cemaco.com/filtro-de-aceite-p967-luber-finer-1008301/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Set de 5 Tuercas de Seguridad para Llanta 12 mm x 1.25 RH",
+    "precio": 15.99,
+    "antes": 89.99,
+    "descuento": 0.822,
+    "url": "https://www.cemaco.com/tuerca-para-carro-12-mm-x-125-rh-herrero-659349/p"
   },
   {
     "tienda": "Cemaco",
@@ -281,6 +321,14 @@
   },
   {
     "tienda": "Cemaco",
+    "nombre": "Estaca Solar para Jardín 44 LM 0.5W, 2 Piezas",
+    "precio": 79.99,
+    "antes": 269.99,
+    "descuento": 0.704,
+    "url": "https://www.cemaco.com/estaca-solar-para-jardin-44-lm-2-pzas-1150703/p"
+  },
+  {
+    "tienda": "Cemaco",
     "nombre": "Lámpara De Techo/Pared Satín Niquelado 1Bombilloxgu10X50Wmax - Zlumini",
     "precio": 68.99,
     "antes": 229.99,
@@ -294,14 +342,6 @@
     "antes": 179.99,
     "descuento": 0.7,
     "url": "https://www.cemaco.com/farol-pared-1xe26x100wmax-volteck-varios-colores-954389/p"
-  },
-  {
-    "tienda": "Cemaco",
-    "nombre": "Estaca Solar para Jardín 44 LM 0.5W, 2 Piezas",
-    "precio": 79.99,
-    "antes": 269.99,
-    "descuento": 0.704,
-    "url": "https://www.cemaco.com/estaca-solar-para-jardin-44-lm-2-pzas-1150703/p"
   },
   {
     "tienda": "Cemaco",
@@ -1656,19 +1696,19 @@
     "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
   },
   {
-    "tienda": "Tecnofácil",
-    "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
-    "precio": 1099.0,
-    "antes": 3795.0,
-    "descuento": 0.71,
-    "url": "https://www.tecnofacil.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
-  },
-  {
     "tienda": "Max",
     "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
     "precio": 99.0,
     "antes": 335.0,
     "descuento": 0.704,
     "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
+  },
+  {
+    "tienda": "Tecnofácil",
+    "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
+    "precio": 1099.0,
+    "antes": 3795.0,
+    "descuento": 0.71,
+    "url": "https://www.tecnofacil.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
   }
 ]
