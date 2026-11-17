@@ -137,14 +137,6 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Boligrafo marca Office Depot de tinta fluida y trazo uniforme. Escritura comoda y duradera para uso diario en escuela y oficina.",
-    "precio": 2.49,
-    "antes": 24.9,
-    "descuento": 0.9,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Bol%C3%ADgrafos-de-gel/Boligrafo-marca-Office-Depot-de-tinta-fluida-y-trazo-uniforme-Escritura-comoda-y-duradera-para-uso-diario-en-escuela-y-oficina-/p/1214000083"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Borrador marca iStudy de goma suave que elimina trazos de lápiz sin maltratar el papel. Ideal para escuela, oficina y dibujo.",
     "precio": 5.97,
     "antes": 19.9,
@@ -206,6 +198,22 @@
     "antes": 199.0,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Masking-tape/Cinta-de-senalizacion-marca-tesa-de-alta-visibilidad-Demarca-areas%2C-pasillos-y-zonas-de-riesgo-en-piso%2C-paredes-o-equipos-Adhesion-fuerte-y-colores-brillantes-para-ambientes-industriales-y-comercial/p/1213000587"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Boligrafo marca Office Depot de tinta fluida y trazo uniforme. Escritura comoda y duradera para uso diario en escuela y oficina.",
+    "precio": 2.49,
+    "antes": 24.9,
+    "descuento": 0.9,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Bol%C3%ADgrafos-de-gel/Boligrafo-marca-Office-Depot-de-tinta-fluida-y-trazo-uniforme-Escritura-comoda-y-duradera-para-uso-diario-en-escuela-y-oficina-/p/1214000083"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
   },
   {
     "tienda": "Cemaco",
@@ -1686,30 +1694,6 @@
     "antes": 699.0,
     "descuento": 0.787,
     "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Copa de plástico",
-    "precio": 11.0,
-    "antes": 39.0,
-    "descuento": 0.718,
-    "url": "https://gt.siman.com/copa-de-cerveza-104224509/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Follaje artificial 50 cm",
-    "precio": 20.0,
-    "antes": 69.0,
-    "descuento": 0.71,
-    "url": "https://gt.siman.com/follaje-artificial-50cm-104404500/p"
-  },
-  {
-    "tienda": "Max",
-    "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
-    "precio": 99.0,
-    "antes": 335.0,
-    "descuento": 0.704,
-    "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
   },
   {
     "tienda": "Tecnofácil",
