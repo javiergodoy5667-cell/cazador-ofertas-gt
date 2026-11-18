@@ -145,14 +145,6 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Sacapuntas marca iStudy con cuchilla afilada que da punta uniforme a lápices y lápices de colores. Diseño práctico con depósito de viruta.",
-    "precio": 5.97,
-    "antes": 19.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Sacapuntas/Sacapuntas-marca-iStudy-con-cuchilla-afilada-que-da-punta-uniforme-a-l%C3%A1pices-y-l%C3%A1pices-de-colores-Dise%C3%B1o-pr%C3%A1ctico-con-dep%C3%B3sito-de-viruta-/p/1214002889"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Yeso marca Crayola para escultura, manualidades y proyectos artisticos. Mezcla y aplicacion sencillas para crear figuras, moldes y acabados decorativos.",
     "precio": 5.97,
     "antes": 19.9,
@@ -161,11 +153,27 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Lapices de colores marca Staedtler con mina pigmentada y resistente. Trazos suaves, intensos y mezclables, ideales para dibujo, coloreado y proyectos escolares.",
+    "precio": 188.7,
+    "antes": 629.0,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/L%C3%A1pices-de-colores/Lapices-de-colores-marca-Staedtler-con-mina-pigmentada-y-resistente-Trazos-suaves%2C-intensos-y-mezclables%2C-ideales-para-dibujo%2C-coloreado-y-proyectos-escolares-/p/1214003917"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Set escolar marca Staedtler con útiles complementarios listos para usar. Ahorra tiempo y dinero con productos coordinados para escuela, oficina o regalo.",
     "precio": 149.7,
     "antes": 499.0,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/Set-escolar-marca-Staedtler-con-%C3%BAtiles-complementarios-listos-para-usar-Ahorra-tiempo-y-dinero-con-productos-coordinados-para-escuela%2C-oficina-o-regalo-/p/1214003940"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Marcador permanente marca Office Depot de tinta resistente al agua y al desvanecimiento. Escribe sobre papel, carton, plastico, metal, vidrio y madera. Ideal para etiquetar y rotular.",
+    "precio": 4.62,
+    "antes": 15.4,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-permanentes/Marcador-permanente-marca-Office-Depot-de-tinta-resistente-al-agua-y-al-desvanecimiento-Escribe-sobre-papel%2C-carton%2C-plastico%2C-metal%2C-vidrio-y-madera-Ideal-para-etiquetar-y-rotular-/p/1214000101"
   },
   {
     "tienda": "Office Depot",
@@ -190,6 +198,14 @@
     "antes": 19.9,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
+  },
+  {
+    "tienda": "Walmart GT",
+    "nombre": "Foco LED universal para faro de motocicleta, luz blanca brillante (alta y baja), con disipador de calor y driver estabilizador",
+    "precio": 84.0,
+    "antes": 290.0,
+    "descuento": 0.71,
+    "url": "https://www.walmart.com.gt/foco-led-universal-para-faro-de-motocicleta-luz-blanca-brillant-122856/p"
   },
   {
     "tienda": "Cemaco",
@@ -358,22 +374,6 @@
     "antes": 39.99,
     "descuento": 0.75,
     "url": "https://www.cemaco.com/tubo-halogeno-de-118-mm-y-500-w-westinghouse-134102/p"
-  },
-  {
-    "tienda": "Walmart GT",
-    "nombre": "Foco LED universal para faro de motocicleta, luz blanca brillante (alta y baja), con disipador de calor y driver estabilizador",
-    "precio": 84.0,
-    "antes": 290.0,
-    "descuento": 0.71,
-    "url": "https://www.walmart.com.gt/foco-led-universal-para-faro-de-motocicleta-luz-blanca-brillant-122856/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
   },
   {
     "tienda": "EPA",
@@ -1720,12 +1720,12 @@
     "url": "https://gt.epaenlinea.com/panel-de-extension-para-puerta-plegable-6mm-nogal.html"
   },
   {
-    "tienda": "Max",
-    "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
-    "precio": 99.0,
-    "antes": 335.0,
-    "descuento": 0.704,
-    "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
   },
   {
     "tienda": "Tecnofácil",
@@ -1734,5 +1734,13 @@
     "antes": 3795.0,
     "descuento": 0.71,
     "url": "https://www.tecnofacil.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
+  },
+  {
+    "tienda": "Max",
+    "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
+    "precio": 99.0,
+    "antes": 335.0,
+    "descuento": 0.704,
+    "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
   }
 ]
