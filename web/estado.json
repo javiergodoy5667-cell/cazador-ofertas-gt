@@ -1,91 +1,96 @@
 {
-  "ultima_corrida": "2026-11-18T19:57:44-06:00",
-  "duracion_seg": 427.3,
-  "productos_leidos": 43550,
-  "dias_historial": 23,
+  "ultima_corrida": "2026-11-19T04:01:57-06:00",
+  "duracion_seg": 432.5,
+  "productos_leidos": 44559,
+  "dias_historial": 24,
   "con_ean": {
-    "Elektra GT": 733,
-    "La Torre": 5695,
-    "Cemaco": 2763,
-    "Walmart GT": 5955,
-    "Simán": 2342,
-    "Max": 1148,
-    "Tecnofácil": 907
+    "Elektra GT": 731,
+    "La Torre": 5674,
+    "Walmart GT": 5970,
+    "Cemaco": 2768,
+    "Simán": 2341,
+    "Max": 1096,
+    "Tecnofácil": 986
   },
   "reporte_tiendas": {
     "Click": {
-      "productos": 1437,
+      "productos": 1440,
       "con_ean": 0,
       "dias_historial": 22
     },
     "Elektra GT": {
-      "productos": 1045,
-      "con_ean": 733,
-      "dias_historial": 23
+      "productos": 1043,
+      "con_ean": 731,
+      "dias_historial": 24
     },
     "Office Depot": {
-      "productos": 3372,
+      "productos": 3502,
       "con_ean": 0,
-      "dias_historial": 22
+      "dias_historial": 23
     },
     "La Curacao": {
-      "productos": 254,
+      "productos": 190,
+      "con_ean": 0,
+      "dias_historial": 24
+    },
+    "PriceSmart": {
+      "productos": 367,
       "con_ean": 0,
       "dias_historial": 23
     },
     "La Torre": {
-      "productos": 6020,
-      "con_ean": 5695,
+      "productos": 6001,
+      "con_ean": 5674,
+      "dias_historial": 24
+    },
+    "Walmart GT": {
+      "productos": 5970,
+      "con_ean": 5970,
+      "dias_historial": 24
+    },
+    "El Gallo más Gallo": {
+      "productos": 57,
+      "con_ean": 0,
       "dias_historial": 23
     },
     "Cemaco": {
-      "productos": 5882,
-      "con_ean": 2763,
-      "dias_historial": 23
-    },
-    "Walmart GT": {
-      "productos": 5955,
-      "con_ean": 5955,
-      "dias_historial": 23
-    },
-    "PriceSmart": {
-      "productos": 327,
-      "con_ean": 0,
-      "dias_historial": 22
-    },
-    "El Gallo más Gallo": {
-      "productos": 56,
-      "con_ean": 0,
-      "dias_historial": 22
+      "productos": 5886,
+      "con_ean": 2768,
+      "dias_historial": 24
     },
     "EPA": {
-      "productos": 8500,
+      "productos": 8495,
       "con_ean": 0,
       "dias_historial": 22
     },
     "Simán": {
-      "productos": 5838,
-      "con_ean": 2342,
-      "dias_historial": 23
+      "productos": 5836,
+      "con_ean": 2341,
+      "dias_historial": 24
     },
     "Intelaf": {
-      "productos": 173,
+      "productos": 175,
       "con_ean": 0,
       "dias_historial": 23
     },
     "Max": {
-      "productos": 2696,
-      "con_ean": 1148,
-      "dias_historial": 22
+      "productos": 2860,
+      "con_ean": 1096,
+      "dias_historial": 23
     },
     "Tecnofácil": {
-      "productos": 1995,
-      "con_ean": 907,
-      "dias_historial": 22
+      "productos": 2606,
+      "con_ean": 986,
+      "dias_historial": 23
+    },
+    "Novex": {
+      "productos": 131,
+      "con_ean": 0,
+      "dias_historial": 23
     }
   },
-  "coincidencias": 4146,
-  "antes_inflado": 1269,
+  "coincidencias": 4047,
+  "antes_inflado": 1224,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -112,88 +117,87 @@
       "url": "https://www.elektra.com.gt/juego-de-sarten-picca-de-3-piezas-pi003ssmu-c-10004534/p"
     },
     {
+      "nombre": "Cáfetera Black&Decker de 12 Tazas CM0916B",
+      "tienda": "Elektra GT",
+      "antes": 399.0,
+      "precio": 195.0,
+      "max_otro": 186.0,
+      "url": "https://www.elektra.com.gt/cafetera-black-and-decker-de-12-tazas-cm0916b-10005782/p"
+    },
+    {
       "nombre": "Minicomponente Vertical LG, RNC9, Woofer Dual para Graves, S",
       "tienda": "Elektra GT",
       "antes": 4299.0,
       "precio": 2999.0,
       "max_otro": 2896.0,
       "url": "https://www.elektra.com.gt/minicomponente-vertical-lg-rnc9-5004423/p"
-    },
-    {
-      "nombre": "Salsita Tomate Ranchera Naturas",
-      "tienda": "La Torre",
-      "antes": 3.8,
-      "precio": 3.8,
-      "max_otro": 3.25,
-      "url": "https://www.latorre.com.gt/salsita-tomate-ranchera-naturas-54886/p"
     }
   ],
   "ofertas_por_nivel": {
-    "muy_buena": 648,
-    "error": 1,
     "loca": 11,
-    "buena": 18,
-    "agotado": 11
+    "muy_buena": 250,
+    "buena": 47,
+    "agotado": 37
   },
   "fuentes": {
     "recolectores.click": {
-      "productos": 1626,
+      "productos": 1629,
       "estado": "OK"
     },
-    "recolectores.novex": {
-      "productos": 0,
-      "estado": "ROTA"
-    },
     "recolectores.elektra": {
-      "productos": 1114,
+      "productos": 1112,
       "estado": "OK"
     },
     "recolectores.officedepot": {
-      "productos": 3624,
+      "productos": 3751,
       "estado": "OK"
     },
     "recolectores.lacuracao": {
-      "productos": 272,
-      "estado": "OK"
-    },
-    "recolectores.la_torre": {
-      "productos": 6040,
-      "estado": "OK"
-    },
-    "recolectores.cemaco": {
-      "productos": 6044,
-      "estado": "OK"
-    },
-    "recolectores.walmart": {
-      "productos": 6027,
+      "productos": 202,
       "estado": "OK"
     },
     "recolectores.pricesmart": {
-      "productos": 342,
+      "productos": 383,
+      "estado": "OK"
+    },
+    "recolectores.la_torre": {
+      "productos": 6021,
+      "estado": "OK"
+    },
+    "recolectores.walmart": {
+      "productos": 6043,
       "estado": "OK"
     },
     "recolectores.elgallo": {
-      "productos": 61,
+      "productos": 62,
+      "estado": "OK"
+    },
+    "recolectores.cemaco": {
+      "productos": 6048,
       "estado": "OK"
     },
     "recolectores.epa": {
-      "productos": 8797,
+      "productos": 8792,
       "estado": "OK"
     },
     "recolectores.siman": {
-      "productos": 6036,
+      "productos": 6033,
       "estado": "OK"
     },
     "recolectores.intelaf": {
-      "productos": 237,
+      "productos": 239,
       "estado": "OK"
     },
     "recolectores.max_gt": {
-      "productos": 2866,
+      "productos": 3032,
       "estado": "OK"
     },
     "recolectores.tecnofacil": {
-      "productos": 2125,
+      "productos": 2750,
+      "estado": "OK"
+    },
+    "recolectores.novex": {
+      "productos": 131,
       "estado": "OK"
     }
   },
