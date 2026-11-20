@@ -161,14 +161,6 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Lapices de colores marca Staedtler con mina pigmentada y resistente. Trazos suaves, intensos y mezclables, ideales para dibujo, coloreado y proyectos escolares.",
-    "precio": 188.7,
-    "antes": 629.0,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/L%C3%A1pices-de-colores/Lapices-de-colores-marca-Staedtler-con-mina-pigmentada-y-resistente-Trazos-suaves%2C-intensos-y-mezclables%2C-ideales-para-dibujo%2C-coloreado-y-proyectos-escolares-/p/1214003917"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Set escolar marca Staedtler con útiles complementarios listos para usar. Ahorra tiempo y dinero con productos coordinados para escuela, oficina o regalo.",
     "precio": 149.7,
     "antes": 499.0,
@@ -256,28 +248,12 @@
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Cubo-de-notas-marca-Eagle-con-hojas-para-recados%2C-recordatorios-y-listas-Diseno-compacto-para-escritorio-que-mantiene-todo-organizado-al-alcance-/p/1213000187"
   },
   {
-    "tienda": "Office Depot",
-    "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
-    "precio": 5.97,
-    "antes": 19.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
-  },
-  {
     "tienda": "La Torre",
     "nombre": "Papaya Tainung Jakovi Peso Máximo 4Lb.",
     "precio": 4.95,
     "antes": 25.65,
     "descuento": 0.807,
     "url": "https://www.latorre.com.gt/papaya-tainung-jakovi-peso-maximo-4lb--66647/p"
-  },
-  {
-    "tienda": "Walmart GT",
-    "nombre": "Foco LED universal para faro de motocicleta, luz blanca brillante (alta y baja), con disipador de calor y driver estabilizador",
-    "precio": 84.0,
-    "antes": 290.0,
-    "descuento": 0.71,
-    "url": "https://www.walmart.com.gt/foco-led-universal-para-faro-de-motocicleta-luz-blanca-brillant-122856/p"
   },
   {
     "tienda": "Cemaco",
@@ -350,14 +326,6 @@
     "antes": 89.99,
     "descuento": 0.822,
     "url": "https://www.cemaco.com/tuerca-para-carro-12-mm-x-125-rh-herrero-659349/p"
-  },
-  {
-    "tienda": "Cemaco",
-    "nombre": "Pachón con Pajilla y Correa de 598 mL- Diseño Surtido",
-    "precio": 9.99,
-    "antes": 39.99,
-    "descuento": 0.75,
-    "url": "https://www.cemaco.com/pachon-con-pajilla-y-correa-598-ml-diseno-surtido-1135021/p"
   },
   {
     "tienda": "Cemaco",
@@ -446,6 +414,30 @@
     "antes": 39.99,
     "descuento": 0.75,
     "url": "https://www.cemaco.com/tubo-halogeno-de-118-mm-y-500-w-westinghouse-134102/p"
+  },
+  {
+    "tienda": "Walmart GT",
+    "nombre": "Foco LED universal para faro de motocicleta, luz blanca brillante (alta y baja), con disipador de calor y driver estabilizador",
+    "precio": 84.0,
+    "antes": 290.0,
+    "descuento": 0.71,
+    "url": "https://www.walmart.com.gt/foco-led-universal-para-faro-de-motocicleta-luz-blanca-brillant-122856/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Vestido multicolor a rayas para niña",
+    "precio": 41.0,
+    "antes": 139.0,
+    "descuento": 0.705,
+    "url": "https://gt.siman.com/vestido-manga-corta-estampado-azul-navy-blazer-de-nia-104197329/p"
   },
   {
     "tienda": "EPA",
@@ -1864,20 +1856,12 @@
     "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
   },
   {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Vestido multicolor a rayas para niña",
-    "precio": 41.0,
-    "antes": 139.0,
-    "descuento": 0.705,
-    "url": "https://gt.siman.com/vestido-manga-corta-estampado-azul-navy-blazer-de-nia-104197329/p"
+    "tienda": "Max",
+    "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
+    "precio": 99.0,
+    "antes": 335.0,
+    "descuento": 0.704,
+    "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
   },
   {
     "tienda": "Tecnofácil",
@@ -1886,13 +1870,5 @@
     "antes": 3795.0,
     "descuento": 0.71,
     "url": "https://www.tecnofacil.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
-  },
-  {
-    "tienda": "Max",
-    "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
-    "precio": 99.0,
-    "antes": 335.0,
-    "descuento": 0.704,
-    "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
   }
 ]
