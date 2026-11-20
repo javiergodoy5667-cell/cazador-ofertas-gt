@@ -161,35 +161,19 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Lapices de colores marca Staedtler con mina pigmentada y resistente. Trazos suaves, intensos y mezclables, ideales para dibujo, coloreado y proyectos escolares.",
+    "precio": 188.7,
+    "antes": 629.0,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/L%C3%A1pices-de-colores/Lapices-de-colores-marca-Staedtler-con-mina-pigmentada-y-resistente-Trazos-suaves%2C-intensos-y-mezclables%2C-ideales-para-dibujo%2C-coloreado-y-proyectos-escolares-/p/1214003917"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Set escolar marca Staedtler con útiles complementarios listos para usar. Ahorra tiempo y dinero con productos coordinados para escuela, oficina o regalo.",
     "precio": 149.7,
     "antes": 499.0,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/Set-escolar-marca-Staedtler-con-%C3%BAtiles-complementarios-listos-para-usar-Ahorra-tiempo-y-dinero-con-productos-coordinados-para-escuela%2C-oficina-o-regalo-/p/1214003940"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "SET CAVALIER BOTELLA MAS",
-    "precio": 24.0,
-    "antes": 96.0,
-    "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/SET-CAVALIER-BOTELLA-MAS/p/1218000437"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "SET CAVALIER ASTRONAUTA PARA",
-    "precio": 26.0,
-    "antes": 104.0,
-    "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/SET-CAVALIER-ASTRONAUTA-PARA/p/1218000439"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "STATIONERY CAVALIER KIDS SET",
-    "precio": 19.75,
-    "antes": 79.0,
-    "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/STATIONERY-CAVALIER-KIDS-SET/p/1218000438"
   },
   {
     "tienda": "Office Depot",
@@ -246,6 +230,14 @@
     "antes": 20.9,
     "descuento": 0.75,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Cubo-de-notas-marca-Eagle-con-hojas-para-recados%2C-recordatorios-y-listas-Diseno-compacto-para-escritorio-que-mantiene-todo-organizado-al-alcance-/p/1213000187"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
   },
   {
     "tienda": "La Torre",
@@ -1856,19 +1848,19 @@
     "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
   },
   {
-    "tienda": "Max",
-    "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
-    "precio": 99.0,
-    "antes": 335.0,
-    "descuento": 0.704,
-    "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
-  },
-  {
     "tienda": "Tecnofácil",
     "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
     "precio": 1099.0,
     "antes": 3795.0,
     "descuento": 0.71,
     "url": "https://www.tecnofacil.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
+  },
+  {
+    "tienda": "Max",
+    "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
+    "precio": 99.0,
+    "antes": 335.0,
+    "descuento": 0.704,
+    "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
   }
 ]
