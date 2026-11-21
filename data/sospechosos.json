@@ -177,6 +177,30 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "SET CAVALIER BOTELLA MAS",
+    "precio": 24.0,
+    "antes": 96.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/SET-CAVALIER-BOTELLA-MAS/p/1218000437"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "SET CAVALIER ASTRONAUTA PARA",
+    "precio": 26.0,
+    "antes": 104.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/SET-CAVALIER-ASTRONAUTA-PARA/p/1218000439"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "STATIONERY CAVALIER KIDS SET",
+    "precio": 19.75,
+    "antes": 79.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/STATIONERY-CAVALIER-KIDS-SET/p/1218000438"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Banderitas adhesivas marca Office Depot para senalar, clasificar y organizar documentos, libros y apuntes. Reposicionables, no danan el papel y resaltan informacion clave. Ideales para estudio, oficin",
     "precio": 6.72,
     "antes": 26.9,
@@ -230,14 +254,6 @@
     "antes": 20.9,
     "descuento": 0.75,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Cubo-de-notas-marca-Eagle-con-hojas-para-recados%2C-recordatorios-y-listas-Diseno-compacto-para-escritorio-que-mantiene-todo-organizado-al-alcance-/p/1213000187"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
-    "precio": 5.97,
-    "antes": 19.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
   },
   {
     "tienda": "La Torre",
@@ -329,19 +345,19 @@
   },
   {
     "tienda": "Cemaco",
-    "nombre": "Lámpara de Emergencia Recargable LED de 1 W Color Blanca",
-    "precio": 59.99,
-    "antes": 299.99,
-    "descuento": 0.8,
-    "url": "https://www.cemaco.com/lampara-de-emergencia-recargable-tecnolite-1040784/p"
-  },
-  {
-    "tienda": "Cemaco",
     "nombre": "Plafón de Techo Cuadros Cuadrado  60 W 30.5 Cm",
     "precio": 41.99,
     "antes": 139.99,
     "descuento": 0.7,
     "url": "https://www.cemaco.com/plafon-de-techo-cuadros-cuadrado-305-cm-60w-z-799097/p"
+  },
+  {
+    "tienda": "Cemaco",
+    "nombre": "Reflector Par38 Halógeno - Volteck Varias Capacidades",
+    "precio": 10.6,
+    "antes": 52.99,
+    "descuento": 0.8,
+    "url": "https://www.cemaco.com/reflector-par38-halogeno-volteck-varias-capacidades-790375/p"
   },
   {
     "tienda": "Cemaco",
@@ -361,19 +377,11 @@
   },
   {
     "tienda": "Cemaco",
-    "nombre": "Estaca Solar para Jardín 44 LM 0.5W, 2 Piezas",
-    "precio": 79.99,
-    "antes": 269.99,
-    "descuento": 0.704,
-    "url": "https://www.cemaco.com/estaca-solar-para-jardin-44-lm-2-pzas-1150703/p"
-  },
-  {
-    "tienda": "Cemaco",
-    "nombre": "Lámpara De Techo/Pared Satín Niquelado 1Bombilloxgu10X50Wmax - Zlumini",
-    "precio": 68.99,
-    "antes": 229.99,
-    "descuento": 0.7,
-    "url": "https://www.cemaco.com/lampara-de-techo-pared-satin-niquelado-60w-z-852761/p"
+    "nombre": "Lámpara de Emergencia Recargable LED de 1 W Color Blanca",
+    "precio": 59.99,
+    "antes": 299.99,
+    "descuento": 0.8,
+    "url": "https://www.cemaco.com/lampara-de-emergencia-recargable-tecnolite-1040784/p"
   },
   {
     "tienda": "Cemaco",
@@ -385,11 +393,11 @@
   },
   {
     "tienda": "Cemaco",
-    "nombre": "Reflector Par38 Halógeno - Volteck Varias Capacidades",
-    "precio": 10.6,
-    "antes": 52.99,
-    "descuento": 0.8,
-    "url": "https://www.cemaco.com/reflector-par38-halogeno-volteck-varias-capacidades-790375/p"
+    "nombre": "Bombillo Empotrable Mr16 LED Gu5.3 Luz de Día",
+    "precio": 5.99,
+    "antes": 20.0,
+    "descuento": 0.701,
+    "url": "https://www.cemaco.com/bombillo-mr16-led-6500k-gu53-7w-dim-550-ace-1045474/p"
   },
   {
     "tienda": "Cemaco",
@@ -414,30 +422,6 @@
     "antes": 290.0,
     "descuento": 0.71,
     "url": "https://www.walmart.com.gt/foco-led-universal-para-faro-de-motocicleta-luz-blanca-brillant-122856/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Vestido multicolor a rayas para niña",
-    "precio": 41.0,
-    "antes": 139.0,
-    "descuento": 0.705,
-    "url": "https://gt.siman.com/vestido-manga-corta-estampado-azul-navy-blazer-de-nia-104197329/p"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Zapato de seguridad dieléctrico varias tallas con puntera y plantilla de composite gargas",
-    "precio": 149.0,
-    "antes": 510.0,
-    "descuento": 0.708,
-    "url": "https://gt.epaenlinea.com/zapato-de-seguridad-dielectrico-varias-tallas-con-puntera-y-plantilla-de-composite-gargas.html"
   },
   {
     "tienda": "EPA",
@@ -1846,6 +1830,22 @@
     "antes": 59.95,
     "descuento": 0.708,
     "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Vestido multicolor a rayas para niña",
+    "precio": 41.0,
+    "antes": 139.0,
+    "descuento": 0.705,
+    "url": "https://gt.siman.com/vestido-manga-corta-estampado-azul-navy-blazer-de-nia-104197329/p"
   },
   {
     "tienda": "Tecnofácil",
