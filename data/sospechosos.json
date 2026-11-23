@@ -1,13 +1,5 @@
 [
   {
-    "tienda": "Click",
-    "nombre": "PORTA LLAVES S-BINER KRG2-11-R3",
-    "precio": 9.0,
-    "antes": 35.0,
-    "descuento": 0.743,
-    "url": "https://www.click.gt/products/porta-llaves-s-biner-krg2-11-r3"
-  },
-  {
     "tienda": "Elektra GT",
     "nombre": "Cover Samsung Galaxy A11 Transparente",
     "precio": 65.0,
@@ -121,6 +113,46 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "PROYECTOR SPECTRA YG361",
+    "precio": 899.75,
+    "antes": 3599.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Proyectores-y-accesorios/PROYECTOR-SPECTRA-YG361/p/1308000070"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "PROYECTOR SPECTRA J03",
+    "precio": 399.75,
+    "antes": 1599.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Proyectores-y-accesorios/PROYECTOR-SPECTRA-J03/p/1308000066"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "MOUSE PRIMUS GAMING AHSOKA",
+    "precio": 92.25,
+    "antes": 369.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Mouse-inal%C3%A1mbrico/MOUSE-PRIMUS-GAMING-AHSOKA/p/1303000630"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "AUDIFONOS REDRAGON GAMING LAMIA BLANCO H320W-RGB",
+    "precio": 99.75,
+    "antes": 399.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Aud%C3%ADfonos-on-ear/AUDIFONOS-REDRAGON-GAMING-LAMIA-BLANCO-H320W-RGB/p/1304000100"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "CONTROL REDRAGON CERES G812 G812",
+    "precio": 149.75,
+    "antes": 599.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Gamers/CONTROL-REDRAGON-CERES-G812-G812/p/1304000104"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Marcadores marca Artline con tinta de alta cobertura y colores vibrantes. Versatiles para escuela, oficina, arte y manualidades.",
     "precio": 0.09,
     "antes": 8.9,
@@ -177,6 +209,46 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "SET CAVALIER ASTRONAUTA PARA",
+    "precio": 26.0,
+    "antes": 104.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/SET-CAVALIER-ASTRONAUTA-PARA/p/1218000439"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "STATIONERY CAVALIER KIDS SET",
+    "precio": 19.75,
+    "antes": 79.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/STATIONERY-CAVALIER-KIDS-SET/p/1218000438"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Banderitas adhesivas marca Office Depot para senalar, clasificar y organizar documentos, libros y apuntes. Reposicionables, no danan el papel y resaltan informacion clave. Ideales para estudio, oficin",
+    "precio": 6.72,
+    "antes": 26.9,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Banderitas-adhesivas-marca-Office-Depot-para-senalar%2C-clasificar-y-organizar-documentos%2C-libros-y-apuntes-Reposicionables%2C-no-danan-el-papel-y-resaltan-informacion-clave-Ideales-para-estudio%2C-oficin/p/1213000190"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "BANDERITAS PARA CARPETA \"HELLO/WEEKEND PLANS/DON´T FORGET\" OFFICE DEPOT",
+    "precio": 4.97,
+    "antes": 19.9,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/BANDERITAS-PARA-CARPETA-%22HELLO-WEEKEND-PLANS-DON%C2%B4T-FORGET%22-OFFICE-DEPOT/p/1213000191"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Banderitas adhesivas marca Office Depot para senalar, clasificar y organizar documentos, libros y apuntes. Reposicionables, no danan el papel y resaltan informacion clave. Ideales para estudio, oficin",
+    "precio": 10.47,
+    "antes": 41.9,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Banderitas-adhesivas-marca-Office-Depot-para-senalar%2C-clasificar-y-organizar-documentos%2C-libros-y-apuntes-Reposicionables%2C-no-danan-el-papel-y-resaltan-informacion-clave-Ideales-para-estudio%2C-oficin/p/1213000186"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Marcador permanente marca Office Depot de tinta resistente al agua y al desvanecimiento. Escribe sobre papel, carton, plastico, metal, vidrio y madera. Ideal para etiquetar y rotular.",
     "precio": 4.62,
     "antes": 15.4,
@@ -201,51 +273,19 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Cubo de notas marca Eagle con hojas para recados, recordatorios y listas. Diseno compacto para escritorio que mantiene todo organizado al alcance.",
+    "precio": 5.22,
+    "antes": 20.9,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Cubo-de-notas-marca-Eagle-con-hojas-para-recados%2C-recordatorios-y-listas-Diseno-compacto-para-escritorio-que-mantiene-todo-organizado-al-alcance-/p/1213000187"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
     "precio": 5.97,
     "antes": 19.9,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Bolígrafo de gel marca Top Team con tinta fluida y secado rápido. Trazo nítido y constante, ideal para escritura cómoda en clase, oficina y planners.",
-    "precio": 10.47,
-    "antes": 34.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Bol%C3%ADgrafos-de-gel/Bol%C3%ADgrafo-de-gel-marca-Top-Team-con-tinta-fluida-y-secado-r%C3%A1pido-Trazo-n%C3%ADtido-y-constante%2C-ideal-para-escritura-c%C3%B3moda-en-clase%2C-oficina-y-planners-/p/1214002819"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Notas adhesivas marca Top Team reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
-    "precio": 11.97,
-    "antes": 39.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Top-Team-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000403"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Notas adhesivas marca Top Team reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
-    "precio": 20.97,
-    "antes": 69.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Top-Team-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000405"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Notas adhesivas marca Top Team reposicionables para recordatorios, marcar paginas y organizar ideas. Adhesivo que se despega sin danar, perfecto para estudio, oficina y planificacion.",
-    "precio": 23.97,
-    "antes": 79.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Notas-adhesivas-marca-Top-Team-reposicionables-para-recordatorios%2C-marcar-paginas-y-organizar-ideas-Adhesivo-que-se-despega-sin-danar%2C-perfecto-para-estudio%2C-oficina-y-planificacion-/p/1213000406"
-  },
-  {
-    "tienda": "La Torre",
-    "nombre": "Papaya Tainung Jakovi Peso Máximo 4Lb.",
-    "precio": 4.95,
-    "antes": 25.65,
-    "descuento": 0.807,
-    "url": "https://www.latorre.com.gt/papaya-tainung-jakovi-peso-maximo-4lb--66647/p"
   },
   {
     "tienda": "Cemaco",
@@ -406,6 +446,86 @@
     "antes": 290.0,
     "descuento": 0.71,
     "url": "https://www.walmart.com.gt/foco-led-universal-para-faro-de-motocicleta-luz-blanca-brillant-122856/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Copa de plástico",
+    "precio": 11.0,
+    "antes": 39.0,
+    "descuento": 0.718,
+    "url": "https://gt.siman.com/copa-de-cerveza-104224509/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Follaje artificial 50 cm",
+    "precio": 20.0,
+    "antes": 69.0,
+    "descuento": 0.71,
+    "url": "https://gt.siman.com/follaje-artificial-50cm-104404500/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Flor artificial  43 cm",
+    "precio": 8.0,
+    "antes": 29.0,
+    "descuento": 0.724,
+    "url": "https://gt.siman.com/flor-artificial-43cm-104441565/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Follaje artificial 75 cm",
+    "precio": 23.0,
+    "antes": 79.0,
+    "descuento": 0.709,
+    "url": "https://gt.siman.com/follaje-artificial-70cm-104404502/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Vela decorativa",
+    "precio": 29.0,
+    "antes": 99.0,
+    "descuento": 0.707,
+    "url": "https://gt.siman.com/vela-decorativa-55g-104252543/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Orquídea artificial 59 cm",
+    "precio": 20.0,
+    "antes": 69.0,
+    "descuento": 0.71,
+    "url": "https://gt.siman.com/orquidea-artificial-59cm-104205703/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Maceta decorativa de cerámica 25x25x15 cm",
+    "precio": 119.0,
+    "antes": 399.0,
+    "descuento": 0.702,
+    "url": "https://gt.siman.com/maceta-decorativa-25x25x15cm-104136604/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Flor artificial magnolia",
+    "precio": 14.0,
+    "antes": 49.0,
+    "descuento": 0.714,
+    "url": "https://gt.siman.com/flor-magnolia-rosada-43cm-102947434/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Barbie Fashion & Beauty de Playa Traje de Baño",
+    "precio": 17.0,
+    "antes": 59.0,
+    "descuento": 0.712,
+    "url": "https://gt.siman.com/barbie-fashion-beauty-de-playa-104405685/p"
   },
   {
     "tienda": "EPA",
@@ -1814,30 +1934,6 @@
     "antes": 59.95,
     "descuento": 0.708,
     "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Vestido multicolor a rayas para niña",
-    "precio": 41.0,
-    "antes": 139.0,
-    "descuento": 0.705,
-    "url": "https://gt.siman.com/vestido-manga-corta-estampado-azul-navy-blazer-de-nia-104197329/p"
-  },
-  {
-    "tienda": "Max",
-    "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
-    "precio": 99.0,
-    "antes": 335.0,
-    "descuento": 0.704,
-    "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
   },
   {
     "tienda": "Tecnofácil",
