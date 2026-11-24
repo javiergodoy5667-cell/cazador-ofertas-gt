@@ -1,62 +1,62 @@
 {
-  "ultima_corrida": "2026-11-24T10:58:24-06:00",
-  "duracion_seg": 436.3,
-  "productos_leidos": 43782,
+  "ultima_corrida": "2026-11-24T16:03:31-06:00",
+  "duracion_seg": 430.4,
+  "productos_leidos": 44227,
   "dias_historial": 29,
   "con_ean": {
-    "Elektra GT": 731,
-    "La Torre": 5670,
-    "Cemaco": 2790,
-    "Walmart GT": 5978,
-    "Simán": 2340,
-    "Max": 1093,
-    "Tecnofácil": 905
+    "Elektra GT": 737,
+    "Cemaco": 2793,
+    "La Torre": 5678,
+    "Walmart GT": 5979,
+    "Simán": 2337,
+    "Tecnofácil": 909,
+    "Max": 1158
   },
   "reporte_tiendas": {
     "Elektra GT": {
-      "productos": 1044,
-      "con_ean": 731,
+      "productos": 1047,
+      "con_ean": 737,
       "dias_historial": 29
     },
     "Office Depot": {
-      "productos": 3516,
+      "productos": 3518,
       "con_ean": 0,
       "dias_historial": 28
     },
     "La Curacao": {
-      "productos": 264,
+      "productos": 266,
       "con_ean": 0,
-      "dias_historial": 29
-    },
-    "La Torre": {
-      "productos": 5996,
-      "con_ean": 5670,
-      "dias_historial": 29
-    },
-    "Cemaco": {
-      "productos": 5857,
-      "con_ean": 2790,
-      "dias_historial": 29
-    },
-    "Walmart GT": {
-      "productos": 5978,
-      "con_ean": 5978,
       "dias_historial": 29
     },
     "El Gallo más Gallo": {
-      "productos": 56,
+      "productos": 58,
       "con_ean": 0,
       "dias_historial": 28
     },
-    "PriceSmart": {
-      "productos": 455,
-      "con_ean": 0,
-      "dias_historial": 28
+    "Cemaco": {
+      "productos": 5886,
+      "con_ean": 2793,
+      "dias_historial": 29
+    },
+    "La Torre": {
+      "productos": 6004,
+      "con_ean": 5678,
+      "dias_historial": 29
+    },
+    "Walmart GT": {
+      "productos": 5979,
+      "con_ean": 5979,
+      "dias_historial": 29
     },
     "Simán": {
-      "productos": 5814,
-      "con_ean": 2340,
+      "productos": 5855,
+      "con_ean": 2337,
       "dias_historial": 29
+    },
+    "PriceSmart": {
+      "productos": 534,
+      "con_ean": 0,
+      "dias_historial": 28
     },
     "EPA": {
       "productos": 9517,
@@ -64,23 +64,28 @@
       "dias_historial": 28
     },
     "Intelaf": {
-      "productos": 172,
+      "productos": 169,
       "con_ean": 0,
       "dias_historial": 25
     },
-    "Max": {
-      "productos": 2772,
-      "con_ean": 1093,
+    "Tecnofácil": {
+      "productos": 2460,
+      "con_ean": 909,
       "dias_historial": 28
     },
-    "Tecnofácil": {
-      "productos": 2341,
-      "con_ean": 905,
+    "Max": {
+      "productos": 2863,
+      "con_ean": 1158,
       "dias_historial": 28
+    },
+    "Novex": {
+      "productos": 71,
+      "con_ean": 0,
+      "dias_historial": 27
     }
   },
-  "coincidencias": 4021,
-  "antes_inflado": 1187,
+  "coincidencias": 4118,
+  "antes_inflado": 1258,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -115,19 +120,19 @@
       "url": "https://www.elektra.com.gt/minicomponente-vertical-lg-rnc9-5004423/p"
     },
     {
-      "nombre": "Arroz Precocido Gallo Dorado",
-      "tienda": "La Torre",
-      "antes": 8.4,
-      "precio": 8.4,
-      "max_otro": 6.6,
-      "url": "https://www.latorre.com.gt/arroz-precocido-gallo-dorado-2010451/p"
+      "nombre": "Cafetera de 12 Tazas con Jarra de Vidrio y Filtro Reutilizab",
+      "tienda": "Cemaco",
+      "antes": 269.99,
+      "precio": 269.99,
+      "max_otro": 186.0,
+      "url": "https://www.cemaco.com/cafetera-de-12-tazas-con-jarra-de-vidrio-black-decker-1059833/p"
     }
   ],
   "ofertas_por_nivel": {
-    "muy_buena": 1087,
+    "muy_buena": 1098,
     "loca": 32,
-    "buena": 151,
-    "agotado": 19
+    "buena": 149,
+    "agotado": 22
   },
   "fuentes": {
     "recolectores.click": {
@@ -135,39 +140,39 @@
       "estado": "ROTA"
     },
     "recolectores.elektra": {
-      "productos": 1110,
+      "productos": 1112,
       "estado": "OK"
     },
     "recolectores.officedepot": {
-      "productos": 3775,
+      "productos": 3774,
       "estado": "OK"
     },
     "recolectores.lacuracao": {
-      "productos": 282,
-      "estado": "OK"
-    },
-    "recolectores.la_torre": {
-      "productos": 6019,
-      "estado": "OK"
-    },
-    "recolectores.cemaco": {
-      "productos": 6008,
-      "estado": "OK"
-    },
-    "recolectores.walmart": {
-      "productos": 6048,
+      "productos": 284,
       "estado": "OK"
     },
     "recolectores.elgallo": {
-      "productos": 61,
+      "productos": 63,
       "estado": "OK"
     },
-    "recolectores.pricesmart": {
-      "productos": 474,
+    "recolectores.cemaco": {
+      "productos": 6039,
+      "estado": "OK"
+    },
+    "recolectores.la_torre": {
+      "productos": 6027,
+      "estado": "OK"
+    },
+    "recolectores.walmart": {
+      "productos": 6049,
       "estado": "OK"
     },
     "recolectores.siman": {
-      "productos": 6000,
+      "productos": 6042,
+      "estado": "OK"
+    },
+    "recolectores.pricesmart": {
+      "productos": 554,
       "estado": "OK"
     },
     "recolectores.epa": {
@@ -175,20 +180,20 @@
       "estado": "OK"
     },
     "recolectores.intelaf": {
-      "productos": 235,
-      "estado": "OK"
-    },
-    "recolectores.max_gt": {
-      "productos": 2940,
+      "productos": 231,
       "estado": "OK"
     },
     "recolectores.tecnofacil": {
-      "productos": 2476,
+      "productos": 2599,
+      "estado": "OK"
+    },
+    "recolectores.max_gt": {
+      "productos": 3047,
       "estado": "OK"
     },
     "recolectores.novex": {
-      "productos": 0,
-      "estado": "ROTA"
+      "productos": 81,
+      "estado": "OK"
     }
   },
   "fallos": []
