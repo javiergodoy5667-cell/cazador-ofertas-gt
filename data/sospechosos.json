@@ -1,5 +1,13 @@
 [
   {
+    "tienda": "Click",
+    "nombre": "PORTA LLAVES S-BINER KRG2-11-R3",
+    "precio": 9.0,
+    "antes": 35.0,
+    "descuento": 0.743,
+    "url": "https://www.click.gt/products/porta-llaves-s-biner-krg2-11-r3"
+  },
+  {
     "tienda": "Elektra GT",
     "nombre": "Cover Samsung Galaxy A11 Transparente",
     "precio": 65.0,
@@ -193,6 +201,14 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Lapices de colores marca Staedtler con mina pigmentada y resistente. Trazos suaves, intensos y mezclables, ideales para dibujo, coloreado y proyectos escolares.",
+    "precio": 188.7,
+    "antes": 629.0,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/L%C3%A1pices-de-colores/Lapices-de-colores-marca-Staedtler-con-mina-pigmentada-y-resistente-Trazos-suaves%2C-intensos-y-mezclables%2C-ideales-para-dibujo%2C-coloreado-y-proyectos-escolares-/p/1214003917"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Set escolar marca Staedtler con útiles complementarios listos para usar. Ahorra tiempo y dinero con productos coordinados para escuela, oficina o regalo.",
     "precio": 149.7,
     "antes": 499.0,
@@ -249,11 +265,11 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Marcador permanente marca Office Depot de tinta resistente al agua y al desvanecimiento. Escribe sobre papel, carton, plastico, metal, vidrio y madera. Ideal para etiquetar y rotular.",
-    "precio": 4.62,
-    "antes": 15.4,
+    "nombre": "Goma liquida marca Elmer s de uso escolar y multiproposito. Pega papel, carton y foamy con secado transparente. Formula lavable, segura para ninos y de aplicacion controlada.",
+    "precio": 23.97,
+    "antes": 79.9,
     "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-permanentes/Marcador-permanente-marca-Office-Depot-de-tinta-resistente-al-agua-y-al-desvanecimiento-Escribe-sobre-papel%2C-carton%2C-plastico%2C-metal%2C-vidrio-y-madera-Ideal-para-etiquetar-y-rotular-/p/1214000101"
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Goma-Blanca/Goma-liquida-marca-Elmer-s-de-uso-escolar-y-multiproposito-Pega-papel%2C-carton-y-foamy-con-secado-transparente-Formula-lavable%2C-segura-para-ninos-y-de-aplicacion-controlada-/p/1213000260"
   },
   {
     "tienda": "Office Depot",
