@@ -1,16 +1,16 @@
 {
-  "ultima_corrida": "2026-11-24T22:55:47-06:00",
-  "duracion_seg": 433.4,
-  "productos_leidos": 45620,
-  "dias_historial": 29,
+  "ultima_corrida": "2026-11-25T09:26:02-06:00",
+  "duracion_seg": 431.2,
+  "productos_leidos": 44223,
+  "dias_historial": 30,
   "con_ean": {
     "Elektra GT": 742,
-    "Cemaco": 2789,
     "La Torre": 5688,
-    "Walmart GT": 5974,
-    "Simán": 2336,
-    "Tecnofácil": 966,
-    "Max": 1024
+    "Cemaco": 2792,
+    "Walmart GT": 5950,
+    "Simán": 2337,
+    "Tecnofácil": 849,
+    "Max": 973
   },
   "reporte_tiendas": {
     "Click": {
@@ -19,78 +19,78 @@
       "dias_historial": 28
     },
     "Elektra GT": {
-      "productos": 1055,
+      "productos": 1053,
       "con_ean": 742,
+      "dias_historial": 30
+    },
+    "Office Depot": {
+      "productos": 3229,
+      "con_ean": 0,
       "dias_historial": 29
     },
     "La Curacao": {
-      "productos": 192,
+      "productos": 266,
       "con_ean": 0,
-      "dias_historial": 29
-    },
-    "Office Depot": {
-      "productos": 3521,
-      "con_ean": 0,
-      "dias_historial": 28
-    },
-    "Cemaco": {
-      "productos": 5852,
-      "con_ean": 2789,
-      "dias_historial": 29
+      "dias_historial": 30
     },
     "La Torre": {
       "productos": 6015,
       "con_ean": 5688,
-      "dias_historial": 29
-    },
-    "Walmart GT": {
-      "productos": 5974,
-      "con_ean": 5974,
-      "dias_historial": 29
+      "dias_historial": 30
     },
     "El Gallo más Gallo": {
       "productos": 56,
       "con_ean": 0,
       "dias_historial": 28
     },
-    "PriceSmart": {
-      "productos": 568,
-      "con_ean": 0,
-      "dias_historial": 28
+    "Cemaco": {
+      "productos": 5893,
+      "con_ean": 2792,
+      "dias_historial": 30
+    },
+    "Walmart GT": {
+      "productos": 5950,
+      "con_ean": 5950,
+      "dias_historial": 30
     },
     "Simán": {
-      "productos": 5857,
-      "con_ean": 2336,
+      "productos": 5859,
+      "con_ean": 2337,
+      "dias_historial": 30
+    },
+    "PriceSmart": {
+      "productos": 540,
+      "con_ean": 0,
       "dias_historial": 29
     },
     "EPA": {
-      "productos": 9517,
+      "productos": 8601,
       "con_ean": 0,
-      "dias_historial": 28
+      "dias_historial": 29
     },
     "Intelaf": {
-      "productos": 175,
+      "productos": 168,
       "con_ean": 0,
       "dias_historial": 25
     },
     "Tecnofácil": {
-      "productos": 2563,
-      "con_ean": 966,
-      "dias_historial": 28
+      "productos": 2441,
+      "con_ean": 849,
+      "dias_historial": 29
     },
     "Max": {
-      "productos": 2589,
-      "con_ean": 1024,
-      "dias_historial": 28
+      "productos": 2436,
+      "con_ean": 973,
+      "dias_historial": 29
     },
     "Novex": {
-      "productos": 79,
+      "productos": 109,
       "con_ean": 0,
-      "dias_historial": 28
+      "dias_historial": 29
     }
   },
-  "coincidencias": 3992,
-  "antes_inflado": 1185,
+  "coincidencias": 4013,
+  "antes_inflado": 1254,
   "inflado_ejemplos": [
     {
       "nombre": "Ventilador de Pared Navia M018P",
@@ -109,19 +109,11 @@
       "url": "https://www.elektra.com.gt/samsung-galaxy-watch-7-32011506/p"
     },
     {
-      "nombre": "Cáfetera Black&Decker de 12 Tazas CM0916B",
-      "tienda": "Elektra GT",
-      "antes": 399.0,
-      "precio": 199.0,
-      "max_otro": 186.0,
-      "url": "https://www.elektra.com.gt/cafetera-black-and-decker-de-12-tazas-cm0916b-10005782/p"
-    },
-    {
       "nombre": "Set de 3 Sartenes Picca Gravina con Recubrimiento de Mármol ",
       "tienda": "Elektra GT",
       "antes": 499.0,
       "precio": 339.0,
-      "max_otro": 309.99,
+      "max_otro": 299.99,
       "url": "https://www.elektra.com.gt/juego-de-sarten-picca-de-3-piezas-pi003ssmu-c-10004534/p"
     },
     {
@@ -131,14 +123,22 @@
       "precio": 2999.0,
       "max_otro": 2896.0,
       "url": "https://www.elektra.com.gt/minicomponente-vertical-lg-rnc9-5004423/p"
+    },
+    {
+      "nombre": "Arroz Precocido Gallo Dorado",
+      "tienda": "La Torre",
+      "antes": 8.4,
+      "precio": 8.4,
+      "max_otro": 6.6,
+      "url": "https://www.latorre.com.gt/arroz-precocido-gallo-dorado-2010451/p"
     }
   ],
   "ofertas_por_nivel": {
-    "muy_buena": 1107,
     "error": 2,
-    "loca": 30,
-    "buena": 198,
-    "agotado": 36
+    "muy_buena": 1026,
+    "loca": 13,
+    "buena": 85,
+    "agotado": 14
   },
   "fuentes": {
     "recolectores.click": {
@@ -146,59 +146,59 @@
       "estado": "OK"
     },
     "recolectores.elektra": {
-      "productos": 1120,
-      "estado": "OK"
-    },
-    "recolectores.lacuracao": {
-      "productos": 204,
+      "productos": 1118,
       "estado": "OK"
     },
     "recolectores.officedepot": {
-      "productos": 3775,
+      "productos": 3473,
       "estado": "OK"
     },
-    "recolectores.cemaco": {
-      "productos": 6001,
+    "recolectores.lacuracao": {
+      "productos": 284,
       "estado": "OK"
     },
     "recolectores.la_torre": {
       "productos": 6038,
       "estado": "OK"
     },
-    "recolectores.walmart": {
-      "productos": 6044,
-      "estado": "OK"
-    },
     "recolectores.elgallo": {
       "productos": 61,
       "estado": "OK"
     },
-    "recolectores.pricesmart": {
-      "productos": 588,
-      "estado": "OK"
-    },
-    "recolectores.siman": {
+    "recolectores.cemaco": {
       "productos": 6046,
       "estado": "OK"
     },
+    "recolectores.walmart": {
+      "productos": 6020,
+      "estado": "OK"
+    },
+    "recolectores.siman": {
+      "productos": 6047,
+      "estado": "OK"
+    },
+    "recolectores.pricesmart": {
+      "productos": 555,
+      "estado": "OK"
+    },
     "recolectores.epa": {
-      "productos": 9832,
+      "productos": 8897,
       "estado": "OK"
     },
     "recolectores.intelaf": {
-      "productos": 239,
+      "productos": 228,
       "estado": "OK"
     },
     "recolectores.tecnofacil": {
-      "productos": 2706,
+      "productos": 2605,
       "estado": "OK"
     },
     "recolectores.max_gt": {
-      "productos": 2746,
+      "productos": 2569,
       "estado": "OK"
     },
     "recolectores.novex": {
-      "productos": 79,
+      "productos": 109,
       "estado": "OK"
     }
   },
