@@ -1,11 +1,59 @@
 [
   {
+    "tienda": "Click",
+    "nombre": "PORTA LLAVES S-BINER KRG2-11-R3",
+    "precio": 9.0,
+    "antes": 35.0,
+    "descuento": 0.743,
+    "url": "https://www.click.gt/products/porta-llaves-s-biner-krg2-11-r3"
+  },
+  {
+    "tienda": "Click",
+    "nombre": "JUEGO DE TECLAS GPBT - PASTEL",
+    "precio": 49.0,
+    "antes": 399.0,
+    "descuento": 0.877,
+    "url": "https://www.click.gt/products/juego-de-teclas-gpbt-pastel"
+  },
+  {
+    "tienda": "Click",
+    "nombre": "JUEGO DE TECLAS GPBT - NEBULA",
+    "precio": 49.0,
+    "antes": 399.0,
+    "descuento": 0.877,
+    "url": "https://www.click.gt/products/juego-de-teclas-gpbt-nebula"
+  },
+  {
+    "tienda": "Click",
+    "nombre": "JUEGO DE TECLAS AURA V2 - PINK",
+    "precio": 49.0,
+    "antes": 299.0,
+    "descuento": 0.836,
+    "url": "https://www.click.gt/products/juego-de-teclas-aura-v2-pink"
+  },
+  {
+    "tienda": "Click",
+    "nombre": "BASE PARA TECLADO PERSONALIZADO FULL  GMMK-RGB-ISO",
+    "precio": 49.0,
+    "antes": 649.0,
+    "descuento": 0.924,
+    "url": "https://www.click.gt/products/base-para-teclado-personalizado-full-gmmk-rgb-iso"
+  },
+  {
     "tienda": "Elektra GT",
     "nombre": "Cover Samsung Galaxy A11 Transparente",
     "precio": 65.0,
     "antes": 499.0,
     "descuento": 0.87,
     "url": "https://www.elektra.com.gt/cover-samsung-galaxy-a11-transparente-30004212/p"
+  },
+  {
+    "tienda": "Elektra GT",
+    "nombre": "Regleta Forza 2200W 6 Tomas Universales PS-001G",
+    "precio": 55.0,
+    "antes": 499.0,
+    "descuento": 0.89,
+    "url": "https://www.elektra.com.gt/regleta-forza-6-tomas-ps-001g-30004227/p"
   },
   {
     "tienda": "Elektra GT",
@@ -46,14 +94,6 @@
     "antes": 499.0,
     "descuento": 0.78,
     "url": "https://www.elektra.com.gt/tinta-epson-amarilla-544-t544420-al-30004228/p"
-  },
-  {
-    "tienda": "Elektra GT",
-    "nombre": "Regleta Forza 2200W 6 Tomas Universales PS-001G",
-    "precio": 55.0,
-    "antes": 499.0,
-    "descuento": 0.89,
-    "url": "https://www.elektra.com.gt/regleta-forza-6-tomas-ps-001g-30004227/p"
   },
   {
     "tienda": "Elektra GT",
