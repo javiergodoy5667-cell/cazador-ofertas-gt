@@ -225,14 +225,6 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Yeso marca Crayola para escultura, manualidades y proyectos artisticos. Mezcla y aplicacion sencillas para crear figuras, moldes y acabados decorativos.",
-    "precio": 5.97,
-    "antes": 19.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Yeso/Yeso-marca-Crayola-para-escultura%2C-manualidades-y-proyectos-artisticos-Mezcla-y-aplicacion-sencillas-para-crear-figuras%2C-moldes-y-acabados-decorativos-/p/1214003759"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Lapices de colores marca Staedtler con mina pigmentada y resistente. Trazos suaves, intensos y mezclables, ideales para dibujo, coloreado y proyectos escolares.",
     "precio": 188.7,
     "antes": 629.0,
@@ -1792,11 +1784,107 @@
     "url": "https://gt.epaenlinea.com/panel-de-extension-para-puerta-plegable-6mm-nogal.html"
   },
   {
+    "tienda": "EPA",
+    "nombre": "Lonchera térmica Tiburones turquesa Bentgo",
+    "precio": 49.95,
+    "antes": 169.0,
+    "descuento": 0.704,
+    "url": "https://gt.epaenlinea.com/lonchera-termica-tiburones-turquesa-bentgo.html"
+  },
+  {
+    "tienda": "EPA",
+    "nombre": "Lonchera térmica Camiones gris Bentgo",
+    "precio": 49.95,
+    "antes": 169.0,
+    "descuento": 0.704,
+    "url": "https://gt.epaenlinea.com/lonchera-termica-camiones-gris-bentgo.html"
+  },
+  {
+    "tienda": "EPA",
+    "nombre": "Manguera 1-1/2\" para filtro. 2 m",
+    "precio": 44.5,
+    "antes": 149.0,
+    "descuento": 0.701,
+    "url": "https://gt.epaenlinea.com/manguera-1-1-2-para-filtro-2-m.html"
+  },
+  {
+    "tienda": "EPA",
+    "nombre": "Repuesto para cebos de pulgas victor",
+    "precio": 19.95,
+    "antes": 68.5,
+    "descuento": 0.709,
+    "url": "https://gt.epaenlinea.com/repuesto-para-cebos-de-pulgas-victor.html"
+  },
+  {
+    "tienda": "EPA",
+    "nombre": "Esquinero de acero para tubo colgador 55 x 55 cm blanco",
+    "precio": 14.5,
+    "antes": 67.5,
+    "descuento": 0.785,
+    "url": "https://gt.epaenlinea.com/esquinero-de-acero-para-tubo-colgador-55-x-55-cm-blanco.html"
+  },
+  {
+    "tienda": "EPA",
+    "nombre": "RIEL REJILLA 152CM",
+    "precio": 69.5,
+    "antes": 245.0,
+    "descuento": 0.716,
+    "url": "https://gt.epaenlinea.com/riel-rejilla-152cm.html"
+  },
+  {
+    "tienda": "EPA",
+    "nombre": "Filtros de espuma 5 piezas para aspiradora einhell 20 litros",
+    "precio": 29.95,
+    "antes": 115.0,
+    "descuento": 0.74,
+    "url": "https://gt.epaenlinea.com/filtros-de-espuma-5-piezas-para-aspiradora-einhell-20-litros.html"
+  },
+  {
+    "tienda": "EPA",
+    "nombre": "Filtro de cartucho para aspiradora einhell 20 litros",
+    "precio": 29.95,
+    "antes": 125.0,
+    "descuento": 0.76,
+    "url": "https://gt.epaenlinea.com/filtro-de-cartucho-para-aspiradora-einhell-20-litros.html"
+  },
+  {
+    "tienda": "EPA",
+    "nombre": "Juguete para masticadores intensos palo de goma 30 cm",
+    "precio": 17.52,
+    "antes": 59.95,
+    "descuento": 0.708,
+    "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
+  },
+  {
     "tienda": "Tecnofácil",
     "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
     "precio": 1099.0,
     "antes": 3795.0,
     "descuento": 0.71,
     "url": "https://www.tecnofacil.com.gt/samsung-a07-4gb-128gb-operador-tigo-negro-samsung-tigoa07b"
+  },
+  {
+    "tienda": "Tecnofácil",
+    "nombre": "Mueble de cocina color nogal con lavatrastos negro",
+    "precio": 1199.0,
+    "antes": 4499.0,
+    "descuento": 0.733,
+    "url": "https://www.tecnofacil.com.gt/mueble-de-cocina-color-nogal-con-lavatrastos-negro-7ee0ad87"
+  },
+  {
+    "tienda": "Tecnofácil",
+    "nombre": "Mueble de cocina color blanco con lavatrastos gris",
+    "precio": 1199.0,
+    "antes": 4499.0,
+    "descuento": 0.733,
+    "url": "https://www.tecnofacil.com.gt/mueble-de-cocina-color-blanco-con-lavatrastos-gris-abcd9d02"
+  },
+  {
+    "tienda": "Max",
+    "nombre": "Mueble de cocina color nogal con lavatrastos negro",
+    "precio": 1199.0,
+    "antes": 4499.0,
+    "descuento": 0.733,
+    "url": "https://www.max.com.gt/mueble-de-cocina-color-nogal-con-lavatrastos-negro-7ee0ad87"
   }
 ]
