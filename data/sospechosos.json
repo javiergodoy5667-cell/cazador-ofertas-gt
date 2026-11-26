@@ -193,6 +193,14 @@
   },
   {
     "tienda": "Office Depot",
+    "nombre": "Marcadores marca Artline con tinta de alta cobertura y colores vibrantes. Versatiles para escuela, oficina, arte y manualidades.",
+    "precio": 0.09,
+    "antes": 8.9,
+    "descuento": 0.99,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Resaltador/Marcadores-marca-Artline-con-tinta-de-alta-cobertura-y-colores-vibrantes-Versatiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214004485"
+  },
+  {
+    "tienda": "Office Depot",
     "nombre": "Boligrafo marca Office Depot de tinta fluida y trazo uniforme. Escritura comoda y duradera para uso diario en escuela y oficina.",
     "precio": 2.49,
     "antes": 24.9,
@@ -241,30 +249,6 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "SET CAVALIER BOTELLA MAS",
-    "precio": 24.0,
-    "antes": 96.0,
-    "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/SET-CAVALIER-BOTELLA-MAS/p/1218000437"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "SET CAVALIER ASTRONAUTA PARA",
-    "precio": 26.0,
-    "antes": 104.0,
-    "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/SET-CAVALIER-ASTRONAUTA-PARA/p/1218000439"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "STATIONERY CAVALIER KIDS SET",
-    "precio": 19.75,
-    "antes": 79.0,
-    "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/STATIONERY-CAVALIER-KIDS-SET/p/1218000438"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Banderitas adhesivas marca Office Depot para senalar, clasificar y organizar documentos, libros y apuntes. Reposicionables, no danan el papel y resaltan informacion clave. Ideales para estudio, oficin",
     "precio": 6.72,
     "antes": 26.9,
@@ -289,11 +273,11 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Marcadores marca Artline con tinta de alta cobertura y colores vibrantes. Versatiles para escuela, oficina, arte y manualidades.",
-    "precio": 0.09,
-    "antes": 8.9,
-    "descuento": 0.99,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Resaltador/Marcadores-marca-Artline-con-tinta-de-alta-cobertura-y-colores-vibrantes-Versatiles-para-escuela%2C-oficina%2C-arte-y-manualidades-/p/1214004485"
+    "nombre": "Marcador permanente marca Office Depot de tinta resistente al agua y al desvanecimiento. Escribe sobre papel, carton, plastico, metal, vidrio y madera. Ideal para etiquetar y rotular.",
+    "precio": 4.62,
+    "antes": 15.4,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-permanentes/Marcador-permanente-marca-Office-Depot-de-tinta-resistente-al-agua-y-al-desvanecimiento-Escribe-sobre-papel%2C-carton%2C-plastico%2C-metal%2C-vidrio-y-madera-Ideal-para-etiquetar-y-rotular-/p/1214000101"
   },
   {
     "tienda": "Office Depot",
@@ -353,7 +337,7 @@
   },
   {
     "tienda": "Cemaco",
-    "nombre": "Tuercas de Seguridad Hexagonales para Llanta 12 mm x 1.50, 5 Piezas",
+    "nombre": "Set de 5 Tuercas de Seguridad Hexagonales para Llanta",
     "precio": 24.99,
     "antes": 89.99,
     "descuento": 0.722,
@@ -361,7 +345,7 @@
   },
   {
     "tienda": "Cemaco",
-    "nombre": "Tuercas de Seguridad para Llanta 12 x 1.25 Abiertas, 5 Piezas",
+    "nombre": "Set de 5 Tuercas para Llanta",
     "precio": 19.99,
     "antes": 69.99,
     "descuento": 0.714,
@@ -385,7 +369,7 @@
   },
   {
     "tienda": "Cemaco",
-    "nombre": "Set de 5 Tuercas de Seguridad para Llanta 12 mm x 1.25 RH",
+    "nombre": "Set de 5 Tuercas de Seguridad para Rueda 12 mm x 1.25 RH",
     "precio": 15.99,
     "antes": 89.99,
     "descuento": 0.822,
@@ -470,14 +454,6 @@
     "antes": 39.99,
     "descuento": 0.75,
     "url": "https://www.cemaco.com/tubo-halogeno-de-118-mm-y-500-w-westinghouse-134102/p"
-  },
-  {
-    "tienda": "Cemaco",
-    "nombre": "Pistola de Riego Metálica con 2 Funciones y Clip de Flujo Continuo para Jardín 5 Plg",
-    "precio": 9.99,
-    "antes": 46.99,
-    "descuento": 0.787,
-    "url": "https://www.cemaco.com/pistola-para-manguera-metalica-pretul-623931/p"
   },
   {
     "tienda": "Walmart GT",
@@ -1873,43 +1849,19 @@
   },
   {
     "tienda": "Simán",
+    "nombre": "Multiestilizador 5 en 1 Trendology Remington",
+    "precio": 849.0,
+    "antes": 10000000.0,
+    "descuento": 1.0,
+    "url": "https://gt.siman.com/rizador-multifuncional-trendology-5-en-1-blanco-105003800/p"
+  },
+  {
+    "tienda": "Simán",
     "nombre": "Vestido multicolor a rayas para niña",
     "precio": 41.0,
     "antes": 139.0,
     "descuento": 0.705,
     "url": "https://gt.siman.com/vestido-manga-corta-estampado-azul-navy-blazer-de-nia-104197329/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Copa de plástico",
-    "precio": 11.0,
-    "antes": 39.0,
-    "descuento": 0.718,
-    "url": "https://gt.siman.com/copa-de-cerveza-104224509/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Barbie Fashion & Beauty de Playa Traje de Baño",
-    "precio": 17.0,
-    "antes": 59.0,
-    "descuento": 0.712,
-    "url": "https://gt.siman.com/barbie-fashion-beauty-de-playa-104405685/p"
-  },
-  {
-    "tienda": "Max",
-    "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
-    "precio": 99.0,
-    "antes": 335.0,
-    "descuento": 0.704,
-    "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
-  },
-  {
-    "tienda": "Max",
-    "nombre": "Mueble de cocina color nogal con lavatrastos negro",
-    "precio": 1199.0,
-    "antes": 4499.0,
-    "descuento": 0.733,
-    "url": "https://www.max.com.gt/mueble-de-cocina-color-nogal-con-lavatrastos-negro-7ee0ad87"
   },
   {
     "tienda": "Tecnofácil",
@@ -1934,5 +1886,13 @@
     "antes": 4499.0,
     "descuento": 0.733,
     "url": "https://www.tecnofacil.com.gt/mueble-de-cocina-color-blanco-con-lavatrastos-gris-abcd9d02"
+  },
+  {
+    "tienda": "Max",
+    "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
+    "precio": 99.0,
+    "antes": 335.0,
+    "descuento": 0.704,
+    "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
   }
 ]

@@ -206,7 +206,7 @@
 {"id": "elgallo-204282", "fecha_inicio": "2026-11-12", "precio": 2298.24, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-204279", "fecha_inicio": "2026-11-12", "precio": 3198.72, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-201095", "fecha_inicio": "2026-11-12", "precio": 4548.32, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
-{"id": "elgallo-204275", "fecha_inicio": "2026-11-12", "precio": 4898.88, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "elgallo-204275", "fecha_inicio": "2026-11-12", "precio": 4898.88, "visto_hasta": "2026-11-25", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-201338", "fecha_inicio": "2026-11-12", "precio": 2998.24, "visto_hasta": "2026-11-18", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-198942", "fecha_inicio": "2026-11-12", "precio": 1398.88, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-201346", "fecha_inicio": "2026-11-12", "precio": 2298.24, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
@@ -217,7 +217,7 @@
 {"id": "elgallo-198772", "fecha_inicio": "2026-11-12", "precio": 2998.24, "visto_hasta": "2026-11-25", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-200132", "fecha_inicio": "2026-11-12", "precio": 4898.88, "visto_hasta": "2026-11-25", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-202458", "fecha_inicio": "2026-11-12", "precio": 3598.56, "visto_hasta": "2026-11-14", "precio_unidad": null, "unidad": null}
-{"id": "elgallo-204273", "fecha_inicio": "2026-11-12", "precio": 4898.88, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "elgallo-204273", "fecha_inicio": "2026-11-12", "precio": 4898.88, "visto_hasta": "2026-11-25", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-201098", "fecha_inicio": "2026-11-13", "precio": 4548.32, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-195762", "fecha_inicio": "2026-11-14", "precio": 4497.92, "visto_hasta": "2026-11-18", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-202469", "fecha_inicio": "2026-11-16", "precio": 15998.08, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
@@ -236,8 +236,8 @@
 {"id": "elgallo-195762", "fecha_inicio": "2026-11-19", "precio": 4298.56, "visto_hasta": "2026-11-25", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-200691", "fecha_inicio": "2026-11-19", "precio": 6998.88, "visto_hasta": "2026-11-22", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-203743", "fecha_inicio": "2026-11-19", "precio": 2798.88, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
-{"id": "elgallo-204118", "fecha_inicio": "2026-11-19", "precio": 3498.88, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
-{"id": "elgallo-204119", "fecha_inicio": "2026-11-19", "precio": 3498.88, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "elgallo-204118", "fecha_inicio": "2026-11-19", "precio": 3498.88, "visto_hasta": "2026-11-25", "precio_unidad": null, "unidad": null}
+{"id": "elgallo-204119", "fecha_inicio": "2026-11-19", "precio": 3498.88, "visto_hasta": "2026-11-25", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-201338", "fecha_inicio": "2026-11-19", "precio": 2898.56, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-201337", "fecha_inicio": "2026-11-19", "precio": 2397.92, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-201340", "fecha_inicio": "2026-11-19", "precio": 3797.92, "visto_hasta": "2026-11-24", "precio_unidad": null, "unidad": null}
@@ -276,3 +276,7 @@
 {"id": "elgallo-201275", "fecha_inicio": "2026-11-26", "precio": 3198.72, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-200557", "fecha_inicio": "2026-11-26", "precio": 1798.72, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "elgallo-200132", "fecha_inicio": "2026-11-26", "precio": 4898.88, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "elgallo-204118", "fecha_inicio": "2026-11-26", "precio": 2998.24, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "elgallo-204119", "fecha_inicio": "2026-11-26", "precio": 2998.24, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "elgallo-204275", "fecha_inicio": "2026-11-26", "precio": 4998.56, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "elgallo-204273", "fecha_inicio": "2026-11-26", "precio": 4998.56, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
