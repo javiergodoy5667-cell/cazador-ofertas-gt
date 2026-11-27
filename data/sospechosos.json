@@ -153,11 +153,11 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "PROYECTOR SPECTRA YG361",
-    "precio": 899.75,
-    "antes": 3599.0,
+    "nombre": "PROYECTOR SPECTRA J03",
+    "precio": 399.75,
+    "antes": 1599.0,
     "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Proyectores-y-accesorios/PROYECTOR-SPECTRA-YG361/p/1308000070"
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Proyectores-y-accesorios/PROYECTOR-SPECTRA-J03/p/1308000066"
   },
   {
     "tienda": "Office Depot",
@@ -166,6 +166,14 @@
     "antes": 399.0,
     "descuento": 0.75,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Aud%C3%ADfonos-on-ear/AUDIFONOS-REDRAGON-GAMING-LAMIA-BLANCO-H320W-RGB/p/1304000100"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "PROYECTOR SPECTRA YG361",
+    "precio": 899.75,
+    "antes": 3599.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Proyectores-y-accesorios/PROYECTOR-SPECTRA-YG361/p/1308000070"
   },
   {
     "tienda": "Office Depot",
@@ -217,14 +225,6 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Yeso marca Crayola para escultura, manualidades y proyectos artisticos. Mezcla y aplicacion sencillas para crear figuras, moldes y acabados decorativos.",
-    "precio": 5.97,
-    "antes": 19.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Yeso/Yeso-marca-Crayola-para-escultura%2C-manualidades-y-proyectos-artisticos-Mezcla-y-aplicacion-sencillas-para-crear-figuras%2C-moldes-y-acabados-decorativos-/p/1214003759"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Lapices de colores marca Staedtler con mina pigmentada y resistente. Trazos suaves, intensos y mezclables, ideales para dibujo, coloreado y proyectos escolares.",
     "precio": 188.7,
     "antes": 629.0,
@@ -238,30 +238,6 @@
     "antes": 499.0,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/Set-escolar-marca-Staedtler-con-%C3%BAtiles-complementarios-listos-para-usar-Ahorra-tiempo-y-dinero-con-productos-coordinados-para-escuela%2C-oficina-o-regalo-/p/1214003940"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "SET CAVALIER BOTELLA MAS",
-    "precio": 24.0,
-    "antes": 96.0,
-    "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/SET-CAVALIER-BOTELLA-MAS/p/1218000437"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "SET CAVALIER ASTRONAUTA PARA",
-    "precio": 26.0,
-    "antes": 104.0,
-    "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/SET-CAVALIER-ASTRONAUTA-PARA/p/1218000439"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "STATIONERY CAVALIER KIDS SET",
-    "precio": 19.75,
-    "antes": 79.0,
-    "descuento": 0.75,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/STATIONERY-CAVALIER-KIDS-SET/p/1218000438"
   },
   {
     "tienda": "Office Depot",
@@ -289,11 +265,11 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Marcador permanente marca Office Depot de tinta resistente al agua y al desvanecimiento. Escribe sobre papel, carton, plastico, metal, vidrio y madera. Ideal para etiquetar y rotular.",
-    "precio": 4.62,
-    "antes": 15.4,
+    "nombre": "Goma liquida marca Elmer s de uso escolar y multiproposito. Pega papel, carton y foamy con secado transparente. Formula lavable, segura para ninos y de aplicacion controlada.",
+    "precio": 23.97,
+    "antes": 79.9,
     "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Marcadores-permanentes/Marcador-permanente-marca-Office-Depot-de-tinta-resistente-al-agua-y-al-desvanecimiento-Escribe-sobre-papel%2C-carton%2C-plastico%2C-metal%2C-vidrio-y-madera-Ideal-para-etiquetar-y-rotular-/p/1214000101"
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Goma-Blanca/Goma-liquida-marca-Elmer-s-de-uso-escolar-y-multiproposito-Pega-papel%2C-carton-y-foamy-con-secado-transparente-Formula-lavable%2C-segura-para-ninos-y-de-aplicacion-controlada-/p/1213000260"
   },
   {
     "tienda": "Office Depot",
@@ -305,19 +281,19 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Goma liquida marca Elmer s de uso escolar y multiproposito. Pega papel, carton y foamy con secado transparente. Formula lavable, segura para ninos y de aplicacion controlada.",
-    "precio": 23.97,
-    "antes": 79.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Goma-Blanca/Goma-liquida-marca-Elmer-s-de-uso-escolar-y-multiproposito-Pega-papel%2C-carton-y-foamy-con-secado-transparente-Formula-lavable%2C-segura-para-ninos-y-de-aplicacion-controlada-/p/1213000260"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Cubo de notas marca Eagle con hojas para recados, recordatorios y listas. Diseno compacto para escritorio que mantiene todo organizado al alcance.",
     "precio": 5.22,
     "antes": 20.9,
     "descuento": 0.75,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Cubo-de-notas-marca-Eagle-con-hojas-para-recados%2C-recordatorios-y-listas-Diseno-compacto-para-escritorio-que-mantiene-todo-organizado-al-alcance-/p/1213000187"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
   },
   {
     "tienda": "Cemaco",
@@ -1865,19 +1841,27 @@
   },
   {
     "tienda": "Simán",
-    "nombre": "Multiestilizador 5 en 1 Trendology Remington",
-    "precio": 849.0,
-    "antes": 10000000.0,
-    "descuento": 1.0,
-    "url": "https://gt.siman.com/rizador-multifuncional-trendology-5-en-1-blanco-105003800/p"
-  },
-  {
-    "tienda": "Simán",
     "nombre": "Vestido multicolor a rayas para niña",
     "precio": 41.0,
     "antes": 139.0,
     "descuento": 0.705,
     "url": "https://gt.siman.com/vestido-manga-corta-estampado-azul-navy-blazer-de-nia-104197329/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Bicicleta Volcano rin #29 negro",
+    "precio": 319.0,
+    "antes": 2649.0,
+    "descuento": 0.88,
+    "url": "https://gt.siman.com/bicicleta-volcano-rin-29-negro-105040887/p"
+  },
+  {
+    "tienda": "Max",
+    "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
+    "precio": 99.0,
+    "antes": 335.0,
+    "descuento": 0.704,
+    "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
   },
   {
     "tienda": "Tecnofácil",
@@ -1902,13 +1886,5 @@
     "antes": 4499.0,
     "descuento": 0.733,
     "url": "https://www.tecnofacil.com.gt/mueble-de-cocina-color-blanco-con-lavatrastos-gris-abcd9d02"
-  },
-  {
-    "tienda": "Max",
-    "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
-    "precio": 99.0,
-    "antes": 335.0,
-    "descuento": 0.704,
-    "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
   }
 ]
