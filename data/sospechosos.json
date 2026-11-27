@@ -361,6 +361,14 @@
   },
   {
     "tienda": "Cemaco",
+    "nombre": "Aromatizante para Auto Tipo Camisola Mundial Presentación Surtida",
+    "precio": 0.99,
+    "antes": 9.99,
+    "descuento": 0.901,
+    "url": "https://www.cemaco.com/aromatizante-para-auto-tipo-camisola-mundial-presentacion-surtida-1207242/p"
+  },
+  {
+    "tienda": "Cemaco",
     "nombre": "Filtro de Aceite P967",
     "precio": 29.99,
     "antes": 119.99,
@@ -462,22 +470,6 @@
     "antes": 290.0,
     "descuento": 0.71,
     "url": "https://www.walmart.com.gt/foco-led-universal-para-faro-de-motocicleta-luz-blanca-brillant-122856/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
-  },
-  {
-    "tienda": "Simán",
-    "nombre": "Vestido multicolor a rayas para niña",
-    "precio": 41.0,
-    "antes": 139.0,
-    "descuento": 0.705,
-    "url": "https://gt.siman.com/vestido-manga-corta-estampado-azul-navy-blazer-de-nia-104197329/p"
   },
   {
     "tienda": "EPA",
@@ -934,14 +926,6 @@
     "antes": 96.5,
     "descuento": 0.793,
     "url": "https://gt.epaenlinea.com/soporte-en-madera-techo-cerrado-nogal-1-1-4.html"
-  },
-  {
-    "tienda": "EPA",
-    "nombre": "Tinte en polvo base aceite verde mate 1 oz",
-    "precio": 3.55,
-    "antes": 11.95,
-    "descuento": 0.703,
-    "url": "https://gt.epaenlinea.com/tinte-en-polvo-base-aceite-verde-mate-1-oz.html"
   },
   {
     "tienda": "EPA",
@@ -1785,6 +1769,14 @@
   },
   {
     "tienda": "EPA",
+    "nombre": "Tinte en polvo base aceite verde mate 1 oz",
+    "precio": 3.55,
+    "antes": 11.95,
+    "descuento": 0.703,
+    "url": "https://gt.epaenlinea.com/tinte-en-polvo-base-aceite-verde-mate-1-oz.html"
+  },
+  {
+    "tienda": "EPA",
     "nombre": "Lonchera térmica Tiburones turquesa Bentgo",
     "precio": 49.95,
     "antes": 169.0,
@@ -1854,6 +1846,14 @@
     "antes": 59.95,
     "descuento": 0.708,
     "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
   },
   {
     "tienda": "Max",
