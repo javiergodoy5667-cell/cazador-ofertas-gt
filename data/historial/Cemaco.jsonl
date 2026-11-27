@@ -5703,7 +5703,7 @@
 {"id": "cemaco-103537093", "fecha": "2026-10-27", "precio": 399.99, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:58-06:00", "visto_hasta": "2026-10-27"}
 {"id": "cemaco-103537037", "fecha": "2026-10-27", "precio": 1195.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:58-06:00", "visto_hasta": "2026-11-26"}
 {"id": "cemaco-103536883", "fecha": "2026-10-27", "precio": 1049.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:58-06:00", "visto_hasta": "2026-11-26"}
-{"id": "cemaco-103536600", "fecha": "2026-10-27", "precio": 899.99, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:58-06:00", "visto_hasta": "2026-11-24"}
+{"id": "cemaco-103536600", "fecha": "2026-10-27", "precio": 899.99, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:58-06:00", "visto_hasta": "2026-11-26"}
 {"id": "cemaco-103536404", "fecha": "2026-10-27", "precio": 139.99, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:58-06:00", "visto_hasta": "2026-11-26"}
 {"id": "cemaco-103536394", "fecha": "2026-10-27", "precio": 10799.0, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:58-06:00", "visto_hasta": "2026-11-26"}
 {"id": "cemaco-103536368", "fecha": "2026-10-27", "precio": 579.99, "precio_unidad": null, "unidad": null, "visto_en": "2026-10-27T15:48:58-06:00", "visto_hasta": "2026-11-26"}
@@ -7803,7 +7803,7 @@
 {"id": "cemaco-103515654", "fecha_inicio": "2026-10-27", "precio": 119.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103515183", "fecha_inicio": "2026-10-27", "precio": 49.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103515176", "fecha_inicio": "2026-10-27", "precio": 399.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
-{"id": "cemaco-103514538", "fecha_inicio": "2026-10-27", "precio": 129.99, "visto_hasta": "2026-11-21", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103514538", "fecha_inicio": "2026-10-27", "precio": 129.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103513832", "fecha_inicio": "2026-10-27", "precio": 249.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103513745", "fecha_inicio": "2026-10-27", "precio": 49.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103513743", "fecha_inicio": "2026-10-27", "precio": 49.99, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
@@ -10218,7 +10218,7 @@
 {"id": "cemaco-103455332", "fecha_inicio": "2026-10-27", "precio": 159.99, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103454718", "fecha_inicio": "2026-10-27", "precio": 159.99, "visto_hasta": "2026-10-31", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103454716", "fecha_inicio": "2026-10-27", "precio": 285.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
-{"id": "cemaco-103454711", "fecha_inicio": "2026-10-27", "precio": 174.99, "visto_hasta": "2026-11-20", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103454711", "fecha_inicio": "2026-10-27", "precio": 174.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103454708", "fecha_inicio": "2026-10-27", "precio": 259.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103454697", "fecha_inicio": "2026-10-27", "precio": 204.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103454689", "fecha_inicio": "2026-10-27", "precio": 19.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
@@ -10749,7 +10749,7 @@
 {"id": "cemaco-103519364", "fecha_inicio": "2026-10-27", "precio": 149.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103519325", "fecha_inicio": "2026-10-27", "precio": 1370.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103515574", "fecha_inicio": "2026-10-27", "precio": 29.99, "visto_hasta": "2026-11-25", "precio_unidad": null, "unidad": null}
-{"id": "cemaco-103512821", "fecha_inicio": "2026-10-27", "precio": 71.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103512821", "fecha_inicio": "2026-10-27", "precio": 71.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103512426", "fecha_inicio": "2026-10-27", "precio": 639.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103511297", "fecha_inicio": "2026-10-27", "precio": 899.99, "visto_hasta": "2026-11-20", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103511206", "fecha_inicio": "2026-10-27", "precio": 552.49, "visto_hasta": "2026-11-09", "precio_unidad": null, "unidad": null}
@@ -10807,7 +10807,7 @@
 {"id": "cemaco-103453022", "fecha_inicio": "2026-10-27", "precio": 260.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103452946", "fecha_inicio": "2026-10-27", "precio": 47.99, "visto_hasta": "2026-11-22", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103440804", "fecha_inicio": "2026-10-27", "precio": 3.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
-{"id": "cemaco-103439487", "fecha_inicio": "2026-10-27", "precio": 5.99, "visto_hasta": "2026-11-25", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103439487", "fecha_inicio": "2026-10-27", "precio": 5.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103439398", "fecha_inicio": "2026-10-27", "precio": 239.99, "visto_hasta": "2026-11-19", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103439354", "fecha_inicio": "2026-10-27", "precio": 94.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103439348", "fecha_inicio": "2026-10-27", "precio": 119.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
@@ -10909,7 +10909,7 @@
 {"id": "cemaco-33256", "fecha_inicio": "2026-10-27", "precio": 57.99, "visto_hasta": "2026-11-07", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-33254", "fecha_inicio": "2026-10-27", "precio": 17.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-33200", "fecha_inicio": "2026-10-27", "precio": 39.99, "visto_hasta": "2026-10-29", "precio_unidad": null, "unidad": null}
-{"id": "cemaco-32964", "fecha_inicio": "2026-10-27", "precio": 59.99, "visto_hasta": "2026-11-05", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-32964", "fecha_inicio": "2026-10-27", "precio": 59.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-32946", "fecha_inicio": "2026-10-27", "precio": 89.99, "visto_hasta": "2026-11-21", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103554504", "fecha_inicio": "2026-10-27", "precio": 259.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103545565", "fecha_inicio": "2026-10-27", "precio": 179.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
@@ -10974,7 +10974,7 @@
 {"id": "cemaco-103501429", "fecha_inicio": "2026-10-27", "precio": 89.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103500915", "fecha_inicio": "2026-10-27", "precio": 164.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103500902", "fecha_inicio": "2026-10-27", "precio": 299.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
-{"id": "cemaco-103494790", "fecha_inicio": "2026-10-27", "precio": 419.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103494790", "fecha_inicio": "2026-10-27", "precio": 419.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103491312", "fecha_inicio": "2026-10-27", "precio": 159.99, "visto_hasta": "2026-11-15", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103488074", "fecha_inicio": "2026-10-27", "precio": 5649.0, "visto_hasta": "2026-10-27", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103487658", "fecha_inicio": "2026-10-27", "precio": 264.99, "visto_hasta": "2026-11-19", "precio_unidad": null, "unidad": null}
@@ -11025,7 +11025,7 @@
 {"id": "cemaco-103440814", "fecha_inicio": "2026-10-27", "precio": 3.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103439418", "fecha_inicio": "2026-10-27", "precio": 8.07, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103439206", "fecha_inicio": "2026-10-27", "precio": 139.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
-{"id": "cemaco-103439193", "fecha_inicio": "2026-10-27", "precio": 102.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103439193", "fecha_inicio": "2026-10-27", "precio": 102.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103439153", "fecha_inicio": "2026-10-27", "precio": 394.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103439058", "fecha_inicio": "2026-10-27", "precio": 17.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103439055", "fecha_inicio": "2026-10-27", "precio": 209.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
@@ -11419,7 +11419,7 @@
 {"id": "cemaco-103525108", "fecha_inicio": "2026-10-27", "precio": 67.99, "visto_hasta": "2026-11-23", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103525107", "fecha_inicio": "2026-10-27", "precio": 165.49, "visto_hasta": "2026-11-23", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103525106", "fecha_inicio": "2026-10-27", "precio": 55.49, "visto_hasta": "2026-11-23", "precio_unidad": null, "unidad": null}
-{"id": "cemaco-103525103", "fecha_inicio": "2026-10-27", "precio": 21.49, "visto_hasta": "2026-11-23", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103525103", "fecha_inicio": "2026-10-27", "precio": 21.49, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103525102", "fecha_inicio": "2026-10-27", "precio": 110.49, "visto_hasta": "2026-11-23", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103525101", "fecha_inicio": "2026-10-27", "precio": 52.49, "visto_hasta": "2026-11-23", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103525099", "fecha_inicio": "2026-10-27", "precio": 156.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
@@ -11934,7 +11934,7 @@
 {"id": "cemaco-103503468", "fecha_inicio": "2026-10-27", "precio": 34.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103503465", "fecha_inicio": "2026-10-27", "precio": 89.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103503463", "fecha_inicio": "2026-10-27", "precio": 99.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
-{"id": "cemaco-103503461", "fecha_inicio": "2026-10-27", "precio": 84.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103503461", "fecha_inicio": "2026-10-27", "precio": 84.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103503460", "fecha_inicio": "2026-10-27", "precio": 89.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103502162", "fecha_inicio": "2026-10-27", "precio": 79.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103501971", "fecha_inicio": "2026-10-27", "precio": 619.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
@@ -12419,7 +12419,7 @@
 {"id": "cemaco-103452693", "fecha_inicio": "2026-10-27", "precio": 129.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103452680", "fecha_inicio": "2026-10-27", "precio": 64.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103452112", "fecha_inicio": "2026-10-27", "precio": 2299.0, "visto_hasta": "2026-11-23", "precio_unidad": null, "unidad": null}
-{"id": "cemaco-103452061", "fecha_inicio": "2026-10-27", "precio": 94.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103452061", "fecha_inicio": "2026-10-27", "precio": 94.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103452056", "fecha_inicio": "2026-10-27", "precio": 127.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103452051", "fecha_inicio": "2026-10-27", "precio": 14.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103451958", "fecha_inicio": "2026-10-27", "precio": 212.99, "visto_hasta": "2026-11-16", "precio_unidad": null, "unidad": null}
@@ -14222,7 +14222,7 @@
 {"id": "cemaco-103527465", "fecha_inicio": "2026-11-02", "precio": 449.99, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103527413", "fecha_inicio": "2026-11-02", "precio": 1299.0, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103525827", "fecha_inicio": "2026-11-02", "precio": 149.99, "visto_hasta": "2026-11-03", "precio_unidad": null, "unidad": null}
-{"id": "cemaco-103523820", "fecha_inicio": "2026-11-02", "precio": 399.99, "visto_hasta": "2026-11-15", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103523820", "fecha_inicio": "2026-11-02", "precio": 399.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103523251", "fecha_inicio": "2026-11-02", "precio": 5999.0, "visto_hasta": "2026-11-11", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103516711", "fecha_inicio": "2026-11-02", "precio": 479.99, "visto_hasta": "2026-11-02", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103515300", "fecha_inicio": "2026-11-02", "precio": 549.99, "visto_hasta": "2026-11-08", "precio_unidad": null, "unidad": null}
@@ -16159,7 +16159,7 @@
 {"id": "cemaco-103469687", "fecha_inicio": "2026-11-19", "precio": 2009.0, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103464980", "fecha_inicio": "2026-11-19", "precio": 599.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103438535", "fecha_inicio": "2026-11-19", "precio": 1389.0, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
-{"id": "cemaco-103438530", "fecha_inicio": "2026-11-19", "precio": 1389.0, "visto_hasta": "2026-11-25", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103438530", "fecha_inicio": "2026-11-19", "precio": 1389.0, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-6212", "fecha_inicio": "2026-11-19", "precio": 639.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103546636", "fecha_inicio": "2026-11-19", "precio": 264.99, "visto_hasta": "2026-11-22", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-57397", "fecha_inicio": "2026-11-19", "precio": 959.0, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
@@ -16194,7 +16194,7 @@
 {"id": "cemaco-103454493", "fecha_inicio": "2026-11-20", "precio": 2699.0, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103454478", "fecha_inicio": "2026-11-20", "precio": 1899.0, "visto_hasta": "2026-11-25", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103418895", "fecha_inicio": "2026-11-20", "precio": 5499.0, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
-{"id": "cemaco-103418771", "fecha_inicio": "2026-11-20", "precio": 3549.0, "visto_hasta": "2026-11-23", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103418771", "fecha_inicio": "2026-11-20", "precio": 3549.0, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-21158", "fecha_inicio": "2026-11-20", "precio": 418.99, "visto_hasta": "2026-11-21", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103533617", "fecha_inicio": "2026-11-20", "precio": 299.99, "visto_hasta": "2026-11-24", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103483118", "fecha_inicio": "2026-11-20", "precio": 137.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
@@ -16514,3 +16514,19 @@
 {"id": "cemaco-103509088", "fecha_inicio": "2026-11-26", "precio": 129.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-36050", "fecha_inicio": "2026-11-26", "precio": 47.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
 {"id": "cemaco-103528931", "fecha_inicio": "2026-11-26", "precio": 24.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103557139", "fecha_inicio": "2026-11-26", "precio": 39.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103444435", "fecha_inicio": "2026-11-26", "precio": 1879.0, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103438003", "fecha_inicio": "2026-11-26", "precio": 1889.0, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-5783", "fecha_inicio": "2026-11-26", "precio": 79.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103556639", "fecha_inicio": "2026-11-26", "precio": 449.0, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103554899", "fecha_inicio": "2026-11-26", "precio": 149.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103554890", "fecha_inicio": "2026-11-26", "precio": 229.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-25575", "fecha_inicio": "2026-11-26", "precio": 99.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-59043", "fecha_inicio": "2026-11-26", "precio": 149.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-36150", "fecha_inicio": "2026-11-26", "precio": 29.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-34240", "fecha_inicio": "2026-11-26", "precio": 32.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-33998", "fecha_inicio": "2026-11-26", "precio": 114.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-35075", "fecha_inicio": "2026-11-26", "precio": 157.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-33689", "fecha_inicio": "2026-11-26", "precio": 309.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-33090", "fecha_inicio": "2026-11-26", "precio": 44.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
+{"id": "cemaco-103549317", "fecha_inicio": "2026-11-26", "precio": 229.99, "visto_hasta": "2026-11-26", "precio_unidad": null, "unidad": null}
