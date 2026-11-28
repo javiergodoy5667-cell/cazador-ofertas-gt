@@ -480,14 +480,6 @@
     "url": "https://www.walmart.com.gt/foco-led-universal-para-faro-de-motocicleta-luz-blanca-brillant-122856/p"
   },
   {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
-  },
-  {
     "tienda": "EPA",
     "nombre": "Puerta entamborada hdf brasilia, natural, alto 207cm, ancho varias medidas",
     "precio": 225.0,
@@ -1864,12 +1856,36 @@
     "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
   },
   {
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
+  },
+  {
     "tienda": "Max",
     "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
     "precio": 99.0,
     "antes": 335.0,
     "descuento": 0.704,
     "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
+  },
+  {
+    "tienda": "Max",
+    "nombre": "Mueble de cocina color nogal con lavatrastos negro",
+    "precio": 1199.0,
+    "antes": 4499.0,
+    "descuento": 0.733,
+    "url": "https://www.max.com.gt/mueble-de-cocina-color-nogal-con-lavatrastos-negro-7ee0ad87"
+  },
+  {
+    "tienda": "Max",
+    "nombre": "Mueble de cocina color blanco con lavatrastos gris",
+    "precio": 1199.0,
+    "antes": 4499.0,
+    "descuento": 0.733,
+    "url": "https://www.max.com.gt/mueble-de-cocina-color-blanco-con-lavatrastos-gris-abcd9d02"
   },
   {
     "tienda": "Tecnofácil",
@@ -1894,5 +1910,13 @@
     "antes": 4499.0,
     "descuento": 0.733,
     "url": "https://www.tecnofacil.com.gt/mueble-de-cocina-color-blanco-con-lavatrastos-gris-abcd9d02"
+  },
+  {
+    "tienda": "Novex",
+    "nombre": "Llave combinada 9 mm",
+    "precio": 12.89,
+    "antes": 46.0,
+    "descuento": 0.72,
+    "url": "https://www.novex.com.gt/producto/410639/Llave-combinada-9-mm.html"
   }
 ]
