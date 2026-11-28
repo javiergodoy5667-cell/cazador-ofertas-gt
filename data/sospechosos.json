@@ -121,10 +121,18 @@
   },
   {
     "tienda": "Elektra GT",
+    "nombre": "Soporte Fijo para Monitor KPM-300 Para 13-32 pulgadas Negro",
+    "precio": 249.0,
+    "antes": 835.0,
+    "descuento": 0.702,
+    "url": "https://www.elektra.com.gt/soporte-monitor-fijo-kpm-300-negro-30004205/p"
+  },
+  {
+    "tienda": "Elektra GT",
     "nombre": "Mochila Argom Azul BP-1342BL",
-    "precio": 129.0,
+    "precio": 99.0,
     "antes": 635.0,
-    "descuento": 0.797,
+    "descuento": 0.844,
     "url": "https://www.elektra.com.gt/mochila-argom-azul-bp-1342bl-30003956/p"
   },
   {
@@ -201,30 +209,6 @@
   },
   {
     "tienda": "Office Depot",
-    "nombre": "Boligrafo marca Office Depot de tinta fluida y trazo uniforme. Escritura comoda y duradera para uso diario en escuela y oficina.",
-    "precio": 2.49,
-    "antes": 24.9,
-    "descuento": 0.9,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Bol%C3%ADgrafos-de-gel/Boligrafo-marca-Office-Depot-de-tinta-fluida-y-trazo-uniforme-Escritura-comoda-y-duradera-para-uso-diario-en-escuela-y-oficina-/p/1214000083"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Borrador marca iStudy de goma suave que elimina trazos de lápiz sin maltratar el papel. Ideal para escuela, oficina y dibujo.",
-    "precio": 5.97,
-    "antes": 19.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Borradores/Borrador-marca-iStudy-de-goma-suave-que-elimina-trazos-de-l%C3%A1piz-sin-maltratar-el-papel-Ideal-para-escuela%2C-oficina-y-dibujo-/p/1214002878"
-  },
-  {
-    "tienda": "Office Depot",
-    "nombre": "Sacapuntas marca iStudy con cuchilla afilada que da punta uniforme a lápices y lápices de colores. Diseño práctico con depósito de viruta.",
-    "precio": 5.97,
-    "antes": 19.9,
-    "descuento": 0.7,
-    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Sacapuntas/Sacapuntas-marca-iStudy-con-cuchilla-afilada-que-da-punta-uniforme-a-l%C3%A1pices-y-l%C3%A1pices-de-colores-Dise%C3%B1o-pr%C3%A1ctico-con-dep%C3%B3sito-de-viruta-/p/1214002889"
-  },
-  {
-    "tienda": "Office Depot",
     "nombre": "Yeso marca Crayola para escultura, manualidades y proyectos artisticos. Mezcla y aplicacion sencillas para crear figuras, moldes y acabados decorativos.",
     "precio": 5.97,
     "antes": 19.9,
@@ -246,6 +230,30 @@
     "antes": 499.0,
     "descuento": 0.7,
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/Set-escolar-marca-Staedtler-con-%C3%BAtiles-complementarios-listos-para-usar-Ahorra-tiempo-y-dinero-con-productos-coordinados-para-escuela%2C-oficina-o-regalo-/p/1214003940"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "SET CAVALIER BOTELLA MAS",
+    "precio": 24.0,
+    "antes": 96.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/SET-CAVALIER-BOTELLA-MAS/p/1218000437"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "SET CAVALIER ASTRONAUTA PARA",
+    "precio": 26.0,
+    "antes": 104.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/SET-CAVALIER-ASTRONAUTA-PARA/p/1218000439"
+  },
+  {
+    "tienda": "Office Depot",
+    "nombre": "STATIONERY CAVALIER KIDS SET",
+    "precio": 19.75,
+    "antes": 79.0,
+    "descuento": 0.75,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Paquetes-escolares-y-sets/STATIONERY-CAVALIER-KIDS-SET/p/1218000438"
   },
   {
     "tienda": "Office Depot",
@@ -304,6 +312,14 @@
     "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Notas-adhesivas/Cubo-de-notas-marca-Eagle-con-hojas-para-recados%2C-recordatorios-y-listas-Diseno-compacto-para-escritorio-que-mantiene-todo-organizado-al-alcance-/p/1213000187"
   },
   {
+    "tienda": "Office Depot",
+    "nombre": "Grapas Eagle de uso pesado 23/24, caja con 1000 unidades. Capacidad para engrapar hasta 140 hojas. Fabricadas en alambre de acero reforzado. Compatibles con engrapadoras de uso pesado.",
+    "precio": 5.97,
+    "antes": 19.9,
+    "descuento": 0.7,
+    "url": "https://www.officedepot.com.gt/officedepotGuatemala/en/Grapas/Grapas-Eagle-de-uso-pesado-23-24%2C-caja-con-1000-unidades-Capacidad-para-engrapar-hasta-140-hojas-Fabricadas-en-alambre-de-acero-reforzado-Compatibles-con-engrapadoras-de-uso-pesado-/p/1209000187"
+  },
+  {
     "tienda": "Cemaco",
     "nombre": "Filtro Reusable de Tela para Aspirar en Seco 2.5 Gal",
     "precio": 15.0,
@@ -337,6 +353,14 @@
   },
   {
     "tienda": "Cemaco",
+    "nombre": "Filtro de Aceite para Motor Tipo Cartucho CH10358",
+    "precio": 22.99,
+    "antes": 79.99,
+    "descuento": 0.713,
+    "url": "https://www.cemaco.com/filtro-de-aceite-p980-luber-finer-999906/p"
+  },
+  {
+    "tienda": "Cemaco",
     "nombre": "Set de 5 Tuercas de Seguridad Hexagonales para Llanta",
     "precio": 24.99,
     "antes": 89.99,
@@ -350,14 +374,6 @@
     "antes": 69.99,
     "descuento": 0.714,
     "url": "https://www.cemaco.com/set-de-tuercas-para-llanta-5-pzas-ig-tuning-1106972/p"
-  },
-  {
-    "tienda": "Cemaco",
-    "nombre": "Filtro de Aceite para Motor Tipo Cartucho CH10358",
-    "precio": 22.99,
-    "antes": 79.99,
-    "descuento": 0.713,
-    "url": "https://www.cemaco.com/filtro-de-aceite-p980-luber-finer-999906/p"
   },
   {
     "tienda": "Cemaco",
@@ -470,6 +486,14 @@
     "antes": 290.0,
     "descuento": 0.71,
     "url": "https://www.walmart.com.gt/foco-led-universal-para-faro-de-motocicleta-luz-blanca-brillant-122856/p"
+  },
+  {
+    "tienda": "Simán",
+    "nombre": "Smartwatch Honor Choice 42mm",
+    "precio": 149.0,
+    "antes": 699.0,
+    "descuento": 0.787,
+    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
   },
   {
     "tienda": "EPA",
@@ -1848,22 +1872,6 @@
     "url": "https://gt.epaenlinea.com/juguete-para-masticadores-intensos-palo-de-goma-30-cm.html"
   },
   {
-    "tienda": "Simán",
-    "nombre": "Smartwatch Honor Choice 42mm",
-    "precio": 149.0,
-    "antes": 699.0,
-    "descuento": 0.787,
-    "url": "https://gt.siman.com/reloj-choice-negro-104681636/p"
-  },
-  {
-    "tienda": "Max",
-    "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
-    "precio": 99.0,
-    "antes": 335.0,
-    "descuento": 0.704,
-    "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
-  },
-  {
     "tienda": "Tecnofácil",
     "nombre": "Samsung A07, 4GB + 128GB, Operador Tigo (Negro)",
     "precio": 1099.0,
@@ -1886,5 +1894,21 @@
     "antes": 4499.0,
     "descuento": 0.733,
     "url": "https://www.tecnofacil.com.gt/mueble-de-cocina-color-blanco-con-lavatrastos-gris-abcd9d02"
+  },
+  {
+    "tienda": "Max",
+    "nombre": "Caja Educativa Colores Estimulación Temprana Encjae",
+    "precio": 99.0,
+    "antes": 335.0,
+    "descuento": 0.704,
+    "url": "https://www.max.com.gt/caja-educativa-colores-estimulacion-temprana-encjae-fa7363e6"
+  },
+  {
+    "tienda": "Novex",
+    "nombre": "Broca para concreto 5/32 x 3 pulgadas",
+    "precio": 0.99,
+    "antes": 3.6,
+    "descuento": 0.725,
+    "url": "https://www.novex.com.gt/producto/19411/Broca-para-concreto-5|32-x-3-pulgadas.html"
   }
 ]
